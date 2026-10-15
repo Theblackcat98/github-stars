@@ -136,8 +136,8 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39183 | 1361 | Rust | 2026-10-13 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | 4964 | 2213 | Rust | 2026-10-14 | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust |
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 13525 | 5554 | Rust | 2026-10-15 | FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 14021 | 5395 | Rust | 2026-10-15 | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 12739 | 3252 | Rust | 2026-10-15 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 14022 | 5395 | Rust | 2026-10-15 | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 12740 | 3252 | Rust | 2026-10-15 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
 | [Theblackcat98/clipway](https://github.com/Theblackcat98/clipway) | 1 | 0 | Rust | 2026-09-27 | Wayland-native clipboard history manager for GNOME. No X11, no Electron. |
 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 9438 | 402 | Rust | 2026-10-11 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
 | [youpie/Iconic](https://github.com/youpie/Iconic) | 61 | 10 | Rust | 2026-08-09 | An application made for GNOME written in Rust to easilly add images on top of folders |
@@ -335,7 +335,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) | 895 | 71 |  | 2026-10-14 | Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ |
 | [marhkb/pods](https://github.com/marhkb/pods) | 1102 | 37 | Rust | 2026-10-14 | Manage your containers |
 | [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) 🗄️ | 856 | 130 | Python | 2025-02-02 | An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 291970 | 24475 | Shell | 2026-10-13 | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 291970 | 24476 | Shell | 2026-10-13 | Skills for Real Engineers. Straight from my .agents directory. |
 | [maxandrews/Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) | 594 | 108 | JavaScript | 2025-11-20 | a graph explorer of the Epstein emails |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59573 | 2735 | Rust | 2026-10-15 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [Menghuan1918/gemini-cli-gopls](https://github.com/Menghuan1918/gemini-cli-gopls) | 13 | 3 | TypeScript | 2025-10-11 | This extension integrates the official MCP of the Go language server (gopls) with Gemini CLI. |
@@ -434,7 +434,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) (fork) | 19947 | 10604 | TypeScript | 2026-10-14 | Prompt, run, edit, and deploy full-stack web applications using any LLM you want! |
 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 21360 | 5702 | Jupyter Notebook | 2026-10-13 | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
 | [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) | 2284 | 198 | Python | 2026-05-11 | STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities. |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 28485 | 4501 | Rust | 2026-10-15 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 28486 | 4501 | Rust | 2026-10-15 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 | [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) | 7359 | 764 | TypeScript | 2026-06-29 | AI Product Design Agent - Open Source |
 | [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20569 | 2258 | Python | 2026-10-12 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] |
 | [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) | 618 | 129 | Python | 2026-10-12 | Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. |
@@ -732,7 +732,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [slab/quill](https://github.com/slab/quill) | 47378 | 3672 | TypeScript | 2025-07-25 | Quill is a modern WYSIWYG editor built for compatibility and extensibility |
 | [sofianedjerbi/batimg](https://github.com/sofianedjerbi/batimg) | 53 | 0 | Rust | 2025-12-19 | Fast image/video printing in your terminal |
 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 21360 | 5702 | Jupyter Notebook | 2026-10-13 | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 14021 | 5395 | Rust | 2026-10-15 | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 14022 | 5395 | Rust | 2026-10-15 | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | 45991 | 4425 | Python | 2026-10-15 | Streamlit — A faster way to build and share data apps. |
 | [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20569 | 2258 | Python | 2026-10-12 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] |
 | [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) | 15408 | 2246 | Python | 2026-10-14 | Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" |
@@ -1118,7 +1118,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) | 2519 | 361 | TypeScript | 2026-10-15 | An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. |
 | [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) (fork) | 301 | 11 | JavaScript | 2025-04-03 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77364 | 8261 | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
-| [ollama/ollama](https://github.com/ollama/ollama) | 183218 | 18289 | Go | 2026-10-15 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [ollama/ollama](https://github.com/ollama/ollama) | 183219 | 18289 | Go | 2026-10-15 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 155754 | 22670 | Python | 2026-10-15 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) | 4793 | 587 | Python | 2026-10-05 | Lord of Large Language and Multi modal Systems Web User Interface |
 | [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 39 | 3 | Python | 2026-10-15 | 🤵 AIfred-Intelligence — self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS, voice cloning), camera surveillance, RAG with long-term memory, web research, plugin tool calling. Via Web UI, Telegram, Discord, email or Echo Dot voice terminal. Backends: llama.cpp/llama-swap, Ollama, vLLM, cloud APIs. |
@@ -1241,7 +1241,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets) | 638 | 2955 | HTML | 2024-12-24 | A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/ |
 | [slab/quill](https://github.com/slab/quill) | 47378 | 3672 | TypeScript | 2025-07-25 | Quill is a modern WYSIWYG editor built for compatibility and extensibility |
 | [SohelIslamImran/ghosttime](https://github.com/SohelIslamImran/ghosttime) | 87 | 6 | TypeScript | 2026-04-25 | Ghostty animation for any terminal with customizable colors |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 28485 | 4501 | Rust | 2026-10-15 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 28486 | 4501 | Rust | 2026-10-15 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | 4964 | 2213 | Rust | 2026-10-14 | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust |
 | [streamlit/streamlit](https://github.com/streamlit/streamlit) | 45991 | 4425 | Python | 2026-10-15 | Streamlit — A faster way to build and share data apps. |
 | [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) | 7359 | 764 | TypeScript | 2026-06-29 | AI Product Design Agent - Open Source |
@@ -1360,7 +1360,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) | 14570 | 4425 | Shell | 2026-04-24 | The configuration framework for Zsh |
 | [Ssoupp/Gnome-Topbar-Rose-Pine-dots](https://github.com/Ssoupp/Gnome-Topbar-Rose-Pine-dots) | 25 | 2 | CSS | 2025-09-22 |  |
 | [stepanzubkov/where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme) | 448 | 31 | QML | 2025-07-01 | :eyes: The most minimalistic and highly customizable SDDM theme. |
-| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2743 | 920 | Rust | 2026-10-15 | The Craft App Launcher |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2744 | 920 | Rust | 2026-10-15 | The Craft App Launcher |
 | [Theblackcat98/clipway](https://github.com/Theblackcat98/clipway) | 1 | 0 | Rust | 2026-09-27 | Wayland-native clipboard history manager for GNOME. No X11, no Electron. |
 | [Theblackcat98/termux-ui](https://github.com/Theblackcat98/termux-ui) | 1 | 0 | Go | 2026-10-15 | Single-binary TUI for Termux: settings, extra keys, themes, fonts, shell setup, and a front-end to core-termux |
 | [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) | 3102 | 830 | CSS | 2026-09-22 | A collection of themes/skins for 50 selfhosted apps! |
@@ -1368,7 +1368,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) | 8172 | 1760 | Shell | 2026-09-03 | A set of vim, zsh, git, and tmux configuration files. |
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2782 | 242 | C# | 2024-07-04 | Lightweight utility for organizing the taskbar through groups |
 | [tobi/disktree](https://github.com/tobi/disktree) | 2944 | 182 | Rust | 2026-10-04 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
-| [Vendicated/Vencord](https://github.com/Vendicated/Vencord) | 14261 | 2665 | TypeScript | 2026-10-14 | The cutest Discord modification |
+| [Vendicated/Vencord](https://github.com/Vendicated/Vencord) | 14260 | 2665 | TypeScript | 2026-10-14 | The cutest Discord modification |
 | [vicinaehq/extensions](https://github.com/vicinaehq/extensions) | 157 | 181 | TypeScript | 2026-10-13 | Vicinae extensions published to the vicinae store |
 | [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) | 1651 | 97 | SCSS | 2026-09-28 | MacOS Tahoe theme for gtk desktops |
 | [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) | 11302 | 927 |  | 2026-09-25 | Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features |
@@ -1429,7 +1429,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [gamehublite/gamehub-oss](https://github.com/gamehublite/gamehub-oss) 🗄️ | 1103 | 49 | Smali | 2026-01-07 | privacy oriented gamehub |
 | [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | 383 | 45 | Rust | 2026-10-14 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player. |
 | [josippapez/webos_lockout](https://github.com/josippapez/webos_lockout) | 4 | 0 | Shell | 2026-09-22 | Blocks LG webOS TV telemetry egress at boot on a rooted TV, via the Homebrew Channel init.d hook |
-| [morluto/rea](https://github.com/morluto/rea) | 255845 | 64284 | TypeScript | 2026-10-15 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 255854 | 64288 | TypeScript | 2026-10-15 | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 9438 | 1182 | JavaScript | 2026-10-15 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
 | [Psyhackological/AAA](https://github.com/Psyhackological/AAA) | 3114 | 77 |  | 2026-09-29 | :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy! |
 | [sybil-solutions/ai-data-extraction](https://github.com/sybil-solutions/ai-data-extraction) | 1350 | 113 | Python | 2026-10-07 | extract all your personal data history from cursor, codex, claude-code, windsurf, and trae |
@@ -1473,7 +1473,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) | 128 | 16 | Lua | 2024-08-04 |  |
 | [saber-notes/saber](https://github.com/saber-notes/saber) | 4921 | 392 | Dart | 2026-10-02 | The cross-platform open-source app built for handwriting |
 | [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 7801 | 1708 |  | 2025-11-05 | A simple task management system for managing AI dev agents |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 12739 | 3252 | Rust | 2026-10-15 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 12740 | 3252 | Rust | 2026-10-15 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
 | [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) | 258 | 34 | JavaScript | 2022-11-15 | A knowledge management garden for https://obsidian.md, in which to grow your ideas |
 | [tbabej/taskwiki](https://github.com/tbabej/taskwiki) | 915 | 103 | Python | 2025-06-14 | Proper project management with Taskwarrior in vim. |
 | [Textualize/frogmouth](https://github.com/Textualize/frogmouth) | 3308 | 85 | Python | 2024-08-01 | A Markdown browser for your terminal |
@@ -1606,7 +1606,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 3675 | 150 | Markdown | 2026-08-29 | An agent skill that helps make your interface feel better. |
 | [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | 193 | 50 | TypeScript | 2026-10-12 | Public Claude Code skills and mods |
 | [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | 1081 | 43 | Shell | 2026-10-08 | A collection of AI agent skills useful for projects using Kotlin language |
-| [morluto/rea](https://github.com/morluto/rea) | 255845 | 64284 | TypeScript | 2026-10-15 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 255854 | 64288 | TypeScript | 2026-10-15 | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 87 | 8 | Shell | 2026-08-04 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix). |
 | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 3665 | 247 | HTML | 2026-09-14 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
 | [prevalentWare/opencode-goal-plugin](https://github.com/prevalentWare/opencode-goal-plugin) | 476 | 37 | TypeScript | 2026-10-15 | OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus. |
