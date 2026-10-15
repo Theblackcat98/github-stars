@@ -1,1 +1,3379 @@
-{"sameerasw/essentials": ["Android apps & mods"], "lnkiai/m3e-canvas": ["AI agents & frameworks", "Web dev"], "kartikkabadi/soul.md": ["Other"], "Dicklesworthstone/beads_rust": ["Dev tools & editors", "Rust projects"], "zhaoxuya520/reverse-skill": ["AI agents & frameworks", "Privacy & security"], "Token-Gremlin/natural-disasters": ["Dev tools & editors", "Web dev"], "furkankly/zoetrope": ["AI agents & frameworks", "CLI & terminal tools"], "freemocap/freemocap": ["Other"], "Theblackcat98/SyncWeave": ["CLI & terminal tools", "Design & UI"], "Theblackcat98/CL-AI": ["AI agents & frameworks"], "Theblackcat98/visual-ml": ["Other"], "Theblackcat98/ASCII-Everything": ["CLI & terminal tools", "Dev tools & editors"], "Theblackcat98/Text-Adventure-TUI": ["CLI & terminal tools", "Design & UI"], "Theblackcat98/WordPress-Scrape": ["Other"], "Theblackcat98/StickyBundles": ["Other"], "Theblackcat98/AgenticPipelineCreator": ["AI agents & frameworks"], "Theblackcat98/AnyImage-to-ICO": ["Other"], "Theblackcat98/quickdash": ["Design & UI"], "Theblackcat98/opencode-workflow": ["AI agents & frameworks", "Data & search"], "Theblackcat98/termux-ui": ["CLI & terminal tools", "Linux ricing & desktop"], "Theblackcat98/mermaidCLI": ["AI agents & frameworks", "CLI & terminal tools"], "dondai1234/master-fetch": ["AI agents & frameworks", "Self-hosted & homelab"], "totec448-spec/chat-on-steroids": ["AI agents & frameworks", "Web dev"], "unsupportedpastels/mercury": ["AI agents & frameworks", "CLI & terminal tools"], "tintinweb/pi-subagents": ["AI agents & frameworks"], "usamaiqb/mark-reader": ["AI agents & frameworks", "Productivity & notes"], "aivanelabs/ai-rpa": ["AI agents & frameworks", "CLI & terminal tools"], "ksimback/hermes-ecosystem": ["AI agents & frameworks", "Dev tools & editors"], "raulvidis/hermes-android": ["AI agents & frameworks", "Android apps & mods"], "lingjiuu/hermes-dynamic-workflows": ["AI agents & frameworks", "Data & search"], "robbyczgw-cla/hermes-web-search-plus": ["AI agents & frameworks", "Data & search"], "0xNyk/awesome-hermes-agent": ["AI agents & frameworks", "Awesome lists"], "xaspx/hermes-control-interface": ["AI agents & frameworks", "CLI & terminal tools"], "joeynyc/hermes-hud": ["AI agents & frameworks", "CLI & terminal tools"], "uzairansaruzi/hermex": ["AI agents & frameworks", "CLI & terminal tools"], "madhvantyagi/SOUL.md": ["AI agents & frameworks"], "Emanuele-web04/synara": ["AI agents & frameworks", "Design & UI"], "basecamp/hey-cli": ["AI agents & frameworks", "CLI & terminal tools"], "Tobee1406/Awesome-Yandex-Dorks": ["Awesome lists"], "simplifaisoul/osiris": ["AI agents & frameworks"], "VoltAgent/awesome-agent-skills": ["AI agents & frameworks", "CLI & terminal tools"], "FlashML-org/FreeToken": ["Local LLMs & inference", "Dev tools & editors"], "microsoft/agent-lightning": ["AI agents & frameworks"], "forcewake/hermes-conductor": ["AI agents & frameworks", "CLI & terminal tools"], "wesammustafa/opencode-primer": ["AI agents & frameworks", "CLI & terminal tools"], "CloudAI-X/opencode-workflow": ["AI agents & frameworks"], "Cocolalilal/LastChat": ["AI agents & frameworks", "CLI & terminal tools"], "rikkahub/rikkahub": ["AI agents & frameworks", "Android apps & mods"], "santhreal/veyyon": ["AI agents & frameworks", "CLI & terminal tools"], "JailbrokenAI/wallbreaker": ["AI agents & frameworks"], "singul-oss/Singularitys-Collection": ["Other"], "lockfale/OSINT-Framework": ["AI agents & frameworks"], "browser-use/browser-use": ["AI agents & frameworks"], "twhlynch/Web-ADB-Menu": ["Other"], "nasa-gibs/worldview": ["Self-hosted & homelab", "Dev tools & editors"], "backnotprop/pstack": ["AI agents & frameworks", "Dev tools & editors"], "msmps/opentui-skill": ["CLI & terminal tools", "Design & UI"], "anomalyco/opentui": ["CLI & terminal tools", "Design & UI"], "ddoemonn/interior": ["CLI & terminal tools", "Web dev"], "swamimalode07/rare-ui": ["Web dev", "Design & UI"], "newo-ether/Agora": ["AI agents & frameworks", "CLI & terminal tools"], "s1dashu/ip-as-logo-skill": ["AI agents & frameworks", "Design & UI"], "addyosmani/factory": ["AI agents & frameworks"], "egoist/waku": ["AI agents & frameworks", "Design & UI"], "CopilotKit/OpenBot": ["AI agents & frameworks", "Dev tools & editors"], "0xSero/ai-data-extraction": ["AI agents & frameworks"], "osolmaz/pi-workflows": ["AI agents & frameworks", "CLI & terminal tools"], "zenbu-labs/terminal-code": ["CLI & terminal tools", "Dev tools & editors"], "ZzzLc0405/photo-abstract-editorial": ["Dev tools & editors"], "magnitudedev/magnitude": ["Local LLMs & inference"], "azianmike/fluid-chat": ["Design & UI"], "galfrevn/apollo": ["AI agents & frameworks"], "google-antigravity/antigravity-cli": ["AI agents & frameworks", "CLI & terminal tools"], "cordiverse/paper": ["Other"], "nexu-io/open-design": ["AI agents & frameworks", "Design & UI"], "deepseek-ai/deepseek-harness": ["AI agents & frameworks"], "Andyyyy64/whichllm": ["AI agents & frameworks"], "elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT": ["AI agents & frameworks"], "elder-plinius/OBLITERATUS": ["AI agents & frameworks"], "kdcokenny/opencode-worktree": ["AI agents & frameworks", "CLI & terminal tools"], "elder-plinius/CL4R1T4S": ["AI agents & frameworks"], "Cluster444/agentic": ["AI agents & frameworks"], "Th0rgal/open-ralph-wiggum": ["AI agents & frameworks"], "kdcokenny/opencode-workspace": ["AI agents & frameworks", "Dev tools & editors"], "yusufkaraaslan/Skill_Seekers": ["AI agents & frameworks", "Dev tools & editors"], "DevCoreXOfficial/core-termux": ["AI agents & frameworks", "Dev tools & editors"], "odysseus-dev/odysseus": ["AI agents & frameworks", "Self-hosted & homelab"], "gvzdv/claudish-to-english": ["Other"], "amosblomqvist/pi-config": ["Other"], "OHF-Voice/piper1-gpl": ["Other"], "OpenWhispr/openwhispr": ["AI agents & frameworks", "Privacy & security"], "renjfk/opencode-voice": ["Other"], "amosblomqvist/pi-dictate": ["Other"], "KalyanM45/AI-Project-Gallery": ["AI agents & frameworks", "Dev tools & editors"], "josephmisiti/awesome-machine-learning": ["Awesome lists"], "antoinelame/GazeTracking": ["Other"], "BloopAI/vibe-kanban": ["AI agents & frameworks", "Productivity & notes"], "CodebuffAI/freebuff": ["AI agents & frameworks"], "awesome-opencode/awesome-opencode": ["AI agents & frameworks", "Linux ricing & desktop"], "mattpocock/skills": ["AI agents & frameworks"], "OpenBMB/MiniCPM-V": ["AI agents & frameworks", "Dev tools & editors"], "code-yeongyu/oh-my-openagent": ["AI agents & frameworks"], "herdrdev/herdr": ["AI agents & frameworks", "CLI & terminal tools"], "kepano/obsidian-skills": ["AI agents & frameworks", "CLI & terminal tools"], "kortix-ai/suna": ["AI agents & frameworks"], "xai-org/grok-build": ["AI agents & frameworks", "CLI & terminal tools"], "simonw/raccoon-heist-codex": ["AI agents & frameworks"], "can1357/oh-my-pi": ["AI agents & frameworks", "CLI & terminal tools"], "google/skills": ["AI agents & frameworks"], "anthropics/skills": ["AI agents & frameworks"], "vercel-labs/skills": ["AI agents & frameworks"], "openai/skills": ["AI agents & frameworks"], "Untrivial-ai/agent-orchestrator": ["AI agents & frameworks", "CLI & terminal tools"], "asgeirtj/system_prompts_leaks": ["AI agents & frameworks", "Gaming & sims"], "microsoft/Mage": ["Other"], "NousResearch/hermes-agent": ["AI agents & frameworks", "Data & search"], "unkn0wn-root/resterm": ["AI agents & frameworks", "CLI & terminal tools"], "actuallyakshat/epoch": ["CLI & terminal tools", "Productivity & notes"], "bsmg/ModAssistant": ["Other"], "Caeden117/ChroMapper": ["Dev tools & editors"], "T3-Content/claude-blocker": ["AI agents & frameworks"], "Lauriethefish/ModsBeforeFriday": ["Other"], "Fast-Editor/Lynkr": ["AI agents & frameworks", "CLI & terminal tools"], "luislve17/catree": ["CLI & terminal tools", "Design & UI"], "Microck/opencode-studio": ["AI agents & frameworks", "CLI & terminal tools"], "derekbar90/opencode-conductor": ["Linux ricing & desktop"], "anthropics/claude-code": ["AI agents & frameworks", "CLI & terminal tools"], "agarrharr/awesome-cli-apps": ["CLI & terminal tools", "Awesome lists"], "darrikonn/td-cli": ["CLI & terminal tools", "Productivity & notes"], "ogham/exa": ["CLI & terminal tools", "Rust projects"], "inkle/inky": ["Dev tools & editors"], "vadimdemedes/ink": ["CLI & terminal tools", "Web dev"], "inkle/ink": ["Other"], "punkpeye/awesome-mcp-clients": ["AI agents & frameworks", "CLI & terminal tools"], "dlvhdr/gh-dash": ["CLI & terminal tools", "Dev tools & editors"], "Peuqui/AIfred-Intelligence": ["AI agents & frameworks", "Local LLMs & inference"], "backnotprop/plannotator": ["AI agents & frameworks", "CLI & terminal tools"], "gastownhall/beads": ["AI agents & frameworks"], "malhashemi/opencode-skills": ["Other"], "marckrenn/claude-code-changelog": ["AI agents & frameworks"], "gemini-cli-extensions/conductor": ["AI agents & frameworks", "CLI & terminal tools"], "lfnovo/open-notebook": ["Productivity & notes"], "harmoneer/taman": ["CLI & terminal tools", "Rust projects"], "anthropics/claude-quickstarts": ["AI agents & frameworks", "Design & UI"], "AndyMik90/Aperant": ["AI agents & frameworks"], "ItsRiprod/DeskThing": ["Music & media"], "mutonby/openshorts": ["AI agents & frameworks", "CLI & terminal tools"], "Make-md/makemd": ["Productivity & notes"], "darrenhinde/OpenAgentsControl": ["AI agents & frameworks", "Dev tools & editors"], "hosenur/portal": ["AI agents & frameworks", "CLI & terminal tools"], "fmhy/edit": ["Music & media"], "collin80/SavvyCAN": ["Other"], "commaai/opendbc": ["AI agents & frameworks"], "robocode-dev/tank-royale": ["AI agents & frameworks", "Dev tools & editors"], "somepaulo/MoreWaita": ["AI agents & frameworks", "CLI & terminal tools"], "gricha/macro-photo": ["AI agents & frameworks"], "Owloops/lnko": ["CLI & terminal tools", "Linux ricing & desktop"], "zai-org/Open-AutoGLM": ["AI agents & frameworks"], "MODSetter/SurfSense": ["AI agents & frameworks", "Web dev"], "microsoft/foundry-local": ["AI agents & frameworks", "Local LLMs & inference"], "openagents-org/openagents": ["AI agents & frameworks"], "chindaronit/Flux": ["Android apps & mods", "Productivity & notes"], "beclab/Olares": ["AI agents & frameworks", "Self-hosted & homelab"], "gelstudios/gitfiti": ["Dev tools & editors"], "Julow/Unexpected-Keyboard": ["Android apps & mods", "Keyboards & hardware"], "JanDeDobbeleer/oh-my-posh": ["CLI & terminal tools", "Dev tools & editors"], "canapaio/update_ollama_and_host": ["AI agents & frameworks", "Local LLMs & inference"], "ZeroLu/awesome-nanobanana-pro": ["AI agents & frameworks", "Awesome lists"], "JEOresearch/EyeTracker": ["Data & search"], "Kamalnrf/claude-plugins": ["AI agents & frameworks"], "darcyegb/ClaudeCodeAgents": ["AI agents & frameworks"], "stepfun-ai/gelab-zero": ["AI agents & frameworks", "Data & search"], "google/adk-samples": ["AI agents & frameworks", "Design & UI"], "IT-ess/tauri-plugin-mobile-sharetarget": ["AI agents & frameworks", "Web dev"], "aaif-goose/goose": ["AI agents & frameworks"], "omacom/omarchy": ["Design & UI"], "poetiq-ai/poetiq-arc-agi-solver": ["AI agents & frameworks"], "danny094/Jarvis": ["AI agents & frameworks", "Local LLMs & inference"], "marhkb/pods": ["AI agents & frameworks", "Linux ricing & desktop"], "Xthebuilder/JRVS": ["AI agents & frameworks", "Design & UI"], "frostybiscuit/transparent-zen": ["Linux ricing & desktop", "Dev tools & editors"], "backslash-app/backslash": ["Design & UI"], "stabldev/torrra": ["CLI & terminal tools", "Data & search"], "yagnikpt/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "tarun7r/deep-research-agent": ["AI agents & frameworks", "Local LLMs & inference"], "maxandrews/Epstein-doc-explorer": ["AI agents & frameworks"], "VoltAgent/awesome-claude-code-subagents": ["AI agents & frameworks", "Dev tools & editors"], "PozzettiAndrea/ComfyUI-SAM3DBody": ["Design & UI"], "ysharma3501/FastNeuTTS": ["AI agents & frameworks", "Music & media"], "facebookresearch/sam-3d-objects": ["Data & search"], "asker-kurtelli/scroll": ["AI agents & frameworks"], "cozymantis/clothes-swap-salvton-comfyui-workflow": ["Design & UI"], "ModelTC/LightX2V-Qwen-Image-Lightning": ["Other"], "cozymantis/pose-generator-comfyui-node": ["Design & UI"], "sejjy/mechabar": ["Linux ricing & desktop", "Dev tools & editors"], "meticha/material-3-expressive-catalog": ["Android apps & mods", "Design & UI"], "nsh07/Tomato": ["Android apps & mods"], "PranshulGG/ClockMaster": ["Android apps & mods"], "PranshulGG/WeatherMaster": ["Android apps & mods", "Web dev"], "PranshulGG/RecordMaster": ["Android apps & mods", "Design & UI"], "thoughtbot/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "seven1m/open-bibles": ["AI agents & frameworks"], "raphamorim/rio": ["CLI & terminal tools", "Rust projects"], "wavetermdev/waveterm": ["AI agents & frameworks", "CLI & terminal tools"], "helloworldxdwastaken/WebCrawler": ["AI agents & frameworks", "Data & search"], "daradib/openwebui-plugins": ["AI agents & frameworks", "Data & search"], "travisvn/awesome-claude-skills": ["AI agents & frameworks", "Awesome lists"], "travisvn/chatterbox-tts-api": ["AI agents & frameworks", "Local LLMs & inference"], "clduab11/gemini-flow": ["AI agents & frameworks", "CLI & terminal tools"], "harish-garg/gemini-cli-prompt-library": ["AI agents & frameworks", "CLI & terminal tools"], "shrwnsan/clix-dev-flow": ["AI agents & frameworks", "CLI & terminal tools"], "jduncan-rva/skill-porter": ["AI agents & frameworks", "CLI & terminal tools"], "oraios/serena": ["AI agents & frameworks"], "shadcn-ui/ui": ["Web dev", "Design & UI"], "lyuai/agentok": ["AI agents & frameworks", "Dev tools & editors"], "chaiNNer-org/chaiNNer": ["AI agents & frameworks", "Productivity & notes"], "Rheosoph/flow-like": ["AI agents & frameworks", "Design & UI"], "altenull/json-sea": ["Web dev"], "langflow-ai/langflow": ["AI agents & frameworks", "Web dev"], "simstudioai/sim": ["AI agents & frameworks", "Dev tools & editors"], "moazbuilds/CodeMachine-CLI": ["AI agents & frameworks", "CLI & terminal tools"], "anthropics/claude-cookbooks": ["AI agents & frameworks", "Dev tools & editors"], "chatbotde/buddydesktop": ["Gaming & sims"], "Ankit500ak/Stealth-AI": ["AI agents & frameworks"], "t3-oss/create-t3-app": ["CLI & terminal tools", "Web dev"], "wshobson/agents": ["AI agents & frameworks", "Dev tools & editors"], "obra/superpowers": ["AI agents & frameworks"], "BehiSecc/awesome-claude-skills": ["AI agents & frameworks", "Awesome lists"], "amitkmaraj/gemini-cli-custom-slash-commands": ["AI agents & frameworks", "CLI & terminal tools"], "waynesutton/promptstack": ["AI agents & frameworks", "Data & search"], "ProjectJaneAI/Jane-AI": ["AI agents & frameworks", "Design & UI"], "flesler/mcp-tasks": ["AI agents & frameworks", "Self-hosted & homelab"], "AI-QL/chat-mcp": ["AI agents & frameworks", "CLI & terminal tools"], "ttommyth/interactive-mcp": ["AI agents & frameworks", "Self-hosted & homelab"], "cursor/community-plugins": ["Other"], "dacctal/pkgit": ["Dev tools & editors"], "ibelick/zola": ["AI agents & frameworks", "Web dev"], "Menghuan1918/gemini-cli-gopls": ["AI agents & frameworks", "CLI & terminal tools"], "yorukot/superfile": ["CLI & terminal tools", "Design & UI"], "github/spec-kit": ["AI agents & frameworks", "Dev tools & editors"], "Piebald-AI/awesome-gemini-cli": ["AI agents & frameworks", "CLI & terminal tools"], "Piebald-AI/gemini-cli-desktop": ["AI agents & frameworks", "CLI & terminal tools"], "DP-Hridayan/aShellYou": ["CLI & terminal tools", "Self-hosted & homelab"], "Byron/dua-cli": ["CLI & terminal tools", "Dev tools & editors"], "Comfy-Org/ComfyUI": ["AI agents & frameworks", "Design & UI"], "Haervwe/open-webui-tools": ["AI agents & frameworks", "Data & search"], "HKUDS/AutoAgent": ["AI agents & frameworks"], "hkdb/otui": ["AI agents & frameworks", "Local LLMs & inference"], "kpritam/cliq": ["AI agents & frameworks", "CLI & terminal tools"], "FSoft-AI4Code/CodeWiki": ["AI agents & frameworks"], "anilsharmay/full-stack-local-deep-research-agent": ["AI agents & frameworks", "Data & search"], "codecrafters-io/build-your-own-x": ["Dev tools & editors", "Awesome lists"], "TesslateAI/OpenSail": ["AI agents & frameworks"], "severity1/claude-code-prompt-improver": ["AI agents & frameworks", "Dev tools & editors"], "sofianedjerbi/batimg": ["CLI & terminal tools", "Dev tools & editors"], "coreply/cooperate": ["AI agents & frameworks", "Android apps & mods"], "bmad-code-org/BMAD-METHOD": ["AI agents & frameworks"], "gamehublite/gamehub-oss": ["Gaming & sims", "Privacy & security"], "huggingface/chat-ui": ["AI agents & frameworks", "Web dev"], "snarktank/ai-dev-tasks": ["AI agents & frameworks", "Productivity & notes"], "Laszlobeer/AI-podcast": ["AI agents & frameworks", "Local LLMs & inference"], "grouzen/framework-tool-tui": ["CLI & terminal tools", "Rust projects"], "Stan-breaks/flow_state": ["CLI & terminal tools"], "RUCKBReasoning/TableLLM": ["AI agents & frameworks"], "BalanceBalls/nekot": ["AI agents & frameworks", "Local LLMs & inference"], "darrenburns/elia": ["AI agents & frameworks", "Local LLMs & inference"], "charmbracelet/crush": ["AI agents & frameworks"], "YassWorks/Ally": ["AI agents & frameworks", "CLI & terminal tools"], "tuanlda78202/gpt-oss-amd": ["Local LLMs & inference"], "wrtnlabs/autobe": ["AI agents & frameworks", "Self-hosted & homelab"], "Nano-Collective/nanocoder": ["AI agents & frameworks", "Local LLMs & inference"], "punkpeye/awesome-mcp-servers": ["AI agents & frameworks", "Self-hosted & homelab"], "hexdocom/lemonai": ["AI agents & frameworks", "Web dev"], "cogwheel0/conduit": ["AI agents & frameworks", "Local LLMs & inference"], "0xeb/TheBigPromptLibrary": ["AI agents & frameworks"], "Arindam200/awesome-ai-apps": ["AI agents & frameworks", "Awesome lists"], "sentient-agi/ROMA": ["AI agents & frameworks", "Design & UI"], "google-ai-edge/gallery": ["AI agents & frameworks"], "gabber-dev/gabber": ["AI agents & frameworks", "Design & UI"], "grigio/llm-eval-simple": ["AI agents & frameworks", "Music & media"], "ImDarkTom/LlamaPen": ["AI agents & frameworks", "Local LLMs & inference"], "vicinaehq/vicinae": ["Dev tools & editors", "Productivity & notes"], "dyad-sh/dyad": ["AI agents & frameworks", "Dev tools & editors"], "tomyeo88/youtube-analyzer-openwebui": ["Music & media", "Design & UI"], "BrainDriveAI/BrainDrive-Core": ["AI agents & frameworks", "Self-hosted & homelab"], "langfuse/langfuse": ["AI agents & frameworks", "Local LLMs & inference"], "SWE-agent/SWE-agent": ["AI agents & frameworks", "Dev tools & editors"], "SWE-agent/SWE-ReX": ["AI agents & frameworks", "Self-hosted & homelab"], "QwenLM/qwen-code": ["AI agents & frameworks", "CLI & terminal tools"], "jimaldon/openwebui-omnibox": ["Linux ricing & desktop", "Data & search"], "Synaptic-MCP/Synaptic": ["AI agents & frameworks", "Dev tools & editors"], "nick-tonjum/open-webui-artifacts-overhaul": ["AI agents & frameworks", "Local LLMs & inference"], "raindropio/app": ["AI agents & frameworks"], "Pintree-io/pintree": ["Other"], "omnivore-app/omnivore": ["Productivity & notes"], "penpot/penpot": ["Design & UI"], "joseluis9595/lovelace-navbar-card": ["Linux ricing & desktop", "Gaming & sims"], "zai-org/GLM-V": ["AI agents & frameworks", "Music & media"], "superdesigndev/superdesign": ["AI agents & frameworks", "Design & UI"], "FrenzyExists/dotfiles": ["AI agents & frameworks", "CLI & terminal tools"], "zai-org/GLM-4": ["AI agents & frameworks"], "reorproject/reor": ["AI agents & frameworks", "Local LLMs & inference"], "vinceliuice/MacTahoe-gtk-theme": ["Linux ricing & desktop", "Design & UI"], "InioX/matugen-themes": ["Linux ricing & desktop"], "InioX/matugen": ["Design & UI"], "Neurarian/matshell": ["CLI & terminal tools", "Linux ricing & desktop"], "TechHutTV/homelab": ["Self-hosted & homelab"], "CosmoCreeper/Sine": ["Linux ricing & desktop"], "jhuckaby/Cronicle": ["Self-hosted & homelab", "Productivity & notes"], "RyoJerryYu/obsidian-memos-sync": ["AI agents & frameworks", "Dev tools & editors"], "FlowiseAI/Flowise": ["AI agents & frameworks", "Dev tools & editors"], "LinkStackOrg/LinkStack": ["Other"], "gethomepage/homepage": ["Self-hosted & homelab", "Web dev"], "marcopiovanello/yt-dlp-web-ui": ["Self-hosted & homelab", "Music & media"], "go-gitea/gitea": ["AI agents & frameworks", "Self-hosted & homelab"], "meilisearch/meilisearch": ["AI agents & frameworks", "Data & search"], "usememos/memos": ["Self-hosted & homelab", "Productivity & notes"], "release-argus/Argus": ["Web dev"], "karakeep-app/karakeep": ["AI agents & frameworks", "Self-hosted & homelab"], "yourselfhosted/slash": ["Self-hosted & homelab", "Web dev"], "paperless-ngx/paperless-ngx": ["AI agents & frameworks"], "community-scripts/ProxmoxVE": ["AI agents & frameworks", "Self-hosted & homelab"], "novnc/noVNC": ["CLI & terminal tools", "Web dev"], "hyprwm/Hyprland": ["Linux ricing & desktop"], "anaisbetts/mcp-youtube": ["AI agents & frameworks", "Self-hosted & homelab"], "lucide-icons/lucide": ["Dev tools & editors", "Web dev"], "GreatScottyMac/context-portal": ["AI agents & frameworks", "Self-hosted & homelab"], "unslothai/unsloth": ["AI agents & frameworks", "Local LLMs & inference"], "SohelIslamImran/ghosttime": ["CLI & terminal tools", "Design & UI"], "handlebars-lang/handlebars.js": ["Linux ricing & desktop"], "zhaleff/hyprdots": ["CLI & terminal tools", "Linux ricing & desktop"], "logicalman3812/hyprdots": ["CLI & terminal tools", "Linux ricing & desktop"], "microsoft/markitdown": ["AI agents & frameworks", "Productivity & notes"], "nathanhoulamy/wallrice": ["Linux ricing & desktop"], "zerebos/ghostty-config": ["CLI & terminal tools", "Web dev"], "SesameAILabs/csm": ["AI agents & frameworks"], "OpenHands/OpenHands": ["AI agents & frameworks", "CLI & terminal tools"], "PierrunoYT/Kokoro-TTS-Local": ["Other"], "KoljaB/RealtimeTTS": ["Other"], "open-webui/mcpo": ["AI agents & frameworks", "Self-hosted & homelab"], "Doriandarko/maestro": ["AI agents & frameworks"], "Doriandarko/make-it-heavy": ["AI agents & frameworks", "Dev tools & editors"], "ag-ui-protocol/ag-ui": ["AI agents & frameworks", "Web dev"], "vv9k/vim-github-dark": ["CLI & terminal tools", "Linux ricing & desktop"], "kepano/flexoki": ["Other"], "radix-ui/primitives": ["AI agents & frameworks", "Web dev"], "tom-doerr/zsh_codex": ["AI agents & frameworks", "CLI & terminal tools"], "google-gemini/gemini-cli": ["AI agents & frameworks", "CLI & terminal tools"], "qdrant/qdrant": ["AI agents & frameworks", "Data & search"], "RobotoSkunk/ff-better-findbar": ["Linux ricing & desktop", "Gaming & sims"], "modelcontextprotocol/servers": ["Self-hosted & homelab"], "google-gemini/cookbook": ["AI agents & frameworks", "Design & UI"], "dynobo/normcap": ["Other"], "owndev/Open-WebUI-Functions": ["AI agents & frameworks", "Design & UI"], "Theblackcat98/atlassian-rovo-source-code-z80-dump": ["CLI & terminal tools"], "elizaOS/eliza": ["AI agents & frameworks", "Gaming & sims"], "henryalps/OpenManus": ["AI agents & frameworks"], "aandrew-me/tgpt": ["AI agents & frameworks", "CLI & terminal tools"], "QwenLM/Qwen-Agent": ["AI agents & frameworks", "Design & UI"], "kunkunsh/kunkun": ["Web dev", "Rust projects"], "youpie/Iconic": ["Linux ricing & desktop", "Rust projects"], "opencode-ai/opencode": ["AI agents & frameworks", "CLI & terminal tools"], "musistudio/claude-code-router": ["AI agents & frameworks"], "QwenAudio/CosyVoice": ["AI agents & frameworks", "Local LLMs & inference"], "kayozxo/GNOME-macOS-Tahoe": ["CLI & terminal tools", "Linux ricing & desktop"], "x1xhlol/system-prompts-and-models-of-ai-tools": ["AI agents & frameworks", "Dev tools & editors"], "agent0ai/agent-zero": ["AI agents & frameworks", "Design & UI"], "camel-ai/owl": ["AI agents & frameworks", "Dev tools & editors"], "hyepartners-gmail/vibevideo-mcp": ["AI agents & frameworks", "Music & media"], "dontriskit/awesome-ai-system-prompts": ["AI agents & frameworks", "Awesome lists"], "microsoft/magentic-ui": ["AI agents & frameworks", "CLI & terminal tools"], "atineiatte/deep-research-at-home": ["Data & search"], "FujiwaraChoki/MoneyPrinterV2": ["CLI & terminal tools", "Music & media"], "Theblackcat98/awesome-chatgpt-prompts": ["AI agents & frameworks", "Awesome lists"], "google-ai-edge/mediapipe-samples": ["AI agents & frameworks", "Music & media"], "FoundationAgents/OpenManus": ["AI agents & frameworks"], "Roy3838/Observer": ["AI agents & frameworks", "Self-hosted & homelab"], "11cafe/local-manus": ["AI agents & frameworks", "Dev tools & editors"], "Fosowl/agenticSeek": ["AI agents & frameworks", "Dev tools & editors"], "refreshdotdev/web-eval-agent": ["AI agents & frameworks", "Self-hosted & homelab"], "arfan-on-clouds/hyprclouds": ["Other"], "Ssoupp/Gnome-Topbar-Rose-Pine-dots": ["Linux ricing & desktop"], "Axenide/Ax-Shell": ["CLI & terminal tools", "Linux ricing & desktop"], "Almamu/linux-wallpaperengine": ["Linux ricing & desktop", "Design & UI"], "Fabric-Development/fabric": ["Linux ricing & desktop", "Design & UI"], "wiiznokes/gitnote": ["Android apps & mods", "Dev tools & editors"], "learnbyexample/TUI-apps": ["CLI & terminal tools", "Dev tools & editors"], "gitroomhq/postiz-app": ["AI agents & frameworks", "Dev tools & editors"], "Theblackcat98/Website-Analyzer": ["Other"], "The-Pocket/PocketFlow-Template-Python": ["AI agents & frameworks"], "imfing/hextra": ["Linux ricing & desktop", "Dev tools & editors"], "Theblackcat98/TheBlackCat": ["Other"], "lukeorth/poison": ["Linux ricing & desktop"], "Theblackcat98/Online-Tools": ["Other"], "Theblackcat98/IG-Post-Agent": ["AI agents & frameworks"], "Theblackcat98/image-to-stl": ["Other"], "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge": ["AI agents & frameworks"], "muePatrick/zsh-ai-commands": ["AI agents & frameworks", "CLI & terminal tools"], "stackblitz-labs/bolt.diy": ["AI agents & frameworks"], "shyamsaktawat/OpenAlpha_Evolve": ["AI agents & frameworks", "Data & search"], "HamedMP/CursorLens": ["AI agents & frameworks"], "claraverse-space/ClaraVerse": ["AI agents & frameworks", "Local LLMs & inference"], "gyoridavid/short-video-maker": ["AI agents & frameworks", "Music & media"], "hacksider/Deep-Live-Cam": ["AI agents & frameworks", "CLI & terminal tools"], "neuromorph/openbar": ["CLI & terminal tools", "Linux ricing & desktop"], "upstash/context7": ["AI agents & frameworks", "Self-hosted & homelab"], "eyaltoledano/claude-task-master": ["AI agents & frameworks", "Productivity & notes"], "exa-labs/exa-mcp-server": ["AI agents & frameworks", "Self-hosted & homelab"], "Honey-Bagel/Milanote-Clone": ["Other"], "azukaar/Cosmos-Server": ["Self-hosted & homelab", "Dev tools & editors"], "toasttastesgood/hackademy": ["Other"], "open-forest-observatory/automate-metashape": ["Dev tools & editors"], "natowi/photogrammetry_datasets": ["Awesome lists"], "iamdabe/Homepage-Dashboard": ["Other"], "a-ghorbani/pocketpal-ai": ["AI agents & frameworks"], "JHubi1/ollama-app": ["AI agents & frameworks", "Local LLMs & inference"], "mrdjohnson/llm-x": ["AI agents & frameworks", "Gaming & sims"], "ParisNeo/lollms-webui": ["AI agents & frameworks", "Local LLMs & inference"], "btw-so/btw": ["Productivity & notes", "Design & UI"], "n8n-io/n8n": ["AI agents & frameworks", "CLI & terminal tools"], "JuanCruzMedina/juancruzmedina": ["AI agents & frameworks", "Web dev"], "nezvers/Godot-GameTemplate": ["Gaming & sims"], "yumedev40/Yume-Visual-Novel-Editor": ["Dev tools & editors", "Gaming & sims"], "godotengine/godot-demo-projects": ["Other"], "ngosang/trackerslist": ["Other"], "XIU2/TrackersListCollection": ["AI agents & frameworks"], "ChrisTitusTech/winutil": ["Other"], "moktavizen/material-darker-jdownloader": ["Linux ricing & desktop", "Design & UI"], "lukegarbutt/RunescapeBots": ["Gaming & sims"], "eythaann/Seelen-UI": ["Linux ricing & desktop", "Productivity & notes"], "PathOfBuildingCommunity/PathOfBuilding-PoE2-v2": ["AI agents & frameworks", "Design & UI"], "5k-mirrors/awesome-poe-2": ["Awesome lists"], "Sidekick-Poe/Sidekick": ["AI agents & frameworks"], "Kvan7/Exiled-Exchange-2": ["Other"], "Vendicated/Vencord": ["Linux ricing & desktop"], "AmiiboDB/Amiibo": ["Data & search"], "Andrewcpu/EnableTaskbar": ["Linux ricing & desktop", "Android apps & mods"], "IridiumIO/CompactGUI": ["Gaming & sims", "Design & UI"], "theJayTea/WritingTools": ["AI agents & frameworks", "Dev tools & editors"], "MuntashirAkon/AppManager": ["Android apps & mods", "Design & UI"], "AndnixSH/APKToolGUI": ["Android apps & mods", "Design & UI"], "android/nowinandroid": ["Android apps & mods", "Design & UI"], "agronick/Flattery": ["Design & UI"], "topjohnwu/Magisk": ["Android apps & mods"], "RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask": ["Android apps & mods", "Gaming & sims"], "Theblackcat98/svg-to-stl": ["Other"], "rcalme/svg-to-stl": ["Other"], "Maker-Management-Platform/docs": ["Other"], "Astropilot/ValheimTooler": ["Gaming & sims"], "kando-menu/kando": ["Dev tools & editors", "Web dev"], "X-PLUG/MobileAgent": ["AI agents & frameworks", "Android apps & mods"], "openai/whisper": ["AI agents & frameworks"], "ai-mastering/phaselimiter-gui": ["AI agents & frameworks", "Design & UI"], "SWivid/F5-TTS": ["AI agents & frameworks", "Dev tools & editors"], "lllyasviel/Fooocus": ["Other"], "matatonic/openedai-speech": ["AI agents & frameworks", "Self-hosted & homelab"], "kamekairos/KK-OneCommanderScripts": ["AI agents & frameworks", "CLI & terminal tools"], "NakedTrashPanda/OneCommander-Catppuccin-Theme": ["Linux ricing & desktop", "Dev tools & editors"], "AmNotAGoose/PPTX-Presentation-Generator": ["Other"], "linkfrg/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "vllm-project/vllm": ["AI agents & frameworks", "Local LLMs & inference"], "MindWorkAI/AI-Studio": ["AI agents & frameworks", "Design & UI"], "trendy-design/llmchat": ["AI agents & frameworks", "Web dev"], "TFyre/bambu-farm": ["Other"], "BambuTools/bambulabs_api": ["Dev tools & editors"], "zacharee/LockscreenWidgets": ["Other"], "dstark5/Openlib": ["Self-hosted & homelab", "Android apps & mods"], "ProjectPhysX/FluidX3D": ["Dev tools & editors", "Design & UI"], "jgravelle/AutoGroq": ["AI agents & frameworks", "Dev tools & editors"], "247printing/247zero": ["Other"], "OrcaSlicer/OrcaSlicer": ["Gaming & sims"], "Sandakan/Nora": ["Android apps & mods", "Web dev"], "dessalines/thumb-key": ["Android apps & mods", "Dev tools & editors"], "instantX-research/InstantID": ["Data & search"], "abi/secret-llama": ["AI agents & frameworks", "Local LLMs & inference"], "abrenneke/rivet-plugin-ollama": ["AI agents & frameworks", "Local LLMs & inference"], "Ironclad/rivet": ["AI agents & frameworks", "Web dev"], "Mobile-Artificial-Intelligence/maid": ["AI agents & frameworks", "Local LLMs & inference"], "hyprwm/hyprland-plugins": ["Linux ricing & desktop", "Dev tools & editors"], "alebcay/awesome-shell": ["CLI & terminal tools", "Awesome lists"], "AutomaApp/automa": ["Web dev"], "crackerica/Awesome-Linux-Software": ["Awesome lists", "Design & UI"], "cryinkfly/Solid-Edge-for-Linux": ["Design & UI"], "jlevy/the-art-of-command-line": ["CLI & terminal tools", "Design & UI"], "Universal-Debloater-Alliance/universal-android-debloater-next-generation": ["Android apps & mods", "Rust projects"], "dwisiswant0/apkleaks": ["Android apps & mods", "Privacy & security"], "ev-flow/quark-engine": ["Android apps & mods"], "iBotPeaches/Apktool": ["Android apps & mods", "Gaming & sims"], "APKLab/APKLab": ["Android apps & mods", "Dev tools & editors"], "KZDKM/Hyprspace": ["Linux ricing & desktop"], "H3rmt/hyprshell": ["CLI & terminal tools", "Linux ricing & desktop"], "ImranR98/Obtainium": ["AI agents & frameworks", "Android apps & mods"], "tuya-cloudcutter/tuya-cloudcutter": ["Other"], "datguypiko/Firefox-Mod-Blur": ["Linux ricing & desktop", "Design & UI"], "zhaobozhen/Anywhere-": ["Other"], "rodion-gudz/Android-Tool": ["Android apps & mods"], "leyrshroud/ZuiTranslator": ["Android apps & mods", "Design & UI"], "nextcloud/all-in-one": ["AI agents & frameworks", "Self-hosted & homelab"], "glotlabs/gdrive": ["CLI & terminal tools"], "cascadefox/cascade": ["Linux ricing & desktop", "Design & UI"], "djcopley/ShellOracle": ["AI agents & frameworks", "CLI & terminal tools"], "zombieFox/nightTab": ["Other"], "Godiesc/firefox-gx": ["Linux ricing & desktop", "Design & UI"], "Saramagrean/CWCheat-Database-Plus-": ["Gaming & sims", "Data & search"], "LorenzCK/OnTopReplica": ["AI agents & frameworks"], "tagspaces/tagspaces": ["Web dev"], "JaKooLit/Hyprland-v4": ["Linux ricing & desktop", "Design & UI"], "hyprland-community/awesome-hyprland": ["AI agents & frameworks", "Linux ricing & desktop"], "adi1090x/rofi": ["Awesome lists", "Design & UI"], "Anmol-Baranwal/Cool-GIFs-For-GitHub": ["Linux ricing & desktop", "Dev tools & editors"], "rzashakeri/beautify-github-profile": ["Dev tools & editors"], "x0rzavi/x0rzavi": ["Dev tools & editors"], "InioX/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "prasanthrangan/hyprdots": ["CLI & terminal tools", "Linux ricing & desktop"], "adaszko/complgen": ["CLI & terminal tools"], "nwg-piotr/nwg-shell": ["CLI & terminal tools", "Linux ricing & desktop"], "wdhdev/free-for-life": ["AI agents & frameworks", "Awesome lists"], "droberson/ssh-honeypot": ["Other"], "rumaan/astro-vercel-og": ["Self-hosted & homelab"], "Aylur/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "spacedriveapp/spacedrive": ["Web dev", "Rust projects"], "wrefgtzweve/combo-gen": ["AI agents & frameworks", "Privacy & security"], "fontello/ttf2woff": ["Other"], "sorin-ionescu/prezto": ["CLI & terminal tools", "Linux ricing & desktop"], "webpro/awesome-dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "ribelo/taskwarrior.nvim": ["CLI & terminal tools", "Productivity & notes"], "tbabej/taskwiki": ["CLI & terminal tools", "Productivity & notes"], "CCExtractor/taskwarrior-flutter": ["Rust projects", "Productivity & notes"], "kdheepak/taskwarrior-tui": ["CLI & terminal tools", "Rust projects"], "git-bahn/git-graph": ["CLI & terminal tools", "Dev tools & editors"], "one-aalam/astro-ink": ["Linux ricing & desktop", "Productivity & notes"], "thibmaek/awesome-raspberry-pi": ["Keyboards & hardware", "Awesome lists"], "Textualize/frogmouth": ["CLI & terminal tools", "Productivity & notes"], "moodlebox/moodlebox": ["Self-hosted & homelab", "Keyboards & hardware"], "qsniyg/maxurl": ["Music & media"], "ocrmypdf/OCRmyPDF": ["Data & search"], "pr3y/bruce_old": ["Keyboards & hardware"], "arch-fan/neovim-raspberry": ["CLI & terminal tools", "Self-hosted & homelab"], "ephraimduncan/awesome-developer-dictionary": ["AI agents & frameworks", "Awesome lists"], "end-4/dots-hyprland": ["CLI & terminal tools", "Linux ricing & desktop"], "gpakosz/.tmux": ["AI agents & frameworks", "CLI & terminal tools"], "zdharma-continuum/fast-syntax-highlighting": ["CLI & terminal tools"], "PapirusDevelopmentTeam/papirus-icon-theme": ["Linux ricing & desktop", "Design & UI"], "NanoNets/ocr-python": ["Data & search"], "olegos2/termux-box": ["Design & UI"], "Abaan404/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "Matt-FTW/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "hyprwm/hyprpicker": ["Linux ricing & desktop", "Android apps & mods"], "QuantumBadger/RedReader": ["Android apps & mods", "Dev tools & editors"], "stepanzubkov/where-is-my-sddm-theme": ["Linux ricing & desktop"], "knennigtri/merge-markdown": ["Productivity & notes"], "Vaibhavs10/insanely-fast-whisper": ["AI agents & frameworks"], "open-webui/open-webui": ["AI agents & frameworks", "Local LLMs & inference"], "docker/compose": ["AI agents & frameworks", "Self-hosted & homelab"], "toeverything/AFFiNE": ["AI agents & frameworks", "Dev tools & editors"], "john-smilga/react-projects": ["Web dev"], "ajeetdsouza/zoxide": ["CLI & terminal tools"], "Charca/astro-blog-template": ["Other"], "valinet/ExplorerPatcher": ["AI agents & frameworks"], "iamr0s/AndroidAccounts": ["Android apps & mods"], "kzrtn/unnamed-3k-v2": ["Gaming & sims", "Keyboards & hardware"], "HugoBlox/kit": ["AI agents & frameworks", "Linux ricing & desktop"], "brumik/obsidian-ollama-chat": ["AI agents & frameworks", "Local LLMs & inference"], "yt-dlp/yt-dlp": ["CLI & terminal tools", "Music & media"], "sb-ocr/ocreeb-12": ["Keyboards & hardware"], "tixl3d/tixl": ["Design & UI"], "amithkoujalgi/ollama-pdf-bot": ["AI agents & frameworks", "Local LLMs & inference"], "ollama/ollama": ["Local LLMs & inference"], "ratatui/ratatui": ["CLI & terminal tools", "Rust projects"], "cpcloud/minesweep-rs": ["Rust projects", "Gaming & sims"], "sxyazi/yazi": ["CLI & terminal tools", "Android apps & mods"], "kamiyaa/joshuto": ["CLI & terminal tools", "Rust projects"], "nvbn/thefuck": ["CLI & terminal tools"], "traefik/traefik": ["Self-hosted & homelab"], "zcraber/Freebies-Hub": ["Music & media", "Awesome lists"], "JesusChapman/changelua": ["Design & UI"], "cinnyapp/cinny-desktop": ["CLI & terminal tools", "Dev tools & editors"], "piqnt/svgexport": ["CLI & terminal tools", "Web dev"], "vincerubinetti/svg-to-png": ["Web dev"], "rose-pine/windows-terminal": ["CLI & terminal tools", "Linux ricing & desktop"], "faressoft/terminalizer": ["CLI & terminal tools"], "MicaForEveryone/MicaForEveryone": ["Linux ricing & desktop"], "namazso/SecureUxTheme": ["Linux ricing & desktop", "Dev tools & editors"], "khanhas/Polybar": ["Linux ricing & desktop"], "niyumard/Doom-Emacs-Cheat-Sheet": ["Gaming & sims", "Design & UI"], "winthemers/wiki": ["Linux ricing & desktop", "Dev tools & editors"], "marivaaldo/ESP32Marauder": ["Keyboards & hardware", "Design & UI"], "aat440hz/SSHClient-M5Cardputer": ["CLI & terminal tools", "Keyboards & hardware"], "aat440hz/RFIDCopy-M5Cardputer": ["Other"], "fernandofatech/tool-m5cardputer-sshclient": ["CLI & terminal tools", "Keyboards & hardware"], "n0xa/m5stick-nemo": ["Dev tools & editors", "Keyboards & hardware"], "terremoth/awesome-m5stack-cardputer": ["Awesome lists"], "Comfy-Themes/Spicetify": ["Linux ricing & desktop", "Music & media"], "AnubisNekhet/AnuPpuccin": ["Linux ricing & desktop", "Dev tools & editors"], "MichielvanBeers/Flow.Launcher.Plugin.ChatGPT": ["AI agents & frameworks"], "Evolution0/bandcamp-dl": ["Other"], "junyu-w/corgi": ["CLI & terminal tools"], "martin-braun/CocChad": ["CLI & terminal tools", "Linux ricing & desktop"], "github/government.github.com": ["Dev tools & editors"], "The-Grand-Archives/Dark-Souls-III-CT-TGA": ["AI agents & frameworks", "Gaming & sims"], "gerwaric/acquisition": ["Data & search", "Design & UI"], "TehCheat/PoEHelper": ["Gaming & sims"], "domialex/Sidekick": ["Other"], "Procurement-PoE/Procurement": ["Other"], "bhavman2/fba-calculator": ["Other"], "m-murasovs/amazon-bestsellers-scraper": ["Design & UI"], "kwsch/NHSE": ["Dev tools & editors"], "karakasis/Path-of-Leveling": ["Design & UI"], "MrMarble/drg-editor": ["Dev tools & editors", "Gaming & sims"], "C1rdec/Poe-Lurker": ["Other"], "AnthonyMichaelTDM/DRG-Save-Editor": ["Dev tools & editors"], "seerge/g-helper": ["Other"], "SnosMe/awakened-poe-trade": ["AI agents & frameworks", "Web dev"], "PathOfBuildingCommunity/PathOfBuilding": ["Design & UI"], "MISP/misp-warninglists": ["Other"], "hackerkid/bots": ["Gaming & sims", "Awesome lists"], "Viir/bots": ["AI agents & frameworks", "Dev tools & editors"], "Aliucord/Aliucord": ["Android apps & mods"], "blizzhackers/d4data": ["Other"], "jon4hz/d4eventbot": ["Gaming & sims"], "abhidahal/onsetGlaze.flow": ["Linux ricing & desktop"], "XingangPan/DragGAN": ["AI agents & frameworks", "Dev tools & editors"], "chibisafe/chibisafe": ["Web dev"], "mdbootstrap/mdb-ui-kit": ["Linux ricing & desktop", "Design & UI"], "Enveloppe/obsidian-enveloppe": ["Dev tools & editors", "Productivity & notes"], "Tadelsucht/BulkPDF": ["Other"], "MoSbeaa/Excel_to_PDF_Form_Filler_Py": ["Other"], "it-gssb/pdffiller": ["AI agents & frameworks"], "fufexan/dotfiles": ["CLI & terminal tools", "Linux ricing & desktop"], "Misterio77/Foundry": ["CLI & terminal tools", "Linux ricing & desktop"], "Ruixi-rebirth/melted-flakes": ["CLI & terminal tools", "Linux ricing & desktop"], "bertof/nix-rice": ["Linux ricing & desktop", "Design & UI"], "hyper-dot/Arch-Hyprland": ["CLI & terminal tools", "Linux ricing & desktop"], "alacritty/alacritty": ["CLI & terminal tools", "Rust projects"], "BCUninstaller/Bulk-Crap-Uninstaller": ["Design & UI"], "bhrigu123/classifier": ["Other"], "stefan-jansen/machine-learning-for-trading": ["AI agents & frameworks", "Dev tools & editors"], "wled/WLED": ["Dev tools & editors", "Keyboards & hardware"], "w00000dy/WLED-GUI": ["Web dev", "Design & UI"], "mui/material-ui": ["Web dev", "Design & UI"], "practical-tutorials/project-based-learning": ["Web dev", "Awesome lists"], "Chalarangelo/30-seconds-of-code": ["Dev tools & editors", "Web dev"], "d3/d3": ["Linux ricing & desktop"], "ytdl-org/youtube-dl": ["CLI & terminal tools", "Music & media"], "TheAlgorithms/Python": ["Other"], "ohmyzsh/ohmyzsh": ["AI agents & frameworks", "CLI & terminal tools"], "vinta/awesome-python": ["Awesome lists"], "EbookFoundation/free-programming-books": ["AI agents & frameworks"], "freeCodeCamp/freeCodeCamp": ["Dev tools & editors", "Web dev"], "iNavFlight/inav": ["AI agents & frameworks"], "MagicMirrorOrg/MagicMirror": ["Web dev", "Keyboards & hardware"], "mui-toolkit/mui-toolkit": ["Linux ricing & desktop", "Dev tools & editors"], "you-apps/ClockYou": ["Android apps & mods", "Privacy & security"], "Mahmud0808/Iconify": ["Linux ricing & desktop", "Android apps & mods"], "Magisk-Modules-Repo/acc": ["Android apps & mods"], "vanjs-org/van": ["Web dev", "Design & UI"], "sizzlemctwizzle/UserScripts": ["Other"], "theowenyoung/gatsby-theme-primer-wiki": ["Linux ricing & desktop", "Productivity & notes"], "f1xpl/openauto": ["Android apps & mods", "Gaming & sims"], "SBoudrias/Inquirer.js": ["CLI & terminal tools", "Web dev"], "henson/Scraper": ["AI agents & frameworks", "Dev tools & editors"], "nyxiereal/XToolbox": ["Design & UI"], "MajorGeek/MajorGeeks-Windows-Tweaks": ["AI agents & frameworks", "CLI & terminal tools"], "farag2/Sophia-Script-for-Windows": ["CLI & terminal tools", "Dev tools & editors"], "Atlas-OS/Atlas": ["Gaming & sims", "Privacy & security"], "joelzanden/mine": ["CLI & terminal tools", "Dev tools & editors"], "rustdesk/rustdesk": ["Android apps & mods", "Rust projects"], "sdias/win-10-virtual-desktop-enhancer": ["Linux ricing & desktop", "Keyboards & hardware"], "saber-notes/saber": ["Android apps & mods", "Productivity & notes"], "bhaskatripathi/pdfGPT": ["Other"], "Artemis-RGB/Artemis": ["Other"], "0x192/universal-android-debloater": ["Android apps & mods", "Rust projects"], "kefir500/apk-editor-studio": ["Android apps & mods", "Dev tools & editors"], "JunkFood02/Seal": ["Android apps & mods", "Music & media"], "KonradIT/goprowifihack": ["Dev tools & editors", "Music & media"], "tryretool/react-retool": ["Web dev"], "Fivium/FOXopen": ["Other"], "code-charity/youtube": ["AI agents & frameworks", "Music & media"], "arsium/EagleMonitorRAT": ["Other"], "streamlit/streamlit": ["Dev tools & editors", "Design & UI"], "catppuccin/tailwindcss": ["AI agents & frameworks", "Linux ricing & desktop"], "grommet/design-kit": ["Design & UI"], "slab/quill": ["Dev tools & editors", "Design & UI"], "pacocoursey/Opus": ["Web dev"], "palantir/blueprint": ["Web dev", "Design & UI"], "floating-ui/floating-ui": ["Web dev", "Design & UI"], "tailwindlabs/headlessui": ["AI agents & frameworks", "Web dev"], "apitable/apitable": ["AI agents & frameworks", "Design & UI"], "spacejam/sled": ["Data & search"], "JordanKnott/taskcafe": ["Web dev", "Productivity & notes"], "ever-co/ever-traduora": ["Self-hosted & homelab"], "react-dnd/react-dnd": ["Web dev", "Gaming & sims"], "plasmicapp/plasmic": ["Web dev", "Design & UI"], "opf/openproject": ["Other"], "Babelruins/BlackCAT": ["Design & UI"], "pmndrs/leva": ["Web dev", "Design & UI"], "github/codespaces-django": ["Dev tools & editors"], "FancyWM/fancywm": ["Keyboards & hardware", "Productivity & notes"], "libre-tube/LibreTube": ["Android apps & mods", "Web dev"], "koreader/koreader": ["Android apps & mods"], "Rikj000/Android-Auto-XLauncher-Unlocked": ["Android apps & mods", "Dev tools & editors"], "gokadzev/Musify": ["Android apps & mods", "Music & media"], "yoheinakajima/babyagi": ["Other"], "massgravel/Microsoft-Activation-Scripts": ["Other"], "mozilla/pdf.js": ["Web dev"], "austinhuang0131/austinhuang0131": ["Other"], "Unrud/video-downloader": ["Music & media"], "easydiffusion/easydiffusion": ["AI agents & frameworks", "CLI & terminal tools"], "bmaltais/kohya_ss": ["AI agents & frameworks"], "charmbracelet/gum": ["CLI & terminal tools"], "google/go-github": ["Dev tools & editors"], "catppuccin/mdBook": ["Linux ricing & desktop", "Dev tools & editors"], "lllyasviel/ControlNet": ["Other"], "nitroshare/nitroshare-desktop": ["Design & UI"], "etchdroid/etchdroid": ["Android apps & mods", "Design & UI"], "siyuan-note/siyuan": ["AI agents & frameworks", "Self-hosted & homelab"], "vsmode/pixel8": ["Web dev", "Gaming & sims"], "aseprite/aseprite": ["Dev tools & editors", "Design & UI"], "bradtraversy/design-resources-for-developers": ["Awesome lists", "Design & UI"], "lm-sys/FastChat": ["AI agents & frameworks", "Gaming & sims"], "mikefarah/yq": ["CLI & terminal tools"], "Significant-Gravitas/AutoGPT": ["AI agents & frameworks", "Local LLMs & inference"], "mmistakes/minimal-mistakes": ["Linux ricing & desktop", "Dev tools & editors"], "jackyzha0/hugo-obsidian": ["Dev tools & editors", "Productivity & notes"], "nomic-ai/gpt4all": ["AI agents & frameworks", "Local LLMs & inference"], "popcorntime/popcorntime": ["Android apps & mods", "Design & UI"], "taC-h/eagle_cool": ["Other"], "Farama-Foundation/Gymnasium": ["AI agents & frameworks", "Self-hosted & homelab"], "hypothesis/pdf.js-hypothes.is": ["Other"], "desertbit/fillpdf": ["Other"], "altaurog/pdfforms": ["Other"], "foobnix/LibreraReader": ["Android apps & mods"], "strix/canvas-hack": ["Other"], "perslev/CanvasSync": ["Self-hosted & homelab"], "tabler/tabler-icons": ["Design & UI"], "FoxP/PNG-to-ICO": ["Other"], "progfay/shields-with-icon": ["Other"], "camenduru/stable-diffusion-webui-colab": ["AI agents & frameworks", "Design & UI"], "termux/termux-app": ["CLI & terminal tools", "Android apps & mods"], "ddPn08/automatic1111-colab": ["Design & UI"], "Devaro3/awesome-opendirectories": ["Awesome lists"], "ytmdesktop/ytmdesktop": ["Web dev", "Music & media"], "threat9/routersploit": ["Other"], "meodai/color-names": ["AI agents & frameworks"], "bluzi/awesome-google-tasks": ["Web dev", "Productivity & notes"], "AUTOMATIC1111/stable-diffusion-webui": ["AI agents & frameworks", "Design & UI"], "invoke-ai/InvokeAI": ["AI agents & frameworks", "Dev tools & editors"], "sherlock-project/sherlock": ["CLI & terminal tools", "Dev tools & editors"], "spicetify/cli": ["CLI & terminal tools", "Music & media"], "kiblee/tod0": ["CLI & terminal tools", "Productivity & notes"], "zacharee/Tweaker": ["Other"], "DopplerHQ/awesome-interview-questions": ["Android apps & mods", "Awesome lists"], "goabstract/Awesome-Design-Tools": ["Awesome lists", "Design & UI"], "beromir/Servas": ["AI agents & frameworks", "Self-hosted & homelab"], "google/material-design-icons": ["Android apps & mods", "Design & UI"], "marella/material-icons": ["Design & UI"], "google/guava": ["Other"], "f/prompts.chat": ["AI agents & frameworks", "Dev tools & editors"], "TiddlyWiki/TiddlyWiki5": ["AI agents & frameworks", "Web dev"], "joemccann/dillinger": ["Dev tools & editors", "Web dev"], "eflynch/magnolial": ["Self-hosted & homelab"], "Rem0o/FanControl.Releases": ["Other"], "WebCrateApp/webcrate": ["Other"], "Abdelrhman-AK/WinPaletter": ["CLI & terminal tools", "Linux ricing & desktop"], "getpelican/pelican-plugins": ["Other"], "mukulpatnaik/researchgpt": ["AI agents & frameworks", "Data & search"], "LeslyeCream/Syrup": ["AI agents & frameworks", "Android apps & mods"], "QL-Win/QuickLook": ["Design & UI"], "hans/obsidian-citation-plugin": ["Dev tools & editors", "Productivity & notes"], "mronkko/ZoteroQuickLook": ["Design & UI"], "windingwind/zotero-pdf-preview": ["Other"], "leonkt/zotero-memento": ["Other"], "bwiernik/zotero-shortdoi": ["Other"], "Nutlope/roomGPT": ["AI agents & frameworks"], "eagle-app/eagle-plugin-examples": ["Other"], "jekyll/jekyll": ["Productivity & notes", "Design & UI"], "jasonlong/cayman-theme": ["Linux ricing & desktop", "Dev tools & editors"], "jasonlong/geo_pattern": ["Other"], "btmills/geopattern": ["Web dev"], "skills/github-pages": ["Dev tools & editors"], "orderedlist/minimal": ["Linux ricing & desktop", "Dev tools & editors"], "academicpages/academicpages.github.io": ["Linux ricing & desktop", "Dev tools & editors"], "adityatelange/hugo-PaperMod": ["Linux ricing & desktop"], "daattali/beautiful-jekyll": ["Linux ricing & desktop", "Dev tools & editors"], "hoothin/UserScripts": ["Other"], "purocean/yn": ["AI agents & frameworks", "CLI & terminal tools"], "catppuccin/catppuccin": ["Linux ricing & desktop", "Dev tools & editors"], "Flow-Launcher/Flow.Launcher": ["Keyboards & hardware", "Data & search"], "catppuccin/windows-files": ["Linux ricing & desktop", "Dev tools & editors"], "catppuccin/sharex": ["Linux ricing & desktop", "Dev tools & editors"], "catppuccin/telegram": ["Linux ricing & desktop", "Dev tools & editors"], "catppuccin/reddit": ["Linux ricing & desktop", "Dev tools & editors"], "catppuccin/spicetify": ["Linux ricing & desktop", "Dev tools & editors"], "themepark-dev/theme.park": ["Linux ricing & desktop", "Self-hosted & homelab"], "catppuccin/theme.park": ["Linux ricing & desktop", "Dev tools & editors"], "catppuccin/home-assistant": ["Linux ricing & desktop", "Dev tools & editors"], "labuladong/fucking-algorithm": ["Dev tools & editors"], "catppuccin/github": ["Linux ricing & desktop", "Dev tools & editors"], "ant-design/ant-design": ["Web dev", "Design & UI"], "linebender/druid": ["Rust projects", "Design & UI"], "Kovah/LinkAce": ["Self-hosted & homelab"], "allusion-app/Allusion": ["Web dev"], "lencx/nofwl": ["AI agents & frameworks", "Web dev"], "lencx/ChatGPT": ["AI agents & frameworks", "Design & UI"], "accelerated-text/accelerated-text": ["Local LLMs & inference", "Web dev"], "awesome-selfhosted/awesome-selfhosted": ["Self-hosted & homelab", "Privacy & security"], "alexwohlbruck/cat-facts": ["AI agents & frameworks", "Gaming & sims"], "GreyNoise-Intelligence/GNQL": ["Other"], "openvisionapi/ova-client": ["CLI & terminal tools"], "public-apis/public-apis": ["Other"], "bewee/tuya-adapter": ["Other"], "you-apps/WallYou": ["Linux ricing & desktop", "Android apps & mods"], "LGUG2Z/komorebi": ["Linux ricing & desktop", "Rust projects"], "justdanpo/VivaldiHooks": ["Other"], "LonMcGregor/VivaldiMods": ["Other"], "witalihirsch/qBitTorrent-fluent-theme": ["Linux ricing & desktop"], "ferreol-fr/ZUI14PCModeSwitch": ["Design & UI"], "chaoticzeros/Icons8-downloader": ["Design & UI"], "MizardX/icons8-downloader": ["Design & UI"], "Mortafix/i8-downloader": ["Design & UI"], "MehediH/i8": ["Design & UI"], "oyesaifi/icons8free": ["AI agents & frameworks", "Design & UI"], "tfeldmann/organize": ["CLI & terminal tools"], "nocodb/nocodb": ["AI agents & frameworks", "Data & search"], "Fmstrat/winapps": ["Linux ricing & desktop", "Design & UI"], "casualsnek/cassowary": ["Design & UI"], "tjackenpacken/taskbar-groups": ["Linux ricing & desktop", "Productivity & notes"], "Bishalsarang/Pearson-PDF-Downloader": ["Other"], "NotionX/react-notion-x": ["Web dev"], "ShoroukAziz/notion_widgets": ["Web dev", "Design & UI"], "microsoft/pyright": ["Other"], "Psyhackological/AAA": ["Android apps & mods", "Privacy & security"], "karma9874/AndroRAT": ["CLI & terminal tools", "Self-hosted & homelab"], "d3ward/floatly": ["Design & UI"], "bbidulock/icewm": ["Design & UI"], "KRTirtho/spotube": ["AI agents & frameworks", "CLI & terminal tools"], "Genymobile/scrcpy": ["Android apps & mods"], "vladikoff/chromeos-apk": ["Android apps & mods", "Design & UI"], "Taiko2k/Tauon": ["AI agents & frameworks", "Dev tools & editors"], "vira-soft/vira-assets": ["AI agents & frameworks", "Linux ricing & desktop"], "Igglybuff/awesome-piracy": ["Music & media", "Awesome lists"], "sindresorhus/awesome": ["Awesome lists"], "tanepiper/obsidian-garden": ["Productivity & notes"], "MaggieAppleton/digital-gardeners": ["AI agents & frameworks", "Dev tools & editors"], "jonaburg/picom": ["Other"], "jeffshee/hidamari": ["Linux ricing & desktop", "Music & media"], "elkowar/eww": ["Linux ricing & desktop", "Rust projects"], "awesomeWM/awesome": ["Awesome lists"], "baskerville/bspwm": ["Other"], "Crylia/crylia-theme": ["CLI & terminal tools", "Linux ricing & desktop"], "xou816/spot": ["AI agents & frameworks", "Linux ricing & desktop"], "clxxiii/dots": ["Other"], "adi1090x/polybar-themes": ["Linux ricing & desktop", "Design & UI"], "doomemacs/core": ["CLI & terminal tools"], "ranger/ranger": ["CLI & terminal tools"], "spotDL/spotify-downloader": ["Music & media"], "Shabinder/SpotiFlyer": ["Android apps & mods", "Music & media"]}
+{
+ "0x192/universal-android-debloater": [
+  "Android apps & mods",
+  "Rust projects"
+ ],
+ "0xNyk/awesome-hermes-agent": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "0xSero/ai-data-extraction": [
+  "AI agents & frameworks"
+ ],
+ "0xcro3dile/answerui": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "0xeb/TheBigPromptLibrary": [
+  "AI agents & frameworks"
+ ],
+ "11cafe/local-manus": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "247printing/247zero": [
+  "Other"
+ ],
+ "5k-mirrors/awesome-poe-2": [
+  "Awesome lists"
+ ],
+ "AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor": [
+  "Dev tools & editors",
+  "AI agents & frameworks"
+ ],
+ "AI-QL/chat-mcp": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "APKLab/APKLab": [
+  "Android apps & mods",
+  "Dev tools & editors"
+ ],
+ "ARahim3/DigUp": [
+  "Data & search",
+  "Local LLMs & inference"
+ ],
+ "AUTOMATIC1111/stable-diffusion-webui": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "Abaan404/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "Abdelrhman-AK/WinPaletter": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "Aliucord/Aliucord": [
+  "Android apps & mods"
+ ],
+ "Almamu/linux-wallpaperengine": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "AmNotAGoose/PPTX-Presentation-Generator": [
+  "Other"
+ ],
+ "AmiiboDB/Amiibo": [
+  "Data & search"
+ ],
+ "AndnixSH/APKToolGUI": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "Andrewcpu/EnableTaskbar": [
+  "Linux ricing & desktop",
+  "Android apps & mods"
+ ],
+ "AndyMik90/Aperant": [
+  "AI agents & frameworks"
+ ],
+ "Andyyyy64/whichllm": [
+  "AI agents & frameworks"
+ ],
+ "Ankit500ak/Stealth-AI": [
+  "AI agents & frameworks"
+ ],
+ "Anmol-Baranwal/Cool-GIFs-For-GitHub": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "AnthonyMichaelTDM/DRG-Save-Editor": [
+  "Dev tools & editors"
+ ],
+ "AnubisNekhet/AnuPpuccin": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "Arindam200/awesome-ai-apps": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "Artemis-RGB/Artemis": [
+  "Other"
+ ],
+ "Astropilot/ValheimTooler": [
+  "Gaming & sims"
+ ],
+ "Atlas-OS/Atlas": [
+  "Gaming & sims",
+  "Privacy & security"
+ ],
+ "AutomaApp/automa": [
+  "Web dev"
+ ],
+ "Axenide/Ax-Shell": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "Aylur/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "BCUninstaller/Bulk-Crap-Uninstaller": [
+  "Design & UI"
+ ],
+ "Babelruins/BlackCAT": [
+  "Design & UI"
+ ],
+ "BalanceBalls/nekot": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "BambuTools/bambulabs_api": [
+  "Dev tools & editors"
+ ],
+ "BehiSecc/awesome-claude-skills": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "Bishalsarang/Pearson-PDF-Downloader": [
+  "Other"
+ ],
+ "BloopAI/vibe-kanban": [
+  "AI agents & frameworks",
+  "Productivity & notes"
+ ],
+ "BrainDriveAI/BrainDrive-Core": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "Byron/dua-cli": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "C1rdec/Poe-Lurker": [
+  "Other"
+ ],
+ "CCExtractor/taskwarrior-flutter": [
+  "Rust projects",
+  "Productivity & notes"
+ ],
+ "Caeden117/ChroMapper": [
+  "Dev tools & editors"
+ ],
+ "Chalarangelo/30-seconds-of-code": [
+  "Dev tools & editors",
+  "Web dev"
+ ],
+ "Charca/astro-blog-template": [
+  "Other"
+ ],
+ "Chethan616/Meerkat": [
+  "Other"
+ ],
+ "ChrisTitusTech/winutil": [
+  "Other"
+ ],
+ "CloudAI-X/opencode-workflow": [
+  "AI agents & frameworks"
+ ],
+ "Cluster444/agentic": [
+  "AI agents & frameworks"
+ ],
+ "Cocolalilal/LastChat": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "CodebuffAI/freebuff": [
+  "AI agents & frameworks"
+ ],
+ "Comfy-Org/ComfyUI": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "Comfy-Themes/Spicetify": [
+  "Linux ricing & desktop",
+  "Music & media"
+ ],
+ "CopilotKit/OpenBot": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "CosmicFrontierLabs/unlinked": [
+  "Dev tools & editors",
+  "Rust projects"
+ ],
+ "CosmoCreeper/Sine": [
+  "Linux ricing & desktop"
+ ],
+ "Crylia/crylia-theme": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "DP-Hridayan/aShellYou": [
+  "CLI & terminal tools",
+  "Self-hosted & homelab"
+ ],
+ "DevCoreXOfficial/core-termux": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "Devaro3/awesome-opendirectories": [
+  "Awesome lists"
+ ],
+ "Dicklesworthstone/beads_rust": [
+  "Dev tools & editors",
+  "Rust projects"
+ ],
+ "DingoOz/llm-visuals": [
+  "Local LLMs & inference",
+  "CLI & terminal tools"
+ ],
+ "DopplerHQ/awesome-interview-questions": [
+  "Android apps & mods",
+  "Awesome lists"
+ ],
+ "Doriandarko/maestro": [
+  "AI agents & frameworks"
+ ],
+ "Doriandarko/make-it-heavy": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "EbookFoundation/free-programming-books": [
+  "AI agents & frameworks"
+ ],
+ "Emanuele-web04/synara": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "Enveloppe/obsidian-enveloppe": [
+  "Dev tools & editors",
+  "Productivity & notes"
+ ],
+ "Evolution0/bandcamp-dl": [
+  "Other"
+ ],
+ "FSoft-AI4Code/CodeWiki": [
+  "AI agents & frameworks"
+ ],
+ "Fabric-Development/fabric": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "FancyWM/fancywm": [
+  "Keyboards & hardware",
+  "Productivity & notes"
+ ],
+ "Farama-Foundation/Gymnasium": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "Fast-Editor/Lynkr": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "Fivium/FOXopen": [
+  "Other"
+ ],
+ "FlashML-org/FreeToken": [
+  "Local LLMs & inference",
+  "Dev tools & editors"
+ ],
+ "Flow-Launcher/Flow.Launcher": [
+  "Keyboards & hardware",
+  "Data & search"
+ ],
+ "FlowiseAI/Flowise": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "Fmstrat/winapps": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "Forward-Future/loopy": [
+  "Agent skills",
+  "AI agents & frameworks"
+ ],
+ "Fosowl/agenticSeek": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "FoundationAgents/OpenManus": [
+  "AI agents & frameworks"
+ ],
+ "FoxP/PNG-to-ICO": [
+  "Other"
+ ],
+ "FrenzyExists/dotfiles": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "FujiwaraChoki/MoneyPrinterV2": [
+  "CLI & terminal tools",
+  "Music & media"
+ ],
+ "GCWing/OpenBitFun": [
+  "AI agents & frameworks",
+  "Rust projects"
+ ],
+ "Genymobile/scrcpy": [
+  "Android apps & mods"
+ ],
+ "Gimanh/taskview-community": [
+  "Self-hosted & homelab",
+  "Productivity & notes"
+ ],
+ "Git-Agni/prod-FARM-IOS-Core": [
+  "Dev tools & editors"
+ ],
+ "Godiesc/firefox-gx": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "GreatScottyMac/context-portal": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "GreyNoise-Intelligence/GNQL": [
+  "Other"
+ ],
+ "H3rmt/hyprshell": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "HKUDS/AutoAgent": [
+  "AI agents & frameworks"
+ ],
+ "Haervwe/open-webui-tools": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "HamedMP/CursorLens": [
+  "AI agents & frameworks"
+ ],
+ "Honey-Bagel/Milanote-Clone": [
+  "Other"
+ ],
+ "HugoBlox/kit": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "IT-ess/tauri-plugin-mobile-sharetarget": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "Igglybuff/awesome-piracy": [
+  "Music & media",
+  "Awesome lists"
+ ],
+ "ImDarkTom/LlamaPen": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "ImranR98/Obtainium": [
+  "AI agents & frameworks",
+  "Android apps & mods"
+ ],
+ "InioX/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "InioX/matugen": [
+  "Design & UI"
+ ],
+ "InioX/matugen-themes": [
+  "Linux ricing & desktop"
+ ],
+ "IridiumIO/CompactGUI": [
+  "Gaming & sims",
+  "Design & UI"
+ ],
+ "Ironclad/rivet": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "ItsRiprod/DeskThing": [
+  "Music & media"
+ ],
+ "JEOresearch/EyeTracker": [
+  "Data & search"
+ ],
+ "JHubi1/ollama-app": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "JRufer/VoxCtrl": [
+  "Linux ricing & desktop"
+ ],
+ "JaKooLit/Hyprland-v4": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "JailbrokenAI/wallbreaker": [
+  "AI agents & frameworks"
+ ],
+ "JanDeDobbeleer/oh-my-posh": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "JesusChapman/changelua": [
+  "Design & UI"
+ ],
+ "JohnnyVizz/claude-kit": [
+  "Agent skills",
+  "AI agents & frameworks"
+ ],
+ "JordanKnott/taskcafe": [
+  "Web dev",
+  "Productivity & notes"
+ ],
+ "JuanCruzMedina/juancruzmedina": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "Julow/Unexpected-Keyboard": [
+  "Android apps & mods",
+  "Keyboards & hardware"
+ ],
+ "JunkFood02/Seal": [
+  "Android apps & mods",
+  "Music & media"
+ ],
+ "KRTirtho/spotube": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "KZDKM/Hyprspace": [
+  "Linux ricing & desktop"
+ ],
+ "KalyanM45/AI-Project-Gallery": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "Kamalnrf/claude-plugins": [
+  "AI agents & frameworks"
+ ],
+ "KoljaB/RealtimeTTS": [
+  "Other"
+ ],
+ "KonradIT/goprowifihack": [
+  "Dev tools & editors",
+  "Music & media"
+ ],
+ "Kotlin/kotlin-agent-skills": [
+  "Agent skills",
+  "Android apps & mods"
+ ],
+ "Kovah/LinkAce": [
+  "Self-hosted & homelab"
+ ],
+ "Kvan7/Exiled-Exchange-2": [
+  "Other"
+ ],
+ "LGUG2Z/komorebi": [
+  "Linux ricing & desktop",
+  "Rust projects"
+ ],
+ "Laszlobeer/AI-podcast": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "Lauriethefish/ModsBeforeFriday": [
+  "Other"
+ ],
+ "LeslyeCream/Syrup": [
+  "AI agents & frameworks",
+  "Android apps & mods"
+ ],
+ "LinkStackOrg/LinkStack": [
+  "Other"
+ ],
+ "LonMcGregor/VivaldiMods": [
+  "Other"
+ ],
+ "LorenzCK/OnTopReplica": [
+  "AI agents & frameworks"
+ ],
+ "MISP/misp-warninglists": [
+  "Other"
+ ],
+ "MODSetter/SurfSense": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "MaggieAppleton/digital-gardeners": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "MagicMirrorOrg/MagicMirror": [
+  "Web dev",
+  "Keyboards & hardware"
+ ],
+ "Magisk-Modules-Repo/acc": [
+  "Android apps & mods"
+ ],
+ "Mahmud0808/Iconify": [
+  "Linux ricing & desktop",
+  "Android apps & mods"
+ ],
+ "MajorGeek/MajorGeeks-Windows-Tweaks": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "Make-md/makemd": [
+  "Productivity & notes"
+ ],
+ "Maker-Management-Platform/docs": [
+  "Other"
+ ],
+ "Matt-FTW/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "MehediH/i8": [
+  "Design & UI"
+ ],
+ "Menghuan1918/gemini-cli-gopls": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "MicaForEveryone/MicaForEveryone": [
+  "Linux ricing & desktop"
+ ],
+ "MichielvanBeers/Flow.Launcher.Plugin.ChatGPT": [
+  "AI agents & frameworks"
+ ],
+ "Microck/opencode-studio": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "MindWorkAI/AI-Studio": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "Misterio77/Foundry": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "MizardX/icons8-downloader": [
+  "Design & UI"
+ ],
+ "MoSbeaa/Excel_to_PDF_Form_Filler_Py": [
+  "Other"
+ ],
+ "Mobile-Artificial-Intelligence/maid": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "ModelTC/LightX2V-Qwen-Image-Lightning": [
+  "Other"
+ ],
+ "Mortafix/i8-downloader": [
+  "Design & UI"
+ ],
+ "MrMarble/drg-editor": [
+  "Dev tools & editors",
+  "Gaming & sims"
+ ],
+ "MuntashirAkon/AppManager": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "NVIDIA/personaplex": [
+  "AI agents & frameworks"
+ ],
+ "NakedTrashPanda/OneCommander-Catppuccin-Theme": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "Nano-Collective/nanocoder": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "NanoNets/ocr-python": [
+  "Data & search"
+ ],
+ "NarYuki/Dextop": [
+  "Android apps & mods",
+  "Linux ricing & desktop"
+ ],
+ "Neurarian/matshell": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "NotionX/react-notion-x": [
+  "Web dev"
+ ],
+ "NousResearch/hermes-agent": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "Nutlope/roomGPT": [
+  "AI agents & frameworks"
+ ],
+ "OHF-Voice/piper1-gpl": [
+  "Other"
+ ],
+ "OpenBMB/MiniCPM-V": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "OpenHands/OpenHands": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "OpenWhispr/openwhispr": [
+  "AI agents & frameworks",
+  "Privacy & security"
+ ],
+ "OrcaSlicer/OrcaSlicer": [
+  "Gaming & sims"
+ ],
+ "OrchestratorInc/agent-orchestrator": [
+  "AI agents & frameworks"
+ ],
+ "Owloops/lnko": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "Panniantong/Agent-Reach": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "PapirusDevelopmentTeam/papirus-icon-theme": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "ParisNeo/lollms-webui": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "PathOfBuildingCommunity/PathOfBuilding": [
+  "Design & UI"
+ ],
+ "PathOfBuildingCommunity/PathOfBuilding-PoE2-v2": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "Peuqui/AIfred-Intelligence": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "Piebald-AI/awesome-gemini-cli": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "Piebald-AI/gemini-cli-desktop": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "PierrunoYT/Kokoro-TTS-Local": [
+  "Other"
+ ],
+ "Pintree-io/pintree": [
+  "Other"
+ ],
+ "PozzettiAndrea/ComfyUI-SAM3DBody": [
+  "Design & UI"
+ ],
+ "PranshulGG/ClockMaster": [
+  "Android apps & mods"
+ ],
+ "PranshulGG/RecordMaster": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "PranshulGG/WeatherMaster": [
+  "Android apps & mods",
+  "Web dev"
+ ],
+ "Procurement-PoE/Procurement": [
+  "Other"
+ ],
+ "ProjectJaneAI/Jane-AI": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "ProjectPhysX/FluidX3D": [
+  "Dev tools & editors",
+  "Design & UI"
+ ],
+ "Psyhackological/AAA": [
+  "Android apps & mods",
+  "Privacy & security"
+ ],
+ "QL-Win/QuickLook": [
+  "Design & UI"
+ ],
+ "QuantumBadger/RedReader": [
+  "Android apps & mods",
+  "Dev tools & editors"
+ ],
+ "QwenAudio/CosyVoice": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "QwenLM/Qwen-Agent": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "QwenLM/qwen-code": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "RUCKBReasoning/TableLLM": [
+  "AI agents & frameworks"
+ ],
+ "Rem0o/FanControl.Releases": [
+  "Other"
+ ],
+ "Rheosoph/flow-like": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "Rikj000/Android-Auto-XLauncher-Unlocked": [
+  "Android apps & mods",
+  "Dev tools & editors"
+ ],
+ "RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask": [
+  "Android apps & mods",
+  "Gaming & sims"
+ ],
+ "RobotoSkunk/ff-better-findbar": [
+  "Linux ricing & desktop",
+  "Gaming & sims"
+ ],
+ "Roy3838/Observer": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "Ruixi-rebirth/melted-flakes": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "RyoJerryYu/obsidian-memos-sync": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "SBoudrias/Inquirer.js": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "SWE-agent/SWE-ReX": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "SWE-agent/SWE-agent": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "SWivid/F5-TTS": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "Sandakan/Nora": [
+  "Android apps & mods",
+  "Web dev"
+ ],
+ "Saramagrean/CWCheat-Database-Plus-": [
+  "Gaming & sims",
+  "Data & search"
+ ],
+ "SesameAILabs/csm": [
+  "AI agents & frameworks"
+ ],
+ "Shabinder/SpotiFlyer": [
+  "Android apps & mods",
+  "Music & media"
+ ],
+ "ShoroukAziz/notion_widgets": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "Sidekick-Poe/Sidekick": [
+  "AI agents & frameworks"
+ ],
+ "Significant-Gravitas/AutoGPT": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "SnosMe/awakened-poe-trade": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "SohelIslamImran/ghosttime": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "Ssoupp/Gnome-Topbar-Rose-Pine-dots": [
+  "Linux ricing & desktop"
+ ],
+ "Stan-breaks/flow_state": [
+  "CLI & terminal tools"
+ ],
+ "Synaptic-MCP/Synaptic": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "T3-Content/claude-blocker": [
+  "AI agents & frameworks"
+ ],
+ "TFyre/bambu-farm": [
+  "Other"
+ ],
+ "Tadelsucht/BulkPDF": [
+  "Other"
+ ],
+ "Taiko2k/Tauon": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "TechHutTV/homelab": [
+  "Self-hosted & homelab"
+ ],
+ "TehCheat/PoEHelper": [
+  "Gaming & sims"
+ ],
+ "TesslateAI/OpenSail": [
+  "AI agents & frameworks"
+ ],
+ "Textualize/frogmouth": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "Th0rgal/open-ralph-wiggum": [
+  "AI agents & frameworks"
+ ],
+ "The-Grand-Archives/Dark-Souls-III-CT-TGA": [
+  "AI agents & frameworks",
+  "Gaming & sims"
+ ],
+ "The-Pocket/PocketFlow-Template-Python": [
+  "AI agents & frameworks"
+ ],
+ "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge": [
+  "AI agents & frameworks"
+ ],
+ "TheAlgorithms/Python": [
+  "Other"
+ ],
+ "Theblackcat98/ASCII-Everything": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "Theblackcat98/AgenticPipelineCreator": [
+  "AI agents & frameworks"
+ ],
+ "Theblackcat98/AnyImage-to-ICO": [
+  "Other"
+ ],
+ "Theblackcat98/CL-AI": [
+  "AI agents & frameworks"
+ ],
+ "Theblackcat98/IG-Post-Agent": [
+  "AI agents & frameworks"
+ ],
+ "Theblackcat98/Online-Tools": [
+  "Other"
+ ],
+ "Theblackcat98/PAGS": [
+  "Other"
+ ],
+ "Theblackcat98/StickyBundles": [
+  "Other"
+ ],
+ "Theblackcat98/SyncWeave": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "Theblackcat98/Text-Adventure-TUI": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "Theblackcat98/TheBlackCat": [
+  "Other"
+ ],
+ "Theblackcat98/Website-Analyzer": [
+  "Other"
+ ],
+ "Theblackcat98/WordPress-Scrape": [
+  "Other"
+ ],
+ "Theblackcat98/atlassian-rovo-source-code-z80-dump": [
+  "CLI & terminal tools"
+ ],
+ "Theblackcat98/awesome-chatgpt-prompts": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "Theblackcat98/clipway": [
+  "Linux ricing & desktop",
+  "Rust projects"
+ ],
+ "Theblackcat98/image-to-stl": [
+  "Other"
+ ],
+ "Theblackcat98/llamacpp-runner": [
+  "Local LLMs & inference",
+  "CLI & terminal tools"
+ ],
+ "Theblackcat98/mermaidCLI": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "Theblackcat98/opencode-workflow": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "Theblackcat98/quickdash": [
+  "Design & UI"
+ ],
+ "Theblackcat98/svg-to-stl": [
+  "Other"
+ ],
+ "Theblackcat98/termux-ui": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "Theblackcat98/tui-kanban": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "Theblackcat98/veritas": [
+  "CLI & terminal tools",
+  "Local LLMs & inference"
+ ],
+ "Theblackcat98/visual-ml": [
+  "Other"
+ ],
+ "TheoLeeCJ/SemIf-OpenJev": [
+  "Local LLMs & inference",
+  "AI agents & frameworks"
+ ],
+ "TiddlyWiki/TiddlyWiki5": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "Tobee1406/Awesome-Yandex-Dorks": [
+  "Awesome lists"
+ ],
+ "Token-Gremlin/natural-disasters": [
+  "Dev tools & editors",
+  "Web dev"
+ ],
+ "Universal-Debloater-Alliance/universal-android-debloater-next-generation": [
+  "Android apps & mods",
+  "Rust projects"
+ ],
+ "Unrud/video-downloader": [
+  "Music & media"
+ ],
+ "Untrivial-ai/agent-orchestrator": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "Vaibhavs10/insanely-fast-whisper": [
+  "AI agents & frameworks"
+ ],
+ "Vendicated/Vencord": [
+  "Linux ricing & desktop"
+ ],
+ "Viir/bots": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "VoltAgent/awesome-agent-skills": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "VoltAgent/awesome-claude-code-subagents": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "WebCrateApp/webcrate": [
+  "Other"
+ ],
+ "X-PLUG/MobileAgent": [
+  "AI agents & frameworks",
+  "Android apps & mods"
+ ],
+ "XIU2/TrackersListCollection": [
+  "AI agents & frameworks"
+ ],
+ "XingangPan/DragGAN": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "Xthebuilder/JRVS": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "YassWorks/Ally": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "ZeroLu/awesome-nanobanana-pro": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "ZeroPointRepo/youtube-skills": [
+  "Agent skills",
+  "Data & search"
+ ],
+ "Zfinix/aster": [
+  "AI agents & frameworks",
+  "Rust projects"
+ ],
+ "ZzzLc0405/photo-abstract-editorial": [
+  "Dev tools & editors"
+ ],
+ "a-ghorbani/pocketpal-ai": [
+  "AI agents & frameworks"
+ ],
+ "aaif-goose/goose": [
+  "AI agents & frameworks"
+ ],
+ "aandrew-me/tgpt": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "aat440hz/RFIDCopy-M5Cardputer": [
+  "Other"
+ ],
+ "aat440hz/SSHClient-M5Cardputer": [
+  "CLI & terminal tools",
+  "Keyboards & hardware"
+ ],
+ "abhidahal/onsetGlaze.flow": [
+  "Linux ricing & desktop"
+ ],
+ "abi/secret-llama": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "abrenneke/rivet-plugin-ollama": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "academicpages/academicpages.github.io": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "accelerated-text/accelerated-text": [
+  "Local LLMs & inference",
+  "Web dev"
+ ],
+ "actuallyakshat/epoch": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "adaszko/complgen": [
+  "CLI & terminal tools"
+ ],
+ "addyosmani/agent-skills": [
+  "Agent skills",
+  "AI agents & frameworks"
+ ],
+ "addyosmani/factory": [
+  "AI agents & frameworks"
+ ],
+ "adi1090x/polybar-themes": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "adi1090x/rofi": [
+  "Awesome lists",
+  "Design & UI"
+ ],
+ "adityatelange/hugo-PaperMod": [
+  "Linux ricing & desktop"
+ ],
+ "ag-ui-protocol/ag-ui": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "agarrharr/awesome-cli-apps": [
+  "CLI & terminal tools",
+  "Awesome lists"
+ ],
+ "agent0ai/agent-zero": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "agent37-platform/minions": [
+  "AI agents & frameworks"
+ ],
+ "agronick/Flattery": [
+  "Design & UI"
+ ],
+ "ahmedkhaleel2004/gitdiagram": [
+  "Dev tools & editors"
+ ],
+ "ai-mastering/phaselimiter-gui": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "aivanelabs/ai-rpa": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "ajeetdsouza/zoxide": [
+  "CLI & terminal tools"
+ ],
+ "alacritty/alacritty": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "alebcay/awesome-shell": [
+  "CLI & terminal tools",
+  "Awesome lists"
+ ],
+ "alesha-pro/tools": [
+  "Local LLMs & inference"
+ ],
+ "alexwohlbruck/cat-facts": [
+  "AI agents & frameworks",
+  "Gaming & sims"
+ ],
+ "allusion-app/Allusion": [
+  "Web dev"
+ ],
+ "altaurog/pdfforms": [
+  "Other"
+ ],
+ "altenull/json-sea": [
+  "Web dev"
+ ],
+ "amithkoujalgi/ollama-pdf-bot": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "amitkmaraj/gemini-cli-custom-slash-commands": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "amosblomqvist/pi-config": [
+  "Other"
+ ],
+ "amosblomqvist/pi-dictate": [
+  "Other"
+ ],
+ "anaisbetts/mcp-youtube": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "android/nowinandroid": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "android/skills": [
+  "Agent skills",
+  "Android apps & mods"
+ ],
+ "anilsharmay/full-stack-local-deep-research-agent": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "anomalyco/opentui": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "ant-design/ant-design": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "anthropics/claude-code": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "anthropics/claude-cookbooks": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "anthropics/claude-quickstarts": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "anthropics/skills": [
+  "AI agents & frameworks"
+ ],
+ "antoinelame/GazeTracking": [
+  "Other"
+ ],
+ "apitable/apitable": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "arch-fan/neovim-raspberry": [
+  "CLI & terminal tools",
+  "Self-hosted & homelab"
+ ],
+ "architectds/collabosm": [
+  "Local LLMs & inference",
+  "Self-hosted & homelab"
+ ],
+ "arfan-on-clouds/hyprclouds": [
+  "Other"
+ ],
+ "aria2/aria2": [
+  "CLI & terminal tools"
+ ],
+ "arsium/EagleMonitorRAT": [
+  "Other"
+ ],
+ "aseprite/aseprite": [
+  "Dev tools & editors",
+  "Design & UI"
+ ],
+ "asgeirtj/system_prompts_leaks": [
+  "AI agents & frameworks",
+  "Gaming & sims"
+ ],
+ "asker-kurtelli/scroll": [
+  "AI agents & frameworks"
+ ],
+ "atineiatte/deep-research-at-home": [
+  "Data & search"
+ ],
+ "atopile/atopile": [
+  "Dev tools & editors"
+ ],
+ "austinhuang0131/austinhuang0131": [
+  "Other"
+ ],
+ "awesome-opencode/awesome-opencode": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "awesome-selfhosted/awesome-selfhosted": [
+  "Self-hosted & homelab",
+  "Privacy & security"
+ ],
+ "awesomeWM/awesome": [
+  "Awesome lists"
+ ],
+ "ayghri/i-have-adhd": [
+  "Agent skills",
+  "Productivity & notes"
+ ],
+ "azianmike/fluid-chat": [
+  "Design & UI"
+ ],
+ "azukaar/Cosmos-Server": [
+  "Self-hosted & homelab",
+  "Dev tools & editors"
+ ],
+ "backnotprop/plannotator": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "backnotprop/pstack": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "backslash-app/backslash": [
+  "Design & UI"
+ ],
+ "basecamp/hey-cli": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "baskerville/bspwm": [
+  "Other"
+ ],
+ "bbidulock/icewm": [
+  "Design & UI"
+ ],
+ "beclab/Olares": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "beromir/Servas": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "bertof/nix-rice": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "bewee/tuya-adapter": [
+  "Other"
+ ],
+ "bhaskatripathi/pdfGPT": [
+  "Other"
+ ],
+ "bhavman2/fba-calculator": [
+  "Other"
+ ],
+ "bhrigu123/classifier": [
+  "Other"
+ ],
+ "bigerbigernerd/PelosiIndex": [
+  "Other"
+ ],
+ "blizzhackers/d4data": [
+  "Other"
+ ],
+ "bluzi/awesome-google-tasks": [
+  "Web dev",
+  "Productivity & notes"
+ ],
+ "bmad-code-org/BMAD-METHOD": [
+  "AI agents & frameworks"
+ ],
+ "bmaltais/kohya_ss": [
+  "AI agents & frameworks"
+ ],
+ "bradtraversy/design-resources-for-developers": [
+  "Awesome lists",
+  "Design & UI"
+ ],
+ "browser-use/browser-use": [
+  "AI agents & frameworks"
+ ],
+ "brumik/obsidian-ollama-chat": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "bsmg/ModAssistant": [
+  "Other"
+ ],
+ "btmills/geopattern": [
+  "Web dev"
+ ],
+ "btw-so/btw": [
+  "Productivity & notes",
+  "Design & UI"
+ ],
+ "bwiernik/zotero-shortdoi": [
+  "Other"
+ ],
+ "camel-ai/owl": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "camenduru/stable-diffusion-webui-colab": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "can1357/oh-my-pi": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "canapaio/update_ollama_and_host": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "cascadefox/cascade": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "casualsnek/cassowary": [
+  "Design & UI"
+ ],
+ "cathrynlavery/diagram-design": [
+  "Agent skills",
+  "Design & UI"
+ ],
+ "catppuccin/catppuccin": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/github": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/home-assistant": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/mdBook": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/reddit": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/sharex": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/spicetify": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/tailwindcss": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "catppuccin/telegram": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/theme.park": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "catppuccin/windows-files": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "chaiNNer-org/chaiNNer": [
+  "AI agents & frameworks",
+  "Productivity & notes"
+ ],
+ "chaoticzeros/Icons8-downloader": [
+  "Design & UI"
+ ],
+ "charmbracelet/crush": [
+  "AI agents & frameworks"
+ ],
+ "charmbracelet/gum": [
+  "CLI & terminal tools"
+ ],
+ "chatbotde/buddydesktop": [
+  "Gaming & sims"
+ ],
+ "chibisafe/chibisafe": [
+  "Web dev"
+ ],
+ "chindaronit/Flux": [
+  "Android apps & mods",
+  "Productivity & notes"
+ ],
+ "chrisbanes/skills": [
+  "Agent skills",
+  "Android apps & mods"
+ ],
+ "cinnyapp/cinny-desktop": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "claraverse-space/ClaraVerse": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "clduab11/gemini-flow": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "clxxiii/dots": [
+  "Other"
+ ],
+ "code-charity/youtube": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "code-yeongyu/oh-my-openagent": [
+  "AI agents & frameworks"
+ ],
+ "codecrafters-io/build-your-own-x": [
+  "Dev tools & editors",
+  "Awesome lists"
+ ],
+ "cogwheel0/conduit": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "collin80/SavvyCAN": [
+  "Other"
+ ],
+ "commaai/opendbc": [
+  "AI agents & frameworks"
+ ],
+ "community-scripts/ProxmoxVE": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "cordiverse/paper": [
+  "Other"
+ ],
+ "coreply/cooperate": [
+  "AI agents & frameworks",
+  "Android apps & mods"
+ ],
+ "cozymantis/clothes-swap-salvton-comfyui-workflow": [
+  "Design & UI"
+ ],
+ "cozymantis/pose-generator-comfyui-node": [
+  "Design & UI"
+ ],
+ "cpcloud/minesweep-rs": [
+  "Rust projects",
+  "Gaming & sims"
+ ],
+ "crackerica/Awesome-Linux-Software": [
+  "Awesome lists",
+  "Design & UI"
+ ],
+ "cryinkfly/Solid-Edge-for-Linux": [
+  "Design & UI"
+ ],
+ "cursor/community-plugins": [
+  "Other"
+ ],
+ "d3/d3": [
+  "Linux ricing & desktop"
+ ],
+ "d3ward/floatly": [
+  "Design & UI"
+ ],
+ "daattali/beautiful-jekyll": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "dacctal/pkgit": [
+  "Dev tools & editors"
+ ],
+ "danny094/Jarvis": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "daradib/openwebui-plugins": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "darcyegb/ClaudeCodeAgents": [
+  "AI agents & frameworks"
+ ],
+ "darrenburns/elia": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "darrenhinde/OpenAgentsControl": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "darrikonn/td-cli": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "datguypiko/Firefox-Mod-Blur": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "ddPn08/automatic1111-colab": [
+  "Design & UI"
+ ],
+ "ddoemonn/interior": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "deepseek-ai/deepseek-harness": [
+  "AI agents & frameworks"
+ ],
+ "derekbar90/opencode-conductor": [
+  "Linux ricing & desktop"
+ ],
+ "desertbit/fillpdf": [
+  "Other"
+ ],
+ "dessalines/thumb-key": [
+  "Android apps & mods",
+  "Dev tools & editors"
+ ],
+ "djcopley/ShellOracle": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "dlvhdr/gh-dash": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "docker/compose": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "domialex/Sidekick": [
+  "Other"
+ ],
+ "dondai1234/master-fetch": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "dontriskit/awesome-ai-system-prompts": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "doomemacs/core": [
+  "CLI & terminal tools"
+ ],
+ "droberson/ssh-honeypot": [
+  "Other"
+ ],
+ "dstark5/Openlib": [
+  "Self-hosted & homelab",
+  "Android apps & mods"
+ ],
+ "dwisiswant0/apkleaks": [
+  "Android apps & mods",
+  "Privacy & security"
+ ],
+ "dyad-sh/dyad": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "dynobo/normcap": [
+  "Other"
+ ],
+ "eagle-app/eagle-plugin-examples": [
+  "Other"
+ ],
+ "easydiffusion/easydiffusion": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "eflynch/magnolial": [
+  "Self-hosted & homelab"
+ ],
+ "egoist/waku": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "elder-plinius/CL4R1T4S": [
+  "AI agents & frameworks"
+ ],
+ "elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT": [
+  "AI agents & frameworks"
+ ],
+ "elder-plinius/OBLITERATUS": [
+  "AI agents & frameworks"
+ ],
+ "elizaOS/eliza": [
+  "AI agents & frameworks",
+  "Gaming & sims"
+ ],
+ "elkowar/eww": [
+  "Linux ricing & desktop",
+  "Rust projects"
+ ],
+ "end-4/dots-hyprland": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "ephraimduncan/awesome-developer-dictionary": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "etchdroid/etchdroid": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "ev-flow/quark-engine": [
+  "Android apps & mods"
+ ],
+ "ever-co/ever-traduora": [
+  "Self-hosted & homelab"
+ ],
+ "exa-labs/exa-mcp-server": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "eyaltoledano/claude-task-master": [
+  "AI agents & frameworks",
+  "Productivity & notes"
+ ],
+ "eythaann/Seelen-UI": [
+  "Linux ricing & desktop",
+  "Productivity & notes"
+ ],
+ "f/prompts.chat": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "f1xpl/openauto": [
+  "Android apps & mods",
+  "Gaming & sims"
+ ],
+ "facebookresearch/sam-3d-objects": [
+  "Data & search"
+ ],
+ "farag2/Sophia-Script-for-Windows": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "faressoft/terminalizer": [
+  "CLI & terminal tools"
+ ],
+ "fernandofatech/tool-m5cardputer-sshclient": [
+  "CLI & terminal tools",
+  "Keyboards & hardware"
+ ],
+ "ferreol-fr/ZUI14PCModeSwitch": [
+  "Design & UI"
+ ],
+ "flesler/mcp-tasks": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "floating-ui/floating-ui": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "fmhy/edit": [
+  "Music & media"
+ ],
+ "fontello/ttf2woff": [
+  "Other"
+ ],
+ "foobnix/LibreraReader": [
+  "Android apps & mods"
+ ],
+ "forcewake/hermes-conductor": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "freeCodeCamp/freeCodeCamp": [
+  "Dev tools & editors",
+  "Web dev"
+ ],
+ "freemocap/freemocap": [
+  "Other"
+ ],
+ "frostybiscuit/transparent-zen": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "fufexan/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "furkankly/zoetrope": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "gabber-dev/gabber": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "galfrevn/apollo": [
+  "AI agents & frameworks"
+ ],
+ "gamehublite/gamehub-oss": [
+  "Gaming & sims",
+  "Privacy & security"
+ ],
+ "gastownhall/beads": [
+  "AI agents & frameworks"
+ ],
+ "gelstudios/gitfiti": [
+  "Dev tools & editors"
+ ],
+ "gemini-cli-extensions/conductor": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "gerwaric/acquisition": [
+  "Data & search",
+  "Design & UI"
+ ],
+ "gethomepage/homepage": [
+  "Self-hosted & homelab",
+  "Web dev"
+ ],
+ "getpaseo/paseo": [
+  "AI agents & frameworks"
+ ],
+ "getpelican/pelican-plugins": [
+  "Other"
+ ],
+ "git-bahn/git-graph": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "github/codespaces-django": [
+  "Dev tools & editors"
+ ],
+ "github/government.github.com": [
+  "Dev tools & editors"
+ ],
+ "github/spec-kit": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "gitroomhq/postiz-app": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "glotlabs/gdrive": [
+  "CLI & terminal tools"
+ ],
+ "go-gitea/gitea": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "goabstract/Awesome-Design-Tools": [
+  "Awesome lists",
+  "Design & UI"
+ ],
+ "godotengine/godot-demo-projects": [
+  "Other"
+ ],
+ "gokadzev/Musify": [
+  "Android apps & mods",
+  "Music & media"
+ ],
+ "google-ai-edge/gallery": [
+  "AI agents & frameworks"
+ ],
+ "google-ai-edge/mediapipe-samples": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "google-antigravity/antigravity-cli": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "google-gemini/cookbook": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "google-gemini/gemini-cli": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "google/adk-recipes": [
+  "Agent skills",
+  "AI agents & frameworks"
+ ],
+ "google/adk-samples": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "google/go-github": [
+  "Dev tools & editors"
+ ],
+ "google/guava": [
+  "Other"
+ ],
+ "google/material-design-icons": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "google/skills": [
+  "AI agents & frameworks"
+ ],
+ "gpakosz/.tmux": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "gr8rstudio/gr8r-studio": [
+  "Productivity & notes"
+ ],
+ "gricha/macro-photo": [
+  "AI agents & frameworks"
+ ],
+ "grigio/llm-eval-simple": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "grommet/design-kit": [
+  "Design & UI"
+ ],
+ "grouzen/framework-tool-tui": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "gvzdv/claudish-to-english": [
+  "Other"
+ ],
+ "gyoridavid/short-video-maker": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "hackerkid/bots": [
+  "Gaming & sims",
+  "Awesome lists"
+ ],
+ "hacksider/Deep-Live-Cam": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "hamen/material-3-skill": [
+  "Agent skills",
+  "Design & UI"
+ ],
+ "handlebars-lang/handlebars.js": [
+  "Linux ricing & desktop"
+ ],
+ "hans/obsidian-citation-plugin": [
+  "Dev tools & editors",
+  "Productivity & notes"
+ ],
+ "harish-garg/gemini-cli-prompt-library": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "harmoneer/taman": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "haydenkz/llama-chat": [
+  "Android apps & mods",
+  "Local LLMs & inference"
+ ],
+ "helloworldxdwastaken/WebCrawler": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "henryalps/OpenManus": [
+  "AI agents & frameworks"
+ ],
+ "henson/Scraper": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "herdrdev/herdr": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "hexdocom/lemonai": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "hkdb/otui": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "hoothin/UserScripts": [
+  "Other"
+ ],
+ "hosenur/portal": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "huggingface/chat-ui": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "hyepartners-gmail/vibevideo-mcp": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "hyper-dot/Arch-Hyprland": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "hypothesis/pdf.js-hypothes.is": [
+  "Other"
+ ],
+ "hyprland-community/awesome-hyprland": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "hyprwm/Hyprland": [
+  "Linux ricing & desktop"
+ ],
+ "hyprwm/hyprland-plugins": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "hyprwm/hyprpicker": [
+  "Linux ricing & desktop",
+  "Android apps & mods"
+ ],
+ "iBotPeaches/Apktool": [
+  "Android apps & mods",
+  "Gaming & sims"
+ ],
+ "iNavFlight/inav": [
+  "AI agents & frameworks"
+ ],
+ "iOfficeAI/AionUi": [
+  "AI agents & frameworks"
+ ],
+ "iamdabe/Homepage-Dashboard": [
+  "Other"
+ ],
+ "iammrduncan/inference-benchmarks": [
+  "Local LLMs & inference"
+ ],
+ "iamr0s/AndroidAccounts": [
+  "Android apps & mods"
+ ],
+ "ibelick/zola": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "imfing/hextra": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "inkle/ink": [
+  "Other"
+ ],
+ "inkle/inky": [
+  "Dev tools & editors"
+ ],
+ "instantX-research/InstantID": [
+  "Data & search"
+ ],
+ "invoke-ai/InvokeAI": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "it-gssb/pdffiller": [
+  "AI agents & frameworks"
+ ],
+ "jackyzha0/hugo-obsidian": [
+  "Dev tools & editors",
+  "Productivity & notes"
+ ],
+ "jakubkrehel/make-interfaces-feel-better": [
+  "Agent skills",
+  "Design & UI"
+ ],
+ "jankeesvw/omarchy-meeting-recorder": [
+  "Linux ricing & desktop",
+  "Privacy & security"
+ ],
+ "jasonlong/cayman-theme": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "jasonlong/geo_pattern": [
+  "Other"
+ ],
+ "jduncan-rva/skill-porter": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "jeffshee/hidamari": [
+  "Linux ricing & desktop",
+  "Music & media"
+ ],
+ "jekyll/jekyll": [
+  "Productivity & notes",
+  "Design & UI"
+ ],
+ "jgravelle/AutoGroq": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "jhuckaby/Cronicle": [
+  "Self-hosted & homelab",
+  "Productivity & notes"
+ ],
+ "jimaldon/openwebui-omnibox": [
+  "Linux ricing & desktop",
+  "Data & search"
+ ],
+ "jlevy/the-art-of-command-line": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "joelzanden/mine": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "joemccann/dillinger": [
+  "Dev tools & editors",
+  "Web dev"
+ ],
+ "joeynyc/hermes-hud": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "john-smilga/react-projects": [
+  "Web dev"
+ ],
+ "jon4hz/d4eventbot": [
+  "Gaming & sims"
+ ],
+ "jonaburg/picom": [
+  "Other"
+ ],
+ "joseluis9595/lovelace-navbar-card": [
+  "Linux ricing & desktop",
+  "Gaming & sims"
+ ],
+ "josephmisiti/awesome-machine-learning": [
+  "Awesome lists"
+ ],
+ "josippapez/webos_lockout": [
+  "Privacy & security"
+ ],
+ "junyu-w/corgi": [
+  "CLI & terminal tools"
+ ],
+ "justdanpo/VivaldiHooks": [
+  "Other"
+ ],
+ "kamekairos/KK-OneCommanderScripts": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "kamiyaa/joshuto": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "kando-menu/kando": [
+  "Dev tools & editors",
+  "Web dev"
+ ],
+ "karakasis/Path-of-Leveling": [
+  "Design & UI"
+ ],
+ "karakeep-app/karakeep": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "karma9874/AndroRAT": [
+  "CLI & terminal tools",
+  "Self-hosted & homelab"
+ ],
+ "kartikkabadi/soul.md": [
+  "Other"
+ ],
+ "kayozxo/GNOME-macOS-Tahoe": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "kdcokenny/opencode-workspace": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "kdcokenny/opencode-worktree": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "kdheepak/taskwarrior-tui": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "kefir500/apk-editor-studio": [
+  "Android apps & mods",
+  "Dev tools & editors"
+ ],
+ "kepano/flexoki": [
+  "Other"
+ ],
+ "kepano/obsidian-skills": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "khanhas/Polybar": [
+  "Linux ricing & desktop"
+ ],
+ "kiblee/tod0": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "knennigtri/merge-markdown": [
+  "Productivity & notes"
+ ],
+ "koreader/koreader": [
+  "Android apps & mods"
+ ],
+ "kortix-ai/suna": [
+  "AI agents & frameworks"
+ ],
+ "kpritam/cliq": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "ksimback/hermes-ecosystem": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "kunkunsh/kunkun": [
+  "Web dev",
+  "Rust projects"
+ ],
+ "kwsch/NHSE": [
+  "Dev tools & editors"
+ ],
+ "kzrtn/unnamed-3k-v2": [
+  "Gaming & sims",
+  "Keyboards & hardware"
+ ],
+ "labuladong/fucking-algorithm": [
+  "Dev tools & editors"
+ ],
+ "langflow-ai/langflow": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "langfuse/langfuse": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "learnbyexample/TUI-apps": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "lencx/ChatGPT": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "lencx/nofwl": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "leonkt/zotero-memento": [
+  "Other"
+ ],
+ "leyrshroud/ZuiTranslator": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "lfnovo/open-notebook": [
+  "Productivity & notes"
+ ],
+ "libre-tube/LibreTube": [
+  "Android apps & mods",
+  "Web dev"
+ ],
+ "linebender/druid": [
+  "Rust projects",
+  "Design & UI"
+ ],
+ "lingjiuu/hermes-dynamic-workflows": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "linkfrg/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "liquidslr/system-design-notes": [
+  "Productivity & notes"
+ ],
+ "lllyasviel/ControlNet": [
+  "Other"
+ ],
+ "lllyasviel/Fooocus": [
+  "Other"
+ ],
+ "lm-sys/FastChat": [
+  "AI agents & frameworks",
+  "Gaming & sims"
+ ],
+ "lnkiai/m3e-canvas": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "lockfale/OSINT-Framework": [
+  "AI agents & frameworks"
+ ],
+ "logicalman3812/hyprdots": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "lucide-icons/lucide": [
+  "Dev tools & editors",
+  "Web dev"
+ ],
+ "luislve17/catree": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "lukegarbutt/RunescapeBots": [
+  "Gaming & sims"
+ ],
+ "lukeorth/poison": [
+  "Linux ricing & desktop"
+ ],
+ "lyuai/agentok": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "m-murasovs/amazon-bestsellers-scraper": [
+  "Design & UI"
+ ],
+ "madhvantyagi/SOUL.md": [
+  "AI agents & frameworks"
+ ],
+ "magnitudedev/magnitude": [
+  "Local LLMs & inference"
+ ],
+ "malhashemi/opencode-skills": [
+  "Other"
+ ],
+ "marckrenn/claude-code-changelog": [
+  "AI agents & frameworks"
+ ],
+ "marcopiovanello/yt-dlp-web-ui": [
+  "Self-hosted & homelab",
+  "Music & media"
+ ],
+ "marella/material-icons": [
+  "Design & UI"
+ ],
+ "marhkb/pods": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "marivaaldo/ESP32Marauder": [
+  "Keyboards & hardware",
+  "Design & UI"
+ ],
+ "martin-braun/CocChad": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "massgravel/Microsoft-Activation-Scripts": [
+  "Other"
+ ],
+ "matatonic/openedai-speech": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "mattpocock/skills": [
+  "AI agents & frameworks"
+ ],
+ "maxandrews/Epstein-doc-explorer": [
+  "AI agents & frameworks"
+ ],
+ "mdbootstrap/mdb-ui-kit": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "meilisearch/meilisearch": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "meodai/color-names": [
+  "AI agents & frameworks"
+ ],
+ "meticha/material-3-expressive-catalog": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "microsoft/Mage": [
+  "Other"
+ ],
+ "microsoft/agent-lightning": [
+  "AI agents & frameworks"
+ ],
+ "microsoft/foundry-local": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "microsoft/magentic-ui": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "microsoft/markitdown": [
+  "AI agents & frameworks",
+  "Productivity & notes"
+ ],
+ "microsoft/pyright": [
+  "Other"
+ ],
+ "mikefarah/yq": [
+  "CLI & terminal tools"
+ ],
+ "mmistakes/minimal-mistakes": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "moazbuilds/CodeMachine-CLI": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "modelcontextprotocol/servers": [
+  "Self-hosted & homelab"
+ ],
+ "moktavizen/material-darker-jdownloader": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "moodlebox/moodlebox": [
+  "Self-hosted & homelab",
+  "Keyboards & hardware"
+ ],
+ "morluto/rea": [
+  "Agent skills",
+  "Privacy & security"
+ ],
+ "mozilla/pdf.js": [
+  "Web dev"
+ ],
+ "mrdjohnson/llm-x": [
+  "AI agents & frameworks",
+  "Gaming & sims"
+ ],
+ "mronkko/ZoteroQuickLook": [
+  "Design & UI"
+ ],
+ "msmps/opentui-skill": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "muePatrick/zsh-ai-commands": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "mui-toolkit/mui-toolkit": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "mui/material-ui": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "mukulpatnaik/researchgpt": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "musistudio/claude-code-router": [
+  "AI agents & frameworks"
+ ],
+ "mutonby/openshorts": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "n0xa/m5stick-nemo": [
+  "Dev tools & editors",
+  "Keyboards & hardware"
+ ],
+ "n8n-io/n8n": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "namazso/SecureUxTheme": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "nasa-gibs/worldview": [
+  "Self-hosted & homelab",
+  "Dev tools & editors"
+ ],
+ "nathanhoulamy/wallrice": [
+  "Linux ricing & desktop"
+ ],
+ "natowi/photogrammetry_datasets": [
+  "Awesome lists"
+ ],
+ "nelsonwerd/idea-to-ship-skills": [
+  "Agent skills",
+  "Dev tools & editors"
+ ],
+ "neuromorph/openbar": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "newo-ether/Agora": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "nextcloud/all-in-one": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "nexu-io/open-design": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "nezvers/Godot-GameTemplate": [
+  "Gaming & sims"
+ ],
+ "ngosang/trackerslist": [
+  "Other"
+ ],
+ "nick-tonjum/open-webui-artifacts-overhaul": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "nitroshare/nitroshare-desktop": [
+  "Design & UI"
+ ],
+ "niyumard/Doom-Emacs-Cheat-Sheet": [
+  "Gaming & sims",
+  "Design & UI"
+ ],
+ "noahdunnagan/fsearch": [
+  "Data & search",
+  "Rust projects"
+ ],
+ "nocodb/nocodb": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "nomic-ai/gpt4all": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "novnc/noVNC": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "nsh07/Tomato": [
+  "Android apps & mods"
+ ],
+ "nvbn/thefuck": [
+  "CLI & terminal tools"
+ ],
+ "nwg-piotr/nwg-shell": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "nyxiereal/XToolbox": [
+  "Design & UI"
+ ],
+ "obra/superpowers": [
+  "AI agents & frameworks"
+ ],
+ "ocrmypdf/OCRmyPDF": [
+  "Data & search"
+ ],
+ "odysseus-dev/odysseus": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "ogham/exa": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "ohmyzsh/ohmyzsh": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "olegos2/termux-box": [
+  "Design & UI"
+ ],
+ "ollama/ollama": [
+  "Local LLMs & inference"
+ ],
+ "omacom/omarchy": [
+  "Design & UI"
+ ],
+ "omnivore-app/omnivore": [
+  "Productivity & notes"
+ ],
+ "one-aalam/astro-ink": [
+  "Linux ricing & desktop",
+  "Productivity & notes"
+ ],
+ "open-forest-observatory/automate-metashape": [
+  "Dev tools & editors"
+ ],
+ "open-webui/mcpo": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "open-webui/open-webui": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "openagents-org/openagents": [
+  "AI agents & frameworks"
+ ],
+ "openai/skills": [
+  "AI agents & frameworks"
+ ],
+ "openai/whisper": [
+  "AI agents & frameworks"
+ ],
+ "opencode-ai/opencode": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "openvisionapi/ova-client": [
+  "CLI & terminal tools"
+ ],
+ "opf/openproject": [
+  "Other"
+ ],
+ "oraios/serena": [
+  "AI agents & frameworks"
+ ],
+ "orderedlist/minimal": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "osolmaz/pi-workflows": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "owndev/Open-WebUI-Functions": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "oyesaifi/icons8free": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "pacocoursey/Opus": [
+  "Web dev"
+ ],
+ "palantir/blueprint": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "paperless-ngx/paperless-ngx": [
+  "AI agents & frameworks"
+ ],
+ "penpot/penpot": [
+  "Design & UI"
+ ],
+ "penso/herdr-gpui": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "perslev/CanvasSync": [
+  "Self-hosted & homelab"
+ ],
+ "piqnt/svgexport": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "plannotator/effective-html": [
+  "Agent skills",
+  "Web dev"
+ ],
+ "plasmicapp/plasmic": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "pmndrs/leva": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "poetiq-ai/poetiq-arc-agi-solver": [
+  "AI agents & frameworks"
+ ],
+ "popcorntime/popcorntime": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "pr3y/bruce_old": [
+  "Keyboards & hardware"
+ ],
+ "practical-tutorials/project-based-learning": [
+  "Web dev",
+  "Awesome lists"
+ ],
+ "prasanthrangan/hyprdots": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "prevalentWare/opencode-goal-plugin": [
+  "Agent skills",
+  "AI agents & frameworks"
+ ],
+ "progfay/shields-with-icon": [
+  "Other"
+ ],
+ "public-apis/public-apis": [
+  "Other"
+ ],
+ "punkpeye/awesome-mcp-clients": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "punkpeye/awesome-mcp-servers": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "purocean/yn": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "qdrant/qdrant": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "qsniyg/maxurl": [
+  "Music & media"
+ ],
+ "radix-ui/primitives": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "raindropio/app": [
+  "AI agents & frameworks"
+ ],
+ "ralksta/ComfyUI-Photoshoot": [
+  "AI agents & frameworks"
+ ],
+ "ranger/ranger": [
+  "CLI & terminal tools"
+ ],
+ "raphamorim/rio": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "ratatui/awesome-ratatui": [
+  "Awesome lists",
+  "CLI & terminal tools"
+ ],
+ "ratatui/ratatui": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "ratatui/ratatui-spinner": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "raulvidis/hermes-android": [
+  "AI agents & frameworks",
+  "Android apps & mods"
+ ],
+ "rcalme/svg-to-stl": [
+  "Other"
+ ],
+ "react-dnd/react-dnd": [
+  "Web dev",
+  "Gaming & sims"
+ ],
+ "refreshdotdev/web-eval-agent": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "release-argus/Argus": [
+  "Web dev"
+ ],
+ "renjfk/opencode-voice": [
+  "Other"
+ ],
+ "reorproject/reor": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "ribelo/taskwarrior.nvim": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "rikkahub/rikkahub": [
+  "AI agents & frameworks",
+  "Android apps & mods"
+ ],
+ "robbyczgw-cla/hermes-web-search-plus": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "robocode-dev/tank-royale": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "rock3r/android-ux-skills": [
+  "Agent skills",
+  "Android apps & mods"
+ ],
+ "rodion-gudz/Android-Tool": [
+  "Android apps & mods"
+ ],
+ "rose-pine/windows-terminal": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "rumaan/astro-vercel-og": [
+  "Self-hosted & homelab"
+ ],
+ "rustdesk/rustdesk": [
+  "Android apps & mods",
+  "Rust projects"
+ ],
+ "rzashakeri/beautify-github-profile": [
+  "Dev tools & editors"
+ ],
+ "s1dashu/ip-as-logo-skill": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "saber-notes/saber": [
+  "Android apps & mods",
+  "Productivity & notes"
+ ],
+ "safzanpirani/pi-commandcode-provider": [
+  "AI agents & frameworks"
+ ],
+ "sameerasw/essentials": [
+  "Android apps & mods"
+ ],
+ "santhreal/veyyon": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "sb-ocr/ocreeb-12": [
+  "Keyboards & hardware"
+ ],
+ "sdias/win-10-virtual-desktop-enhancer": [
+  "Linux ricing & desktop",
+  "Keyboards & hardware"
+ ],
+ "seerge/g-helper": [
+  "Other"
+ ],
+ "sejjy/mechabar": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "sentient-agi/ROMA": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "seven1m/open-bibles": [
+  "AI agents & frameworks"
+ ],
+ "severity1/claude-code-prompt-improver": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "shadcn-ui/ui": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "shashanktomar/ratatui-cheese": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "sherlock-project/sherlock": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "shrimqy/Sefirah": [
+  "Android apps & mods",
+  "Linux ricing & desktop"
+ ],
+ "shrwnsan/clix-dev-flow": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "shyamsaktawat/OpenAlpha_Evolve": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "simonw/raccoon-heist-codex": [
+  "AI agents & frameworks"
+ ],
+ "simplifaisoul/osiris": [
+  "AI agents & frameworks"
+ ],
+ "simstudioai/sim": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "sindresorhus/awesome": [
+  "Awesome lists"
+ ],
+ "singul-oss/Singularitys-Collection": [
+  "Other"
+ ],
+ "siyuan-note/siyuan": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "sizzlemctwizzle/UserScripts": [
+  "Other"
+ ],
+ "skills/github-pages": [
+  "Dev tools & editors"
+ ],
+ "slab/quill": [
+  "Dev tools & editors",
+  "Design & UI"
+ ],
+ "smallcatlabs/acquisition-qt": [
+  "Gaming & sims"
+ ],
+ "snarktank/ai-dev-tasks": [
+  "AI agents & frameworks",
+  "Productivity & notes"
+ ],
+ "sofianedjerbi/batimg": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "somepaulo/MoreWaita": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "sorin-ionescu/prezto": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "spacedriveapp/spacedrive": [
+  "Web dev",
+  "Rust projects"
+ ],
+ "spacejam/sled": [
+  "Data & search"
+ ],
+ "spicetify/cli": [
+  "CLI & terminal tools",
+  "Music & media"
+ ],
+ "spotDL/spotify-downloader": [
+  "Music & media"
+ ],
+ "stabldev/torrra": [
+  "CLI & terminal tools",
+  "Data & search"
+ ],
+ "stackblitz-labs/bolt.diy": [
+  "AI agents & frameworks"
+ ],
+ "stefan-jansen/machine-learning-for-trading": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "stepanzubkov/where-is-my-sddm-theme": [
+  "Linux ricing & desktop"
+ ],
+ "stepfun-ai/gelab-zero": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "storytold/artcraft": [
+  "Design & UI",
+  "AI agents & frameworks"
+ ],
+ "storytold/cadcraft": [
+  "Rust projects",
+  "Design & UI"
+ ],
+ "storytold/craft-launcher": [
+  "Linux ricing & desktop"
+ ],
+ "storytold/filmcraft": [
+  "Rust projects",
+  "Music & media"
+ ],
+ "storytold/pdfcraft": [
+  "Rust projects",
+  "Dev tools & editors"
+ ],
+ "storytold/wordcraft": [
+  "Rust projects",
+  "Productivity & notes"
+ ],
+ "streamlit/streamlit": [
+  "Dev tools & editors",
+  "Design & UI"
+ ],
+ "strix/canvas-hack": [
+  "Other"
+ ],
+ "superdesigndev/superdesign": [
+  "AI agents & frameworks",
+  "Design & UI"
+ ],
+ "swamimalode07/rare-ui": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "sxyazi/yazi": [
+  "CLI & terminal tools",
+  "Android apps & mods"
+ ],
+ "sybil-solutions/ai-data-extraction": [
+  "Privacy & security",
+  "AI agents & frameworks"
+ ],
+ "t3-oss/create-t3-app": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "taC-h/eagle_cool": [
+  "Other"
+ ],
+ "tabler/tabler-icons": [
+  "Design & UI"
+ ],
+ "tagspaces/tagspaces": [
+  "Web dev"
+ ],
+ "tailwindlabs/headlessui": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "tanepiper/obsidian-garden": [
+  "Productivity & notes"
+ ],
+ "tarun7r/deep-research-agent": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "tbabej/taskwiki": [
+  "CLI & terminal tools",
+  "Productivity & notes"
+ ],
+ "team-spotube/spotube": [
+  "Music & media"
+ ],
+ "termux/termux-app": [
+  "CLI & terminal tools",
+  "Android apps & mods"
+ ],
+ "terremoth/awesome-m5stack-cardputer": [
+  "Awesome lists"
+ ],
+ "tfeldmann/organize": [
+  "CLI & terminal tools"
+ ],
+ "theJayTea/WritingTools": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "themepark-dev/theme.park": [
+  "Linux ricing & desktop",
+  "Self-hosted & homelab"
+ ],
+ "theowenyoung/gatsby-theme-primer-wiki": [
+  "Linux ricing & desktop",
+  "Productivity & notes"
+ ],
+ "thesysdev/openui": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "thibmaek/awesome-raspberry-pi": [
+  "Keyboards & hardware",
+  "Awesome lists"
+ ],
+ "thoughtbot/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "threat9/routersploit": [
+  "Other"
+ ],
+ "throwaway96/slopbro": [
+  "Privacy & security"
+ ],
+ "tintinweb/pi-subagents": [
+  "AI agents & frameworks"
+ ],
+ "tixl3d/tixl": [
+  "Design & UI"
+ ],
+ "tjackenpacken/taskbar-groups": [
+  "Linux ricing & desktop",
+  "Productivity & notes"
+ ],
+ "toasttastesgood/hackademy": [
+  "Other"
+ ],
+ "tobi/disktree": [
+  "Linux ricing & desktop"
+ ],
+ "toeverything/AFFiNE": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "tom-doerr/zsh_codex": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "tomyeo88/youtube-analyzer-openwebui": [
+  "Music & media",
+  "Design & UI"
+ ],
+ "topjohnwu/Magisk": [
+  "Android apps & mods"
+ ],
+ "totec448-spec/chat-on-steroids": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "traefik/traefik": [
+  "Self-hosted & homelab"
+ ],
+ "travisvn/awesome-claude-skills": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "travisvn/chatterbox-tts-api": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "trendy-design/llmchat": [
+  "AI agents & frameworks",
+  "Web dev"
+ ],
+ "tryretool/react-retool": [
+  "Web dev"
+ ],
+ "ttommyth/interactive-mcp": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "tuanlda78202/gpt-oss-amd": [
+  "Local LLMs & inference"
+ ],
+ "tuya-cloudcutter/tuya-cloudcutter": [
+  "Other"
+ ],
+ "twhlynch/Web-ADB-Menu": [
+  "Other"
+ ],
+ "unkn0wn-root/resterm": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "unslothai/unsloth": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "unsupportedpastels/mercury": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "upstash/context7": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "usamaiqb/mark-reader": [
+  "AI agents & frameworks",
+  "Productivity & notes"
+ ],
+ "usememos/memos": [
+  "Self-hosted & homelab",
+  "Productivity & notes"
+ ],
+ "uzairansaruzi/hermex": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "vadimdemedes/ink": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "valinet/ExplorerPatcher": [
+  "AI agents & frameworks"
+ ],
+ "vanjs-org/van": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "vercel-labs/skills": [
+  "AI agents & frameworks"
+ ],
+ "vicinaehq/extensions": [
+  "Linux ricing & desktop"
+ ],
+ "vicinaehq/vicinae": [
+  "Dev tools & editors",
+  "Productivity & notes"
+ ],
+ "vinceliuice/MacTahoe-gtk-theme": [
+  "Linux ricing & desktop",
+  "Design & UI"
+ ],
+ "vincerubinetti/svg-to-png": [
+  "Web dev"
+ ],
+ "vinta/awesome-python": [
+  "Awesome lists"
+ ],
+ "vira-soft/vira-assets": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "vizenc/material-darker-jdownloader": [
+  "Linux ricing & desktop"
+ ],
+ "vladikoff/chromeos-apk": [
+  "Android apps & mods",
+  "Design & UI"
+ ],
+ "vllm-project/vllm": [
+  "AI agents & frameworks",
+  "Local LLMs & inference"
+ ],
+ "vsmode/pixel8": [
+  "Web dev",
+  "Gaming & sims"
+ ],
+ "vv9k/vim-github-dark": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "w00000dy/WLED-GUI": [
+  "Web dev",
+  "Design & UI"
+ ],
+ "wavetermdev/waveterm": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "waynesutton/promptstack": [
+  "AI agents & frameworks",
+  "Data & search"
+ ],
+ "wdhdev/free-for-life": [
+  "AI agents & frameworks",
+  "Awesome lists"
+ ],
+ "webpro/awesome-dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "wesammustafa/opencode-primer": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "wheresryan22/anatomy": [
+  "Agent skills",
+  "Design & UI"
+ ],
+ "wiiznokes/gitnote": [
+  "Android apps & mods",
+  "Dev tools & editors"
+ ],
+ "windingwind/zotero-pdf-preview": [
+  "Other"
+ ],
+ "winthemers/wiki": [
+  "Linux ricing & desktop",
+  "Dev tools & editors"
+ ],
+ "witalihirsch/qBitTorrent-fluent-theme": [
+  "Linux ricing & desktop"
+ ],
+ "witt3rd/oh-my-hermes": [
+  "Agent skills",
+  "AI agents & frameworks"
+ ],
+ "wled/WLED": [
+  "Dev tools & editors",
+  "Keyboards & hardware"
+ ],
+ "wrefgtzweve/combo-gen": [
+  "AI agents & frameworks",
+  "Privacy & security"
+ ],
+ "wrtnlabs/autobe": [
+  "AI agents & frameworks",
+  "Self-hosted & homelab"
+ ],
+ "wshobson/agents": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "x0rzavi/x0rzavi": [
+  "Dev tools & editors"
+ ],
+ "x1xhlol/system-prompts-and-models-of-ai-tools": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "xai-org/grok-build": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "xaspx/hermes-control-interface": [
+  "AI agents & frameworks",
+  "CLI & terminal tools"
+ ],
+ "xou816/spot": [
+  "AI agents & frameworks",
+  "Linux ricing & desktop"
+ ],
+ "yagnikpt/dotfiles": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "yoheinakajima/babyagi": [
+  "Other"
+ ],
+ "yorukot/superfile": [
+  "CLI & terminal tools",
+  "Design & UI"
+ ],
+ "you-apps/ClockYou": [
+  "Android apps & mods",
+  "Privacy & security"
+ ],
+ "you-apps/WallYou": [
+  "Linux ricing & desktop",
+  "Android apps & mods"
+ ],
+ "youpie/Iconic": [
+  "Linux ricing & desktop",
+  "Rust projects"
+ ],
+ "yourselfhosted/slash": [
+  "Self-hosted & homelab",
+  "Web dev"
+ ],
+ "ysharma3501/FastNeuTTS": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "yt-dlp/yt-dlp": [
+  "CLI & terminal tools",
+  "Music & media"
+ ],
+ "ytdl-org/youtube-dl": [
+  "CLI & terminal tools",
+  "Music & media"
+ ],
+ "ytmdesktop/ytmdesktop": [
+  "Web dev",
+  "Music & media"
+ ],
+ "yumedev40/Yume-Visual-Novel-Editor": [
+  "Dev tools & editors",
+  "Gaming & sims"
+ ],
+ "yusufkaraaslan/Skill_Seekers": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "zacharee/LockscreenWidgets": [
+  "Other"
+ ],
+ "zacharee/Tweaker": [
+  "Other"
+ ],
+ "zai-org/GLM-4": [
+  "AI agents & frameworks"
+ ],
+ "zai-org/GLM-V": [
+  "AI agents & frameworks",
+  "Music & media"
+ ],
+ "zai-org/Open-AutoGLM": [
+  "AI agents & frameworks"
+ ],
+ "zcraber/Freebies-Hub": [
+  "Music & media",
+  "Awesome lists"
+ ],
+ "zdharma-continuum/fast-syntax-highlighting": [
+  "CLI & terminal tools"
+ ],
+ "zenbu-labs/terminal-browser": [
+  "CLI & terminal tools",
+  "Agent skills"
+ ],
+ "zenbu-labs/terminal-code": [
+  "CLI & terminal tools",
+  "Dev tools & editors"
+ ],
+ "zeqianli/ratatui-stacked-bar": [
+  "CLI & terminal tools",
+  "Rust projects"
+ ],
+ "zerebos/ghostty-config": [
+  "CLI & terminal tools",
+  "Web dev"
+ ],
+ "zeronsh/zeron": [
+  "AI agents & frameworks",
+  "Dev tools & editors"
+ ],
+ "zhaleff/hyprdots": [
+  "CLI & terminal tools",
+  "Linux ricing & desktop"
+ ],
+ "zhaobozhen/Anywhere-": [
+  "Other"
+ ],
+ "zhaoxuya520/reverse-skill": [
+  "AI agents & frameworks",
+  "Privacy & security"
+ ],
+ "zombieFox/nightTab": [
+  "Other"
+ ]
+}
