@@ -11,7 +11,7 @@ Repos starred since the original September 2026 categorization pass land in
 Raw data lives in [`data/stars.json`](data/stars.json).
 
 <!-- STARS:START -->
-**926 repositories** · last synced 2026-10-15 09:24 UTC
+**926 repositories** · last synced 2026-10-15 09:25 UTC
 
 ## Categories
 
@@ -134,7 +134,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 69671 | Python | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
 | [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll) | 197 | TypeScript | chrome extension for better LLM chat navigation |
 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165058 | Python | Stable Diffusion web UI |
-| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 10584 | JavaScript | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
+| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 10585 | JavaScript | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 9433 | TypeScript | Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. |
 | [backnotprop/pstack](https://github.com/backnotprop/pstack) | 1878 | TypeScript | Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering |
 | [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) | 198 | Go | A portable terminal AI interface |
@@ -194,7 +194,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [ephraimduncan/awesome-developer-dictionary](https://github.com/ephraimduncan/awesome-developer-dictionary) | 217 |  | 📖 A curated list of definitions of programming terms. |
 | [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | 5130 | TypeScript | Exa MCP for web search and web crawling! |
 | [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28227 | JavaScript | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 173050 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 173049 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 | [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12674 | Python | A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym) |
 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 629 | JavaScript | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI. |
 | [flesler/mcp-tasks](https://github.com/flesler/mcp-tasks) | 47 | TypeScript | A comprehensive and efficient MCP server for task management with multi-format support (Markdown, JSON, YAML) |
@@ -479,7 +479,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) | 5437 | TypeScript | Fast and accurate React renderer for Notion. TS batteries included. ⚡️ |
 | [novnc/noVNC](https://github.com/novnc/noVNC) | 14107 | JavaScript | VNC client web application |
 | [pacocoursey/Opus](https://github.com/pacocoursey/Opus) | 315 | JavaScript | minimal note-taking app |
-| [palantir/blueprint](https://github.com/palantir/blueprint) | 22136 | TypeScript | A React-based UI toolkit for the web |
+| [palantir/blueprint](https://github.com/palantir/blueprint) | 22137 | TypeScript | A React-based UI toolkit for the web |
 | [piqnt/svgexport](https://github.com/piqnt/svgexport) | 951 | JavaScript | SVG to PNG/JPEG command-line tool and Node.js module |
 | [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | 7103 | TypeScript | Visual builder for React. Build apps, websites, and content. Integrate with your codebase. |
 | [pmndrs/leva](https://github.com/pmndrs/leva) | 6252 | TypeScript | 🌋 React-first components GUI |
@@ -665,7 +665,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) | 1116 | Python | A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query. |
 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 21926 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
 | [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) | 911 | TypeScript | Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free! |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 173050 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 173049 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 | [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9796 | PowerShell | :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub |
 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 14502 | Python | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55505 | TypeScript | Build AI Agents, Visually |
@@ -781,7 +781,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | Repo | ★ | Language | Description |
 | ---- | -: | -------- | ----------- |
 | [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 21836 | Batchfile | 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 326784 |  | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 326785 |  | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) | 6350 | Python | Scanning APK file for URIs, endpoints & secrets. |
 | [gamehublite/gamehub-oss](https://github.com/gamehublite/gamehub-oss) | 1103 | Smali | privacy oriented gamehub |
 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 9437 | JavaScript | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
@@ -1040,7 +1040,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [omacom/omarchy](https://github.com/omacom/omarchy) | 44861 | Shell | Beautiful, Modern & Opinionated Linux |
 | [owndev/Open-WebUI-Functions](https://github.com/owndev/Open-WebUI-Functions) | 390 | Python | Open-WebUI-Functions is a collection of custom pipelines, filters, and integrations designed to enhance Open WebUI. These functions enable seamless interactions with Azure AI, N8N, Google Gemini and other AI models, providing dynamic request handling, preprocessing, and automation. |
 | [oyesaifi/icons8free](https://github.com/oyesaifi/icons8free) | 1 | CSS | Icons8 Premium icon downloader free! |
-| [palantir/blueprint](https://github.com/palantir/blueprint) | 22136 | TypeScript | A React-based UI toolkit for the web |
+| [palantir/blueprint](https://github.com/palantir/blueprint) | 22137 | TypeScript | A React-based UI toolkit for the web |
 | [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | 8145 | Shell | Pixel perfect icon theme for Linux |
 | [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5466 | Lua | Offline build planner for Path of Exile. |
 | [PathOfBuildingCommunity/PathOfBuilding-PoE2-v2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2-v2) | 54 | Lua | Temporary clone of PoB 2 so we can work on it until the main branch is fixed |
@@ -1081,7 +1081,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 
 | Repo | ★ | Language | Description |
 | ---- | -: | -------- | ----------- |
-| [AmiiboDB/Amiibo](https://github.com/AmiiboDB/Amiibo) | 2343 | Python | Amiibo .bin and .nfc database |
+| [AmiiboDB/Amiibo](https://github.com/AmiiboDB/Amiibo) | 2344 | Python | Amiibo .bin and .nfc database |
 | [anilsharmay/full-stack-local-deep-research-agent](https://github.com/anilsharmay/full-stack-local-deep-research-agent) | 34 | Python | Deploying full-stack on-prem deep research agent that can be run entirely on a local machine for $0! |
 | [atineiatte/deep-research-at-home](https://github.com/atineiatte/deep-research-at-home) | 227 |  |  |
 | [daradib/openwebui-plugins](https://github.com/daradib/openwebui-plugins) | 20 | Python | Native search and retrieval tools for Open WebUI |
@@ -1123,7 +1123,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [Andrewcpu/EnableTaskbar](https://github.com/Andrewcpu/EnableTaskbar) | 9 | Java | Lsposed module to enable the Android 13 taskbar on mobile devices without modifying launcher grid size. |
 | [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) | 2117 | Markdown | 🤝 Awesome List of GIFs & avatars to use in GitHub. |
 | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | 3420 | CSS | Personal theme for Obsidian |
-| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 10584 | JavaScript | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
+| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 10585 | JavaScript | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
 | [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) | 1568 | Python | A hackable shell for Hyprland, powered by Fabric. |
 | [Aylur/dotfiles](https://github.com/Aylur/dotfiles) | 3100 | Nix | My personal config files |
 | [bertof/nix-rice](https://github.com/bertof/nix-rice) | 114 | Nix | A library to functionally define your configuration and theme (rice) with Nix |
@@ -1229,7 +1229,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | ---- | -: | -------- | ----------- |
 | [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) | 550 | TypeScript | A Model-Context Protocol Server for YouTube |
 | [arch-fan/neovim-raspberry](https://github.com/arch-fan/neovim-raspberry) | 14 | Shell | Steps for building/installing neovim newer versions on Raspberry Pi (64-bit). Can also be used on any ARM device which accepts DEB. |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 326784 |  | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 326785 |  | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) | 6186 | Go | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot) |
 | [beclab/Olares](https://github.com/beclab/Olares) | 5307 | Go | Open-Source Personal Cloud OS for Always-On Agents |
 | [beromir/Servas](https://github.com/beromir/Servas) | 832 | Svelte | A self-hosted bookmark management tool. |
@@ -1339,13 +1339,13 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 74587 | Python | A curated list of awesome Machine Learning frameworks, libraries and software. |
 | [natowi/photogrammetry_datasets](https://github.com/natowi/photogrammetry_datasets) | 371 |  | Collection of 350+ datasets for photogrammetry |
 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 286745 | Python | Curated list of project-based tutorials |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 519206 |  | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 519207 |  | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
 | [terremoth/awesome-m5stack-cardputer](https://github.com/terremoth/awesome-m5stack-cardputer) | 769 |  | Awesome M5Stack Cardputer |
 | [Theblackcat98/awesome-chatgpt-prompts](https://github.com/Theblackcat98/awesome-chatgpt-prompts) | 1 |  | This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 16983 | Shell | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
 | [Tobee1406/Awesome-Yandex-Dorks](https://github.com/Tobee1406/Awesome-Yandex-Dorks) | 11 |  | A collection of Awesome Yandex Dorks. |
 | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 15412 |  | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 327542 | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 327543 | Python | The definitive list that answers "I want to do X in Python, which tool should I use?" |
 | [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | 1762 | HTML | A huge list of great stuff you can get for free! |
 | [zcraber/Freebies-Hub](https://github.com/zcraber/Freebies-Hub) | 266 |  | Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc. |
 | [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10346 |  | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model. |
@@ -1482,13 +1482,13 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | Repo | ★ | Language | Description |
 | ---- | -: | -------- | ----------- |
 | [0xcro3dile/answerui](https://github.com/0xcro3dile/answerui) | 33 | TypeScript | Open-source alternative to ChatGPT's Intelligent UI. Answers arrive as live charts, forms and calculators. Works with any OpenAI-compatible model, in the cloud or local. |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 106826 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 106827 | JavaScript | Production-grade engineering skills for AI coding agents. |
 | [agent37-platform/minions](https://github.com/agent37-platform/minions) | 648 | TypeScript | Mission Control for your Hermes agents |
 | [AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor](https://github.com/AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor) | 162 | TypeScript | Real-time display of the current session's context window usage and remaining amount for Antigravity |
 | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | 18218 | TypeScript | Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL. |
 | [alesha-pro/tools](https://github.com/alesha-pro/tools) | 682 | HTML | Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig |
 | [android/skills](https://github.com/android/skills) | 7826 | Kotlin |  |
-| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 3844 | Swift | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 3845 | Swift | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |
 | [architectds/collabosm](https://github.com/architectds/collabosm) | 99 | Python | A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux. |
 | [aria2/aria2](https://github.com/aria2/aria2) | 43124 | C++ | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. |
 | [atopile/atopile](https://github.com/atopile/atopile) | 3989 | Python | Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ |
@@ -1517,7 +1517,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [JRufer/VoxCtrl](https://github.com/JRufer/VoxCtrl) | 29 | Rust | Use key or voice commands to direct your voice to any app or service you require, local or remote. |
 | [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | 1081 | Shell | A collection of AI agent skills useful for projects using Kotlin language |
 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 26458 |  | Notes of the book System Desgin Interview - An Insider's Guide |
-| [morluto/rea](https://github.com/morluto/rea) | 255076 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 255095 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [NarYuki/Dextop](https://github.com/NarYuki/Dextop) | 922 | Kotlin | Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device. |
 | [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 87 | Shell | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix). |
 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | 2065 | Rust | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files. |
@@ -1535,11 +1535,11 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese) | 76 | Rust | Bubbletea-inspired components for Ratatui |
 | [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) | 3013 | C# | Phone Link / KDE Connect alternative |
 | [smallcatlabs/acquisition-qt](https://github.com/smallcatlabs/acquisition-qt) | 46 | C++ | Offline item searches and forum shop management for Path of Exile since 2014 |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 28441 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 28443 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | 4961 | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2738 | Rust | The Craft App Launcher |
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 13509 | Rust | FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 14005 | Rust | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 14006 | Rust | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 12716 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
 | [sybil-solutions/ai-data-extraction](https://github.com/sybil-solutions/ai-data-extraction) | 1348 | Python | extract all your personal data history from cursor, codex, claude-code, windsurf, and trae |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | 49943 | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
@@ -1554,7 +1554,7 @@ Raw data lives in [`data/stars.json`](data/stars.json).
 | [tobi/disktree](https://github.com/tobi/disktree) | 2944 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
 | [vicinaehq/extensions](https://github.com/vicinaehq/extensions) | 157 | TypeScript | Vicinae extensions published to the vicinae store |
 | [vizenc/material-darker-jdownloader](https://github.com/vizenc/material-darker-jdownloader) | 335 |  | JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance. |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 11655 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 11658 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |
 | [witt3rd/oh-my-hermes](https://github.com/witt3rd/oh-my-hermes) | 361 | Python | Oh My Hermes (OMH) — Multi-agent orchestration skills for Hermes Agent. Inspired by oh-my-claudecode, rebuilt natively for Hermes primitives. |
 | [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 3881 | TypeScript | A real browser inside your terminal |
 | [zeqianli/ratatui-stacked-bar](https://github.com/zeqianli/ratatui-stacked-bar) | 9 | Rust |  |
