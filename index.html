@@ -1,0 +1,2330 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>theblackcat98 / stars — Workspace</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    /* ==========================================================================
+       1. DESIGN TOKENS (OKLCH SOURCE OF TRUTH)
+       ========================================================================== */
+    :root,
+    [data-theme="light"] {
+      --bg-page: oklch(0.985 0.001 286.376);
+      --bg-canvas: oklch(0.961 0.002 247.84);
+      --bg-surface: #ffffff;
+      --bg-surface-hover: oklch(0.974 0.002 247.84);
+      --bg-inset: oklch(0.979 0.002 247.839);
+      --ink: oklch(0.247 0.006 258.361);
+      --ink-secondary: oklch(0.506 0.01 264.477);
+      --ink-muted: oklch(0.695 0.009 264.505);
+      --line: oklch(0.946 0.003 264.542);
+      --line-strong: oklch(0.895 0.005 264.542);
+      --accent: oklch(0.626 0.205 254.947);
+      --accent-subtle: oklch(0.626 0.205 254.947 / 0.1);
+      --accent-border: oklch(0.626 0.205 254.947 / 0.32);
+
+      /* Meaningful Status Tokens */
+      --status-green: oklch(0.58 0.16 148);
+      --status-green-bg: oklch(0.58 0.16 148 / 0.1);
+      --status-orange: oklch(0.66 0.16 65);
+      --status-orange-bg: oklch(0.66 0.16 65 / 0.12);
+      --status-red: oklch(0.59 0.2 25);
+      --status-red-bg: oklch(0.59 0.2 25 / 0.1);
+
+      /* Layered Quiet Elevation */
+      --shadow-card: 0 0 0 1px var(--line), 0 1px 2px oklch(0.2 0.01 260 / 0.04), 0 3px 8px -2px oklch(0.2 0.01 260 / 0.04);
+      --shadow-window: 0 0 0 1px var(--line-strong), 0 8px 24px -4px oklch(0.2 0.01 260 / 0.08), 0 2px 6px -1px oklch(0.2 0.01 260 / 0.04);
+      --shimmer-mid: oklch(0.247 0.006 258.361);
+    }
+
+    [data-theme="dark"] {
+      --bg-page: oklch(0.209 0.004 264.477);
+      --bg-canvas: oklch(0.231 0.004 264.487);
+      --bg-surface: oklch(0.26 0.006 271.191);
+      --bg-surface-hover: oklch(0.282 0.006 271.191);
+      --bg-inset: oklch(0.192 0.004 264.477);
+      --ink: oklch(0.964 0.002 247.839);
+      --ink-secondary: oklch(0.715 0.008 264.477);
+      --ink-muted: oklch(0.535 0.009 264.505);
+      --line: oklch(0.308 0.006 258.354);
+      --line-strong: oklch(0.355 0.007 258.354);
+      --accent: oklch(0.68 0.173 253.301);
+      --accent-subtle: oklch(0.68 0.173 253.301 / 0.14);
+      --accent-border: oklch(0.68 0.173 253.301 / 0.38);
+
+      /* Meaningful Status Tokens */
+      --status-green: oklch(0.72 0.15 150);
+      --status-green-bg: oklch(0.72 0.15 150 / 0.14);
+      --status-orange: oklch(0.76 0.15 70);
+      --status-orange-bg: oklch(0.76 0.15 70 / 0.14);
+      --status-red: oklch(0.7 0.18 25);
+      --status-red-bg: oklch(0.7 0.18 25 / 0.14);
+
+      /* Layered Quiet Elevation */
+      --shadow-card: 0 0 0 1px var(--line), 0 1px 2px oklch(0 0 0 / 0.24), 0 4px 10px -2px oklch(0 0 0 / 0.18);
+      --shadow-window: 0 0 0 1px var(--line-strong), 0 12px 32px -6px oklch(0 0 0 / 0.45), 0 4px 12px -2px oklch(0 0 0 / 0.3);
+      --shimmer-mid: oklch(0.964 0.002 247.839);
+    }
+
+    :root {
+      /* Systematic Geometry */
+      --radius-chip: 6px;
+      --radius-control: 8px;
+      --radius-card: 10px;
+      --radius-window: 14px;
+      --radius-pill: 9999px;
+
+      /* Typography */
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+      /* Motion Curves & Timings */
+      --ease-out-Quint: cubic-bezier(0.23, 1, 0.32, 1);
+      --dur-fast: 140ms;
+      --dur-menu: 220ms;
+      --dur-sidebar: 280ms;
+      --dur-panel: 340ms;
+      --dur-slide: 360ms;
+    }
+
+    /* ==========================================================================
+       2. RESET & BASE TYPOGRAPHY
+       ========================================================================== */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      height: 100%;
+      background-color: var(--bg-page);
+      color: var(--ink);
+      font-family: var(--font-sans);
+      font-size: 14px;
+      line-height: 1.5;
+      letter-spacing: -0.011em;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      overflow: hidden;
+    }
+
+    .mono, code, pre, .num {
+      font-family: var(--font-mono);
+      font-variant-numeric: tabular-nums;
+    }
+
+    button, input, select {
+      font: inherit;
+      color: inherit;
+      background: none;
+      border: none;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* Custom Scrollbars */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: var(--line-strong);
+      border-radius: var(--radius-pill);
+    }
+
+    /* ==========================================================================
+       3. APP SHELL & SIDEBAR NAV (224px -> 52px in 280ms)
+       ========================================================================== */
+    .app-shell {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      height: 100vh;
+      width: 100vw;
+      background: var(--bg-page);
+    }
+
+    .sidebar {
+      width: 224px;
+      height: 100vh;
+      background: var(--bg-canvas);
+      border-right: 1px solid var(--line);
+      display: flex;
+      flex-direction: column;
+      transition: width var(--dur-sidebar) var(--ease-out-Quint);
+      overflow: hidden;
+      user-select: none;
+      flex-shrink: 0;
+    }
+
+    .sidebar.collapsed {
+      width: 52px;
+    }
+
+    .sidebar-header {
+      height: 44px;
+      padding: 0 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--line);
+      flex-shrink: 0;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+      overflow: hidden;
+    }
+
+    .brand-mark {
+      width: 24px;
+      height: 24px;
+      border-radius: var(--radius-chip);
+      background: var(--bg-surface);
+      border: 1px solid var(--line-strong);
+      display: grid;
+      place-items: center;
+      flex-shrink: 0;
+      color: var(--accent);
+    }
+
+    .brand-text {
+      font-size: 12.5px;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      transition: opacity var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .sidebar.collapsed .brand-text,
+    .sidebar.collapsed .nav-section-label,
+    .sidebar.collapsed .nav-label,
+    .sidebar.collapsed .nav-count,
+    .sidebar.collapsed .sidebar-footer-meta {
+      opacity: 0;
+      pointer-events: none;
+      width: 0;
+    }
+
+    .sidebar-scroll {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .nav-group {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .nav-section-label {
+      font-size: 10.5px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--ink-muted);
+      padding: 2px 8px 4px;
+      white-space: nowrap;
+      transition: opacity var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .nav-item {
+      height: 28px;
+      padding: 0 8px;
+      border-radius: var(--radius-control);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 12.5px;
+      font-weight: 500;
+      color: var(--ink-secondary);
+      cursor: pointer;
+      transition: background-color var(--dur-fast) var(--ease-out-Quint),
+                  color var(--dur-fast) var(--ease-out-Quint);
+      white-space: nowrap;
+    }
+
+    .nav-item:hover {
+      background: var(--bg-surface-hover);
+      color: var(--ink);
+    }
+
+    .nav-item.active {
+      background: var(--accent-subtle);
+      color: var(--accent);
+    }
+
+    .nav-item-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+
+    .nav-icon {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+      display: grid;
+      place-items: center;
+    }
+
+    .nav-label {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      transition: opacity var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .nav-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--ink-muted);
+      font-variant-numeric: tabular-nums;
+      transition: opacity var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .nav-item.active .nav-count {
+      color: var(--accent);
+    }
+
+    .sidebar-footer {
+      padding: 8px 10px;
+      border-top: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    .sidebar-footer-meta {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--ink-muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* ==========================================================================
+       4. CONTROLS, BUTTONS, CHIPS & BADGES
+       ========================================================================== */
+    .btn {
+      height: 28px;
+      padding: 0 10px;
+      border-radius: var(--radius-control);
+      font-size: 12px;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      border: 1px solid var(--line);
+      background: var(--bg-surface);
+      color: var(--ink);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background-color var(--dur-fast) var(--ease-out-Quint),
+                  border-color var(--dur-fast) var(--ease-out-Quint),
+                  transform var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .btn:hover {
+      background: var(--bg-surface-hover);
+      border-color: var(--line-strong);
+    }
+
+    .btn:active {
+      transform: scale(0.98);
+    }
+
+    .btn-icon {
+      width: 28px;
+      padding: 0;
+      flex-shrink: 0;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #ffffff;
+    }
+
+    .btn-primary:hover {
+      background: var(--accent);
+      filter: brightness(1.06);
+      border-color: var(--accent);
+    }
+
+    .btn-subtle {
+      background: transparent;
+      border-color: transparent;
+      color: var(--ink-secondary);
+    }
+
+    .btn-subtle:hover {
+      background: var(--bg-surface-hover);
+      border-color: transparent;
+      color: var(--ink);
+    }
+
+    .chip {
+      height: 20px;
+      padding: 0 6px;
+      border-radius: var(--radius-chip);
+      font-size: 11px;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--bg-inset);
+      border: 1px solid var(--line);
+      color: var(--ink-secondary);
+      white-space: nowrap;
+      cursor: pointer;
+      transition: border-color var(--dur-fast) var(--ease-out-Quint),
+                  color var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .chip:hover {
+      border-color: var(--accent-border);
+      color: var(--ink);
+    }
+
+    .badge-pill {
+      height: 19px;
+      padding: 0 7px;
+      border-radius: var(--radius-pill);
+      font-family: var(--font-mono);
+      font-size: 10.5px;
+      font-weight: 500;
+      font-variant-numeric: tabular-nums;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      border: 1px solid var(--line);
+      background: var(--bg-inset);
+      color: var(--ink-secondary);
+      white-space: nowrap;
+    }
+
+    .badge-green {
+      background: var(--status-green-bg);
+      color: var(--status-green);
+      border-color: transparent;
+    }
+
+    .badge-orange {
+      background: var(--status-orange-bg);
+      color: var(--status-orange);
+      border-color: transparent;
+    }
+
+    .badge-accent {
+      background: var(--accent-subtle);
+      color: var(--accent);
+      border-color: var(--accent-border);
+    }
+
+    .status-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: currentColor;
+    }
+
+    /* ==========================================================================
+       5. MAIN WORKSPACE & TOP BAR
+       ========================================================================== */
+    .workspace {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      min-width: 0;
+      background: var(--bg-page);
+    }
+
+    .topbar {
+      height: 44px;
+      padding: 0 14px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      background: var(--bg-page);
+      flex-shrink: 0;
+    }
+
+    .topbar-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12.5px;
+      color: var(--ink-secondary);
+      white-space: nowrap;
+    }
+
+    .breadcrumb strong {
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .topbar-right {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* ==========================================================================
+       6. COMMAND / PROMPT BAR & THINKING STATE PRIMITIVE
+       ========================================================================== */
+    .workspace-Deck {
+      padding: 12px 14px 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      border-bottom: 1px solid var(--line);
+      background: var(--bg-canvas);
+      flex-shrink: 0;
+    }
+
+    .prompt-bar {
+      background: var(--bg-surface);
+      border-radius: var(--radius-card);
+      box-shadow: var(--shadow-card);
+      padding: 6px 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: box-shadow var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .prompt-bar:focus-within {
+      box-shadow: 0 0 0 1px var(--accent), 0 2px 8px oklch(0 0 0 / 0.12);
+    }
+
+    .prompt-input-wrap {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+
+    .prompt-input {
+      width: 100%;
+      height: 26px;
+      font-size: 13px;
+      color: var(--ink);
+      outline: none;
+    }
+
+    .prompt-input::placeholder {
+      color: var(--ink-muted);
+    }
+
+    .kbd {
+      height: 20px;
+      padding: 0 5px;
+      border-radius: 4px;
+      background: var(--bg-inset);
+      border: 1px solid var(--line);
+      font-family: var(--font-mono);
+      font-size: 10.5px;
+      color: var(--ink-muted);
+      display: inline-flex;
+      align-items: center;
+    }
+
+    /* ThinkingState Component */
+    .thinking-card {
+      background: var(--bg-surface);
+      border-radius: var(--radius-card);
+      box-shadow: var(--shadow-card);
+      padding: 8px 12px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .thinking-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .thinking-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    /* 3x3 Pixel Loader (650ms wave / 950ms orbit variant) */
+    .pixel-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 3.5px);
+      grid-template-rows: repeat(3, 3.5px);
+      gap: 2px;
+      width: 14.5px;
+      height: 14.5px;
+      flex-shrink: 0;
+    }
+
+    .pixel-cell {
+      width: 3.5px;
+      height: 3.5px;
+      border-radius: 1px;
+      background: var(--accent);
+      opacity: 0.22;
+      animation: pixelWave 650ms var(--ease-out-Quint) infinite alternate;
+    }
+
+    .pixel-grid.orbit .pixel-cell {
+      animation: pixelOrbit 950ms linear infinite;
+    }
+
+    .pixel-cell:nth-child(1) { animation-delay: 0ms; }
+    .pixel-cell:nth-child(2) { animation-delay: 80ms; }
+    .pixel-cell:nth-child(3) { animation-delay: 160ms; }
+    .pixel-cell:nth-child(4) { animation-delay: 80ms; }
+    .pixel-cell:nth-child(5) { animation-delay: 160ms; }
+    .pixel-cell:nth-child(6) { animation-delay: 240ms; }
+    .pixel-cell:nth-child(7) { animation-delay: 160ms; }
+    .pixel-cell:nth-child(8) { animation-delay: 240ms; }
+    .pixel-cell:nth-child(9) { animation-delay: 320ms; }
+
+    @keyframes pixelWave {
+      0% { opacity: 0.18; transform: scale(0.85); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+
+    @keyframes pixelOrbit {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+
+    /* 1.4s Text Shimmer Loop */
+    .shimmer-text {
+      font-size: 12.5px;
+      font-weight: 500;
+      background: linear-gradient(
+        90deg,
+        var(--ink-secondary) 0%,
+        var(--shimmer-mid) 50%,
+        var(--ink-secondary) 100%
+      );
+      background-size: 200% 100%;
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      animation: textShimmer 1.4s linear infinite;
+    }
+
+    .shimmer-text.done {
+      background: none;
+      color: var(--ink-secondary);
+      animation: none;
+    }
+
+    @keyframes textShimmer {
+      0% { background-position: 100% 0; }
+      100% { background-position: -100% 0; }
+    }
+
+    /* Expandable Trace Grid Transition */
+    .trace-collapse {
+      display: grid;
+      grid-template-rows: 0fr;
+      opacity: 0;
+      transition: grid-template-rows var(--dur-panel) var(--ease-out-Quint),
+                  opacity var(--dur-menu) var(--ease-out-Quint);
+    }
+
+    .trace-collapse.open {
+      grid-template-rows: 1fr;
+      opacity: 1;
+    }
+
+    .trace-inner {
+      overflow: hidden;
+    }
+
+    .trace-list {
+      padding-top: 8px;
+      margin-top: 8px;
+      border-top: 1px solid var(--line);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .trace-step {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--ink-secondary);
+      opacity: 0;
+      transform: translateY(8px);
+      transition: opacity var(--dur-menu) var(--ease-out-Quint),
+                  transform var(--dur-menu) var(--ease-out-Quint);
+    }
+
+    .trace-collapse.open .trace-step {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Streaming AI Brief Output (55ms word reveal + 1s caret blink) */
+    .stream-panel {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--line);
+      font-size: 12.5px;
+      color: var(--ink);
+      line-height: 1.55;
+      display: none;
+    }
+
+    .stream-panel.visible {
+      display: block;
+    }
+
+    .stream-caret {
+      display: inline-block;
+      width: 6px;
+      height: 13px;
+      background: var(--accent);
+      vertical-align: -2px;
+      margin-left: 3px;
+      animation: caretBlink 1s steps(2, start) infinite;
+    }
+
+    .stream-caret.hidden {
+      display: none;
+    }
+
+    @keyframes caretBlink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    /* Filter Toolbar */
+    .toolbar-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .toolbar-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .select-control {
+      height: 28px;
+      padding: 0 8px;
+      border-radius: var(--radius-control);
+      background: var(--bg-surface);
+      border: 1px solid var(--line);
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--ink);
+      cursor: pointer;
+    }
+
+    /* ==========================================================================
+       7. HIGH-DENSITY DATA TABLE & EXPANDABLE ROW TRACES
+       ========================================================================== */
+    .data-viewport {
+      flex: 1;
+      overflow-y: auto;
+      padding: 0;
+      background: var(--bg-page);
+    }
+
+    .stars-table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    .stars-table thead th {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      height: 30px;
+      padding: 0 12px;
+      background: var(--bg-canvas);
+      border-bottom: 1px solid var(--line);
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--ink-muted);
+      text-align: left;
+      user-select: none;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .stars-table thead th:hover {
+      color: var(--ink);
+    }
+
+    .stars-table thead th.num-col,
+    .stars-table tbody td.num-col {
+      text-align: right;
+    }
+
+    .col-repo { width: 26%; }
+    .col-cat  { width: 15%; }
+    .col-lang { width: 11%; }
+    .col-star { width: 8%; }
+    .col-fork { width: 8%; }
+    .col-push { width: 10%; }
+    .col-desc { width: 22%; }
+
+    .repo-row {
+      border-bottom: 1px solid var(--line);
+      background: var(--bg-page);
+      cursor: pointer;
+      transition: background-color var(--dur-fast) var(--ease-out-Quint);
+      animation: rowEnter 220ms var(--ease-out-Quint) backwards;
+    }
+
+    @keyframes rowEnter {
+      from {
+        opacity: 0;
+        transform: translateY(8px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .repo-row:hover {
+      background: var(--bg-surface-hover);
+    }
+
+    .repo-row.expanded {
+      background: var(--bg-surface);
+      border-bottom-color: transparent;
+    }
+
+    .repo-row td {
+      height: 36px;
+      padding: 0 12px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      vertical-align: middle;
+    }
+
+    .repo-name-cell {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      min-width: 0;
+    }
+
+    .expand-caret {
+      width: 14px;
+      height: 14px;
+      color: var(--ink-muted);
+      flex-shrink: 0;
+      transition: transform var(--dur-menu) var(--ease-out-Quint),
+                  color var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .repo-row.expanded .expand-caret {
+      transform: rotate(90deg);
+      color: var(--accent);
+    }
+
+    .repo-owner {
+      color: var(--ink-secondary);
+      font-weight: 400;
+    }
+
+    .repo-slug {
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .repo-desc {
+      color: var(--ink-secondary);
+      font-size: 12.5px;
+    }
+
+    .meta-num {
+      font-family: var(--font-mono);
+      font-size: 11.5px;
+      color: var(--ink-secondary);
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* Expandable Row Trace Detail */
+    .detail-row td {
+      padding: 0;
+      border-bottom: 1px solid var(--line);
+      background: var(--bg-inset);
+    }
+
+    .detail-collapse {
+      display: grid;
+      grid-template-rows: 0fr;
+      opacity: 0;
+      transition: grid-template-rows var(--dur-panel) var(--ease-out-Quint),
+                  opacity var(--dur-menu) var(--ease-out-Quint);
+    }
+
+    .detail-collapse.open {
+      grid-template-rows: 1fr;
+      opacity: 1;
+    }
+
+    .detail-inner {
+      overflow: hidden;
+    }
+
+    .detail-content {
+      padding: 12px 16px 12px 34px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 16px;
+      align-items: start;
+    }
+
+    .detail-meta-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 8px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--ink-secondary);
+    }
+
+    .detail-topics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 8px;
+    }
+
+    /* Compact Card Grid View (Alternative Mode) */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 10px;
+      padding: 12px 14px;
+    }
+
+    .repo-card {
+      background: var(--bg-surface);
+      border-radius: var(--radius-card);
+      box-shadow: var(--shadow-card);
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      transition: transform var(--dur-fast) var(--ease-out-Quint),
+                  box-shadow var(--dur-fast) var(--ease-out-Quint);
+      animation: rowEnter 200ms var(--ease-out-Quint) backwards;
+    }
+
+    .repo-card:hover {
+      box-shadow: 0 0 0 1px var(--line-strong), 0 4px 12px oklch(0 0 0 / 0.14);
+    }
+
+    /* ==========================================================================
+       8. APPROVAL CARD MODAL (360ms SLIDE + ROLLING COUNTER)
+       ========================================================================== */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: oklch(0 0 0 / 0.45);
+      display: none;
+      place-items: center;
+      z-index: 50;
+      padding: 16px;
+    }
+
+    .modal-backdrop.open {
+      display: grid;
+    }
+
+    .approval-window {
+      width: 100%;
+      max-width: 500px;
+      background: var(--bg-surface);
+      border-radius: var(--radius-window);
+      box-shadow: var(--shadow-window);
+      overflow: hidden;
+      animation: modalScaleIn 200ms var(--ease-out-Quint);
+    }
+
+    @keyframes modalScaleIn {
+      from {
+        opacity: 0;
+        transform: scale(0.95);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    .approval-header {
+      height: 40px;
+      padding: 0 12px;
+      background: var(--bg-canvas);
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12.5px;
+      font-weight: 600;
+    }
+
+    .rolling-counter {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--ink-secondary);
+      font-variant-numeric: tabular-nums;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--bg-inset);
+      border: 1px solid var(--line);
+      padding: 2px 7px;
+      border-radius: var(--radius-pill);
+    }
+
+    .approval-stage {
+      position: relative;
+      overflow: hidden;
+      padding: 14px;
+      transition: transform var(--dur-slide) var(--ease-out-Quint),
+                  opacity var(--dur-slide) var(--ease-out-Quint);
+    }
+
+    .approval-stage.sliding-out {
+      opacity: 0;
+      transform: translateX(-18px);
+    }
+
+    .approval-stage.sliding-in {
+      opacity: 0;
+      transform: translateX(18px);
+    }
+
+    .approval-options {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 10px;
+    }
+
+    .approval-option {
+      height: 28px;
+      padding: 0 10px;
+      border-radius: var(--radius-control);
+      border: 1px solid var(--line);
+      background: var(--bg-inset);
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--ink-secondary);
+      cursor: pointer;
+      transition: all var(--dur-fast) var(--ease-out-Quint);
+    }
+
+    .approval-option.selected {
+      background: var(--accent-subtle);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .approval-footer {
+      padding: 10px 12px;
+      background: var(--bg-canvas);
+      border-top: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    /* ==========================================================================
+       9. REDUCED MOTION COMPLIANCE
+       ========================================================================== */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <!-- SIDEBAR NAVIGATION (224px -> 52px in 280ms) -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="brand">
+          <div class="brand-mark" title="theblackcat98 / stars">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+            </svg>
+          </div>
+          <span class="brand-text">theblackcat98 / stars</span>
+        </div>
+        <button class="btn btn-icon btn-subtle" id="sidebarToggle" title="Toggle Sidebar (⌘B)" aria-label="Toggle Sidebar">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+            <rect x="3" y="3" width="18" height="18" rx="2"/>
+            <line x1="9" y1="3" x2="9" y2="21"/>
+          </svg>
+        </button>
+      </div>
+
+      <div class="sidebar-scroll">
+        <div class="nav-group" id="presetNav">
+          <div class="nav-section-label">Workspace Views</div>
+          <div class="nav-item active" data-preset="all">
+            <div class="nav-item-left">
+              <span class="nav-icon">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+              </span>
+              <span class="nav-label">All Repositories</span>
+            </div>
+            <span class="nav-count" id="count-all">0</span>
+          </div>
+          <div class="nav-item" data-preset="recent">
+            <div class="nav-item-left">
+              <span class="nav-icon">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 15"/></svg>
+              </span>
+              <span class="nav-label">Recently Starred</span>
+            </div>
+            <span class="nav-count" id="count-recent">0</span>
+          </div>
+          <div class="nav-item" data-preset="active">
+            <div class="nav-item-left">
+              <span class="nav-icon" style="color: var(--status-green)">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+              </span>
+              <span class="nav-label">Active Push (30d)</span>
+            </div>
+            <span class="nav-count" id="count-active">0</span>
+          </div>
+          <div class="nav-item" data-preset="archived">
+            <div class="nav-item-left">
+              <span class="nav-icon" style="color: var(--status-orange)">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="21 8 21 21 3 21 3 8"/><rect x="1" y="3" width="22" height="5"/><line x1="10" y1="12" x2="14" y2="12"/></svg>
+              </span>
+              <span class="nav-label">Archived</span>
+            </div>
+            <span class="nav-count" id="count-archived">0</span>
+          </div>
+          <div class="nav-item" data-preset="forks">
+            <div class="nav-item-left">
+              <span class="nav-icon">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><path d="M18 9v1a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V9"/><line x1="12" y1="12" x2="12" y2="15"/></svg>
+              </span>
+              <span class="nav-label">Forks</span>
+            </div>
+            <span class="nav-count" id="count-forks">0</span>
+          </div>
+        </div>
+
+        <div class="nav-group">
+          <div class="nav-section-label">Categories</div>
+          <div id="categoryNav"></div>
+        </div>
+
+        <div class="nav-group">
+          <div class="nav-section-label">Top Languages</div>
+          <div id="languageNav"></div>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <span class="sidebar-footer-meta" id="syncSourceLabel">data/stars.json</span>
+        <a href="https://github.com/theblackcat98" target="_blank" rel="noopener" class="btn btn-icon btn-subtle" title="GitHub Profile">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+            <path d="M7 17L17 7M17 7H7M17 7V17"/>
+          </svg>
+        </a>
+      </div>
+    </aside>
+
+    <!-- MAIN WORKSPACE -->
+    <main class="workspace">
+      <header class="topbar">
+        <div class="topbar-left">
+          <div class="breadcrumb">
+            <span>stars</span>
+            <span>/</span>
+            <strong id="activeViewTitle">All Repositories</strong>
+            <span class="badge-pill" id="filteredCountBadge">0</span>
+          </div>
+        </div>
+
+        <div class="topbar-right">
+          <button class="btn" id="openTriageBtn" title="Curate Uncategorized Repositories">
+            <span class="status-dot" style="color: var(--accent)"></span>
+            <span>Curate Categories</span>
+            <span class="mono" id="uncatBadge" style="font-size: 11px; color: var(--ink-muted)">0</span>
+          </button>
+
+          <button class="btn" id="viewModeBtn" title="Toggle Table / Card Grid">
+            <span id="viewModeLabel">Table</span>
+          </button>
+
+          <button class="btn btn-icon" id="themeToggle" title="Toggle Dark/Light Theme" aria-label="Toggle Theme">
+            <svg id="themeIcon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <circle cx="12" cy="12" r="5"/>
+              <line x1="12" y1="1" x2="12" y2="3"/>
+              <line x1="12" y1="21" x2="12" y2="23"/>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+              <line x1="1" y1="12" x2="3" y2="12"/>
+              <line x1="21" y1="12" x2="23" y2="12"/>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <!-- COMMAND PROMPT BAR + THINKING STATE TRACE -->
+      <section class="workspace-Deck">
+        <div class="prompt-bar">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--ink-muted)" stroke-width="2" style="flex-shrink:0; margin-left: 4px;">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <div class="prompt-input-wrap">
+            <input
+              type="text"
+              id="promptInput"
+              class="prompt-input"
+              placeholder="Filter repositories or type qualifiers (e.g. lang:python cat:AI topic:cli is:archived stars:>500)..."
+              autocomplete="off"
+            />
+          </div>
+          <span class="kbd">/</span>
+          <button class="btn" id="clearQueryBtn" style="display:none; height: 24px; padding: 0 7px;">Reset</button>
+          <button class="btn btn-primary" id="synthesizeBtn" style="height: 26px;">
+            <span>Synthesize Brief</span>
+          </button>
+        </div>
+
+        <!-- ThinkingState Primitive: 3x3 Pixel Loader + 1.4s Shimmer + Staggered Trace -->
+        <div class="thinking-card" id="thinkingCard">
+          <div class="thinking-header" id="thinkingToggle">
+            <div class="thinking-left">
+              <div class="pixel-grid" id="pixelLoader">
+                <span class="pixel-cell"></span><span class="pixel-cell"></span><span class="pixel-cell"></span>
+                <span class="pixel-cell"></span><span class="pixel-cell"></span><span class="pixel-cell"></span>
+                <span class="pixel-cell"></span><span class="pixel-cell"></span><span class="pixel-cell"></span>
+              </div>
+              <span class="shimmer-text" id="thinkingStatusText">Indexing data/stars.json &amp; data/categories.json...</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span class="mono" style="font-size:11px; color:var(--ink-muted);" id="telemetrySummary">0 repos · 0 categories</span>
+              <span class="chip" style="height:18px; font-size:10.5px;">Trace</span>
+            </div>
+          </div>
+
+          <div class="trace-collapse" id="traceCollapse">
+            <div class="trace-inner">
+              <div class="trace-list" id="traceList"></div>
+            </div>
+          </div>
+
+          <div class="stream-panel" id="streamPanel">
+            <span id="streamText"></span><span class="stream-caret hidden" id="streamCaret"></span>
+          </div>
+        </div>
+
+        <!-- Secondary Controls & Sort Bar -->
+        <div class="toolbar-row">
+          <div class="toolbar-group" id="quickFilterChips">
+            <span class="chip" data-insert="stars:>1000">stars:&gt;1000</span>
+            <span class="chip" data-insert="is:active">is:active</span>
+            <span class="chip" data-insert="is:archived">is:archived</span>
+            <span class="chip" data-insert="cat:Uncategorized">cat:Uncategorized</span>
+          </div>
+
+          <div class="toolbar-group">
+            <label for="sortSelect" style="font-size:11.5px; color:var(--ink-muted);">Sort</label>
+            <select id="sortSelect" class="select-control">
+              <option value="starred_desc">Recently Starred</option>
+              <option value="stars_desc">Stargazers (High → Low)</option>
+              <option value="pushed_desc">Last Push (Newest)</option>
+              <option value="forks_desc">Forks (High → Low)</option>
+              <option value="name_asc">Name (A → Z)</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <!-- DATA TABLE / CARD GRID VIEWPORT -->
+      <div class="data-viewport" id="dataViewport">
+        <table class="stars-table" id="starsTable">
+          <thead>
+            <tr>
+              <th class="col-repo" data-sort="name_asc">Repository</th>
+              <th class="col-cat">Categories</th>
+              <th class="col-lang">Language</th>
+              <th class="col-star num-col" data-sort="stars_desc">★ Stars</th>
+              <th class="col-fork num-col" data-sort="forks_desc">Forks</th>
+              <th class="col-push num-col" data-sort="pushed_desc">Last Push</th>
+              <th class="col-desc">Description</th>
+            </tr>
+          </thead>
+          <tbody id="starsTableBody"></tbody>
+        </table>
+        <div class="cards-grid" id="cardsGrid" style="display:none;"></div>
+      </div>
+    </main>
+  </div>
+
+  <!-- APPROVAL CARD MODAL (CATEGORY CURATION ASSISTANT) -->
+  <div class="modal-backdrop" id="triageModal">
+    <div class="approval-window" role="dialog" aria-modal="true" aria-labelledby="triageTitle">
+      <div class="approval-header">
+        <span id="triageTitle">Category Triage Assistant (data/categories.json)</span>
+        <div style="display:flex; align-items:center; gap:8px;">
+          <span class="rolling-counter" id="triageCounter">0 / 0</span>
+          <button class="btn btn-icon btn-subtle" id="closeTriageBtn" style="height:24px; width:24px;">✕</button>
+        </div>
+      </div>
+
+      <div class="approval-stage" id="approvalStage">
+        <div style="display:flex; align-items:center; justify-content:space-between; gap:8px;">
+          <a href="#" target="_blank" rel="noopener" id="triageRepoName" class="mono" style="font-size:13px; font-weight:600; color:var(--accent);">owner/repo</a>
+          <span class="badge-pill" id="triageRepoMeta">★ 0 · Language</span>
+        </div>
+        <p id="triageRepoDesc" style="margin-top:6px; font-size:12.5px; color:var(--ink-secondary); min-height:36px;"></p>
+        <div id="triageRepoTopics" class="detail-topics"></div>
+
+        <div style="margin-top:12px; font-size:11.5px; font-weight:500; color:var(--ink-muted);">
+          Assign categories (click to toggle, or add custom):
+        </div>
+        <div class="approval-options" id="triageOptions"></div>
+
+        <div style="margin-top:10px; display:flex; gap:6px;">
+          <input
+            type="text"
+            id="newCategoryInput"
+            placeholder="New category name..."
+            style="flex:1; height:28px; padding:0 8px; border-radius:var(--radius-control); background:var(--bg-inset); border:1px solid var(--line); font-size:12px; outline:none;"
+          />
+          <button class="btn" id="addCategoryBtn">+ Add</button>
+        </div>
+      </div>
+
+      <div class="approval-footer">
+        <div style="display:flex; gap:6px;">
+          <button class="btn" id="prevTriageBtn">← Prev</button>
+          <button class="btn" id="nextTriageBtn">Skip →</button>
+        </div>
+        <div style="display:flex; gap:6px;">
+          <button class="btn" id="copyCategoriesJsonBtn" title="Copy full categories.json to clipboard">Copy categories.json</button>
+          <button class="btn btn-primary" id="approveCategoryBtn">Approve &amp; Next</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    /* ==========================================================================
+       1. THEME BOOTSTRAP (Dark by default unless saved theme is 'light')
+       ========================================================================== */
+    (function initTheme() {
+      const saved = localStorage.getItem('stars-theme');
+      const theme = saved === 'light' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+
+    /* ==========================================================================
+       2. FALLBACK SAMPLE DATASET (Matches exact sync_stars.py JSON Schema)
+       ========================================================================== */
+    const FALLBACK_CATEGORIES = {
+      "slev12397/beautiful-ui": ["Design Systems", "Frontend & UI"],
+      "astral-sh/uv": ["Python & Tooling", "CLI & Terminal"],
+      "ggerganov/llama.cpp": ["AI & Local LLMs", "Systems & C++"],
+      "zed-industries/zed": ["Developer Tools", "Rust"],
+      "simonw/llm": ["AI & Local LLMs", "Python & Tooling", "CLI & Terminal"],
+      "oven-sh/bun": ["JavaScript & Runtimes", "Developer Tools"],
+      "BurntSushi/ripgrep": ["CLI & Terminal", "Rust"],
+      "karpathy/nanoGPT": ["AI & Local LLMs", "Python & Tooling"]
+    };
+
+    const FALLBACK_STARS = [
+      {
+        full_name: "slev12397/beautiful-ui",
+        html_url: "https://github.com/slev12397/beautiful-ui",
+        description: "Calm, high-density AI workspace primitives with OKLCH color tokens and restrained motion.",
+        language: "TypeScript",
+        stargazers_count: 1420,
+        topics: ["design-system", "oklch", "ui-primitives", "nextjs"],
+        starred_at: "2026-10-12T18:20:00Z",
+        pushed_at: "2026-10-14T09:15:00Z",
+        archived: false,
+        fork: false,
+        forks_count: 94,
+        open_issues_count: 3,
+        categories: ["Design Systems", "Frontend & UI"]
+      },
+      {
+        full_name: "astral-sh/uv",
+        html_url: "https://github.com/astral-sh/uv",
+        description: "An extremely fast Python package and project manager, written in Rust.",
+        language: "Rust",
+        stargazers_count: 48900,
+        topics: ["python", "packaging", "rust", "resolver", "cli"],
+        starred_at: "2026-09-28T04:12:00Z",
+        pushed_at: "2026-10-14T22:40:00Z",
+        archived: false,
+        fork: false,
+        forks_count: 1380,
+        open_issues_count: 412,
+        categories: ["Python & Tooling", "CLI & Terminal"]
+      },
+      {
+        full_name: "ggerganov/llama.cpp",
+        html_url: "https://github.com/ggerganov/llama.cpp",
+        description: "LLM inference in C/C++ with minimal setup and state-of-the-art quantization.",
+        language: "C++",
+        stargazers_count: 74200,
+        topics: ["llm", "inference", "gguf", "machine-learning"],
+        starred_at: "2026-08-19T14:50:00Z",
+        pushed_at: "2026-10-15T01:10:00Z",
+        archived: false,
+        fork: false,
+        forks_count: 10850,
+        open_issues_count: 620,
+        categories: ["AI & Local LLMs", "Systems & C++"]
+      },
+      {
+        full_name: "zed-industries/zed",
+        html_url: "https://github.com/zed-industries/zed",
+        description: "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        language: "Rust",
+        stargazers_count: 56400,
+        topics: ["editor", "gpui", "rust", "collaborative"],
+        starred_at: "2026-07-04T20:00:00Z",
+        pushed_at: "2026-10-15T02:05:00Z",
+        archived: false,
+        fork: false,
+        forks_count: 3720,
+        open_issues_count: 1850,
+        categories: ["Developer Tools", "Rust"]
+      },
+      {
+        full_name: "simonw/llm",
+        html_url: "https://github.com/simonw/llm",
+        description: "Access large language models from the command-line — plugins, SQLite logging, and embeddings.",
+        language: "Python",
+        stargazers_count: 6840,
+        topics: ["cli", "llm", "sqlite", "python"],
+        starred_at: "2026-06-11T11:32:00Z",
+        pushed_at: "2026-10-08T17:19:00Z",
+        archived: false,
+        fork: false,
+        forks_count: 390,
+        open_issues_count: 98,
+        categories: ["AI & Local LLMs", "Python & Tooling", "CLI & Terminal"]
+      },
+      {
+        full_name: "BurntSushi/ripgrep",
+        html_url: "https://github.com/BurntSushi/ripgrep",
+        description: "ripgrep recursively searches directories for a regex pattern while respecting your gitignore.",
+        language: "Rust",
+        stargazers_count: 51200,
+        topics: ["regex", "search", "cli", "grep"],
+        starred_at: "2026-03-19T09:10:00Z",
+        pushed_at: "2026-09-29T13:05:00Z",
+        archived: false,
+        fork: false,
+        forks_count: 2110,
+        open_issues_count: 145,
+        categories: ["CLI & Terminal", "Rust"]
+      },
+      {
+        full_name: "karpathy/nanoGPT",
+        html_url: "https://github.com/karpathy/nanoGPT",
+        description: "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+        language: "Python",
+        stargazers_count: 41300,
+        topics: ["gpt", "pytorch", "deep-learning"],
+        starred_at: "2025-11-02T16:45:00Z",
+        pushed_at: "2024-02-10T08:00:00Z",
+        archived: true,
+        fork: false,
+        forks_count: 6820,
+        open_issues_count: 190,
+        categories: ["AI & Local LLMs", "Python & Tooling"]
+      },
+      {
+        full_name: "theblackcat98/dotfiles-fork",
+        html_url: "https://github.com/theblackcat98/dotfiles-fork",
+        description: "Personal shell, Neovim, and terminal multiplexer configurations.",
+        language: "Lua",
+        stargazers_count: 19,
+        topics: ["neovim", "dotfiles", "zsh", "tmux"],
+        starred_at: "2026-10-01T08:00:00Z",
+        pushed_at: "2026-10-11T19:45:00Z",
+        archived: false,
+        fork: true,
+        forks_count: 2,
+        open_issues_count: 0,
+        categories: ["Uncategorized"]
+      }
+    ];
+
+    /* ==========================================================================
+       3. STATE & CATEGORY ORDERING (Mirrors sync_stars.py logic)
+       ========================================================================== */
+    const state = {
+      stars: [],
+      categoriesMap: {},
+      categoryOrder: [],
+      activePreset: 'all',
+      activeCategory: null,
+      activeLanguage: null,
+      searchQuery: '',
+      sortBy: 'starred_desc',
+      viewMode: 'table', // 'table' | 'cards'
+      expandedRows: new Set(),
+      triageIndex: 0,
+      triageList: [],
+      streamTimer: null
+    };
+
+    function computeCategoryOrder(stars, categoriesMap) {
+      const order = [];
+      const seen = new Set();
+
+      // 1. Preserve category order from categories.json
+      for (const cats of Object.values(categoriesMap)) {
+        if (Array.isArray(cats)) {
+          for (const c of cats) {
+            if (!seen.has(c)) {
+              seen.add(c);
+              order.push(c);
+            }
+          }
+        }
+      }
+
+      // 2. Append any categories present on star items
+      for (const s of stars) {
+        const repoCats = categoriesMap[s.full_name] || s.categories || ["Uncategorized"];
+        s.categories = repoCats.length ? repoCats : ["Uncategorized"];
+        for (const c of s.categories) {
+          if (!seen.has(c)) {
+            seen.add(c);
+            order.push(c);
+          }
+        }
+      }
+
+      // 3. Pin Uncategorized last
+      const withoutUncat = order.filter(c => c !== "Uncategorized");
+      if (seen.has("Uncategorized")) {
+        withoutUncat.push("Uncategorized");
+      }
+      return withoutUncat;
+    }
+
+    /* ==========================================================================
+       4. DATA LOADER WITH THINKING STATE & STAGGERED TRACE
+       ========================================================================== */
+    async function loadWorkspaceData() {
+      const t0 = performance.now();
+      const traceSteps = [];
+      let starsData = null;
+      let categoriesData = {};
+      let sourceLabel = "data/stars.json";
+
+      try {
+        const [starsRes, catRes] = await Promise.allSettled([
+          fetch('./data/stars.json', { cache: 'no-store' }),
+          fetch('./data/categories.json', { cache: 'no-store' })
+        ]);
+
+        if (starsRes.status === 'fulfilled' && starsRes.value.ok) {
+          starsData = await starsRes.value.json();
+          traceSteps.push({
+            label: "GET ./data/stars.json",
+            meta: `${starsData.length} records · 200 OK`
+          });
+        } else {
+          throw new Error("Local preview or missing ./data/stars.json");
+        }
+
+        if (catRes.status === 'fulfilled' && catRes.value.ok) {
+          categoriesData = await catRes.value.json();
+          traceSteps.push({
+            label: "GET ./data/categories.json",
+            meta: `${Object.keys(categoriesData).length} mappings · 200 OK`
+          });
+        } else {
+          traceSteps.push({
+            label: "GET ./data/categories.json",
+            meta: "Using embedded star.categories array"
+          });
+        }
+      } catch (err) {
+        starsData = FALLBACK_STARS;
+        categoriesData = FALLBACK_CATEGORIES;
+        sourceLabel = "preview schema (fallback)";
+        traceSteps.push({
+          label: "FETCH ./data/stars.json",
+          meta: "Fallback preview dataset loaded (host on GitHub Pages for live JSON)"
+        });
+      }
+
+      // Populate categoriesMap from stars if categories.json wasn't separate
+      for (const s of starsData) {
+        if (!categoriesData[s.full_name] && Array.isArray(s.categories)) {
+          categoriesData[s.full_name] = [...s.categories];
+        }
+      }
+
+      state.stars = starsData;
+      state.categoriesMap = categoriesData;
+      state.categoryOrder = computeCategoryOrder(state.stars, state.categoriesMap);
+
+      const elapsed = Math.round(performance.now() - t0);
+      traceSteps.push({
+        label: "INDEX categories & language facets",
+        meta: `${state.categoryOrder.length} categories · ${elapsed}ms`
+      });
+
+      document.getElementById('syncSourceLabel').textContent = sourceLabel;
+      completeThinkingState(traceSteps);
+      renderSidebar();
+      renderWorkspace();
+    }
+
+    function completeThinkingState(traceSteps) {
+      const statusText = document.getElementById('thinkingStatusText');
+      const telemetrySummary = document.getElementById('telemetrySummary');
+      const traceList = document.getElementById('traceList');
+
+      statusText.textContent = `Workspace synchronized (${state.stars.length} repositories indexed)`;
+      statusText.classList.add('done');
+      telemetrySummary.textContent = `${state.stars.length} repos · ${state.categoryOrder.length} categories`;
+
+      traceList.innerHTML = traceSteps.map((step, idx) => `
+        <div class="trace-step" style="transition-delay: ${idx * 95}ms">
+          <span>${escapeHtml(step.label)}</span>
+          <span style="color: var(--status-green)">${escapeHtml(step.meta)}</span>
+        </div>
+      `).join('');
+    }
+
+    /* ==========================================================================
+       5. FILTERING, QUALIFIER PARSER & SORTING
+       ========================================================================== */
+    function isRecentPush(isoDate, days = 30) {
+      if (!isoDate) return false;
+      const diff = Date.now() - new Date(isoDate).getTime();
+      return diff <= days * 86400000;
+    }
+
+    function getFilteredStars() {
+      const rawQuery = state.searchQuery.trim();
+      const tokens = rawQuery ? rawQuery.split(/\s+/) : [];
+      const now = Date.now();
+
+      const filtered = state.stars.filter(repo => {
+        // 1. Sidebar Preset Filter
+        if (state.activePreset === 'recent') {
+          const starredAgeDays = repo.starred_at ? (now - new Date(repo.starred_at).getTime()) / 86400000 : 9999;
+          if (starredAgeDays > 90) return false;
+        } else if (state.activePreset === 'active') {
+          if (!isRecentPush(repo.pushed_at, 30)) return false;
+        } else if (state.activePreset === 'archived') {
+          if (!repo.archived) return false;
+        } else if (state.activePreset === 'forks') {
+          if (!repo.fork) return false;
+        }
+
+        // 2. Sidebar Category Filter
+        if (state.activeCategory && !(repo.categories || []).includes(state.activeCategory)) {
+          return false;
+        }
+
+        // 3. Sidebar Language Filter
+        if (state.activeLanguage && (repo.language || 'Other') !== state.activeLanguage) {
+          return false;
+        }
+
+        // 4. PromptBar Qualifiers & Free-Text
+        for (const token of tokens) {
+          const lower = token.toLowerCase();
+          if (lower.startsWith('lang:')) {
+            const target = lower.slice(5);
+            if (!(repo.language || '').toLowerCase().includes(target)) return false;
+          } else if (lower.startsWith('cat:')) {
+            const target = lower.slice(4);
+            const matchCat = (repo.categories || []).some(c => c.toLowerCase().includes(target));
+            if (!matchCat) return false;
+          } else if (lower.startsWith('topic:')) {
+            const target = lower.slice(6);
+            const matchTopic = (repo.topics || []).some(t => t.toLowerCase().includes(target));
+            if (!matchTopic) return false;
+          } else if (lower === 'is:archived') {
+            if (!repo.archived) return false;
+          } else if (lower === 'is:fork') {
+            if (!repo.fork) return false;
+          } else if (lower === 'is:active') {
+            if (!isRecentPush(repo.pushed_at, 30)) return false;
+          } else if (lower.startsWith('stars:>')) {
+            const threshold = parseInt(lower.slice(7), 10) || 0;
+            if ((repo.stargazers_count || 0) <= threshold) return false;
+          } else {
+            const haystack = `${repo.full_name} ${repo.description} ${repo.language} ${(repo.topics || []).join(' ')} ${(repo.categories || []).join(' ')}`.toLowerCase();
+            if (!haystack.includes(lower)) return false;
+          }
+        }
+
+        return true;
+      });
+
+      // Sort
+      filtered.sort((a, b) => {
+        switch (state.sortBy) {
+          case 'stars_desc':
+            return (b.stargazers_count || 0) - (a.stargazers_count || 0);
+          case 'forks_desc':
+            return (b.forks_count || 0) - (a.forks_count || 0);
+          case 'pushed_desc':
+            return (b.pushed_at || '').localeCompare(a.pushed_at || '');
+          case 'name_asc':
+            return a.full_name.toLowerCase().localeCompare(b.full_name.toLowerCase());
+          case 'starred_desc':
+          default:
+            return (b.starred_at || '').localeCompare(a.starred_at || '');
+        }
+      });
+
+      return filtered;
+    }
+
+    /* ==========================================================================
+       6. RENDERING SIDEBAR & HIGH-DENSITY TABLE / CARDS
+       ========================================================================== */
+    function renderSidebar() {
+      const now = Date.now();
+      document.getElementById('count-all').textContent = state.stars.length;
+      document.getElementById('count-recent').textContent = state.stars.filter(r => r.starred_at && (now - new Date(r.starred_at).getTime()) / 86400000 <= 90).length;
+      document.getElementById('count-active').textContent = state.stars.filter(r => isRecentPush(r.pushed_at, 30)).length;
+      document.getElementById('count-archived').textContent = state.stars.filter(r => r.archived).length;
+      document.getElementById('count-forks').textContent = state.stars.filter(r => r.fork).length;
+
+      // Categories list in exact order
+      const catCounts = {};
+      for (const c of state.categoryOrder) catCounts[c] = 0;
+      for (const s of state.stars) {
+        for (const c of (s.categories || ["Uncategorized"])) {
+          catCounts[c] = (catCounts[c] || 0) + 1;
+        }
+      }
+
+      document.getElementById('uncatBadge').textContent = catCounts["Uncategorized"] || 0;
+
+      const catContainer = document.getElementById('categoryNav');
+      catContainer.innerHTML = state.categoryOrder.map(cat => `
+        <div class="nav-item ${state.activeCategory === cat ? 'active' : ''}" data-category="${escapeHtml(cat)}">
+          <div class="nav-item-left">
+            <span class="nav-icon">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
+              </svg>
+            </span>
+            <span class="nav-label">${escapeHtml(cat)}</span>
+          </div>
+          <span class="nav-count">${catCounts[cat] || 0}</span>
+        </div>
+      `).join('');
+
+      // Top Languages
+      const langCounts = {};
+      for (const s of state.stars) {
+        const l = s.language || 'Other';
+        langCounts[l] = (langCounts[l] || 0) + 1;
+      }
+      const topLangs = Object.entries(langCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10);
+
+      const langContainer = document.getElementById('languageNav');
+      langContainer.innerHTML = topLangs.map(([lang, count]) => `
+        <div class="nav-item ${state.activeLanguage === lang ? 'active' : ''}" data-language="${escapeHtml(lang)}">
+          <div class="nav-item-left">
+            <span class="nav-icon">
+              <span class="status-dot" style="color: var(--accent)"></span>
+            </span>
+            <span class="nav-label">${escapeHtml(lang)}</span>
+          </div>
+          <span class="nav-count">${count}</span>
+        </div>
+      `).join('');
+    }
+
+    function renderWorkspace() {
+      const filtered = getFilteredStars();
+      document.getElementById('filteredCountBadge').textContent = filtered.length;
+      document.getElementById('clearQueryBtn').style.display =
+        (state.searchQuery || state.activeCategory || state.activeLanguage || state.activePreset !== 'all')
+          ? 'inline-flex'
+          : 'none';
+
+      // Update breadcrumb title
+      let title = 'All Repositories';
+      if (state.activeCategory) title = state.activeCategory;
+      else if (state.activeLanguage) title = `Language: ${state.activeLanguage}`;
+      else if (state.activePreset === 'recent') title = 'Recently Starred';
+      else if (state.activePreset === 'active') title = 'Active Push (30d)';
+      else if (state.activePreset === 'archived') title = 'Archived';
+      else if (state.activePreset === 'forks') title = 'Forks';
+      document.getElementById('activeViewTitle').textContent = title;
+
+      const tableEl = document.getElementById('starsTable');
+      const cardsEl = document.getElementById('cardsGrid');
+
+      if (state.viewMode === 'table') {
+        tableEl.style.display = 'table';
+        cardsEl.style.display = 'none';
+        renderTableRows(filtered);
+      } else {
+        tableEl.style.display = 'none';
+        cardsEl.style.display = 'grid';
+        renderCardGrid(filtered);
+      }
+    }
+
+    function renderTableRows(repos) {
+      const tbody = document.getElementById('starsTableBody');
+      if (!repos.length) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="7" style="height: 120px; text-align:center; color: var(--ink-muted);">
+              No repositories match the active workspace filters.
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      tbody.innerHTML = repos.map((r, idx) => {
+        const [owner, slug] = r.full_name.split('/');
+        const isExpanded = state.expandedRows.has(r.full_name);
+        const pushedDate = (r.pushed_at || '').slice(0, 10) || '—';
+        const starredDate = (r.starred_at || '').slice(0, 10) || '—';
+        const recentPush = isRecentPush(r.pushed_at, 30);
+        const staggerDelay = Math.min(idx * 18, 240);
+
+        const statusBadges = [
+          r.archived ? `<span class="badge-pill badge-orange" title="Archived">archived</span>` : '',
+          r.fork ? `<span class="badge-pill" title="Fork">fork</span>` : '',
+          (!r.archived && recentPush) ? `<span class="status-dot" style="color: var(--status-green)" title="Active push within 30d"></span>` : ''
+        ].filter(Boolean).join('');
+
+        const catsHtml = (r.categories || ['Uncategorized']).map(c =>
+          `<span class="chip" data-filter-cat="${escapeHtml(c)}">${escapeHtml(c)}</span>`
+        ).join(' ');
+
+        const topicsHtml = (r.topics || []).map(t =>
+          `<span class="chip" data-filter-topic="${escapeHtml(t)}">#${escapeHtml(t)}</span>`
+        ).join('');
+
+        return `
+          <tr class="repo-row ${isExpanded ? 'expanded' : ''}" data-repo="${escapeHtml(r.full_name)}" style="animation-delay: ${staggerDelay}ms">
+            <td>
+              <div class="repo-name-cell">
+                <svg class="expand-caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polyline points="9 18 15 12 9 6"/>
+                </svg>
+                <span class="repo-owner">${escapeHtml(owner)}/</span><span class="repo-slug">${escapeHtml(slug)}</span>
+                ${statusBadges}
+              </div>
+            </td>
+            <td>${catsHtml}</td>
+            <td>
+              ${r.language ? `<span class="badge-pill">${escapeHtml(r.language)}</span>` : `<span style="color:var(--ink-muted)">—</span>`}
+            </td>
+            <td class="num-col meta-num">${formatNumber(r.stargazers_count)}</td>
+            <td class="num-col meta-num">${formatNumber(r.forks_count)}</td>
+            <td class="num-col meta-num">${pushedDate}</td>
+            <td class="repo-desc" title="${escapeHtml(r.description)}">${escapeHtml(r.description || '—')}</td>
+          </tr>
+          <tr class="detail-row">
+            <td colspan="7">
+              <div class="detail-collapse ${isExpanded ? 'open' : ''}">
+                <div class="detail-inner">
+                  <div class="detail-content">
+                    <div>
+                      <div style="font-size:13px; color:var(--ink);">${escapeHtml(r.description || 'No description provided.')}</div>
+                      <div class="detail-meta-grid">
+                        <span>starred_at: <strong>${starredDate}</strong></span>
+                        <span>pushed_at: <strong>${pushedDate}</strong></span>
+                        <span>open_issues: <strong>${r.open_issues_count || 0}</strong></span>
+                        <span>archived: <strong>${Boolean(r.archived)}</strong></span>
+                        <span>fork: <strong>${Boolean(r.fork)}</strong></span>
+                      </div>
+                      ${topicsHtml ? `<div class="detail-topics">${topicsHtml}</div>` : ''}
+                    </div>
+                    <div style="display:flex; gap:6px;">
+                      <a href="${escapeHtml(r.html_url)}" target="_blank" rel="noopener" class="btn btn-primary" onclick="event.stopPropagation()">
+                        <span>Open on GitHub</span>
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                          <path d="M7 17L17 7M17 7H7M17 7V17"/>
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderCardGrid(repos) {
+      const grid = document.getElementById('cardsGrid');
+      grid.innerHTML = repos.map((r, idx) => {
+        const pushedDate = (r.pushed_at || '').slice(0, 10) || '—';
+        return `
+          <div class="repo-card" style="animation-delay: ${Math.min(idx * 20, 240)}ms">
+            <div style="display:flex; align-items:center; justify-content:space-between; gap:8px;">
+              <a href="${escapeHtml(r.html_url)}" target="_blank" rel="noopener" class="mono" style="font-size:12.5px; font-weight:600; color:var(--accent); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">
+                ${escapeHtml(r.full_name)}
+              </a>
+              <span class="badge-pill">★ ${formatNumber(r.stargazers_count)}</span>
+            </div>
+            <p style="font-size:12.5px; color:var(--ink-secondary); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:36px;">
+              ${escapeHtml(r.description || 'No description.')}
+            </p>
+            <div style="display:flex; align-items:center; justify-content:space-between; gap:6px; margin-top:auto; padding-top:6px; border-top:1px solid var(--line);">
+              <div style="display:flex; gap:4px; overflow:hidden;">
+                ${r.language ? `<span class="badge-pill">${escapeHtml(r.language)}</span>` : ''}
+                ${(r.categories || []).slice(0, 1).map(c => `<span class="chip">${escapeHtml(c)}</span>`).join('')}
+              </div>
+              <span class="mono" style="font-size:10.5px; color:var(--ink-muted);">push ${pushedDate}</span>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    /* ==========================================================================
+       7. STREAMING WORKSPACE BRIEF (1 word every 55ms + 1s caret blink)
+       ========================================================================== */
+    function runStreamingBrief() {
+      const repos = getFilteredStars();
+      const panel = document.getElementById('streamPanel');
+      const textEl = document.getElementById('streamText');
+      const caretEl = document.getElementById('streamCaret');
+      const loader = document.getElementById('pixelLoader');
+      const statusText = document.getElementById('thinkingStatusText');
+
+      if (state.streamTimer) clearInterval(state.streamTimer);
+
+      loader.classList.add('orbit');
+      statusText.classList.remove('done');
+      statusText.textContent = `Synthesizing telemetry across ${repos.length} filtered repositories...`;
+
+      // Compute real insights from the filtered slice
+      const totalStars = repos.reduce((acc, r) => acc + (r.stargazers_count || 0), 0);
+      const activeCount = repos.filter(r => isRecentPush(r.pushed_at, 30)).length;
+      const archivedCount = repos.filter(r => r.archived).length;
+      const langMap = {};
+      repos.forEach(r => { if (r.language) langMap[r.language] = (langMap[r.language] || 0) + 1; });
+      const topLang = Object.entries(langMap).sort((a, b) => b[1] - a[1])[0];
+      const topRepo = [...repos].sort((a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0))[0];
+
+      const summaryString = repos.length === 0
+        ? "No repositories match the current query constraints. Reset filters or broaden your qualifier syntax."
+        : `Active selection contains ${repos.length} repositories totaling ${totalStars.toLocaleString()} stargazers. ` +
+          `Primary language concentration is ${topLang ? `${topLang[0]} (${topLang[1]} repos)` : 'mixed'}, ` +
+          `with ${activeCount} repositories receiving commits in the last 30 days and ${archivedCount} marked archived. ` +
+          (topRepo ? `Highest-gravity project in view is ${topRepo.full_name} (${topRepo.stargazers_count.toLocaleString()} ★).` : '');
+
+      const words = summaryString.split(' ');
+      panel.classList.add('visible');
+      textEl.textContent = '';
+      caretEl.classList.remove('hidden');
+
+      let i = 0;
+      const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (reducedMotion) {
+        textEl.textContent = summaryString;
+        caretEl.classList.add('hidden');
+        loader.classList.remove('orbit');
+        statusText.classList.add('done');
+        statusText.textContent = `Brief complete (${repos.length} repositories analyzed)`;
+        return;
+      }
+
+      state.streamTimer = setInterval(() => {
+        if (i < words.length) {
+          textEl.textContent += (i === 0 ? '' : ' ') + words[i];
+          i++;
+        } else {
+          clearInterval(state.streamTimer);
+          state.streamTimer = null;
+          loader.classList.remove('orbit');
+          statusText.classList.add('done');
+          statusText.textContent = `Brief complete (${repos.length} repositories analyzed)`;
+          setTimeout(() => caretEl.classList.add('hidden'), 1800);
+        }
+      }, 55);
+    }
+
+    /* ==========================================================================
+       8. APPROVAL CARD (360ms SLIDE + ROLLING COUNTER FOR CATEGORIES.JSON)
+       ========================================================================== */
+    function openTriageModal() {
+      const uncat = state.stars.filter(r => (r.categories || []).includes('Uncategorized'));
+      state.triageList = uncat.length ? uncat : [...state.stars];
+      state.triageIndex = 0;
+      document.getElementById('triageModal').classList.add('open');
+      renderTriageCard(false);
+    }
+
+    function renderTriageCard(animateSlide = true) {
+      const stage = document.getElementById('approvalStage');
+      const list = state.triageList;
+      if (!list.length) return;
+
+      const repo = list[state.triageIndex];
+      document.getElementById('triageCounter').textContent = `${state.triageIndex + 1} / ${list.length}`;
+
+      const updateDOM = () => {
+        const nameEl = document.getElementById('triageRepoName');
+        nameEl.textContent = repo.full_name;
+        nameEl.href = repo.html_url;
+        document.getElementById('triageRepoMeta').textContent = `★ ${formatNumber(repo.stargazers_count)} · ${repo.language || 'Unknown'}`;
+        document.getElementById('triageRepoDesc').textContent = repo.description || 'No repository description available.';
+
+        document.getElementById('triageRepoTopics').innerHTML = (repo.topics || []).map(t =>
+          `<span class="chip">#${escapeHtml(t)}</span>`
+        ).join('');
+
+        const currentCats = new Set((repo.categories || []).filter(c => c !== 'Uncategorized'));
+        const candidatePool = state.categoryOrder.filter(c => c !== 'Uncategorized');
+
+        document.getElementById('triageOptions').innerHTML = candidatePool.map(cat => `
+          <button type="button" class="approval-option ${currentCats.has(cat) ? 'selected' : ''}" data-cat-option="${escapeHtml(cat)}">
+            ${escapeHtml(cat)}
+          </button>
+        `).join('');
+      };
+
+      if (!animateSlide || window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        updateDOM();
+        return;
+      }
+
+      stage.classList.add('sliding-out');
+      setTimeout(() => {
+        updateDOM();
+        stage.classList.remove('sliding-out');
+        stage.classList.add('sliding-in');
+        requestAnimationFrame(() => {
+          requestAnimationFrame(() => {
+            stage.classList.remove('sliding-in');
+          });
+        });
+      }, 180);
+    }
+
+    /* ==========================================================================
+       9. UTILITIES & EVENT LISTENERS
+       ========================================================================== */
+    function escapeHtml(str) {
+      return String(str ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function formatNumber(n) {
+      return Number(n || 0).toLocaleString();
+    }
+
+    // Sidebar collapse (224 -> 52px in 280ms)
+    document.getElementById('sidebarToggle').addEventListener('click', () => {
+      document.getElementById('sidebar').classList.toggle('collapsed');
+    });
+
+    // Theme toggle
+    document.getElementById('themeToggle').addEventListener('click', () => {
+      const html = document.documentElement;
+      const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('stars-theme', next);
+    });
+
+    // ThinkingState trace accordion toggle
+    document.getElementById('thinkingToggle').addEventListener('click', () => {
+      document.getElementById('traceCollapse').classList.toggle('open');
+    });
+
+    // Preset navigation
+    document.getElementById('presetNav').addEventListener('click', (e) => {
+      const item = e.target.closest('.nav-item');
+      if (!item) return;
+      state.activePreset = item.dataset.preset;
+      state.activeCategory = null;
+      state.activeLanguage = null;
+      document.querySelectorAll('#presetNav .nav-item').forEach(el => el.classList.toggle('active', el === item));
+      renderSidebar();
+      renderWorkspace();
+    });
+
+    // Category navigation
+    document.getElementById('categoryNav').addEventListener('click', (e) => {
+      const item = e.target.closest('.nav-item');
+      if (!item) return;
+      const cat = item.dataset.category;
+      state.activeCategory = state.activeCategory === cat ? null : cat;
+      state.activeLanguage = null;
+      renderSidebar();
+      renderWorkspace();
+    });
+
+    // Language navigation
+    document.getElementById('languageNav').addEventListener('click', (e) => {
+      const item = e.target.closest('.nav-item');
+      if (!item) return;
+      const lang = item.dataset.language;
+      state.activeLanguage = state.activeLanguage === lang ? null : lang;
+      state.activeCategory = null;
+      renderSidebar();
+      renderWorkspace();
+    });
+
+    // PromptBar live input
+    const promptInput = document.getElementById('promptInput');
+    promptInput.addEventListener('input', (e) => {
+      state.searchQuery = e.target.value;
+      renderWorkspace();
+    });
+
+    // Quick filter chips
+    document.getElementById('quickFilterChips').addEventListener('click', (e) => {
+      const chip = e.target.closest('[data-insert]');
+      if (!chip) return;
+      const token = chip.dataset.insert;
+      promptInput.value = promptInput.value ? `${promptInput.value.trim()} ${token}` : token;
+      state.searchQuery = promptInput.value;
+      renderWorkspace();
+    });
+
+    // Clear query & filters
+    document.getElementById('clearQueryBtn').addEventListener('click', () => {
+      state.searchQuery = '';
+      state.activeCategory = null;
+      state.activeLanguage = null;
+      state.activePreset = 'all';
+      promptInput.value = '';
+      document.querySelectorAll('#presetNav .nav-item').forEach(el =>
+        el.classList.toggle('active', el.dataset.preset === 'all')
+      );
+      renderSidebar();
+      renderWorkspace();
+    });
+
+    // Synthesize Brief streaming button
+    document.getElementById('synthesizeBtn').addEventListener('click', runStreamingBrief);
+
+    // Sort select & table header click sorting
+    document.getElementById('sortSelect').addEventListener('change', (e) => {
+      state.sortBy = e.target.value;
+      renderWorkspace();
+    });
+
+    document.querySelector('.stars-table thead').addEventListener('click', (e) => {
+      const th = e.target.closest('th[data-sort]');
+      if (!th) return;
+      state.sortBy = th.dataset.sort;
+      document.getElementById('sortSelect').value = state.sortBy;
+      renderWorkspace();
+    });
+
+    // View mode toggle (Table vs Cards)
+    document.getElementById('viewModeBtn').addEventListener('click', () => {
+      state.viewMode = state.viewMode === 'table' ? 'cards' : 'table';
+      document.getElementById('viewModeLabel').textContent = state.viewMode === 'table' ? 'Table' : 'Cards';
+      renderWorkspace();
+    });
+
+    // Expandable table row trace + inline chip filtering
+    document.getElementById('starsTableBody').addEventListener('click', (e) => {
+      const catChip = e.target.closest('[data-filter-cat]');
+      if (catChip) {
+        e.stopPropagation();
+        state.activeCategory = catChip.dataset.filterCat;
+        renderSidebar();
+        renderWorkspace();
+        return;
+      }
+
+      const topicChip = e.target.closest('[data-filter-topic]');
+      if (topicChip) {
+        e.stopPropagation();
+        const token = `topic:${topicChip.dataset.filterTopic}`;
+        promptInput.value = token;
+        state.searchQuery = token;
+        renderWorkspace();
+        return;
+      }
+
+      const row = e.target.closest('.repo-row');
+      if (!row) return;
+      const repoName = row.dataset.repo;
+      if (state.expandedRows.has(repoName)) {
+        state.expandedRows.delete(repoName);
+      } else {
+        state.expandedRows.add(repoName);
+      }
+      renderWorkspace();
+    });
+
+    // ApprovalCard (Category Triage Modal) listeners
+    document.getElementById('openTriageBtn').addEventListener('click', openTriageModal);
+    document.getElementById('closeTriageBtn').addEventListener('click', () => {
+      document.getElementById('triageModal').classList.remove('open');
+    });
+
+    document.getElementById('triageOptions').addEventListener('click', (e) => {
+      const btn = e.target.closest('.approval-option');
+      if (!btn) return;
+      btn.classList.toggle('selected');
+    });
+
+    document.getElementById('addCategoryBtn').addEventListener('click', () => {
+      const input = document.getElementById('newCategoryInput');
+      const val = input.value.trim();
+      if (!val) return;
+      if (!state.categoryOrder.includes(val)) {
+        state.categoryOrder.splice(Math.max(0, state.categoryOrder.length - 1), 0, val);
+      }
+      input.value = '';
+      renderTriageCard(false);
+      // Select the newly created category button
+      const newBtn = [...document.querySelectorAll('.approval-option')].find(b => b.dataset.catOption === val);
+      if (newBtn) newBtn.classList.add('selected');
+    });
+
+    document.getElementById('approveCategoryBtn').addEventListener('click', () => {
+      const repo = state.triageList[state.triageIndex];
+      if (!repo) return;
+      const selected = [...document.querySelectorAll('#triageOptions .approval-option.selected')]
+        .map(b => b.dataset.catOption);
+      repo.categories = selected.length ? selected : ['Uncategorized'];
+      state.categoriesMap[repo.full_name] = repo.categories;
+      state.categoryOrder = computeCategoryOrder(state.stars, state.categoriesMap);
+      renderSidebar();
+      renderWorkspace();
+
+      if (state.triageIndex < state.triageList.length - 1) {
+        state.triageIndex++;
+        renderTriageCard(true);
+      }
+    });
+
+    document.getElementById('prevTriageBtn').addEventListener('click', () => {
+      if (state.triageIndex > 0) {
+        state.triageIndex--;
+        renderTriageCard(true);
+      }
+    });
+
+    document.getElementById('nextTriageBtn').addEventListener('click', () => {
+      if (state.triageIndex < state.triageList.length - 1) {
+        state.triageIndex++;
+        renderTriageCard(true);
+      }
+    });
+
+    document.getElementById('copyCategoriesJsonBtn').addEventListener('click', async (e) => {
+      const cleanMap = {};
+      for (const [repoName, cats] of Object.entries(state.categoriesMap)) {
+        const filtered = (cats || []).filter(c => c !== 'Uncategorized');
+        if (filtered.length) cleanMap[repoName] = filtered;
+      }
+      await navigator.clipboard.writeText(JSON.stringify(cleanMap, null, 2) + '\n');
+      const btn = e.currentTarget;
+      const prev = btn.textContent;
+      btn.textContent = 'Copied JSON!';
+      setTimeout(() => { btn.textContent = prev; }, 1400);
+    });
+
+    // Global Keyboard Shortcuts ('/' or Cmd+K focuses PromptBar, Cmd+B toggles Sidebar)
+    window.addEventListener('keydown', (e) => {
+      if ((e.key === '/' || (e.metaKey && e.key.toLowerCase() === 'k')) && document.activeElement !== promptInput) {
+        e.preventDefault();
+        promptInput.focus();
+      } else if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'b') {
+        e.preventDefault();
+        document.getElementById('sidebar').classList.toggle('collapsed');
+      } else if (e.key === 'Escape') {
+        document.getElementById('triageModal').classList.remove('open');
+      }
+    });
+
+    // Boot workspace
+    loadWorkspaceData();
+  </script>
+</body>
+</html>
