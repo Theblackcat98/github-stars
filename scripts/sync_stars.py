@@ -58,6 +58,11 @@ def fetch_stars():
                     "stargazers_count": repo.get("stargazers_count", 0),
                     "topics": repo.get("topics", []),
                     "starred_at": item.get("starred_at", ""),
+                    "pushed_at": repo.get("pushed_at", ""),
+                    "archived": bool(repo.get("archived", False)),
+                    "fork": bool(repo.get("fork", False)),
+                    "forks_count": repo.get("forks_count", 0),
+                    "open_issues_count": repo.get("open_issues_count", 0),
                 }
             )
         if len(items) < 100:
@@ -135,15 +140,20 @@ def main():
             [
                 f"## {c}",
                 "",
-                "| Repo | ★ | Language | Description |",
-                "| ---- | -: | -------- | ----------- |",
+                "| Repo | ★ | Forks | Language | Last push | Description |",
+                "| ---- | -: | ----: | -------- | --------- | ----------- |",
             ]
         )
         for r in by_cat[c]:
             name = f"[{r['full_name']}]({r['html_url']})"
+            if r.get("archived"):
+                name += " 🗄️"
+            if r.get("fork"):
+                name += " (fork)"
+            pushed = (r.get("pushed_at") or "")[:10]
             lines.append(
-                f"| {name} | {r['stargazers_count']} | {esc(r['language'])} "
-                f"| {esc(r['description'])} |"
+                f"| {name} | {r['stargazers_count']} | {r['forks_count']} "
+                f"| {esc(r['language'])} | {pushed} | {esc(r['description'])} |"
             )
         lines.append("")
 
