@@ -131,6 +131,8 @@ def main():
         "",
         "## Categories",
         "",
+        "Click a category to jump to it, then expand its section to see the repos.",
+        "",
     ]
     for c in order:
         lines.append(f"- [{c} ({len(by_cat[c])})](#{anchor(c)})")
@@ -138,7 +140,12 @@ def main():
     for c in order:
         lines.extend(
             [
-                f"## {c}",
+                "[↑ Back to top](#categories)",
+                "",
+                f'<a id="{anchor(c)}"></a>',
+                "<details>",
+                f"<summary><strong>{c}</strong> "
+                f"({len(by_cat[c])} repositories)</summary>",
                 "",
                 "| Repo | ★ | Forks | Language | Last push | Description |",
                 "| ---- | -: | ----: | -------- | --------- | ----------- |",
@@ -155,7 +162,7 @@ def main():
                 f"| {name} | {r['stargazers_count']} | {r['forks_count']} "
                 f"| {esc(r['language'])} | {pushed} | {esc(r['description'])} |"
             )
-        lines.append("")
+        lines.extend(["", "</details>", ""])
 
     body = "\n".join(lines)
 
