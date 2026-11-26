@@ -12,7 +12,7 @@ September 2026 categorization pass land in
 Raw data lives in [`data/stars.json`](data/stars.json).
 
 <!-- STARS:START -->
-**1041 repositories** · last synced 2026-11-25 22:02 UTC
+**1041 repositories** · last synced 2026-11-26 22:00 UTC
 
 ## Categories
 
@@ -47,72 +47,72 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) | 20495 | 1075 | Rust | 2024-08-02 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
-| [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) | 4944 | 234 | Kotlin | 2026-11-20 | A mod for the Discord Android App |
-| [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) (fork) | 1413 | 169 | C# | 2026-06-04 | GUI for apktool, signapk, zipalign and baksmali utilities. |
+| [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) | 20497 | 1074 | Rust | 2024-08-02 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
+| [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) | 4947 | 235 | Kotlin | 2026-11-20 | A mod for the Discord Android App |
+| [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) (fork) | 1414 | 169 | C# | 2026-06-04 | GUI for apktool, signapk, zipalign and baksmali utilities. |
 | [Andrewcpu/EnableTaskbar](https://github.com/Andrewcpu/EnableTaskbar) | 9 | 3 | Java | 2023-03-06 | Lsposed module to enable the Android 13 taskbar on mobile devices without modifying launcher grid size. |
-| [android/nowinandroid](https://github.com/android/nowinandroid) | 22133 | 4733 | Kotlin | 2026-11-25 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
-| [android/skills](https://github.com/android/skills) | 10758 | 709 | Kotlin | 2026-11-23 |  |
-| [APKLab/APKLab](https://github.com/APKLab/APKLab) | 4078 | 348 | TypeScript | 2026-07-16 | Android Reverse-Engineering Workbench for VS Code |
-| [chindaronit/Flux](https://github.com/chindaronit/Flux) | 361 | 20 | Kotlin | 2026-10-25 | Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it evolves. |
-| [chrisbanes/skills](https://github.com/chrisbanes/skills) | 1166 | 60 | Python | 2026-11-25 | Skills for Kotlin, Jetpack Compose, and Android development |
+| [android/nowinandroid](https://github.com/android/nowinandroid) | 22138 | 4730 | Kotlin | 2026-11-26 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [android/skills](https://github.com/android/skills) | 10769 | 705 | Kotlin | 2026-11-23 |  |
+| [APKLab/APKLab](https://github.com/APKLab/APKLab) | 4079 | 347 | TypeScript | 2026-07-16 | Android Reverse-Engineering Workbench for VS Code |
+| [chindaronit/Flux](https://github.com/chindaronit/Flux) | 362 | 20 | Kotlin | 2026-10-25 | Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it evolves. |
+| [chrisbanes/skills](https://github.com/chrisbanes/skills) | 1166 | 60 | Python | 2026-11-26 | Skills for Kotlin, Jetpack Compose, and Android development |
 | [coreply/cooperate](https://github.com/coreply/cooperate) (fork) | 22 | 1 | Kotlin | 2026-01-19 | Cooperate is an open-source Android app giving large language models (LLMs) the ability to interact with Android apps. |
-| [dessalines/thumb-key](https://github.com/dessalines/thumb-key) | 1586 | 347 | Kotlin | 2026-11-25 | A privacy-conscious Android keyboard made for your thumbs |
-| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 🗄️ | 85770 | 9605 |  | 2024-07-29 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |
+| [dessalines/thumb-key](https://github.com/dessalines/thumb-key) | 1587 | 347 | Kotlin | 2026-11-26 | A privacy-conscious Android keyboard made for your thumbs |
+| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 🗄️ | 85781 | 9609 |  | 2024-07-29 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |
 | [dstark5/Openlib](https://github.com/dstark5/Openlib) | 2527 | 138 | Dart | 2026-01-18 | An Open source app to download and read books from shadow library (Anna’s Archive) |
-| [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) | 6402 | 605 | Python | 2025-08-20 | Scanning APK file for URIs, endpoints & secrets. |
-| [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | 3644 | 260 | Kotlin | 2026-11-10 | An application to write OS images to USB drives, on Android, no root required. |
-| [ev-flow/quark-engine](https://github.com/ev-flow/quark-engine) | 1746 | 222 | Python | 2026-11-13 |  |
-| [f1xpl/openauto](https://github.com/f1xpl/openauto) | 2952 | 546 | C++ | 2024-12-12 | AndroidAuto headunit emulator |
-| [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) | 5079 | 470 | C | 2026-11-25 | Book Reader for Android |
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 155716 | 14290 | C | 2026-11-24 | Display and control your Android device |
-| [gokadzev/Musify](https://github.com/gokadzev/Musify) | 4484 | 437 | Dart | 2026-11-23 | Unlock the full potential of music: Stream effortlessly with one app! |
-| [google/material-design-icons](https://github.com/google/material-design-icons) | 54369 | 9755 |  | 2026-10-23 | Material Design icons by Google (Material Symbols) |
+| [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) | 6403 | 605 | Python | 2025-08-20 | Scanning APK file for URIs, endpoints & secrets. |
+| [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | 3651 | 260 | Kotlin | 2026-11-10 | An application to write OS images to USB drives, on Android, no root required. |
+| [ev-flow/quark-engine](https://github.com/ev-flow/quark-engine) | 1750 | 222 | Python | 2026-11-26 |  |
+| [f1xpl/openauto](https://github.com/f1xpl/openauto) | 2952 | 547 | C++ | 2024-12-12 | AndroidAuto headunit emulator |
+| [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) | 5084 | 470 | C | 2026-11-26 | Book Reader for Android |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 155837 | 14290 | C | 2026-11-26 | Display and control your Android device |
+| [gokadzev/Musify](https://github.com/gokadzev/Musify) | 4485 | 437 | Dart | 2026-11-23 | Unlock the full potential of music: Stream effortlessly with one app! |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | 54371 | 9756 |  | 2026-10-23 | Material Design icons by Google (Material Symbols) |
 | [haydenkz/llama-chat](https://github.com/haydenkz/llama-chat) | 8 | 0 | Kotlin | 2026-11-24 | Native Android client for llama.cpp |
 | [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) | 1154 | 65 | C++ | 2026-11-16 | A wlroots-compatible Wayland color picker that does not suck. |
-| [iamr0s/AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) | 350 | 9 | Kotlin | 2023-07-19 |  |
-| [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 27375 | 4273 | Java | 2026-11-23 | A tool for reverse engineering Android apk files |
-| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21903 | 716 | Dart | 2026-11-23 | Get Android app updates straight from the source. |
-| [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3373 | 412 | Java | 2026-11-22 | A lightweight keyboard for Android |
-| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 31024 | 1594 | Kotlin | 2026-11-25 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
+| [iamr0s/AndroidAccounts](https://github.com/iamr0s/AndroidAccounts) | 353 | 9 | Kotlin | 2023-07-19 |  |
+| [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 27385 | 4275 | Java | 2026-11-23 | A tool for reverse engineering Android apk files |
+| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21940 | 717 | Dart | 2026-11-23 | Get Android app updates straight from the source. |
+| [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3376 | 412 | Java | 2026-11-26 | A lightweight keyboard for Android |
+| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 31054 | 1597 | Kotlin | 2026-11-25 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
 | [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) | 1707 | 206 | C++ | 2025-01-19 | Powerful yet easy to use APK editor for PC and Mac. |
-| [koreader/koreader](https://github.com/koreader/koreader) | 31327 | 2061 | Lua | 2026-11-25 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices |
-| [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | 1146 | 45 | Shell | 2026-10-30 | A collection of AI agent skills useful for projects using Kotlin language |
+| [koreader/koreader](https://github.com/koreader/koreader) | 31347 | 2062 | Lua | 2026-11-26 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices |
+| [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | 1147 | 45 | Shell | 2026-10-30 | A collection of AI agent skills useful for projects using Kotlin language |
 | [LeslyeCream/Syrup](https://github.com/LeslyeCream/Syrup) | 8 | 0 |  | 2023-03-05 | Sync bookmarks and articles offline with Raindrop and Obsidian on android |
 | [leyrshroud/ZuiTranslator](https://github.com/leyrshroud/ZuiTranslator) | 15 | 1 |  | 2026-06-26 | Magisk module for ZUI 15/16 firmware localization, providing an enhanced user experience in Chinese firmware. |
-| [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 13064 | 717 | Kotlin | 2026-11-24 | An alternative frontend for YouTube, for Android. |
+| [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 13072 | 720 | Kotlin | 2026-11-24 | An alternative frontend for YouTube, for Android. |
 | [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) | 363 | 27 | Shell | 2023-10-16 | Upstream repo: |
-| [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) | 3274 | 155 | Kotlin | 2026-11-17 | Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style. |
-| [meticha/material-3-expressive-catalog](https://github.com/meticha/material-3-expressive-catalog) | 227 | 31 | Kotlin | 2026-10-13 | Expressive Material 3 UI components catalog built with Jetpack Compose for Android developers. |
-| [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9727 | 540 | Java | 2026-11-03 | A full-featured package manager and viewer for Android |
-| [NarYuki/Dextop](https://github.com/NarYuki/Dextop) | 1247 | 81 | Kotlin | 2026-11-23 | Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device. |
-| [nsh07/Tomato](https://github.com/nsh07/Tomato) | 1560 | 98 | Kotlin | 2026-11-25 | Minimalist, data-oriented pomodoro timer for Android and Desktop based on Material 3 Expressive |
-| [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) | 10704 | 738 | TypeScript | 2026-09-04 | Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. |
+| [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) | 3277 | 155 | Kotlin | 2026-11-17 | Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style. |
+| [meticha/material-3-expressive-catalog](https://github.com/meticha/material-3-expressive-catalog) | 228 | 31 | Kotlin | 2026-10-13 | Expressive Material 3 UI components catalog built with Jetpack Compose for Android developers. |
+| [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9740 | 540 | Java | 2026-11-03 | A full-featured package manager and viewer for Android |
+| [NarYuki/Dextop](https://github.com/NarYuki/Dextop) | 1249 | 81 | Kotlin | 2026-11-23 | Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device. |
+| [nsh07/Tomato](https://github.com/nsh07/Tomato) | 1562 | 98 | Kotlin | 2026-11-26 | Minimalist, data-oriented pomodoro timer for Android and Desktop based on Material 3 Expressive |
+| [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) | 10705 | 737 | TypeScript | 2026-09-04 | Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. |
 | [PranshulGG/ClockMaster](https://github.com/PranshulGG/ClockMaster) 🗄️ | 135 | 7 | Kotlin | 2026-02-13 | Material Expressive clock app for android 🕛⏰ |
 | [PranshulGG/RecordMaster](https://github.com/PranshulGG/RecordMaster) 🗄️ | 111 | 10 | Kotlin | 2026-01-11 | Material expressive Record app for android 🎤⏺️ |
-| [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) | 3183 | 154 | Kotlin | 2026-11-25 | A Weather app for android with multiple sources 🌦🌞☔ |
-| [Psyhackological/AAA](https://github.com/Psyhackological/AAA) | 3197 | 88 |  | 2026-11-04 | :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy! |
-| [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) | 2735 | 538 | Java | 2026-10-10 | An unofficial open source Android app for Reddit. |
-| [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) | 509 | 89 | Python | 2026-09-25 | Android device control for hermes-agent — bridge app + Python toolset |
-| [Rikj000/Android-Auto-XLauncher-Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) | 330 | 23 | Kotlin | 2026-04-04 | Custom Android Auto launcher, unleash your AA app, unlock more features! |
-| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 9207 | 941 | Kotlin | 2026-11-25 | RikkaHub is an Android APP that supports for multiple LLM providers. |
+| [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) | 3183 | 154 | Kotlin | 2026-11-26 | A Weather app for android with multiple sources 🌦🌞☔ |
+| [Psyhackological/AAA](https://github.com/Psyhackological/AAA) | 3196 | 88 |  | 2026-11-04 | :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy! |
+| [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) | 2737 | 538 | Java | 2026-10-10 | An unofficial open source Android app for Reddit. |
+| [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) | 510 | 89 | Kotlin | 2026-11-26 | Android device control for hermes-agent — bridge app + Python toolset |
+| [Rikj000/Android-Auto-XLauncher-Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) | 332 | 23 | Kotlin | 2026-04-04 | Custom Android Auto launcher, unleash your AA app, unlock more features! |
+| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 9235 | 945 | Kotlin | 2026-11-26 | RikkaHub is an Android APP that supports for multiple LLM providers. |
 | [RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask](https://github.com/RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask) | 288 | 15 |  | 2026-07-24 | Steps to root Bluestacks 5 with Kitsune Mask without any external tools. |
 | [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) | 381 | 29 | Kotlin | 2022-05-09 | Program, created to make popular adb and fastboot commands easier to use |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 131465 | 21245 | Rust | 2026-11-24 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [saber-notes/saber](https://github.com/saber-notes/saber) | 5080 | 436 | Dart | 2026-11-24 | The cross-platform open-source app built for handwriting |
-| [sameerasw/essentials](https://github.com/sameerasw/essentials) | 4007 | 112 | Kotlin | 2026-11-25 | Essential tools and mods for Android nerds |
-| [Sandakan/Nora](https://github.com/Sandakan/Nora) | 1266 | 62 | TypeScript | 2026-11-22 | An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar. |
-| [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | 11336 | 820 | Kotlin | 2024-10-06 | Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud. |
-| [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) | 3132 | 83 | C# | 2026-11-20 | Phone Link / KDE Connect alternative |
-| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 43654 | 1078 | Rust | 2026-11-22 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
-| [termux/termux-app](https://github.com/termux/termux-app) | 65699 | 8446 | Java | 2026-11-05 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 64301 | 19529 | Kotlin | 2026-11-24 | The Magic Mask for Android |
-| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 10330 | 458 | Rust | 2026-11-25 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 131646 | 21302 | Rust | 2026-11-26 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [saber-notes/saber](https://github.com/saber-notes/saber) | 5085 | 437 | Dart | 2026-11-26 | The cross-platform open-source app built for handwriting |
+| [sameerasw/essentials](https://github.com/sameerasw/essentials) | 4020 | 113 | Kotlin | 2026-11-26 | Essential tools and mods for Android nerds |
+| [Sandakan/Nora](https://github.com/Sandakan/Nora) | 1267 | 62 | TypeScript | 2026-11-26 | An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar. |
+| [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | 11337 | 819 | Kotlin | 2024-10-06 | Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud. |
+| [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) | 3135 | 83 | C# | 2026-11-20 | Phone Link / KDE Connect alternative |
+| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 43679 | 1079 | Rust | 2026-11-22 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
+| [termux/termux-app](https://github.com/termux/termux-app) | 65770 | 8465 | Java | 2026-11-05 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 64332 | 19553 | Kotlin | 2026-11-24 | The Magic Mask for Android |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 10358 | 462 | Rust | 2026-11-25 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
 | [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) | 7836 | 939 | JavaScript | 2023-07-13 | ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows. |
 | [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) | 174 | 23 | Kotlin | 2026-11-24 | Android note app with real file. Can be sync with git providers such as Github |
-| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 9406 | 945 | Python | 2026-11-03 | Mobile-Agent: The Powerful GUI Agent Family |
+| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 9409 | 945 | Python | 2026-11-03 | Mobile-Agent: The Powerful GUI Agent Family |
 | [you-apps/ClockYou](https://github.com/you-apps/ClockYou) | 711 | 45 | Kotlin | 2026-11-25 | Privacy focused clock app built with MD3 |
-| [you-apps/WallYou](https://github.com/you-apps/WallYou) | 1503 | 65 | Kotlin | 2026-10-29 | Privacy focused wallpaper app built with MD3 |
+| [you-apps/WallYou](https://github.com/you-apps/WallYou) | 1505 | 66 | Kotlin | 2026-10-29 | Privacy focused wallpaper app built with MD3 |
 
 </details>
 
@@ -124,36 +124,36 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) | 20495 | 1075 | Rust | 2024-08-02 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
-| [alacritty/alacritty](https://github.com/alacritty/alacritty) | 66298 | 3711 | Rust | 2026-11-18 | A cross-platform, OpenGL terminal emulator. |
+| [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) | 20497 | 1074 | Rust | 2024-08-02 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
+| [alacritty/alacritty](https://github.com/alacritty/alacritty) | 66317 | 3713 | Rust | 2026-11-18 | A cross-platform, OpenGL terminal emulator. |
 | [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter) | 246 | 183 | Dart | 2026-10-09 | This is the repo of mobile app of taskwarrior |
 | [CosmicFrontierLabs/unlinked](https://github.com/CosmicFrontierLabs/unlinked) | 135 | 6 | Rust | 2026-11-24 | An increasingly feature complete simulink standin |
 | [cpcloud/minesweep-rs](https://github.com/cpcloud/minesweep-rs) 🗄️ | 234 | 11 | Rust | 2025-06-08 | Sweep some mines for fun, and probably not for profit. |
-| [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) | 1163 | 137 | Rust | 2026-11-25 | Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration |
-| [elkowar/eww](https://github.com/elkowar/eww) | 12781 | 543 | Rust | 2026-07-17 | ElKowars wacky widgets |
-| [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) | 363 | 18 | Rust | 2026-11-22 | A TUI for controlling and monitoring Framework Computers hardware built in Rust |
+| [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) | 1168 | 137 | Rust | 2026-11-26 | Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration |
+| [elkowar/eww](https://github.com/elkowar/eww) | 12785 | 542 | Rust | 2026-07-17 | ElKowars wacky widgets |
+| [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) | 364 | 18 | Rust | 2026-11-22 | A TUI for controlling and monitoring Framework Computers hardware built in Rust |
 | [harmoneer/taman](https://github.com/harmoneer/taman) | 39 | 3 | Rust | 2025-11-30 | 🌱 Taman is a terminal-based Pomodoro productivity app where your focus sessions literally grow plants! Built in Rust with Ratatui, it combines the Pomodoro technique with gamification — complete focus sessions to evolve your plant from a 🌰 seed to a 🪴 fully grown plant. |
 | [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) | 3747 | 164 | Rust | 2026-10-26 | ranger-like terminal file manager written in Rust |
-| [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) | 2160 | 118 | Rust | 2026-11-22 | `taskwarrior-tui`: A terminal user interface for taskwarrior |
-| [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) | 1308 | 55 | TypeScript | 2026-11-17 | An open source, cross-platform, extensible app launcher. |
-| [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | 15414 | 382 | Rust | 2026-11-15 | A tiling window manager for Windows 🍉 |
+| [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) | 2161 | 118 | Rust | 2026-11-22 | `taskwarrior-tui`: A terminal user interface for taskwarrior |
+| [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) | 1308 | 54 | TypeScript | 2026-11-17 | An open source, cross-platform, extensible app launcher. |
+| [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | 15421 | 382 | Rust | 2026-11-15 | A tiling window manager for Windows 🍉 |
 | [linebender/druid](https://github.com/linebender/druid) | 9696 | 563 | Rust | 2026-04-23 | A data-first Rust-native UI design toolkit. |
 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | 2236 | 143 | Rust | 2026-11-12 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files. |
-| [ogham/exa](https://github.com/ogham/exa) | 24453 | 649 | Rust | 2024-09-24 | A modern replacement for ‘ls’. |
-| [raphamorim/rio](https://github.com/raphamorim/rio) | 7768 | 395 | Rust | 2026-11-25 | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. |
-| [ratatui/ratatui](https://github.com/ratatui/ratatui) | 23436 | 836 | Rust | 2026-11-25 | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
+| [ogham/exa](https://github.com/ogham/exa) | 24452 | 649 | Rust | 2024-09-24 | A modern replacement for ‘ls’. |
+| [raphamorim/rio](https://github.com/raphamorim/rio) | 7772 | 397 | Rust | 2026-11-26 | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. |
+| [ratatui/ratatui](https://github.com/ratatui/ratatui) | 23448 | 836 | Rust | 2026-11-25 | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
 | [ratatui/ratatui-spinner](https://github.com/ratatui/ratatui-spinner) (fork) | 163 | 9 | Rust | 2026-10-10 | Customizable, stateless spinner widgets for Ratatui applications |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 131465 | 21245 | Rust | 2026-11-24 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 131646 | 21302 | Rust | 2026-11-26 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese) | 78 | 1 | Rust | 2026-04-28 | Bubbletea-inspired components for Ratatui |
-| [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39604 | 1388 | Rust | 2026-11-25 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 8487 | 3556 | Rust | 2026-11-25 | CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust |
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 19037 | 7636 | Rust | 2026-11-25 | FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 21780 | 7819 | Rust | 2026-11-25 | PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 18575 | 5158 | Rust | 2026-11-25 | WordCraft: an open-source, clean-room word processor in pure Rust |
-| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 10330 | 458 | Rust | 2026-11-25 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
+| [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39616 | 1387 | Rust | 2026-11-25 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 8521 | 3571 | Rust | 2026-11-26 | CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 19076 | 7651 | Rust | 2026-11-26 | FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 21865 | 7831 | Rust | 2026-11-26 | PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 18620 | 5167 | Rust | 2026-11-26 | WordCraft: an open-source, clean-room word processor in pure Rust |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 10358 | 462 | Rust | 2026-11-25 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
 | [youpie/Iconic](https://github.com/youpie/Iconic) | 62 | 11 | Rust | 2026-08-09 | An application made for GNOME written in Rust to easilly add images on top of folders |
 | [zeqianli/ratatui-stacked-bar](https://github.com/zeqianli/ratatui-stacked-bar) | 9 | 1 | Rust | 2026-04-07 |  |
-| [Zfinix/aster](https://github.com/Zfinix/aster) | 140 | 12 | Rust | 2026-10-31 | An open-source agent harness for software work. |
+| [Zfinix/aster](https://github.com/Zfinix/aster) | 141 | 12 | Rust | 2026-10-31 | An open-source agent harness for software work. |
 
 </details>
 
@@ -165,359 +165,359 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [0xcro3dile/answerui](https://github.com/0xcro3dile/answerui) | 42 | 0 | TypeScript | 2026-11-11 | Open-source alternative to ChatGPT's Intelligent UI. Answers arrive as live charts, forms and calculators. Works with any OpenAI-compatible model, in the cloud or local. |
+| [0xcro3dile/answerui](https://github.com/0xcro3dile/answerui) | 43 | 0 | TypeScript | 2026-11-11 | Open-source alternative to ChatGPT's Intelligent UI. Answers arrive as live charts, forms and calculators. Works with any OpenAI-compatible model, in the cloud or local. |
 | [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) | 5550 | 740 | HTML | 2026-11-10 | A collection of prompts, system prompts and LLM instructions |
-| [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 6069 | 454 |  | 2026-10-27 | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. |
+| [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 6072 | 454 |  | 2026-10-27 | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. |
 | [11cafe/local-manus](https://github.com/11cafe/local-manus) | 132 | 30 | TypeScript | 2025-06-16 | AI agent, local alternative for Manus, specializing in marketing. |
-| [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | 9798 | 1185 | TypeScript | 2026-11-25 | An app that brings language models directly to your phone. |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56992 | 6676 | Rust | 2026-11-25 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) | 3305 | 364 | Go | 2026-11-23 | AI Chatbots in terminal for free |
-| [abi/secret-llama](https://github.com/abi/secret-llama) | 2674 | 170 | TypeScript | 2024-06-05 | Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. |
+| [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | 9824 | 1190 | TypeScript | 2026-11-26 | An app that brings language models directly to your phone. |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 57038 | 6679 | Rust | 2026-11-26 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) | 3305 | 364 | Go | 2026-11-26 | AI in your terminal for free |
+| [abi/secret-llama](https://github.com/abi/secret-llama) | 2675 | 170 | TypeScript | 2024-06-05 | Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. |
 | [abrenneke/rivet-plugin-ollama](https://github.com/abrenneke/rivet-plugin-ollama) | 43 | 7 | TypeScript | 2025-06-05 | Rivet plugin for integration with Ollama, the tool for running LLMs locally easily |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 120411 | 12525 | JavaScript | 2026-11-24 | Production-grade engineering skills for AI coding agents. |
-| [addyosmani/factory](https://github.com/addyosmani/factory) | 385 | 28 | Shell | 2026-08-21 | A reference software factory for Claude Code and Codex |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 21707 | 2185 | TypeScript | 2026-11-24 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 19986 | 3901 | Python | 2026-11-25 | Agent Zero AI framework |
-| [agent37-platform/minions](https://github.com/agent37-platform/minions) | 634 | 53 | TypeScript | 2026-11-12 | Mission Control for your Hermes agents |
-| [AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor](https://github.com/AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor) | 212 | 14 | TypeScript | 2026-11-25 | Real-time display of the current session's context window usage and remaining amount for Antigravity |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 120599 | 12544 | JavaScript | 2026-11-24 | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/factory](https://github.com/addyosmani/factory) | 390 | 28 | Shell | 2026-08-21 | A reference software factory for Claude Code and Codex |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 21832 | 2189 | TypeScript | 2026-11-26 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 20001 | 3905 | Python | 2026-11-26 | Agent Zero AI framework |
+| [agent37-platform/minions](https://github.com/agent37-platform/minions) | 633 | 53 | TypeScript | 2026-11-12 | Mission Control for your Hermes agents |
+| [AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor](https://github.com/AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor) | 218 | 15 | TypeScript | 2026-11-26 | Real-time display of the current session's context window usage and remaining amount for Antigravity |
 | [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) | 122 | 26 | Rust | 2026-10-28 |  |
 | [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) | 240 | 33 | HTML | 2025-09-27 | A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs. |
 | [aivanelabs/ai-rpa](https://github.com/aivanelabs/ai-rpa) | 14 | 2 | Python | 2026-11-24 | AI mobile automation starter repo for AIVane. Android REPL beta, Python client, skills, examples, and protocol docs for AI agents. |
-| [alexwohlbruck/cat-facts](https://github.com/alexwohlbruck/cat-facts) | 570 | 101 | JavaScript | 2026-02-01 | Daily cat facts! 🐱 |
+| [alexwohlbruck/cat-facts](https://github.com/alexwohlbruck/cat-facts) | 571 | 100 | JavaScript | 2026-02-01 | Daily cat facts! 🐱 |
 | [amithkoujalgi/ollama-pdf-bot](https://github.com/amithkoujalgi/ollama-pdf-bot) | 214 | 58 | Python | 2025-02-17 | A bot that accepts PDF docs and lets you ask questions on it. |
 | [amitkmaraj/gemini-cli-custom-slash-commands](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) | 166 | 15 |  | 2025-07-31 | Some great custom slash commands to supercharge your workflow |
-| [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) | 553 | 65 | TypeScript | 2026-08-16 | A Model-Context Protocol Server for YouTube |
-| [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) | 14628 | 1882 | TypeScript | 2026-06-14 | Autonomous multi-session AI coding |
-| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 6863 | 380 | Python | 2026-11-19 | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
+| [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) | 554 | 64 | TypeScript | 2026-08-16 | A Model-Context Protocol Server for YouTube |
+| [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) | 14632 | 1882 | TypeScript | 2026-06-14 | Autonomous multi-session AI coding |
+| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 6875 | 380 | Python | 2026-11-19 | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
 | [anilsharmay/full-stack-local-deep-research-agent](https://github.com/anilsharmay/full-stack-local-deep-research-agent) | 34 | 4 | Python | 2025-11-08 | Deploying full-stack on-prem deep research agent that can be run entirely on a local machine for $0! |
 | [Ankit500ak/Stealth-AI](https://github.com/Ankit500ak/Stealth-AI) | 3 | 0 | HTML | 2026-05-11 |  |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 157066 | 25116 | TypeScript | 2026-11-25 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 55225 | 6724 | Jupyter Notebook | 2026-11-20 | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 21234 | 3533 | Python | 2026-11-06 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
-| [anthropics/skills](https://github.com/anthropics/skills) | 200476 | 23447 | Python | 2026-11-16 | Public repository for Agent Skills |
-| [apitable/apitable](https://github.com/apitable/apitable) | 15674 | 1422 | TypeScript | 2026-09-06 | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
-| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 17120 | 1925 | Python | 2026-11-16 | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 72639 | 11700 | Python | 2026-11-24 | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 157208 | 25137 | TypeScript | 2026-11-26 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 55288 | 6735 | Jupyter Notebook | 2026-11-20 | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 21308 | 3542 | Python | 2026-11-06 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| [anthropics/skills](https://github.com/anthropics/skills) | 200995 | 23509 | Python | 2026-11-16 | Public repository for Agent Skills |
+| [apitable/apitable](https://github.com/apitable/apitable) | 15679 | 1422 | TypeScript | 2026-09-06 | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
+| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 17149 | 1934 | Python | 2026-11-26 | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 72705 | 11707 | Python | 2026-11-26 | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily. |
 | [asker-kurtelli/scroll](https://github.com/asker-kurtelli/scroll) | 196 | 18 | TypeScript | 2026-03-22 | chrome extension for better LLM chat navigation |
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165380 | 31034 | Python | 2026-03-02 | Stable Diffusion web UI |
-| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 11100 | 1153 | JavaScript | 2026-11-13 | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 15073 | 1448 | TypeScript | 2026-11-25 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
-| [backnotprop/pstack](https://github.com/backnotprop/pstack) | 5169 | 395 | TypeScript | 2026-11-25 | Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165390 | 31026 | Python | 2026-03-02 | Stable Diffusion web UI |
+| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 11119 | 1158 | JavaScript | 2026-11-13 | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 15238 | 1457 | TypeScript | 2026-11-26 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| [backnotprop/pstack](https://github.com/backnotprop/pstack) | 5262 | 403 | TypeScript | 2026-11-25 | Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering |
 | [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) | 200 | 13 | Go | 2026-07-16 | A portable terminal AI interface |
-| [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 428 | 58 | Go | 2026-11-25 | HEY CLI and Agent Skills |
-| [beclab/Olares](https://github.com/beclab/Olares) | 5383 | 341 | Go | 2026-11-25 | Open-Source Personal Cloud OS for Always-On Agents |
-| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | 10490 | 2289 |  | 2026-11-02 | A curated list of Claude Skills. |
-| [beromir/Servas](https://github.com/beromir/Servas) | 842 | 39 | Svelte | 2026-11-20 | A self-hosted bookmark management tool. |
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 28814 | 3073 | Rust | 2026-11-15 | Get 10X more out of Claude Code, Codex or any coding agent |
-| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 55742 | 6212 | Python | 2026-11-25 | Breakthrough Method for Agile Ai Driven Development |
-| [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) | 12684 | 1611 | Python | 2026-08-01 |  |
+| [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 429 | 58 | Go | 2026-11-25 | HEY CLI and Agent Skills |
+| [beclab/Olares](https://github.com/beclab/Olares) | 5384 | 341 | Go | 2026-11-26 | Open-Source Personal Cloud OS for Always-On Agents |
+| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | 10492 | 2310 |  | 2026-11-02 | A curated list of Claude Skills. |
+| [beromir/Servas](https://github.com/beromir/Servas) | 843 | 39 | Svelte | 2026-11-20 | A self-hosted bookmark management tool. |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 28832 | 3073 | Rust | 2026-11-15 | Get 10X more out of Claude Code, Codex or any coding agent |
+| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 55794 | 6211 | Python | 2026-11-26 | Breakthrough Method for Agile Ai Driven Development |
+| [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) | 12682 | 1609 | Python | 2026-08-01 |  |
 | [BrainDriveAI/BrainDrive-Core](https://github.com/BrainDriveAI/BrainDrive-Core) 🗄️ | 36 | 9 | Python | 2026-03-08 | ⚠️ Archived — BrainDrive is building a new system on personalaiarchitecture.org |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 122064 | 13655 | Python | 2026-11-24 | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 122148 | 13661 | Python | 2026-11-26 | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. |
 | [brumik/obsidian-ollama-chat](https://github.com/brumik/obsidian-ollama-chat) | 182 | 9 | TypeScript | 2024-10-12 | A plugin for chatting with you obsidian notes trough local Ollama LLM instead of Chat GTP. |
-| [camel-ai/owl](https://github.com/camel-ai/owl) | 20195 | 2286 | Python | 2026-11-23 | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
-| [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) | 15880 | 2600 | Jupyter Notebook | 2025-12-16 | stable diffusion webui colab |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 39882 | 4623 | TypeScript | 2026-11-25 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [camel-ai/owl](https://github.com/camel-ai/owl) | 20198 | 2286 | Python | 2026-11-23 | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
+| [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) | 15878 | 2600 | Jupyter Notebook | 2025-12-16 | stable diffusion webui colab |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 39963 | 4642 | TypeScript | 2026-11-26 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
 | [canapaio/update_ollama_and_host](https://github.com/canapaio/update_ollama_and_host) | 1 | 0 | Shell | 2026-04-14 | Ollama script to update ollama and set Environment="OLLAMA_HOST=0.0.0.0" in service |
-| [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) | 536 | 17 | SCSS | 2026-11-21 | 💨 Soothing pastel theme for Tailwind CSS |
-| [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) | 6192 | 384 | Python | 2026-11-13 | A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application. |
-| [charmbracelet/crush](https://github.com/charmbracelet/crush) | 29198 | 2404 | Go | 2026-11-25 | Glamourous agentic coding for all 💘 |
-| [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) | 3896 | 438 | TypeScript | 2026-08-03 | Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. |
+| [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) | 537 | 17 | SCSS | 2026-11-26 | 💨 Soothing pastel theme for Tailwind CSS |
+| [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) | 6197 | 384 | Python | 2026-11-13 | A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application. |
+| [charmbracelet/crush](https://github.com/charmbracelet/crush) | 29213 | 2406 | Go | 2026-11-26 | Glamourous agentic coding for all 💘 |
+| [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) | 3897 | 437 | TypeScript | 2026-08-03 | Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. |
 | [clduab11/gemini-flow](https://github.com/clduab11/gemini-flow) 🗄️ | 384 | 66 | TypeScript | 2026-01-29 | rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team. |
 | [CloudAI-X/opencode-workflow](https://github.com/CloudAI-X/opencode-workflow) | 277 | 25 | TypeScript | 2026-01-10 |  |
 | [Cluster444/agentic](https://github.com/Cluster444/agentic) | 659 | 48 | TypeScript | 2025-09-02 | An agentic workflow tool that provides context engineering support for opencode |
-| [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) | 415 | 59 | Kotlin | 2026-11-25 | A Fork of Rikkahub with an overhauled UI and feature additions |
-| [code-charity/youtube](https://github.com/code-charity/youtube) | 4698 | 1040 | JavaScript | 2026-11-16 | YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback\|discovery\|extra player buttons\|quality\|codec\|full tab\|full screen\|no distraction\|shorts} |
-| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 71113 | 5840 | TypeScript | 2026-11-25 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 14310 | 1549 | TypeScript | 2026-11-25 | The free coding agent |
-| [cogwheel0/conduit](https://github.com/cogwheel0/conduit) | 2514 | 287 | Dart | 2026-11-25 | Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents. |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148603 | 17712 | Python | 2026-11-25 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. |
-| [commaai/opendbc](https://github.com/commaai/opendbc) | 3589 | 2419 | Python | 2026-11-25 | a Python API for your car |
-| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 30190 | 2955 | Shell | 2026-11-25 | Proxmox VE Helper-Scripts (Community Edition) |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 13523 | 1688 | TypeScript | 2026-11-25 | The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool. |
+| [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) | 415 | 59 | Kotlin | 2026-11-26 | A Fork of Rikkahub with an overhauled UI and feature additions |
+| [code-charity/youtube](https://github.com/code-charity/youtube) | 4700 | 1041 | JavaScript | 2026-11-16 | YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback\|discovery\|extra player buttons\|quality\|codec\|full tab\|full screen\|no distraction\|shorts} |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 71139 | 5843 | TypeScript | 2026-11-26 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 14331 | 1551 | TypeScript | 2026-11-26 | The free coding agent |
+| [cogwheel0/conduit](https://github.com/cogwheel0/conduit) | 2525 | 288 | Dart | 2026-11-25 | Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents. |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148760 | 17731 | Python | 2026-11-26 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. |
+| [commaai/opendbc](https://github.com/commaai/opendbc) | 3600 | 2426 | Python | 2026-11-25 | a Python API for your car |
+| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 30192 | 2954 | Shell | 2026-11-26 | Proxmox VE Helper-Scripts (Community Edition) |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 13633 | 1701 | TypeScript | 2026-11-26 | The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool. |
 | [coreply/cooperate](https://github.com/coreply/cooperate) (fork) | 22 | 1 | Kotlin | 2026-01-19 | Cooperate is an open-source Android app giving large language models (LLMs) the ability to interact with Android apps. |
 | [danny094/Jarvis](https://github.com/danny094/Jarvis) | 89 | 7 | Python | 2026-06-29 | This bridge integrates Ollama into any chat interface and lets you build your own multi-agent pipeline, including a built-in memory database. |
 | [daradib/openwebui-plugins](https://github.com/daradib/openwebui-plugins) | 20 | 4 | Python | 2025-10-13 | Native search and retrieval tools for Open WebUI |
 | [darcyegb/ClaudeCodeAgents](https://github.com/darcyegb/ClaudeCodeAgents) | 780 | 71 |  | 2026-08-14 | A set of useful QA agents for Claude Code. |
-| [darrenburns/elia](https://github.com/darrenburns/elia) | 2484 | 156 | Python | 2024-10-10 | A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more. |
-| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | 4991 | 399 | TypeScript | 2026-11-24 | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 287018 | 35794 | TypeScript | 2026-11-22 | DeepSeek Harness: Everything is a Plugin. |
+| [darrenburns/elia](https://github.com/darrenburns/elia) | 2483 | 156 | Python | 2024-10-10 | A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more. |
+| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | 4993 | 398 | TypeScript | 2026-11-24 | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 287587 | 35907 | TypeScript | 2026-11-22 | DeepSeek Harness: Everything is a Plugin. |
 | [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) | 535 | 73 | Shell | 2026-09-16 | Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools. |
 | [djcopley/ShellOracle](https://github.com/djcopley/ShellOracle) | 353 | 26 | Python | 2026-09-13 | A terminal utility for intelligent shell command generation |
-| [docker/compose](https://github.com/docker/compose) | 39096 | 6050 | Go | 2026-11-25 | Define and run multi-container applications with Docker |
+| [docker/compose](https://github.com/docker/compose) | 39127 | 6053 | Go | 2026-11-26 | Define and run multi-container applications with Docker |
 | [dondai1234/master-fetch](https://github.com/dondai1234/master-fetch) | 911 | 79 | Python | 2026-07-24 | MCP server for web fetching with Cloudflare bypass, Trafilatura extraction, and smart routing. Free, self-hosted, no API keys. |
-| [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | 6304 | 914 | TypeScript | 2026-09-29 | 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. |
+| [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | 6307 | 913 | TypeScript | 2026-09-29 | 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. |
 | [Doriandarko/maestro](https://github.com/Doriandarko/maestro) | 4363 | 648 | Python | 2024-07-01 | A framework for Claude Opus to intelligently orchestrate subagents. |
-| [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) | 1115 | 181 | Python | 2025-07-16 | A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query. |
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22449 | 2852 | TypeScript | 2026-11-24 | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
-| [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) | 10484 | 859 | JavaScript | 2026-11-05 | An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 402284 | 67235 | Python | 2026-11-25 | :books: Freely available programming books |
-| [egoist/waku](https://github.com/egoist/waku) | 1621 | 193 | Rust | 2026-10-02 | ⚡ A native app for all your coding agents. |
-| [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 53819 | 11241 |  | 2026-11-09 | LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐 |
-| [elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT) | 394 | 113 |  | 2026-08-26 | living document for Claude Code system prompt |
-| [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | 9706 | 1779 | Python | 2026-11-25 | OBLITERATE THE CHAINS THAT BIND YOU |
-| [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19919 | 5907 | Java | 2026-11-25 | Open source agentic operating system |
-| [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) | 2321 | 349 | TypeScript | 2026-11-25 | The best place to build with your AI sub |
+| [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) | 1116 | 181 | Python | 2025-07-16 | A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query. |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22460 | 2856 | TypeScript | 2026-11-24 | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
+| [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) | 10486 | 859 | JavaScript | 2026-11-05 | An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 402343 | 67259 | Python | 2026-11-25 | :books: Freely available programming books |
+| [egoist/waku](https://github.com/egoist/waku) | 1622 | 195 | Rust | 2026-10-02 | ⚡ A native app for all your coding agents. |
+| [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 53853 | 11242 |  | 2026-11-09 | LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐 |
+| [elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT) | 395 | 113 |  | 2026-08-26 | living document for Claude Code system prompt |
+| [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | 9732 | 1782 | Python | 2026-11-26 | OBLITERATE THE CHAINS THAT BIND YOU |
+| [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19925 | 5909 | Java | 2026-11-26 | Open source agentic operating system |
+| [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) | 2327 | 357 | TypeScript | 2026-11-26 | The best place to build with your AI sub |
 | [ephraimduncan/awesome-developer-dictionary](https://github.com/ephraimduncan/awesome-developer-dictionary) 🗄️ | 217 | 47 |  | 2024-02-18 | 📖 A curated list of definitions of programming terms. |
-| [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | 5269 | 412 | TypeScript | 2026-11-21 | Exa MCP for web search and web crawling! |
-| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28547 | 2638 | JavaScript | 2026-04-28 | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 178513 | 22754 | MDX | 2026-11-25 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
-| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12855 | 1553 | Python | 2026-11-25 | A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym) |
-| [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 641 | 77 | JavaScript | 2026-11-15 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI. |
+| [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | 5272 | 412 | TypeScript | 2026-11-21 | Exa MCP for web search and web crawling! |
+| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28555 | 2640 | JavaScript | 2026-04-28 | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 178594 | 22760 | MDX | 2026-11-26 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12859 | 1554 | Python | 2026-11-25 | A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym) |
+| [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 642 | 77 | JavaScript | 2026-11-15 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI. |
 | [flesler/mcp-tasks](https://github.com/flesler/mcp-tasks) | 47 | 8 | TypeScript | 2026-08-06 | A comprehensive and efficient MCP server for task management with multi-format support (Markdown, JSON, YAML) |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🗄️ | 55597 | 25102 | TypeScript | 2026-08-13 | Build AI Agents, Visually |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🗄️ | 55601 | 25098 | TypeScript | 2026-08-13 | Build AI Agents, Visually |
 | [forcewake/hermes-conductor](https://github.com/forcewake/hermes-conductor) | 84 | 7 |  | 2026-08-25 | One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them. |
 | [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | 3255 | 286 | JavaScript | 2026-09-11 | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. |
-| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 27697 | 3112 | Python | 2026-11-17 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. |
-| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | 59032 | 10233 | Python | 2026-11-02 | No fortress, purely open ground.  OpenManus is Coming. |
+| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 27704 | 3114 | Python | 2026-11-17 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. |
+| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | 59045 | 10238 | Python | 2026-11-02 | No fortress, purely open ground.  OpenManus is Coming. |
 | [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) | 140 | 4 | CSS | 2021-11-26 | My chaotic dotfiles, it ain't much, but its honest work |
-| [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) | 1880 | 275 | Python | 2026-11-23 | [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases |
+| [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) | 1882 | 275 | Python | 2026-11-23 | [ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases |
 | [furkankly/zoetrope](https://github.com/furkankly/zoetrope) | 1209 | 87 | Rust | 2026-11-03 | Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser. |
-| [gabber-dev/gabber](https://github.com/gabber-dev/gabber) | 1109 | 105 | Python | 2025-12-20 | Build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs. |
-| [galfrevn/apollo](https://github.com/galfrevn/apollo) | 241 | 32 | TypeScript | 2026-08-17 | The open-source brain for physical agentic devices. |
-| [gastownhall/beads](https://github.com/gastownhall/beads) | 29067 | 1962 | Go | 2026-11-24 | Beads - A memory upgrade for your coding agent |
-| [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) | 3805 | 303 | Python | 2026-09-01 | A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features. |
-| [getpaseo/paseo](https://github.com/getpaseo/paseo) | 25418 | 3157 | TypeScript | 2026-11-25 | Orchestrate multiple coding agents from desktop and mobile |
-| [github/spec-kit](https://github.com/github/spec-kit) | 151372 | 13609 | Python | 2026-11-25 | 💫 Toolkit to help you get started with SDD or any other process! |
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 42407 | 8111 | TypeScript | 2026-11-24 | 📨 The ultimate agentic social media scheduling tool 🤖 |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 59254 | 7428 | Go | 2026-11-25 | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 25462 | 2855 | Kotlin | 2026-11-25 | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
-| [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) | 2896 | 797 | Jupyter Notebook | 2026-11-23 |  |
-| [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) | 3107 | 294 |  | 2026-11-25 | Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal. |
-| [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | 17984 | 2835 | Jupyter Notebook | 2026-11-25 | Examples and guides for using the Gemini API |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 109106 | 15007 | TypeScript | 2026-11-25 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| [google/adk-recipes](https://github.com/google/adk-recipes) | 10680 | 2969 | Python | 2026-11-25 | A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK) |
-| [google/skills](https://github.com/google/skills) | 24673 | 2056 | Python | 2026-11-25 | Agent Skills for Google products and technologies |
-| [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | 25478 | 3585 | Shell | 2026-10-21 | Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍 |
+| [gabber-dev/gabber](https://github.com/gabber-dev/gabber) | 1110 | 105 | Python | 2025-12-20 | Build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs. |
+| [galfrevn/apollo](https://github.com/galfrevn/apollo) | 240 | 32 | TypeScript | 2026-08-17 | The open-source brain for physical agentic devices. |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | 29126 | 1962 | Go | 2026-11-24 | Beads - A memory upgrade for your coding agent |
+| [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) | 3808 | 303 | Python | 2026-09-01 | A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features. |
+| [getpaseo/paseo](https://github.com/getpaseo/paseo) | 25690 | 3191 | TypeScript | 2026-11-26 | Orchestrate multiple coding agents from desktop and mobile |
+| [github/spec-kit](https://github.com/github/spec-kit) | 151552 | 13625 | Python | 2026-11-26 | 💫 Toolkit to help you get started with SDD or any other process! |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 42478 | 8122 | TypeScript | 2026-11-24 | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 59277 | 7433 | Go | 2026-11-26 | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 25482 | 2853 | Kotlin | 2026-11-25 | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) | 2897 | 797 | Jupyter Notebook | 2026-11-23 |  |
+| [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) | 3153 | 291 |  | 2026-11-26 | Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal. |
+| [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | 17998 | 2834 | Jupyter Notebook | 2026-11-26 | Examples and guides for using the Gemini API |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 109192 | 15008 | TypeScript | 2026-11-26 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| [google/adk-recipes](https://github.com/google/adk-recipes) | 10687 | 2973 | Python | 2026-11-25 | A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK) |
+| [google/skills](https://github.com/google/skills) | 24709 | 2058 | Python | 2026-11-26 | Agent Skills for Google products and technologies |
+| [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | 25478 | 3584 | Shell | 2026-10-21 | Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍 |
 | [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) | 768 | 77 | Python | 2026-01-27 | Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE. |
 | [gricha/macro-photo](https://github.com/gricha/macro-photo) | 53 | 4 | TypeScript | 2025-12-08 | An experiment where I ran Claude Code to "improve codebase quality" over 200 times. |
 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 73 | 3 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
 | [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) | 1522 | 465 | TypeScript | 2025-06-21 | Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API. |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98922 | 14466 | Python | 2026-11-08 | real time face swap and one-click video deepfake with only a single image |
-| [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) | 842 | 85 | Python | 2026-11-11 | Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98956 | 14473 | Python | 2026-11-08 | real time face swap and one-click video deepfake with only a single image |
+| [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) | 842 | 84 | Python | 2026-11-11 | Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more |
 | [HamedMP/CursorLens](https://github.com/HamedMP/CursorLens) | 403 | 45 | TypeScript | 2024-11-02 | An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. |
 | [harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library) | 408 | 107 |  | 2025-10-10 | A curated library of high-quality, professionally crafted prompts for common development tasks. Save time and improve your AI interactions with battle-tested prompt templates. You can install it as an Gemini CLI Extension. |
 | [helloworldxdwastaken/WebCrawler](https://github.com/helloworldxdwastaken/WebCrawler) | 8 | 1 | Python | 2025-07-23 | A simple website crawler to extract data and export as .md file suitable to feed (RAG) and AI |
-| [henryalps/OpenManus](https://github.com/henryalps/OpenManus) | 958 | 229 | Python | 2025-06-26 | OpenManus is an open-source initiative to replicate the capabilities of the Manus AI agent, a state-of-the-art general-purpose AI developed by Monica, which excels in autonomously executing complex tasks. |
-| [henson/Scraper](https://github.com/henson/Scraper) | 147 | 26 | Go | 2026-11-25 | Tracking the most popular Github repos, updated daily. |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 52853 | 4263 | Rust | 2026-11-19 | the runtime your coding agents live on |
+| [henryalps/OpenManus](https://github.com/henryalps/OpenManus) | 959 | 229 | Python | 2025-06-26 | OpenManus is an open-source initiative to replicate the capabilities of the Manus AI agent, a state-of-the-art general-purpose AI developed by Monica, which excels in autonomously executing complex tasks. |
+| [henson/Scraper](https://github.com/henson/Scraper) | 147 | 26 | Go | 2026-11-26 | Tracking the most popular Github repos, updated daily. |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 53045 | 4286 | Rust | 2026-11-19 | the runtime your coding agents live on |
 | [hexdocom/lemonai](https://github.com/hexdocom/lemonai) | 1571 | 320 | JavaScript | 2026-02-03 | Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_cc |
 | [hkdb/otui](https://github.com/hkdb/otui) | 36 | 2 | Go | 2026-10-21 | An opinionated, "speed" and "usability" focused agentic TUI with a built-in MCP registry/plugin system. |
-| [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) | 9839 | 1362 | Python | 2025-10-16 | "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" |
+| [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) | 9839 | 1363 | Python | 2025-10-16 | "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" |
 | [hosenur/portal](https://github.com/hosenur/portal) | 815 | 69 | TypeScript | 2026-05-12 | Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces. |
-| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 11055 | 1726 | TypeScript | 2026-11-25 | The open source codebase powering HuggingChat |
-| [HugoBlox/kit](https://github.com/HugoBlox/kit) | 9803 | 2946 | HTML | 2026-08-04 | 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇 |
+| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 11061 | 1727 | TypeScript | 2026-11-26 | The open source codebase powering HuggingChat |
+| [HugoBlox/kit](https://github.com/HugoBlox/kit) | 9803 | 2945 | HTML | 2026-08-04 | 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇 |
 | [hyepartners-gmail/vibevideo-mcp](https://github.com/hyepartners-gmail/vibevideo-mcp) | 217 | 23 | TypeScript | 2025-06-05 | Agent MCP for ffmpeg |
-| [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) | 5414 | 189 |  | 2026-10-30 | Awesome list for Hyprland [maintainer=@yavko] |
+| [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) | 5420 | 191 |  | 2026-10-30 | Awesome list for Hyprland [maintainer=@yavko] |
 | [ibelick/zola](https://github.com/ibelick/zola) | 1540 | 295 | TypeScript | 2025-12-11 | Open chat interface for all your models. |
 | [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) | 451 | 38 | Vue | 2026-09-09 | A no-install needed GUI for Ollama and other local LLM providers. |
-| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21903 | 716 | Dart | 2026-11-23 | Get Android app updates straight from the source. |
-| [iNavFlight/inav](https://github.com/iNavFlight/inav) | 4312 | 1961 | C | 2026-11-25 | INAV: Navigation-enabled flight control software |
-| [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 29160 | 3131 | TypeScript | 2026-11-25 | Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products. |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 34505 | 3613 | TypeScript | 2026-11-05 | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent \| Customize your assistants \| Team them up｜Star if you like it! |
+| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 21940 | 717 | Dart | 2026-11-23 | Get Android app updates straight from the source. |
+| [iNavFlight/inav](https://github.com/iNavFlight/inav) | 4312 | 1962 | C | 2026-11-26 | INAV: Navigation-enabled flight control software |
+| [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 29165 | 3131 | TypeScript | 2026-11-26 | Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products. |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 34526 | 3615 | TypeScript | 2026-11-05 | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent \| Customize your assistants \| Team them up｜Star if you like it! |
 | [Ironclad/rivet](https://github.com/Ironclad/rivet) | 4736 | 394 | TypeScript | 2026-08-26 | The open-source visual AI programming environment and TypeScript library |
 | [IT-ess/tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) | 15 | 2 | Rust | 2026-10-03 | A Tauri plugin to handle share intents to your app, even when the webview is not available (with a queue). |
 | [it-gssb/pdffiller](https://github.com/it-gssb/pdffiller) | 6 | 2 | Java | 2025-03-14 | Bulk PDF Mail Merge, PDF Filler, and Email tool |
-| [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) | 1581 | 242 | Python | 2026-08-11 |  |
-| [jduncan-rva/skill-porter](https://github.com/jduncan-rva/skill-porter) | 192 | 16 | JavaScript | 2025-12-02 | Universal tool to convert Claude Code skills to Gemini CLI extensions and vice versa |
+| [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) | 1582 | 242 | Python | 2026-08-11 |  |
+| [jduncan-rva/skill-porter](https://github.com/jduncan-rva/skill-porter) | 193 | 16 | JavaScript | 2025-12-02 | Universal tool to convert Claude Code skills to Gemini CLI extensions and vice versa |
 | [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) | 1509 | 438 | Python | 2024-12-23 | AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements, AutoGroq eliminates the need for manual configuration and allows you to tackle any question, problem, or project with ease and efficiency. |
-| [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) | 1825 | 221 | Dart | 2026-10-03 | A modern and easy-to-use client for Ollama |
+| [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) | 1825 | 219 | Dart | 2026-10-03 | A modern and easy-to-use client for Ollama |
 | [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) | 938 | 64 | Python | 2026-11-19 | TUI consciousness monitor for Hermes |
-| [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | 436 | 110 | TypeScript | 2026-10-12 | Public Claude Code skills and mods |
+| [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | 437 | 109 | TypeScript | 2026-10-12 | Public Claude Code skills and mods |
 | [JuanCruzMedina/juancruzmedina](https://github.com/JuanCruzMedina/juancruzmedina) | 13 | 0 | TypeScript | 2026-09-16 | Portfolio Website built with Next.js and HeroUI! |
-| [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery) | 7145 | 1413 |  | 2026-08-26 | This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts. |
+| [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery) | 7146 | 1413 |  | 2026-08-26 | This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts. |
 | [Kamalnrf/claude-plugins](https://github.com/Kamalnrf/claude-plugins) | 566 | 40 | TypeScript | 2026-11-09 | Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent. |
 | [kamekairos/KK-OneCommanderScripts](https://github.com/kamekairos/KK-OneCommanderScripts) | 31 | 2 | PowerShell | 2026-10-12 | A collection of scripts for the alternative file manager OneCommander. Includes PowerShell Module for advanced scripts. |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 30845 | 1678 | TypeScript | 2026-11-25 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 30870 | 1680 | TypeScript | 2026-11-25 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
 | [kdcokenny/opencode-workspace](https://github.com/kdcokenny/opencode-workspace) 🗄️ | 583 | 45 | TypeScript | 2026-09-16 | Bundled multi-agent orchestration harness for OpenCode. One install, complete control. |
 | [kdcokenny/opencode-worktree](https://github.com/kdcokenny/opencode-worktree) 🗄️ | 719 | 40 | TypeScript | 2026-09-16 | Zero-friction git worktrees for OpenCode. Auto-spawns terminals, syncs files, cleans up on exit. |
 | [kpritam/cliq](https://github.com/kpritam/cliq) | 29 | 5 | MDX | 2025-11-11 | A functional, Effect-TS-based AI coding assistant CLI with multi-provider support. |
-| [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) | 1360 | 122 | HTML | 2026-11-25 | Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156943 | 10445 | Python | 2026-11-25 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37847 | 4322 | TypeScript | 2026-11-25 | 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud. |
+| [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) | 1362 | 123 | HTML | 2026-11-26 | Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156972 | 10457 | Python | 2026-11-26 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37894 | 4333 | TypeScript | 2026-11-26 | 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud. |
 | [Laszlobeer/AI-podcast](https://github.com/Laszlobeer/AI-podcast) | 17 | 1 | Python | 2026-02-17 | this is an easy way to make ai podcast useing ai loccaly like ollama and the tts of piper |
-| [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54682 | 6157 | Rust | 2024-08-29 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) |
-| [lencx/nofwl](https://github.com/lencx/nofwl) | 4125 | 386 | Rust | 2024-01-23 | NoFWL Desktop Application |
+| [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54685 | 6158 | Rust | 2024-08-29 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) |
+| [lencx/nofwl](https://github.com/lencx/nofwl) | 4126 | 386 | Rust | 2024-01-23 | NoFWL Desktop Application |
 | [LeslyeCream/Syrup](https://github.com/LeslyeCream/Syrup) | 8 | 0 |  | 2023-03-05 | Sync bookmarks and articles offline with Raindrop and Obsidian on android |
 | [lingjiuu/hermes-dynamic-workflows](https://github.com/lingjiuu/hermes-dynamic-workflows) | 121 | 11 | Python | 2026-07-31 | Dynamic Workflows for hermes |
-| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 39550 | 4768 | Python | 2026-05-01 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. |
-| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 10890 | 1221 | TypeScript | 2026-11-25 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
-| [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) | 12515 | 2135 | JavaScript | 2026-10-31 | OSINT Framework |
-| [LorenzCK/OnTopReplica](https://github.com/LorenzCK/OnTopReplica) | 3417 | 364 | C# | 2023-07-05 | A real-time always-on-top “replica” of a window of your choice (on Windows). |
+| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 39554 | 4767 | Python | 2026-05-01 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 10925 | 1225 | TypeScript | 2026-11-25 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) | 12525 | 2136 | JavaScript | 2026-10-31 | OSINT Framework |
+| [LorenzCK/OnTopReplica](https://github.com/LorenzCK/OnTopReplica) | 3418 | 365 | C# | 2023-07-05 | A real-time always-on-top “replica” of a window of your choice (on Windows). |
 | [lyuai/agentok](https://github.com/lyuai/agentok) | 425 | 65 | TypeScript | 2026-07-08 | AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop. |
 | [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) | 447 | 32 | Python | 2026-08-24 | This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality. |
-| [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) | 4883 | 208 | JavaScript | 2024-06-22 | Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs |
-| [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) | 416 | 34 |  | 2024-04-29 | MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level. |
-| [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) | 905 | 74 |  | 2026-11-25 | Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ |
+| [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) | 4882 | 208 | JavaScript | 2024-06-22 | Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs |
+| [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) | 416 | 35 |  | 2024-04-29 | MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level. |
+| [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) | 905 | 74 |  | 2026-11-26 | Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ |
 | [marhkb/pods](https://github.com/marhkb/pods) | 1119 | 41 | Rust | 2026-10-22 | Manage your containers |
 | [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) 🗄️ | 859 | 130 | Python | 2025-02-02 | An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 332830 | 27991 | Shell | 2026-11-25 | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 333553 | 28065 | Shell | 2026-11-25 | Skills for Real Engineers. Straight from my .agents directory. |
 | [maxandrews/Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) | 602 | 110 | JavaScript | 2025-11-20 | a graph explorer of the Epstein emails |
-| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 60004 | 2797 | Rust | 2026-11-25 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 60019 | 2802 | Rust | 2026-11-26 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [Menghuan1918/gemini-cli-gopls](https://github.com/Menghuan1918/gemini-cli-gopls) | 13 | 3 | TypeScript | 2025-10-11 | This extension integrates the official MCP of the Go language server (gopls) with Gemini CLI. |
 | [meodai/color-names](https://github.com/meodai/color-names) | 3116 | 245 | JavaScript | 2026-11-19 | Large list of handpicked color names 🌈 |
 | [MichielvanBeers/Flow.Launcher.Plugin.ChatGPT](https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT) | 55 | 11 | Python | 2024-11-14 |  |
 | [Microck/opencode-studio](https://github.com/Microck/opencode-studio) | 796 | 62 | TypeScript | 2026-11-25 | web GUI for securely managing local OpenCode configuration |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 19001 | 1731 | Python | 2026-11-24 | The absolute trainer to light up AI agents. |
-| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 10124 | 1018 | Python | 2026-11-16 | MagenticLite is an experimental agent that works across the browser and local file system |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 198452 | 15064 | Python | 2026-11-07 | Python tool for converting files and office documents to Markdown. |
-| [MindWorkAI/AI-Studio](https://github.com/MindWorkAI/AI-Studio) | 594 | 61 | C# | 2026-11-25 | MindWork AI Studio is a free, independent cross-platform desktop app for local and cloud LLMs across providers, built to democratize AI access. |
-| [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) | 2516 | 233 | TypeScript | 2026-02-25 | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ |
-| [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) | 2789 | 308 | TypeScript | 2026-10-29 | Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely. |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16952 | 1621 | Python | 2026-11-24 | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 19010 | 1731 | Python | 2026-11-26 | The absolute trainer to light up AI agents. |
+| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 10126 | 1019 | Python | 2026-11-16 | MagenticLite is an experimental agent that works across the browser and local file system |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 198605 | 15084 | Python | 2026-11-07 | Python tool for converting files and office documents to Markdown. |
+| [MindWorkAI/AI-Studio](https://github.com/MindWorkAI/AI-Studio) | 594 | 61 | C# | 2026-11-26 | MindWork AI Studio is a free, independent cross-platform desktop app for local and cloud LLMs across providers, built to democratize AI access. |
+| [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) | 2517 | 233 | TypeScript | 2026-02-25 | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ |
+| [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) | 2790 | 307 | TypeScript | 2026-10-29 | Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely. |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16975 | 1625 | Python | 2026-11-24 | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 |
 | [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) | 297 | 38 | TypeScript | 2026-09-29 | LLMX; Easiest 3rd party Local LLM UI for the web! |
 | [muePatrick/zsh-ai-commands](https://github.com/muePatrick/zsh-ai-commands) | 41 | 7 | Shell | 2024-06-19 | Zsh plugin to convert natural language prompts to terminal commands with GPT-4 |
 | [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) 🗄️ | 3516 | 311 | Python | 2023-11-21 | A LLM based research assistant that allows you to have a conversation with a research paper |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 38362 | 3236 | TypeScript | 2026-11-21 | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. |
-| [mutonby/openshorts](https://github.com/mutonby/openshorts) | 9891 | 2098 | Python | 2026-11-25 | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 212128 | 61662 | TypeScript | 2026-11-25 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
-| [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) | 2587 | 450 | TypeScript | 2026-11-25 | An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. |
-| [newo-ether/Agora](https://github.com/newo-ether/Agora) | 667 | 121 | Kotlin | 2026-11-25 | Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control. |
-| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10900 | 1135 | PHP | 2026-11-25 | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109480 | 12371 | TypeScript | 2026-11-25 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 38377 | 3243 | TypeScript | 2026-11-21 | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. |
+| [mutonby/openshorts](https://github.com/mutonby/openshorts) | 9946 | 2115 | Python | 2026-11-26 | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 212284 | 61676 | TypeScript | 2026-11-26 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
+| [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) | 2588 | 453 | TypeScript | 2026-11-26 | An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. |
+| [newo-ether/Agora](https://github.com/newo-ether/Agora) | 676 | 122 | Kotlin | 2026-11-26 | Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control. |
+| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10906 | 1134 | PHP | 2026-11-26 | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109668 | 12378 | TypeScript | 2026-11-26 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. |
 | [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) (fork) | 301 | 11 | JavaScript | 2025-04-03 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65610 | 5133 | TypeScript | 2026-11-25 | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative |
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77337 | 8256 | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 266093 | 60350 | Python | 2026-11-25 | The agent that grows with you |
-| [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) | 10726 | 1492 | TypeScript | 2024-04-20 | Upload a photo of your room to generate your dream room with AI. |
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 12342 | 1665 | Python | 2026-11-06 | PersonaPlex code. |
-| [obra/superpowers](https://github.com/obra/superpowers) | 326545 | 28975 | Shell | 2026-11-24 | An agentic skills framework & software development methodology that works. |
-| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 95961 | 2044 | Python | 2026-11-24 | Self-hosted AI workspace. |
-| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 190883 | 27126 | Shell | 2026-11-25 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65620 | 5135 | TypeScript | 2026-11-26 | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77347 | 8257 | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 266369 | 60436 | Python | 2026-11-26 | The agent that grows with you |
+| [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) | 10726 | 1491 | TypeScript | 2024-04-20 | Upload a photo of your room to generate your dream room with AI. |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 12362 | 1672 | Python | 2026-11-06 | PersonaPlex code. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 327408 | 29038 | Shell | 2026-11-26 | An agentic skills framework & software development methodology that works. |
+| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 95997 | 2047 | Python | 2026-11-26 | Self-hosted AI workspace. |
+| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 190909 | 27126 | Shell | 2026-11-26 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
 | [open-webui/mcpo](https://github.com/open-webui/mcpo) | 4431 | 516 | Python | 2026-11-25 | A simple, secure MCP-to-OpenAPI proxy server |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 159555 | 23154 | Svelte | 2026-11-25 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | 4453 | 476 | TypeScript | 2026-11-25 | OpenAgents - The collaboration OS for AI agents |
-| [openai/skills](https://github.com/openai/skills) | 29139 | 2063 | Python | 2026-10-28 | Skills Catalog for Codex |
-| [openai/whisper](https://github.com/openai/whisper) | 113523 | 13735 | Python | 2026-08-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
-| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 27195 | 2133 | Python | 2026-11-09 | See, hear, and interact on your local devices. |
-| [opencode-ai/opencode](https://github.com/opencode-ai/opencode) 🗄️ | 13928 | 2422 | Go | 2025-09-18 | A powerful AI coding agent. Built for the terminal. |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 94335 | 12644 | TypeScript | 2026-11-25 | 🙌 OpenHands: AI-Driven Development |
-| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 12215 | 1632 | JavaScript | 2026-11-25 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
-| [oraios/serena](https://github.com/oraios/serena) | 31702 | 2169 | Python | 2026-11-24 | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent |
-| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 15138 | 2075 | TypeScript | 2026-11-25 | Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents. |
-| [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) | 368 | 23 | TypeScript | 2026-10-08 | Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 159639 | 23162 | Svelte | 2026-11-26 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | 4461 | 480 | TypeScript | 2026-11-26 | OpenAgents - The collaboration OS for AI agents |
+| [openai/skills](https://github.com/openai/skills) | 29160 | 2066 | Python | 2026-10-28 | Skills Catalog for Codex |
+| [openai/whisper](https://github.com/openai/whisper) | 113595 | 13750 | Python | 2026-08-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 27205 | 2135 | Python | 2026-11-09 | See, hear, and interact on your local devices. |
+| [opencode-ai/opencode](https://github.com/opencode-ai/opencode) 🗄️ | 13934 | 2416 | Go | 2025-09-18 | A powerful AI coding agent. Built for the terminal. |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 94414 | 12656 | TypeScript | 2026-11-26 | 🙌 OpenHands: AI-Driven Development |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 12271 | 1641 | JavaScript | 2026-11-26 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
+| [oraios/serena](https://github.com/oraios/serena) | 31733 | 2171 | Python | 2026-11-24 | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 15186 | 2080 | TypeScript | 2026-11-26 | Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents. |
+| [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) | 369 | 23 | TypeScript | 2026-10-08 | Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent |
 | [owndev/Open-WebUI-Functions](https://github.com/owndev/Open-WebUI-Functions) | 394 | 52 | Python | 2026-10-11 | Open-WebUI-Functions is a collection of custom pipelines, filters, and integrations designed to enhance Open WebUI. These functions enable seamless interactions with Azure AI, N8N, Google Gemini and other AI models, providing dynamic request handling, preprocessing, and automation. |
 | [oyesaifi/icons8free](https://github.com/oyesaifi/icons8free) | 1 | 0 | CSS | 2022-11-16 | Icons8 Premium icon downloader free! |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 114699 | 10305 | Python | 2026-11-24 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 48624 | 3439 | Python | 2026-11-25 | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 115042 | 10344 | Python | 2026-11-24 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 48673 | 3447 | Python | 2026-11-26 | A community-supported supercharged document management system: scan, index and archive all your documents |
 | [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) | 4792 | 585 | Python | 2026-11-03 | Lord of Large Language and Multi modal Systems Web User Interface |
 | [PathOfBuildingCommunity/PathOfBuilding-PoE2-v2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2-v2) 🗄️ | 53 | 22 | Lua | 2025-10-17 | Temporary clone of PoB 2 so we can work on it until the main branch is fixed |
-| [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 40 | 3 | Python | 2026-11-25 | 🤵 AIfred-Intelligence — self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS, voice cloning), camera surveillance, RAG with long-term memory, web research, plugin tool calling. Via Web UI, Telegram, Discord, email or Echo Dot voice terminal. Backends: llama.cpp/llama-swap, Ollama, vLLM, cloud APIs. |
-| [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) | 666 | 336 |  | 2026-11-25 | A curated list of awesome tools, extensions, and resources for Gemini CLI. |
-| [Piebald-AI/gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop) | 522 | 73 | TypeScript | 2026-11-19 | Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. |
-| [poetiq-ai/poetiq-arc-agi-solver](https://github.com/poetiq-ai/poetiq-arc-agi-solver) | 1279 | 210 | Python | 2025-12-16 | This repository allows reproduction of Poetiq's record-breaking submission to the ARC-AGI-1 and ARC-AGI-2 benchmarks. |
-| [prevalentWare/opencode-goal-plugin](https://github.com/prevalentWare/opencode-goal-plugin) | 534 | 42 | TypeScript | 2026-11-23 | OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus. |
+| [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 40 | 3 | Python | 2026-11-26 | 🤵 AIfred-Intelligence — self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS, voice cloning), camera surveillance, RAG with long-term memory, web research, plugin tool calling. Via Web UI, Telegram, Discord, email or Echo Dot voice terminal. Backends: llama.cpp/llama-swap, Ollama, vLLM, cloud APIs. |
+| [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) | 670 | 340 |  | 2026-11-26 | A curated list of awesome tools, extensions, and resources for Gemini CLI. |
+| [Piebald-AI/gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop) | 521 | 73 | TypeScript | 2026-11-26 | Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. |
+| [poetiq-ai/poetiq-arc-agi-solver](https://github.com/poetiq-ai/poetiq-arc-agi-solver) | 1280 | 210 | Python | 2025-12-16 | This repository allows reproduction of Poetiq's record-breaking submission to the ARC-AGI-1 and ARC-AGI-2 benchmarks. |
+| [prevalentWare/opencode-goal-plugin](https://github.com/prevalentWare/opencode-goal-plugin) | 533 | 42 | TypeScript | 2026-11-26 | OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus. |
 | [ProjectJaneAI/Jane-AI](https://github.com/ProjectJaneAI/Jane-AI) | 1 | 0 |  | 2025-05-27 | A personal journey to build a voice-interactive AI companion named Jane—using Python, Linux, and Raspberry Pi. Designed to evolve, learn, and live alongside the user. |
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 6643 | 770 |  | 2026-06-07 | A collection of MCP clients. |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 98504 | 20926 |  | 2026-11-25 | A collection of MCP servers. |
-| [purocean/yn](https://github.com/purocean/yn) | 6782 | 919 | TypeScript | 2026-11-15 | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient. |
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35708 | 2847 | Rust | 2026-11-25 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
-| [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) | 24505 | 2804 | Python | 2026-05-25 | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. |
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 17285 | 1774 | Python | 2026-03-04 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30939 | 3582 | TypeScript | 2026-11-25 | An open-source AI coding agent that lives in your terminal. |
-| [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19580 | 1333 | TypeScript | 2026-10-14 | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. |
-| [raindropio/app](https://github.com/raindropio/app) | 1634 | 174 | JavaScript | 2026-11-19 | Source code of web app and browser extensions |
-| [ralksta/ComfyUI-Photoshoot](https://github.com/ralksta/ComfyUI-Photoshoot) | 257 | 23 | Python | 2026-11-24 | Build a person once, then shoot a whole series: framing, pose, placement, expression and aspect ratio vary while the person stays the same. ComfyUI nodes. |
-| [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) | 509 | 89 | Python | 2026-09-25 | Android device control for hermes-agent — bridge app + Python toolset |
+| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 6644 | 772 |  | 2026-06-07 | A collection of MCP clients. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 98535 | 21004 |  | 2026-11-26 | A collection of MCP servers. |
+| [purocean/yn](https://github.com/purocean/yn) | 6783 | 919 | TypeScript | 2026-11-15 | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient. |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35729 | 2850 | Rust | 2026-11-26 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) | 24525 | 2808 | Python | 2026-05-25 | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 17292 | 1774 | Python | 2026-03-04 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30962 | 3585 | TypeScript | 2026-11-26 | An open-source AI coding agent that lives in your terminal. |
+| [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19595 | 1338 | TypeScript | 2026-10-14 | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. |
+| [raindropio/app](https://github.com/raindropio/app) | 1634 | 175 | JavaScript | 2026-11-19 | Source code of web app and browser extensions |
+| [ralksta/ComfyUI-Photoshoot](https://github.com/ralksta/ComfyUI-Photoshoot) | 259 | 23 | Python | 2026-11-24 | Build a person once, then shoot a whole series: framing, pose, placement, expression and aspect ratio vary while the person stays the same. ComfyUI nodes. |
+| [raulvidis/hermes-android](https://github.com/raulvidis/hermes-android) | 510 | 89 | Kotlin | 2026-11-26 | Android device control for hermes-agent — bridge app + Python toolset |
 | [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) 🗄️ | 1230 | 109 | Python | 2026-02-11 | An MCP server that autonomously evaluates web applications. |
-| [reorproject/reor](https://github.com/reorproject/reor) 🗄️ | 8524 | 524 | JavaScript | 2025-05-13 | Private & local AI personal knowledge management app for high entropy people. |
-| [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | 984 | 81 | Rust | 2026-11-25 | Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization. |
-| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 9207 | 941 | Kotlin | 2026-11-25 | RikkaHub is an Android APP that supports for multiple LLM providers. |
-| [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | 448 | 38 | Python | 2026-11-25 | Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option. |
-| [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) | 275 | 58 | Kotlin | 2026-11-25 | Git repository for Robocode Tank Royale |
-| [Roy3838/Observer](https://github.com/Roy3838/Observer) | 1819 | 160 | TypeScript | 2026-11-25 | The micro-agent orchestrator that monitors anything for you. Running completely locally. Open Source. |
+| [reorproject/reor](https://github.com/reorproject/reor) 🗄️ | 8525 | 524 | JavaScript | 2025-05-13 | Private & local AI personal knowledge management app for high entropy people. |
+| [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | 984 | 81 | Rust | 2026-11-26 | Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization. |
+| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 9235 | 945 | Kotlin | 2026-11-26 | RikkaHub is an Android APP that supports for multiple LLM providers. |
+| [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | 449 | 38 | Python | 2026-11-25 | Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option. |
+| [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) | 276 | 58 | Kotlin | 2026-11-25 | Git repository for Robocode Tank Royale |
+| [Roy3838/Observer](https://github.com/Roy3838/Observer) | 1819 | 160 | TypeScript | 2026-11-26 | The micro-agent orchestrator that monitors anything for you. Running on local models. Open Source. |
 | [RUCKBReasoning/TableLLM](https://github.com/RUCKBReasoning/TableLLM) | 255 | 24 | Python | 2025-08-20 | TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios |
 | [RyoJerryYu/obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync) | 81 | 17 | TypeScript | 2025-10-08 | Syncing Memos to Obsidian daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin. |
-| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 6706 | 321 |  | 2026-11-06 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. |
-| [safzanpirani/pi-commandcode-provider](https://github.com/safzanpirani/pi-commandcode-provider) | 9 | 8 | TypeScript | 2026-11-02 | Pi extension that adds Command Code (commandcode.ai) as a model provider. DeepSeek V4 Pro, Kimi K2.6, Qwen 3.7 Max, etc. |
-| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 5204 | 767 | Python | 2026-02-16 | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
-| [SesameAILabs/csm](https://github.com/SesameAILabs/csm) | 14761 | 1472 | Python | 2025-05-27 | A Conversational Speech Generation Model |
-| [seven1m/open-bibles](https://github.com/seven1m/open-bibles) | 553 | 122 | Python | 2026-11-25 | Repository of public domain and freely (libre) licensed bible translations in some standard XML formats. |
+| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 6724 | 322 |  | 2026-11-06 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. |
+| [safzanpirani/pi-commandcode-provider](https://github.com/safzanpirani/pi-commandcode-provider) | 10 | 8 | TypeScript | 2026-11-02 | Pi extension that adds Command Code (commandcode.ai) as a model provider. DeepSeek V4 Pro, Kimi K2.6, Qwen 3.7 Max, etc. |
+| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 5206 | 768 | Python | 2026-02-16 | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
+| [SesameAILabs/csm](https://github.com/SesameAILabs/csm) | 14762 | 1474 | Python | 2025-05-27 | A Conversational Speech Generation Model |
+| [seven1m/open-bibles](https://github.com/seven1m/open-bibles) | 553 | 122 | Python | 2026-11-26 | Repository of public domain and freely (libre) licensed bible translations in some standard XML formats. |
 | [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) | 1974 | 157 | Python | 2026-10-01 | Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. |
 | [shrwnsan/clix-dev-flow](https://github.com/shrwnsan/clix-dev-flow) | 10 | 0 |  | 2025-10-14 | A simple Gemini CLI extension that brings AI development workflow patterns to your terminal. It helps you plan, design, and implement features through systematic commands with AI assistance. |
 | [shyamsaktawat/OpenAlpha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve) | 1059 | 159 | Python | 2025-05-31 | OpenAlpha_Evolve is an open-source Python framework inspired by the groundbreaking research on autonomous coding agents like DeepMind's AlphaEvolve. |
-| [Sidekick-Poe/Sidekick](https://github.com/Sidekick-Poe/Sidekick) | 516 | 63 | C# | 2026-11-23 | The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2. |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188189 | 45825 | Python | 2026-11-25 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| [Sidekick-Poe/Sidekick](https://github.com/Sidekick-Poe/Sidekick) | 517 | 63 | C# | 2026-11-23 | The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2. |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188204 | 45834 | Python | 2026-11-26 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
 | [simonw/raccoon-heist-codex](https://github.com/simonw/raccoon-heist-codex) | 6 | 1 | JavaScript | 2026-08-07 | Raccoon Heist implemented by GPT-5.6 Sol Ultra and Codex Desktop |
-| [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 11875 | 2476 | TypeScript | 2026-11-25 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump |
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 30206 | 3919 | TypeScript | 2026-11-25 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. |
-| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 47388 | 3138 | TypeScript | 2026-11-25 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 |
-| [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 7796 | 1698 |  | 2025-11-05 | A simple task management system for managing AI dev agents |
-| [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) | 2635 | 805 | TypeScript | 2026-11-22 | :heavy_dollar_sign: :hammer: Path of Exile app for price checking |
+| [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | 11887 | 2479 | TypeScript | 2026-11-25 | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 30219 | 3919 | TypeScript | 2026-11-26 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. |
+| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 47431 | 3139 | TypeScript | 2026-11-26 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 |
+| [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 7799 | 1698 |  | 2025-11-05 | A simple task management system for managing AI dev agents |
+| [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) | 2636 | 807 | TypeScript | 2026-11-26 | :heavy_dollar_sign: :hammer: Path of Exile app for price checking |
 | [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita) | 1125 | 51 | Meson | 2026-11-17 | An expanded Adwaita-styled companion icon theme with extra icons for popular apps and MIME types to complement Gnome Shell's original icons. |
-| [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) (fork) | 20137 | 10626 | TypeScript | 2026-11-21 | Prompt, run, edit, and deploy full-stack web applications using any LLM you want! |
-| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 22053 | 5819 | Jupyter Notebook | 2026-11-25 | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
+| [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) (fork) | 20144 | 10631 | TypeScript | 2026-11-21 | Prompt, run, edit, and deploy full-stack web applications using any LLM you want! |
+| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 22079 | 5821 | Jupyter Notebook | 2026-11-25 | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
 | [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) | 2296 | 201 | Python | 2026-05-11 | STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities. |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 42345 | 6509 | Rust | 2026-11-25 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) | 7645 | 788 | TypeScript | 2026-06-29 | AI Product Design Agent - Open Source |
-| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20870 | 2288 | Python | 2026-11-23 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] |
-| [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) | 658 | 138 | Python | 2026-11-23 | Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. |
-| [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) | 15663 | 2294 | Python | 2026-11-03 | Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 42429 | 6522 | Rust | 2026-11-26 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) | 7648 | 788 | TypeScript | 2026-06-29 | AI Product Design Agent - Open Source |
+| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20877 | 2289 | Python | 2026-11-23 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] |
+| [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) | 661 | 138 | Python | 2026-11-23 | Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. |
+| [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) | 15668 | 2295 | Python | 2026-11-26 | Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" |
 | [sybil-solutions/ai-data-extraction](https://github.com/sybil-solutions/ai-data-extraction) | 1361 | 118 | Python | 2026-10-07 | extract all your personal data history from cursor, codex, claude-code, windsurf, and trae |
 | [Synaptic-MCP/Synaptic](https://github.com/Synaptic-MCP/Synaptic) | 30 | 5 | TypeScript | 2025-05-26 | Decentralized AI Memory Connection Protocol - Making AI Truly Yours. A revolutionary protocol that gives you complete control over your AI memories and interactions across all platforms. |
 | [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) | 300 | 44 | TypeScript | 2026-01-01 |  |
-| [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) | 2995 | 171 | Python | 2026-11-24 | Music player from another galaxy :milky_way: |
-| [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | 28847 | 1221 | TypeScript | 2026-04-13 | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) | 2998 | 172 | Python | 2026-11-26 | Music player from another galaxy :milky_way: |
+| [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | 28849 | 1221 | TypeScript | 2026-04-13 | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [tarun7r/deep-research-agent](https://github.com/tarun7r/deep-research-agent) | 192 | 34 | Python | 2026-04-04 | Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibility scoring and web search |
 | [Th0rgal/open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) | 1910 | 141 | TypeScript | 2026-06-02 | Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot |
 | [The-Grand-Archives/Dark-Souls-III-CT-TGA](https://github.com/The-Grand-Archives/Dark-Souls-III-CT-TGA) | 177 | 20 | C | 2025-05-19 | Dark Souls III Cheat Engine table maintained by The Grand Archives. |
 | [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) | 397 | 113 | Python | 2025-08-04 | Pocket Flow Project Template: Agentic Coding for Python |
-| [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) | 12774 | 1443 | Python | 2026-05-31 | Pocket Flow: Codebase to Tutorial |
+| [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) | 12775 | 1444 | Python | 2026-05-31 | Pocket Flow: Codebase to Tutorial |
 | [Theblackcat98/AgenticPipelineCreator](https://github.com/Theblackcat98/AgenticPipelineCreator) 🗄️ | 1 | 0 | Python | 2025-06-24 | Merged into Awesome-AI-Python-Scripts on 2026-10-20 — the code now lives in the AgenticPipelineCreator/ folder there. This standalone repo is archived. |
 | [Theblackcat98/awesome-chatgpt-prompts](https://github.com/Theblackcat98/awesome-chatgpt-prompts) (fork) | 1 | 0 |  | 2023-02-04 | This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | [Theblackcat98/CL-AI](https://github.com/Theblackcat98/CL-AI) | 1 | 0 | Python | 2026-11-14 | Minimal CLI/TUI that turns a local LLM into bash command suggestions. |
 | [Theblackcat98/mermaidCLI](https://github.com/Theblackcat98/mermaidCLI) 🗄️ | 1 | 0 | JavaScript | 2025-07-01 | Merged into ASCII-Everything on 2026-10-20 — the code now lives in the mermaidcli/ folder there. This standalone repo is archived. |
 | [Theblackcat98/opencode-workflow](https://github.com/Theblackcat98/opencode-workflow) | 1 | 1 | TypeScript | 2026-11-10 | A thin engineering-operating layer on top of opencode: delegate feature-level objectives to an agent team (lead orchestrator + planner/coder/reviewer/researcher subagents) that inspects, plans, implements, tests, reviews, documents, and commits — with worktree-based parallel isolation. |
-| [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) | 2541 | 174 | Swift | 2026-08-19 | The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more. |
-| [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | 4982 | 355 | Python | 2026-09-23 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
-| [thesysdev/openui](https://github.com/thesysdev/openui) | 15500 | 1039 | TypeScript | 2026-11-25 | The Open Standard for Generative UI |
-| [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) | 8718 | 1260 | JavaScript | 2026-11-21 | A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. |
-| [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) | 1499 | 365 | TypeScript | 2026-11-23 | Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ... |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 78435 | 5719 | TypeScript | 2026-11-25 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) | 2544 | 173 | Swift | 2026-08-19 | The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more. |
+| [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | 4983 | 355 | Python | 2026-09-23 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
+| [thesysdev/openui](https://github.com/thesysdev/openui) | 15524 | 1040 | TypeScript | 2026-11-26 | The Open Standard for Generative UI |
+| [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) | 8721 | 1260 | JavaScript | 2026-11-26 | A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. |
+| [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) | 1501 | 365 | TypeScript | 2026-11-23 | Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ... |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 78917 | 5751 | TypeScript | 2026-11-26 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 | [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) | 1733 | 94 | Python | 2025-03-22 | This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line. |
-| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 5213 | 680 | TypeScript | 2026-11-25 | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. |
-| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 15937 | 2196 |  | 2026-04-28 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |
+| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 5256 | 679 | TypeScript | 2026-11-26 | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. |
+| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 15948 | 2204 |  | 2026-04-28 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |
 | [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) | 699 | 158 | Python | 2025-12-23 | Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.) |
 | [trendy-design/llmchat](https://github.com/trendy-design/llmchat) | 1073 | 198 | TypeScript | 2025-05-14 | Unified interface for AI chat, Agentic workflows and more ... |
 | [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) | 351 | 32 | TypeScript | 2025-11-20 | Vibe coding should have human in the loop! interactive-mcp: Local, cross-platform MCP server for interact with your AI Agent |
 | [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) | 2016 | 61 | Go | 2026-11-24 | Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE. Plain .http files you can diff and version, with scripted tests, workflows, mocks, recorder, and a CLI runner. |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 80245 | 7476 | Python | 2026-11-25 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 80305 | 7482 | Python | 2026-11-26 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. |
 | [unsupportedpastels/mercury](https://github.com/unsupportedpastels/mercury) | 62 | 16 | Kotlin | 2026-11-21 | Mercury — a Hermes companion. Free, open-source mobile clients for Hermes Agent (Android + iOS). Unofficial; official endpoints only. |
-| [upstash/context7](https://github.com/upstash/context7) | 65461 | 3271 | TypeScript | 2026-11-25 | Context7 Platform -- Up-to-date docs for AI agents |
-| [usamaiqb/mark-reader](https://github.com/usamaiqb/mark-reader) | 56 | 5 | Kotlin | 2026-11-25 | Offline markdown and code reader with syntax highlighting |
-| [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) | 1865 | 279 | Swift | 2026-11-25 | Native iPhone app for your Hermes agent |
-| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 13053 | 952 | Jupyter Notebook | 2025-10-25 |  |
-| [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | 34424 | 1393 | C | 2026-11-20 | This project aims to enhance the working environment on Windows |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 40884 | 3617 | TypeScript | 2026-11-17 | The open agent skills tool - npx skills |
-| [Viir/bots](https://github.com/Viir/bots) | 222 | 137 | Elm | 2026-09-27 | AI playing video games |
+| [upstash/context7](https://github.com/upstash/context7) | 65520 | 3274 | TypeScript | 2026-11-26 | Context7 Platform -- Up-to-date docs for AI agents |
+| [usamaiqb/mark-reader](https://github.com/usamaiqb/mark-reader) | 58 | 5 | Kotlin | 2026-11-25 | Offline markdown and code reader with syntax highlighting |
+| [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) | 1897 | 279 | Swift | 2026-11-25 | Native iPhone app for your Hermes agent |
+| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 13055 | 952 | Jupyter Notebook | 2025-10-25 |  |
+| [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | 34436 | 1397 | C | 2026-11-20 | This project aims to enhance the working environment on Windows |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 41024 | 3632 | TypeScript | 2026-11-17 | The open agent skills tool - npx skills |
+| [Viir/bots](https://github.com/Viir/bots) | 223 | 137 | Elm | 2026-09-27 | AI playing video games |
 | [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) | 11301 | 923 |  | 2026-09-25 | Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97566 | 25294 | Python | 2026-11-25 | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37549 | 4224 |  | 2026-11-15 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
-| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 26780 | 3047 | Shell | 2026-11-02 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 22741 | 1199 | Go | 2026-11-24 | An open-source, AI-integrated, cross-platform terminal for seamless workflows |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97645 | 25338 | Python | 2026-11-26 | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37571 | 4235 |  | 2026-11-15 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
+| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 26791 | 3050 | Shell | 2026-11-02 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 22750 | 1200 | Go | 2026-11-24 | An open-source, AI-integrated, cross-platform terminal for seamless workflows |
 | [waynesutton/promptstack](https://github.com/waynesutton/promptstack) 🗄️ | 78 | 18 | TypeScript | 2026-10-22 | A searchable collection of AI prompts and code gen cursor rules, for bolt.new, loveable, windsurf, trae, to enhance your workflow for developers. |
-| [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | 1806 | 269 | HTML | 2026-11-04 | A huge list of great stuff you can get for free! |
-| [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) | 419 | 28 | JavaScript | 2026-07-05 | Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI. |
-| [witt3rd/oh-my-hermes](https://github.com/witt3rd/oh-my-hermes) | 400 | 37 | Python | 2026-09-27 | Oh My Hermes (OMH) — Multi-agent orchestration skills for Hermes Agent. Inspired by oh-my-claudecode, rebuilt natively for Hermes primitives. |
+| [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | 1807 | 272 | HTML | 2026-11-04 | A huge list of great stuff you can get for free! |
+| [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) | 420 | 28 | JavaScript | 2026-07-05 | Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI. |
+| [witt3rd/oh-my-hermes](https://github.com/witt3rd/oh-my-hermes) | 401 | 37 | Python | 2026-09-27 | Oh My Hermes (OMH) — Multi-agent orchestration skills for Hermes Agent. Inspired by oh-my-claudecode, rebuilt natively for Hermes primitives. |
 | [wrefgtzweve/combo-gen](https://github.com/wrefgtzweve/combo-gen) | 4 | 1 | Go | 2024-02-16 | A tool to generate realistic looking email:pass combinations |
-| [wshobson/agents](https://github.com/wshobson/agents) | 42890 | 4542 | Python | 2026-11-24 | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. |
-| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 9406 | 945 | Python | 2026-11-03 | Mobile-Agent: The Powerful GUI Agent Family |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144860 | 34631 |  | 2026-10-12 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
-| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 27855 | 5265 | Rust | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
-| [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) | 901 | 128 | JavaScript | 2026-06-28 | A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate. |
-| [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | 35831 | 3408 | Python | 2024-05-18 | Official Code for DragGAN (SIGGRAPH 2023) |
-| [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) | 32442 | 1791 |  | 2026-11-25 | 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！ |
+| [wshobson/agents](https://github.com/wshobson/agents) | 42926 | 4548 | Python | 2026-11-24 | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. |
+| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 9409 | 945 | Python | 2026-11-03 | Mobile-Agent: The Powerful GUI Agent Family |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144890 | 34625 |  | 2026-10-12 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 27863 | 5267 | Rust | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
+| [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) | 902 | 128 | JavaScript | 2026-06-28 | A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate. |
+| [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | 35832 | 3410 | Python | 2024-05-18 | Official Code for DragGAN (SIGGRAPH 2023) |
+| [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) | 32450 | 1790 |  | 2026-11-26 | 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！ |
 | [xou816/spot](https://github.com/xou816/spot) | 2363 | 130 | Rust | 2025-10-13 | UNMAINTAINED! Please check out active forks |
 | [Xthebuilder/JRVS](https://github.com/Xthebuilder/JRVS) | 241 | 27 | Python | 2026-08-18 | JRVS Local AI Assitant RAG knowledge base Powered by whatever local AI you choose. |
 | [YassWorks/Ally](https://github.com/YassWorks/Ally) | 240 | 18 | Python | 2026-11-18 | A private, provider-agnostic AI agent for your terminal. |
 | [ysharma3501/FastNeuTTS](https://github.com/ysharma3501/FastNeuTTS) | 119 | 10 | Python | 2025-11-24 | A highly optimized engine for neutts-air model to generate minutes of audio in seconds. Over 200x realtime on modern hardware! |
-| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 15363 | 1570 | Python | 2026-11-16 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
-| [zai-org/GLM-4](https://github.com/zai-org/GLM-4) | 7076 | 624 | Python | 2026-08-05 | GLM-4 series: Open Multilingual Multimodal Chat LMs \| 开源多语言多模态对话模型 |
+| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 15370 | 1571 | Python | 2026-11-16 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
+| [zai-org/GLM-4](https://github.com/zai-org/GLM-4) | 7078 | 624 | Python | 2026-08-05 | GLM-4 series: Open Multilingual Multimodal Chat LMs \| 开源多语言多模态对话模型 |
 | [zai-org/GLM-V](https://github.com/zai-org/GLM-V) | 2409 | 196 | Python | 2026-11-06 | GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning |
-| [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 26665 | 4064 | Python | 2026-03-06 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
-| [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10422 | 873 |  | 2026-11-25 | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model. |
-| [zeronsh/zeron](https://github.com/zeronsh/zeron) | 3759 | 387 | Rust | 2026-11-25 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. |
-| [Zfinix/aster](https://github.com/Zfinix/aster) | 140 | 12 | Rust | 2026-10-31 | An open-source agent harness for software work. |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 45256 | 6770 | PowerShell | 2026-11-14 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 26684 | 4064 | Python | 2026-03-06 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
+| [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10422 | 873 |  | 2026-11-26 | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model. |
+| [zeronsh/zeron](https://github.com/zeronsh/zeron) | 3766 | 390 | Rust | 2026-11-26 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. |
+| [Zfinix/aster](https://github.com/Zfinix/aster) | 141 | 12 | Rust | 2026-10-31 | An open-source agent harness for software work. |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 45299 | 6778 | PowerShell | 2026-11-14 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
 </details>
 
@@ -529,38 +529,38 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 6069 | 454 |  | 2026-10-27 | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. |
-| [5k-mirrors/awesome-poe-2](https://github.com/5k-mirrors/awesome-poe-2) | 70 | 12 |  | 2026-02-11 | A collection of awesome Path of Exile 2 resources |
-| [adi1090x/rofi](https://github.com/adi1090x/rofi) | 8848 | 401 | Shell | 2026-05-31 | A huge collection of Rofi based custom Applets, Launchers & Powermenus. |
-| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 🗄️ | 20657 | 1568 | Shell | 2026-10-12 | 🖥 📊 🕹 🛠 A curated list of command line apps |
-| [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) | 38020 | 2572 |  | 2025-08-28 | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. |
-| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 17120 | 1925 | Python | 2026-11-16 | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | 7002 | 633 | Lua | 2026-11-07 | awesome window manager |
-| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | 10490 | 2289 |  | 2026-11-02 | A curated list of Claude Skills. |
-| [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 67464 | 12281 |  | 2026-10-18 | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 565526 | 52842 | Markdown | 2026-11-19 | Master programming by recreating your favorite technologies from scratch. |
+| [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | 6072 | 454 |  | 2026-10-27 | Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent. |
+| [5k-mirrors/awesome-poe-2](https://github.com/5k-mirrors/awesome-poe-2) | 70 | 13 |  | 2026-02-11 | A collection of awesome Path of Exile 2 resources |
+| [adi1090x/rofi](https://github.com/adi1090x/rofi) | 8851 | 400 | Shell | 2026-05-31 | A huge collection of Rofi based custom Applets, Launchers & Powermenus. |
+| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 🗄️ | 20660 | 1567 | Shell | 2026-10-12 | 🖥 📊 🕹 🛠 A curated list of command line apps |
+| [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) | 38031 | 2574 |  | 2025-08-28 | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. |
+| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 17149 | 1934 | Python | 2026-11-26 | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | 7004 | 633 | Lua | 2026-11-07 | awesome window manager |
+| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | 10492 | 2310 |  | 2026-11-02 | A curated list of Claude Skills. |
+| [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 67474 | 12283 |  | 2026-11-26 | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 565760 | 52858 | Markdown | 2026-11-19 | Master programming by recreating your favorite technologies from scratch. |
 | [crackerica/Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software) | 94 | 9 | Python | 2018-05-14 |  |
 | [Devaro3/awesome-opendirectories](https://github.com/Devaro3/awesome-opendirectories) | 306 | 27 |  | 2025-01-28 | Websites for data hoarders - grouped by category |
-| [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | 6304 | 914 | TypeScript | 2026-09-29 | 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. |
-| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 🗄️ | 85770 | 9605 |  | 2024-07-29 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |
+| [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | 6307 | 913 | TypeScript | 2026-09-29 | 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. |
+| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 🗄️ | 85781 | 9609 |  | 2024-07-29 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |
 | [ephraimduncan/awesome-developer-dictionary](https://github.com/ephraimduncan/awesome-developer-dictionary) 🗄️ | 217 | 47 |  | 2024-02-18 | 📖 A curated list of definitions of programming terms. |
-| [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 42033 | 2445 | JavaScript | 2024-07-28 | The best design tools and plugins for everything 👉 |
-| [hackerkid/bots](https://github.com/hackerkid/bots) | 1583 | 189 |  | 2024-02-23 | :zap: Tools for building bots |
-| [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) 🗄️ | 26922 | 2288 | HTML | 2023-06-18 | A curated list of awesome warez and piracy links |
-| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 74912 | 15699 | Python | 2026-11-25 | A curated list of awesome Machine Learning frameworks, libraries and software. |
+| [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 42044 | 2449 | JavaScript | 2024-07-28 | The best design tools and plugins for everything 👉 |
+| [hackerkid/bots](https://github.com/hackerkid/bots) | 1583 | 188 |  | 2024-02-23 | :zap: Tools for building bots |
+| [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) 🗄️ | 26920 | 2290 | HTML | 2023-06-18 | A curated list of awesome warez and piracy links |
+| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 74918 | 15703 | Python | 2026-11-25 | A curated list of awesome Machine Learning frameworks, libraries and software. |
 | [natowi/photogrammetry_datasets](https://github.com/natowi/photogrammetry_datasets) | 372 | 48 |  | 2025-07-12 | Collection of 350+ datasets for photogrammetry |
-| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 290487 | 36868 | Python | 2026-11-23 | Curated list of project-based tutorials |
-| [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) | 2099 | 377 |  | 2026-11-25 | A curated list of TUI apps and libraries built with Ratatui |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 542785 | 38682 |  | 2026-09-02 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
-| [terremoth/awesome-m5stack-cardputer](https://github.com/terremoth/awesome-m5stack-cardputer) | 807 | 39 |  | 2026-11-18 | Awesome M5Stack Cardputer |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 290546 | 36883 | Python | 2026-11-23 | Curated list of project-based tutorials |
+| [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) | 2100 | 378 |  | 2026-11-25 | A curated list of TUI apps and libraries built with Ratatui |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 543378 | 38710 |  | 2026-09-02 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
+| [terremoth/awesome-m5stack-cardputer](https://github.com/terremoth/awesome-m5stack-cardputer) | 810 | 39 |  | 2026-11-18 | Awesome M5Stack Cardputer |
 | [Theblackcat98/awesome-chatgpt-prompts](https://github.com/Theblackcat98/awesome-chatgpt-prompts) (fork) | 1 | 0 |  | 2023-02-04 | This repo includes ChatGPT prompt curation to use ChatGPT better. |
-| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 17174 | 1159 | Shell | 2026-11-11 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
-| [Tobee1406/Awesome-Yandex-Dorks](https://github.com/Tobee1406/Awesome-Yandex-Dorks) | 11 | 2 |  | 2024-06-20 | A collection of Awesome Yandex Dorks. |
-| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 15937 | 2196 |  | 2026-04-28 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 337133 | 29147 | Python | 2026-11-17 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
-| [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | 1806 | 269 | HTML | 2026-11-04 | A huge list of great stuff you can get for free! |
-| [zcraber/Freebies-Hub](https://github.com/zcraber/Freebies-Hub) | 268 | 32 |  | 2026-11-03 | Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc. |
-| [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10422 | 873 |  | 2026-11-25 | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model. |
+| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 17178 | 1159 | Shell | 2026-11-11 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
+| [Tobee1406/Awesome-Yandex-Dorks](https://github.com/Tobee1406/Awesome-Yandex-Dorks) | 12 | 2 |  | 2024-06-20 | A collection of Awesome Yandex Dorks. |
+| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 15948 | 2204 |  | 2026-04-28 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 337338 | 29147 | Python | 2026-11-17 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | 1807 | 272 | HTML | 2026-11-04 | A huge list of great stuff you can get for free! |
+| [zcraber/Freebies-Hub](https://github.com/zcraber/Freebies-Hub) | 268 | 33 |  | 2026-11-03 | Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc. |
+| [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10422 | 873 |  | 2026-11-26 | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model. |
 
 </details>
 
@@ -572,78 +572,78 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [0xcro3dile/answerui](https://github.com/0xcro3dile/answerui) | 42 | 0 | TypeScript | 2026-11-11 | Open-source alternative to ChatGPT's Intelligent UI. Answers arrive as live charts, forms and calculators. Works with any OpenAI-compatible model, in the cloud or local. |
+| [0xcro3dile/answerui](https://github.com/0xcro3dile/answerui) | 43 | 0 | TypeScript | 2026-11-11 | Open-source alternative to ChatGPT's Intelligent UI. Answers arrive as live charts, forms and calculators. Works with any OpenAI-compatible model, in the cloud or local. |
 | [accelerated-text/accelerated-text](https://github.com/accelerated-text/accelerated-text) | 805 | 47 | JavaScript | 2023-03-10 | Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and structure. |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 21707 | 2185 | TypeScript | 2026-11-24 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
-| [allusion-app/Allusion](https://github.com/allusion-app/Allusion) | 908 | 89 | TypeScript | 2024-04-23 | A free and open source desktop application for managing your visual library |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 21832 | 2189 | TypeScript | 2026-11-26 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| [allusion-app/Allusion](https://github.com/allusion-app/Allusion) | 909 | 90 | TypeScript | 2024-04-23 | A free and open source desktop application for managing your visual library |
 | [altenull/json-sea](https://github.com/altenull/json-sea) | 417 | 49 | TypeScript | 2025-12-11 | 🌊 Dive deep into the JSON Sea! |
-| [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100378 | 54612 | TypeScript | 2026-11-25 | An enterprise-class UI design language and React UI library |
-| [AutomaApp/automa](https://github.com/AutomaApp/automa) | 21726 | 2341 | Vue | 2026-03-02 | A browser extension for automating your browser by connecting blocks |
+| [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100393 | 54609 | TypeScript | 2026-11-26 | An enterprise-class UI design language and React UI library |
+| [AutomaApp/automa](https://github.com/AutomaApp/automa) | 21730 | 2338 | Vue | 2026-03-02 | A browser extension for automating your browser by connecting blocks |
 | [bluzi/awesome-google-tasks](https://github.com/bluzi/awesome-google-tasks) | 114 | 22 | JavaScript | 2023-03-04 | :rocket: Google Tasks for humans: Alternative Web UI for Google Tasks made with React |
 | [btmills/geopattern](https://github.com/btmills/geopattern) | 1842 | 213 | JavaScript | 2021-05-19 | Generate beautiful SVG patterns |
-| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129618 | 12499 | JavaScript | 2026-11-17 | Coding articles to level up your development skills |
-| [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) | 2816 | 300 | TypeScript | 2026-11-12 | Blazing fast file vault written in TypeScript! 🚀 |
-| [ddoemonn/interior](https://github.com/ddoemonn/interior) | 1273 | 60 | TypeScript | 2026-10-21 | micro-interactions for react, built for the half-second after a click |
-| [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) | 32814 | 1735 | TypeScript | 2026-11-12 | A JavaScript library to position floating elements and create interactions for them. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459629 | 47384 | TypeScript | 2026-11-25 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
-| [gethomepage/homepage](https://github.com/gethomepage/homepage) | 33826 | 2183 | JavaScript | 2026-11-25 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. |
+| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129619 | 12500 | JavaScript | 2026-11-17 | Coding articles to level up your development skills |
+| [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) | 2817 | 300 | TypeScript | 2026-11-12 | Blazing fast file vault written in TypeScript! 🚀 |
+| [ddoemonn/interior](https://github.com/ddoemonn/interior) | 1276 | 61 | TypeScript | 2026-11-26 | micro-interactions for react, built for the half-second after a click |
+| [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) | 32821 | 1737 | TypeScript | 2026-11-12 | A JavaScript library to position floating elements and create interactions for them. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459674 | 47388 | TypeScript | 2026-11-26 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [gethomepage/homepage](https://github.com/gethomepage/homepage) | 33839 | 2184 | JavaScript | 2026-11-26 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. |
 | [hexdocom/lemonai](https://github.com/hexdocom/lemonai) | 1571 | 320 | JavaScript | 2026-02-03 | Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_cc |
-| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 11055 | 1726 | TypeScript | 2026-11-25 | The open source codebase powering HuggingChat |
+| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 11061 | 1727 | TypeScript | 2026-11-26 | The open source codebase powering HuggingChat |
 | [ibelick/zola](https://github.com/ibelick/zola) | 1540 | 295 | TypeScript | 2025-12-11 | Open chat interface for all your models. |
 | [Ironclad/rivet](https://github.com/Ironclad/rivet) | 4736 | 394 | TypeScript | 2026-08-26 | The open-source visual AI programming environment and TypeScript library |
 | [IT-ess/tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) | 15 | 2 | Rust | 2026-10-03 | A Tauri plugin to handle share intents to your app, even when the webview is not available (with a queue). |
-| [joemccann/dillinger](https://github.com/joemccann/dillinger) | 8301 | 1160 | TypeScript | 2026-06-21 | The last Markdown editor, ever. |
+| [joemccann/dillinger](https://github.com/joemccann/dillinger) | 8300 | 1160 | TypeScript | 2026-06-21 | The last Markdown editor, ever. |
 | [john-smilga/react-projects](https://github.com/john-smilga/react-projects) | 5132 | 3920 | CSS | 2024-07-24 |  |
-| [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) | 5217 | 475 | TypeScript | 2023-07-23 | An open source project management tool with Kanban boards |
+| [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) | 5216 | 475 | TypeScript | 2023-07-23 | An open source project management tool with Kanban boards |
 | [JuanCruzMedina/juancruzmedina](https://github.com/JuanCruzMedina/juancruzmedina) | 13 | 0 | TypeScript | 2026-09-16 | Portfolio Website built with Next.js and HeroUI! |
-| [kando-menu/kando](https://github.com/kando-menu/kando) | 6695 | 250 | TypeScript | 2026-11-23 | 🌸 Do things with utmost efficiency. |
-| [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) | 1308 | 55 | TypeScript | 2026-11-17 | An open source, cross-platform, extensible app launcher. |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156943 | 10445 | Python | 2026-11-25 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
-| [lencx/nofwl](https://github.com/lencx/nofwl) | 4125 | 386 | Rust | 2024-01-23 | NoFWL Desktop Application |
-| [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 13064 | 717 | Kotlin | 2026-11-24 | An alternative frontend for YouTube, for Android. |
-| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 10890 | 1221 | TypeScript | 2026-11-25 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
-| [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 26002 | 1719 | TypeScript | 2026-11-25 | Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. |
-| [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) | 24247 | 4579 | JavaScript | 2026-11-18 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16952 | 1621 | Python | 2026-11-24 | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 |
-| [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 54188 | 10747 | JavaScript | 2026-11-25 | PDF Reader in JavaScript |
-| [mui/material-ui](https://github.com/mui/material-ui) | 99396 | 32455 | JavaScript | 2026-11-25 | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
-| [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) | 5439 | 643 | TypeScript | 2026-10-18 | Fast and accurate React renderer for Notion. TS batteries included. ⚡️ |
-| [novnc/noVNC](https://github.com/novnc/noVNC) | 14248 | 2710 | JavaScript | 2026-10-23 | VNC client web application |
+| [kando-menu/kando](https://github.com/kando-menu/kando) | 6698 | 250 | TypeScript | 2026-11-23 | 🌸 Do things with utmost efficiency. |
+| [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) | 1308 | 54 | TypeScript | 2026-11-17 | An open source, cross-platform, extensible app launcher. |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 156972 | 10457 | Python | 2026-11-26 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
+| [lencx/nofwl](https://github.com/lencx/nofwl) | 4126 | 386 | Rust | 2024-01-23 | NoFWL Desktop Application |
+| [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 13072 | 720 | Kotlin | 2026-11-24 | An alternative frontend for YouTube, for Android. |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 10925 | 1225 | TypeScript | 2026-11-25 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 26018 | 1720 | TypeScript | 2026-11-26 | Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. |
+| [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) | 24250 | 4578 | JavaScript | 2026-11-26 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16975 | 1625 | Python | 2026-11-24 | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 |
+| [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 54197 | 10748 | JavaScript | 2026-11-26 | PDF Reader in JavaScript |
+| [mui/material-ui](https://github.com/mui/material-ui) | 99401 | 32453 | JavaScript | 2026-11-26 | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
+| [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) | 5441 | 643 | TypeScript | 2026-10-18 | Fast and accurate React renderer for Notion. TS batteries included. ⚡️ |
+| [novnc/noVNC](https://github.com/novnc/noVNC) | 14253 | 2708 | JavaScript | 2026-10-23 | VNC client web application |
 | [pacocoursey/Opus](https://github.com/pacocoursey/Opus) | 314 | 19 | JavaScript | 2023-01-07 | minimal note-taking app |
-| [palantir/blueprint](https://github.com/palantir/blueprint) | 22236 | 2376 | TypeScript | 2026-11-25 | A React-based UI toolkit for the web |
+| [palantir/blueprint](https://github.com/palantir/blueprint) | 22238 | 2377 | TypeScript | 2026-11-26 | A React-based UI toolkit for the web |
 | [piqnt/svgexport](https://github.com/piqnt/svgexport) | 951 | 90 | JavaScript | 2026-09-23 | SVG to PNG/JPEG command-line tool and Node.js module |
-| [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4318 | 296 | HTML | 2026-11-24 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
-| [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | 7180 | 741 | TypeScript | 2026-11-25 | Visual builder for React. Build apps, websites, and content. Integrate with your codebase. |
+| [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4327 | 296 | HTML | 2026-11-24 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+| [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | 7180 | 741 | TypeScript | 2026-11-26 | Visual builder for React. Build apps, websites, and content. Integrate with your codebase. |
 | [pmndrs/leva](https://github.com/pmndrs/leva) | 6281 | 237 | TypeScript | 2025-11-09 | 🌋 React-first components GUI |
-| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 290487 | 36868 | Python | 2026-11-23 | Curated list of project-based tutorials |
-| [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) | 3183 | 154 | Kotlin | 2026-11-25 | A Weather app for android with multiple sources 🌦🌞☔ |
-| [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19580 | 1333 | TypeScript | 2026-10-14 | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. |
-| [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) | 21619 | 1987 | TypeScript | 2025-07-06 | Drag and Drop for React |
-| [release-argus/Argus](https://github.com/release-argus/Argus) | 792 | 32 | Go | 2026-11-25 | Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks. |
-| [Sandakan/Nora](https://github.com/Sandakan/Nora) | 1266 | 62 | TypeScript | 2026-11-22 | An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar. |
-| [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) | 21643 | 1369 | TypeScript | 2026-11-23 | A collection of common interactive command line user interfaces. |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 129080 | 11440 | TypeScript | 2026-11-25 | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 290546 | 36883 | Python | 2026-11-23 | Curated list of project-based tutorials |
+| [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) | 3183 | 154 | Kotlin | 2026-11-26 | A Weather app for android with multiple sources 🌦🌞☔ |
+| [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19595 | 1338 | TypeScript | 2026-10-14 | Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. |
+| [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) | 21619 | 1986 | TypeScript | 2025-07-06 | Drag and Drop for React |
+| [release-argus/Argus](https://github.com/release-argus/Argus) | 793 | 32 | Go | 2026-11-26 | Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks. |
+| [Sandakan/Nora](https://github.com/Sandakan/Nora) | 1267 | 62 | TypeScript | 2026-11-26 | An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar. |
+| [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) | 21644 | 1369 | TypeScript | 2026-11-26 | A collection of common interactive command line user interfaces. |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 129169 | 11446 | TypeScript | 2026-11-26 | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
 | [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets) | 645 | 2954 | HTML | 2024-12-24 | A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/ |
-| [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) | 2635 | 805 | TypeScript | 2026-11-22 | :heavy_dollar_sign: :hammer: Path of Exile app for price checking |
-| [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39604 | 1388 | Rust | 2026-11-25 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) | 2611 | 118 | TypeScript | 2026-11-21 | A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. |
-| [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) | 29259 | 1559 | TypeScript | 2025-12-13 | The best way to start a full-stack, typesafe Next.js app |
+| [SnosMe/awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) | 2636 | 807 | TypeScript | 2026-11-26 | :heavy_dollar_sign: :hammer: Path of Exile app for price checking |
+| [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39616 | 1387 | Rust | 2026-11-25 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) | 2621 | 118 | TypeScript | 2026-11-21 | A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. |
+| [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) | 29263 | 1560 | TypeScript | 2025-12-13 | The best way to start a full-stack, typesafe Next.js app |
 | [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) | 5394 | 514 | TypeScript | 2026-11-23 | TagSpaces is an offline, open source, document manager with tagging support |
-| [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | 28847 | 1221 | TypeScript | 2026-04-13 | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
-| [thesysdev/openui](https://github.com/thesysdev/openui) | 15500 | 1039 | TypeScript | 2026-11-25 | The Open Standard for Generative UI |
-| [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) | 8718 | 1260 | JavaScript | 2026-11-21 | A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. |
+| [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | 28849 | 1221 | TypeScript | 2026-04-13 | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [thesysdev/openui](https://github.com/thesysdev/openui) | 15524 | 1040 | TypeScript | 2026-11-26 | The Open Standard for Generative UI |
+| [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) | 8721 | 1260 | JavaScript | 2026-11-26 | A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. |
 | [Token-Gremlin/natural-disasters](https://github.com/Token-Gremlin/natural-disasters) | 309 | 41 | JavaScript | 2026-09-01 | Fully procedural cinematic ocean and extreme weather simulation in the browser. Multi-cascade FFT waves, volumetric clouds, hurricanes and tsunamis - every pixel generated on the GPU at runtime, zero external assets. Three.js / WebGL2 / GLSL3. |
-| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 5213 | 680 | TypeScript | 2026-11-25 | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. |
+| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 5256 | 679 | TypeScript | 2026-11-26 | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows. |
 | [trendy-design/llmchat](https://github.com/trendy-design/llmchat) | 1073 | 198 | TypeScript | 2025-05-14 | Unified interface for AI chat, Agentic workflows and more ... |
 | [tryretool/react-retool](https://github.com/tryretool/react-retool) | 44 | 12 | JavaScript | 2024-06-28 |  |
-| [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 40326 | 1071 | TypeScript | 2026-11-24 | 🌈 React for interactive command-line apps |
-| [vanjs-org/van](https://github.com/vanjs-org/van) | 4465 | 109 | JavaScript | 2026-11-01 | 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour. |
+| [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 40337 | 1071 | TypeScript | 2026-11-24 | 🌈 React for interactive command-line apps |
+| [vanjs-org/van](https://github.com/vanjs-org/van) | 4466 | 109 | JavaScript | 2026-11-01 | 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour. |
 | [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) | 401 | 39 | TypeScript | 2026-09-17 | Convert SVGs to PNGs right in your browser, reliably and correctly |
-| [vsmode/pixel8](https://github.com/vsmode/pixel8) | 2123 | 64 | JavaScript | 2024-06-06 | A collection of low-res primitives for creating art and games in React |
+| [vsmode/pixel8](https://github.com/vsmode/pixel8) | 2122 | 64 | JavaScript | 2024-06-06 | A collection of low-res primitives for creating art and games in React |
 | [w00000dy/WLED-GUI](https://github.com/w00000dy/WLED-GUI) | 282 | 15 | JavaScript | 2026-10-01 | Cross-platform desktop app for WLED |
-| [yourselfhosted/slash](https://github.com/yourselfhosted/slash) | 3193 | 147 | TypeScript | 2026-08-24 | An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. |
-| [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | 6779 | 650 | TypeScript | 2026-11-06 | A Desktop App for YouTube Music |
-| [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) | 4354 | 83 | TypeScript | 2026-11-21 | A beautiful config generator for Ghostty terminal. |
+| [yourselfhosted/slash](https://github.com/yourselfhosted/slash) | 3194 | 147 | TypeScript | 2026-08-24 | An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. |
+| [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | 6780 | 650 | TypeScript | 2026-11-26 | A Desktop App for YouTube Music |
+| [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) | 4355 | 83 | TypeScript | 2026-11-21 | A beautiful config generator for Ghostty terminal. |
 
 </details>
 
@@ -656,135 +656,135 @@ Click a category to jump to it, then expand its section to see the repos.
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
 | [11cafe/local-manus](https://github.com/11cafe/local-manus) | 132 | 30 | TypeScript | 2025-06-16 | AI agent, local alternative for Manus, specializing in marketing. |
-| [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) | 17852 | 10301 | SCSS | 2026-11-18 | Github Pages template based upon HTML and Markdown for personal, portfolio-based websites. |
-| [AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor](https://github.com/AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor) | 212 | 14 | TypeScript | 2026-11-25 | Real-time display of the current session's context window usage and remaining amount for Antigravity |
-| [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | 19113 | 1460 | TypeScript | 2026-11-23 | Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL. |
-| [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) | 2133 | 987 | Markdown | 2024-09-28 | 🤝 Awesome List of GIFs & avatars to use in GitHub. |
+| [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) | 17852 | 10297 | SCSS | 2026-11-18 | Github Pages template based upon HTML and Markdown for personal, portfolio-based websites. |
+| [AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor](https://github.com/AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor) | 218 | 15 | TypeScript | 2026-11-26 | Real-time display of the current session's context window usage and remaining amount for Antigravity |
+| [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | 19134 | 1460 | TypeScript | 2026-11-23 | Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL. |
+| [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) | 2134 | 987 | Markdown | 2024-09-28 | 🤝 Awesome List of GIFs & avatars to use in GitHub. |
 | [AnthonyMichaelTDM/DRG-Save-Editor](https://github.com/AnthonyMichaelTDM/DRG-Save-Editor) | 154 | 24 | Python | 2026-02-15 | Rock and stone! |
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 55225 | 6724 | Jupyter Notebook | 2026-11-20 | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | 3462 | 234 | CSS | 2024-12-01 | Personal theme for Obsidian |
-| [APKLab/APKLab](https://github.com/APKLab/APKLab) | 4078 | 348 | TypeScript | 2026-07-16 | Android Reverse-Engineering Workbench for VS Code |
-| [aseprite/aseprite](https://github.com/aseprite/aseprite) | 41155 | 9566 | C++ | 2026-11-20 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
-| [atopile/atopile](https://github.com/atopile/atopile) | 4106 | 266 | Python | 2026-10-14 | Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 55288 | 6735 | Jupyter Notebook | 2026-11-20 | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | 3463 | 234 | CSS | 2024-12-01 | Personal theme for Obsidian |
+| [APKLab/APKLab](https://github.com/APKLab/APKLab) | 4079 | 347 | TypeScript | 2026-07-16 | Android Reverse-Engineering Workbench for VS Code |
+| [aseprite/aseprite](https://github.com/aseprite/aseprite) | 41182 | 9572 | C++ | 2026-11-20 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
+| [atopile/atopile](https://github.com/atopile/atopile) | 4107 | 265 | Python | 2026-10-14 | Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ |
 | [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) | 6205 | 252 | Go | 2026-11-12 | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot) |
-| [backnotprop/pstack](https://github.com/backnotprop/pstack) | 5169 | 395 | TypeScript | 2026-11-25 | Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering |
+| [backnotprop/pstack](https://github.com/backnotprop/pstack) | 5262 | 403 | TypeScript | 2026-11-25 | Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering |
 | [BambuTools/bambulabs_api](https://github.com/BambuTools/bambulabs_api) | 332 | 61 | Python | 2026-08-13 | Unofficial BambuLab 3D Printers Python API |
-| [Byron/dua-cli](https://github.com/Byron/dua-cli) | 6491 | 183 | Rust | 2026-11-24 | View disk space usage and delete unwanted data, fast. |
+| [Byron/dua-cli](https://github.com/Byron/dua-cli) | 6497 | 185 | Rust | 2026-11-24 | View disk space usage and delete unwanted data, fast. |
 | [Caeden117/ChroMapper](https://github.com/Caeden117/ChroMapper) | 358 | 104 | C# | 2026-11-24 | GitHub repository for ChroMapper, the Unity-based map editor for Beat Saber. |
-| [camel-ai/owl](https://github.com/camel-ai/owl) | 20195 | 2286 | Python | 2026-11-23 | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
-| [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 19979 | 362 | TypeScript | 2026-07-25 | 😸 Soothing pastel theme for the high-spirited! |
+| [camel-ai/owl](https://github.com/camel-ai/owl) | 20198 | 2286 | Python | 2026-11-23 | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation |
+| [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 19981 | 362 | TypeScript | 2026-07-25 | 😸 Soothing pastel theme for the high-spirited! |
 | [catppuccin/github](https://github.com/catppuccin/github) 🗄️ | 276 | 19 | CSS | 2023-07-22 | 🐈‍⬛ Soothing pastel theme for GitHub |
-| [catppuccin/home-assistant](https://github.com/catppuccin/home-assistant) | 518 | 24 |  | 2026-11-24 | 🏠 Soothing pastel theme for Home Assistant |
-| [catppuccin/mdBook](https://github.com/catppuccin/mdBook) | 231 | 14 | Handlebars | 2026-11-23 | 🎊 Soothing pastel theme for mdBook |
+| [catppuccin/home-assistant](https://github.com/catppuccin/home-assistant) | 518 | 23 |  | 2026-11-24 | 🏠 Soothing pastel theme for Home Assistant |
+| [catppuccin/mdBook](https://github.com/catppuccin/mdBook) | 232 | 14 | Handlebars | 2026-11-23 | 🎊 Soothing pastel theme for mdBook |
 | [catppuccin/reddit](https://github.com/catppuccin/reddit) 🗄️ | 32 | 1 | CSS | 2023-07-22 | ⬆️ Soothing pastel theme for Reddit |
 | [catppuccin/sharex](https://github.com/catppuccin/sharex) | 40 | 2 | Nix | 2026-04-05 | 📸 Soothing pastel theme & image effects for ShareX |
 | [catppuccin/spicetify](https://github.com/catppuccin/spicetify) | 606 | 32 | CSS | 2025-10-22 | 🎧 Soothing pastel theme for Spotify |
-| [catppuccin/telegram](https://github.com/catppuccin/telegram) | 309 | 19 | Just | 2025-06-07 | 💬 Soothing pastel theme for Telegram |
+| [catppuccin/telegram](https://github.com/catppuccin/telegram) | 308 | 19 | Just | 2025-06-07 | 💬 Soothing pastel theme for Telegram |
 | [catppuccin/theme.park](https://github.com/catppuccin/theme.park) | 18 | 0 | CSS | 2026-06-18 | 🎢 Soothing pastel theme for theme.park |
-| [catppuccin/windows-files](https://github.com/catppuccin/windows-files) | 203 | 7 | PowerShell | 2026-06-20 | 🍪 Soothing pastel theme for Windows Files |
-| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129618 | 12499 | JavaScript | 2026-11-17 | Coding articles to level up your development skills |
+| [catppuccin/windows-files](https://github.com/catppuccin/windows-files) | 204 | 7 | PowerShell | 2026-06-20 | 🍪 Soothing pastel theme for Windows Files |
+| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129619 | 12500 | JavaScript | 2026-11-17 | Coding articles to level up your development skills |
 | [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) | 888 | 132 | JavaScript | 2026-11-14 | Yet another matrix client for desktop |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 565526 | 52842 | Markdown | 2026-11-19 | Master programming by recreating your favorite technologies from scratch. |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 13523 | 1688 | TypeScript | 2026-11-25 | The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 565760 | 52858 | Markdown | 2026-11-19 | Master programming by recreating your favorite technologies from scratch. |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 13633 | 1701 | TypeScript | 2026-11-26 | The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool. |
 | [CosmicFrontierLabs/unlinked](https://github.com/CosmicFrontierLabs/unlinked) | 135 | 6 | Rust | 2026-11-24 | An increasingly feature complete simulink standin |
-| [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) | 5835 | 17290 | HTML | 2026-10-15 | ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com |
+| [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) | 5834 | 17288 | HTML | 2026-10-15 | ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com |
 | [dacctal/pkgit](https://github.com/dacctal/pkgit) 🗄️ | 224 | 2 | Nim | 2026-05-28 | This repository is a very old version of pkgit and is completely inactive. The new version is hosted on symlinx.net |
-| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | 4991 | 399 | TypeScript | 2026-11-24 | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode |
-| [dessalines/thumb-key](https://github.com/dessalines/thumb-key) | 1586 | 347 | Kotlin | 2026-11-25 | A privacy-conscious Android keyboard made for your thumbs |
+| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | 4993 | 398 | TypeScript | 2026-11-24 | AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode |
+| [dessalines/thumb-key](https://github.com/dessalines/thumb-key) | 1587 | 347 | Kotlin | 2026-11-26 | A privacy-conscious Android keyboard made for your thumbs |
 | [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) | 535 | 73 | Shell | 2026-09-16 | Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools. |
-| [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) | 1163 | 137 | Rust | 2026-11-25 | Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration |
-| [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | 12771 | 474 | Go | 2026-11-21 | A rich terminal UI for GitHub that doesn't break your flow. |
-| [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) | 1115 | 181 | Python | 2025-07-16 | A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query. |
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22449 | 2852 | TypeScript | 2026-11-24 | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
+| [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) | 1168 | 137 | Rust | 2026-11-26 | Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration |
+| [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | 12774 | 474 | Go | 2026-11-21 | A rich terminal UI for GitHub that doesn't break your flow. |
+| [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) | 1116 | 181 | Python | 2025-07-16 | A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query. |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22460 | 2856 | TypeScript | 2026-11-24 | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
 | [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) | 912 | 45 | TypeScript | 2026-11-25 | Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free! |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 178513 | 22754 | MDX | 2026-11-25 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
-| [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9989 | 649 | PowerShell | 2026-11-24 | :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10 |
-| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 17777 | 1759 | Python | 2026-11-23 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🗄️ | 55597 | 25102 | TypeScript | 2026-08-13 | Build AI Agents, Visually |
-| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 27697 | 3112 | Python | 2026-11-17 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459629 | 47384 | TypeScript | 2026-11-25 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
-| [frostybiscuit/transparent-zen](https://github.com/frostybiscuit/transparent-zen) | 213 | 39 | CSS | 2026-10-26 | A browser extension specifically for Zen Browser to make websites transparent and match the browsers aesthetics |
-| [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) | 8448 | 1143 | Python | 2024-10-28 | abusing github commit history for the lulz |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 178594 | 22760 | MDX | 2026-11-26 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9993 | 648 | PowerShell | 2026-11-26 | :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10 |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 17796 | 1762 | Python | 2026-11-26 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) 🗄️ | 55601 | 25098 | TypeScript | 2026-08-13 | Build AI Agents, Visually |
+| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 27704 | 3114 | Python | 2026-11-17 | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459674 | 47388 | TypeScript | 2026-11-26 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [frostybiscuit/transparent-zen](https://github.com/frostybiscuit/transparent-zen) | 212 | 39 | CSS | 2026-10-26 | A browser extension specifically for Zen Browser to make websites transparent and match the browsers aesthetics |
+| [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) | 8450 | 1143 | Python | 2024-10-28 | abusing github commit history for the lulz |
 | [git-bahn/git-graph](https://github.com/git-bahn/git-graph) | 1009 | 60 | Rust | 2026-11-24 | Command line tool to show clear git graphs arranged for your branching model |
 | [github/codespaces-django](https://github.com/github/codespaces-django) | 133 | 161 | Python | 2025-06-20 |  |
-| [github/government.github.com](https://github.com/github/government.github.com) | 2034 | 1005 | Ruby | 2026-11-17 | Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations |
-| [github/spec-kit](https://github.com/github/spec-kit) | 151372 | 13609 | Python | 2026-11-25 | 💫 Toolkit to help you get started with SDD or any other process! |
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 42407 | 8111 | TypeScript | 2026-11-24 | 📨 The ultimate agentic social media scheduling tool 🤖 |
-| [google/go-github](https://github.com/google/go-github) | 11344 | 2573 | Go | 2026-11-25 | Go library for accessing the GitHub v3 API |
-| [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | 1350 | 127 | TypeScript | 2024-06-13 | Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books. |
-| [henson/Scraper](https://github.com/henson/Scraper) | 147 | 26 | Go | 2026-11-25 | Tracking the most popular Github repos, updated daily. |
-| [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) | 1483 | 214 | C++ | 2026-11-16 | Official plugins for Hyprland |
-| [imfing/hextra](https://github.com/imfing/hextra) | 2429 | 443 | HTML | 2026-11-21 | 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites |
+| [github/government.github.com](https://github.com/github/government.github.com) | 2033 | 1005 | Ruby | 2026-11-17 | Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations |
+| [github/spec-kit](https://github.com/github/spec-kit) | 151552 | 13625 | Python | 2026-11-26 | 💫 Toolkit to help you get started with SDD or any other process! |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 42478 | 8122 | TypeScript | 2026-11-24 | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [google/go-github](https://github.com/google/go-github) | 11345 | 2575 | Go | 2026-11-26 | Go library for accessing the GitHub v3 API |
+| [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | 1351 | 127 | TypeScript | 2024-06-13 | Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books. |
+| [henson/Scraper](https://github.com/henson/Scraper) | 147 | 26 | Go | 2026-11-26 | Tracking the most popular Github repos, updated daily. |
+| [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) | 1485 | 214 | C++ | 2026-11-16 | Official plugins for Hyprland |
+| [imfing/hextra](https://github.com/imfing/hextra) | 2432 | 443 | HTML | 2026-11-21 | 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites |
 | [inkle/inky](https://github.com/inkle/inky) | 2758 | 343 | JavaScript | 2026-05-05 | An editor for ink: inkle's narrative scripting language |
-| [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 29160 | 3131 | TypeScript | 2026-11-25 | Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products. |
+| [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | 29165 | 3131 | TypeScript | 2026-11-26 | Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products. |
 | [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) 🗄️ | 156 | 62 | Go | 2023-07-12 | simple GitHub action to parse Markdown Links into a .json file for Hugo |
-| [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 23789 | 2810 | Go | 2026-11-25 | The most customisable and low-latency cross platform/shell prompt renderer |
+| [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 23797 | 2811 | Go | 2026-11-26 | The most customisable and low-latency cross platform/shell prompt renderer |
 | [jasonlong/cayman-theme](https://github.com/jasonlong/cayman-theme) | 1535 | 310 | CSS | 2023-10-04 | A responsive theme for GitHub Pages |
 | [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) | 1509 | 438 | Python | 2024-12-23 | AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements, AutoGroq eliminates the need for manual configuration and allows you to tackle any question, problem, or project with ease and efficiency. |
 | [joelzanden/mine](https://github.com/joelzanden/mine) | 3 | 0 | Rust | 2024-09-03 | CLI for color-coding project windows, enhancing workspace organization |
-| [joemccann/dillinger](https://github.com/joemccann/dillinger) | 8301 | 1160 | TypeScript | 2026-06-21 | The last Markdown editor, ever. |
-| [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery) | 7145 | 1413 |  | 2026-08-26 | This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts. |
-| [kando-menu/kando](https://github.com/kando-menu/kando) | 6695 | 250 | TypeScript | 2026-11-23 | 🌸 Do things with utmost efficiency. |
+| [joemccann/dillinger](https://github.com/joemccann/dillinger) | 8300 | 1160 | TypeScript | 2026-06-21 | The last Markdown editor, ever. |
+| [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery) | 7146 | 1413 |  | 2026-08-26 | This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts. |
+| [kando-menu/kando](https://github.com/kando-menu/kando) | 6698 | 250 | TypeScript | 2026-11-23 | 🌸 Do things with utmost efficiency. |
 | [kdcokenny/opencode-workspace](https://github.com/kdcokenny/opencode-workspace) 🗄️ | 583 | 45 | TypeScript | 2026-09-16 | Bundled multi-agent orchestration harness for OpenCode. One install, complete control. |
 | [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) | 1707 | 206 | C++ | 2025-01-19 | Powerful yet easy to use APK editor for PC and Mac. |
 | [KonradIT/goprowifihack](https://github.com/KonradIT/goprowifihack) 🗄️ | 2175 | 334 |  | 2023-05-03 | Unofficial GoPro WiFi API Documentation - HTTP GET requests for commands, status, livestreaming and media query. |
-| [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) | 1360 | 122 | HTML | 2026-11-25 | Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data |
-| [kwsch/NHSE](https://github.com/kwsch/NHSE) | 1261 | 292 | C# | 2026-05-23 | Animal Crossing: New Horizons save editor |
-| [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 136098 | 23495 | Markdown | 2026-10-18 | Crack LeetCode, not only how, but also why. |
+| [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) | 1362 | 123 | HTML | 2026-11-26 | Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data |
+| [kwsch/NHSE](https://github.com/kwsch/NHSE) | 1262 | 292 | C# | 2026-05-23 | Animal Crossing: New Horizons save editor |
+| [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 136100 | 23495 | Markdown | 2026-10-18 | Crack LeetCode, not only how, but also why. |
 | [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) | 1024 | 68 | Python | 2026-02-02 | Terminal User Interface (TUI) apps |
-| [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 26002 | 1719 | TypeScript | 2026-11-25 | Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. |
+| [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 26018 | 1720 | TypeScript | 2026-11-26 | Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. |
 | [lyuai/agentok](https://github.com/lyuai/agentok) | 425 | 65 | TypeScript | 2026-07-08 | AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop. |
-| [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) | 4883 | 208 | JavaScript | 2024-06-22 | Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs |
-| [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 13606 | 27041 | HTML | 2026-10-09 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
+| [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) | 4882 | 208 | JavaScript | 2024-06-22 | Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs |
+| [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 13605 | 27045 | HTML | 2026-10-09 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
 | [MrMarble/drg-editor](https://github.com/MrMarble/drg-editor) | 43 | 38 | TypeScript | 2023-07-19 | Deep Rock galactic save editor |
 | [mui-toolkit/mui-toolkit](https://github.com/mui-toolkit/mui-toolkit) | 18 | 0 | JavaScript | 2023-01-09 | A custom theme editor for Material UI |
-| [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) | 1334 | 209 | C | 2026-07-15 | M5 Stick C firmware for high-tech pranks and digital self defense |
+| [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) | 1335 | 208 | C | 2026-07-15 | M5 Stick C firmware for high-tech pranks and digital self defense |
 | [NakedTrashPanda/OneCommander-Catppuccin-Theme](https://github.com/NakedTrashPanda/OneCommander-Catppuccin-Theme) | 23 | 0 |  | 2026-10-27 | Catppuccin theme for the file manager "OneCommander" |
-| [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 3156 | 215 | C++ | 2025-06-30 | 🎨 A secure boot compatible in-memory UxTheme patcher |
-| [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) | 1976 | 360 | JavaScript | 2026-11-25 | Interactive interface for browsing global, full-resolution satellite imagery |
-| [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 92 | 6 | Shell | 2026-08-04 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix). |
+| [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 3157 | 215 | C++ | 2025-06-30 | 🎨 A secure boot compatible in-memory UxTheme patcher |
+| [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) | 1977 | 360 | JavaScript | 2026-11-25 | Interactive interface for browsing global, full-resolution satellite imagery |
+| [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 93 | 6 | Shell | 2026-08-04 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix). |
 | [open-forest-observatory/automate-metashape](https://github.com/open-forest-observatory/automate-metashape) | 115 | 34 | Python | 2026-10-05 | Easy, reproducible Metashape photogrammetry workflows |
-| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 27195 | 2133 | Python | 2026-11-09 | See, hear, and interact on your local devices. |
+| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 27205 | 2135 | Python | 2026-11-09 | See, hear, and interact on your local devices. |
 | [orderedlist/minimal](https://github.com/orderedlist/minimal) | 2476 | 871 | CSS | 2023-10-10 | A Theme for GitHub Pages |
-| [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5385 | 480 | C++ | 2026-11-25 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use. |
-| [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) | 2735 | 538 | Java | 2026-10-10 | An unofficial open source Android app for Reddit. |
-| [Rikj000/Android-Auto-XLauncher-Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) | 330 | 23 | Kotlin | 2026-04-04 | Custom Android Auto launcher, unleash your AA app, unlock more features! |
-| [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) | 275 | 58 | Kotlin | 2026-11-25 | Git repository for Robocode Tank Royale |
+| [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5387 | 480 | C++ | 2026-11-26 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use. |
+| [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) | 2737 | 538 | Java | 2026-10-10 | An unofficial open source Android app for Reddit. |
+| [Rikj000/Android-Auto-XLauncher-Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) | 332 | 23 | Kotlin | 2026-04-04 | Custom Android Auto launcher, unleash your AA app, unlock more features! |
+| [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale) | 276 | 58 | Kotlin | 2026-11-25 | Git repository for Robocode Tank Royale |
 | [RyoJerryYu/obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync) | 81 | 17 | TypeScript | 2025-10-08 | Syncing Memos to Obsidian daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin. |
-| [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | 12639 | 687 |  | 2026-11-24 | This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐ |
-| [sejjy/mechabar](https://github.com/sejjy/mechabar) | 888 | 77 | CSS | 2026-11-15 | A mecha-themed Waybar configuration |
+| [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | 12640 | 687 |  | 2026-11-24 | This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐ |
+| [sejjy/mechabar](https://github.com/sejjy/mechabar) | 888 | 77 | CSS | 2026-11-26 | A mecha-themed Waybar configuration |
 | [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) | 1974 | 157 | Python | 2026-10-01 | Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 117540 | 13415 | Python | 2026-11-25 | Hunt down social media accounts by username across social networks |
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 30206 | 3919 | TypeScript | 2026-11-25 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. |
-| [skills/github-pages](https://github.com/skills/github-pages) | 3306 | 9044 |  | 2026-02-05 | Create a site or blog from your GitHub repositories with GitHub Pages. |
-| [slab/quill](https://github.com/slab/quill) | 47382 | 3663 | TypeScript | 2025-07-25 | Quill is a modern WYSIWYG editor built for compatibility and extensibility |
-| [sofianedjerbi/batimg](https://github.com/sofianedjerbi/batimg) | 54 | 0 | Rust | 2025-12-19 | Fast image/video printing in your terminal |
-| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 22053 | 5819 | Jupyter Notebook | 2026-11-25 | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 21780 | 7819 | Rust | 2026-11-25 | PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust |
-| [streamlit/streamlit](https://github.com/streamlit/streamlit) | 46507 | 4463 | Python | 2026-11-25 | Streamlit — The agent-native framework for data apps and dashboards. |
-| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20870 | 2288 | Python | 2026-11-23 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] |
-| [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) | 15663 | 2294 | Python | 2026-11-03 | Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 118068 | 13469 | Python | 2026-11-26 | Hunt down social media accounts by username across social networks |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 30219 | 3919 | TypeScript | 2026-11-26 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. |
+| [skills/github-pages](https://github.com/skills/github-pages) | 3307 | 9044 |  | 2026-02-05 | Create a site or blog from your GitHub repositories with GitHub Pages. |
+| [slab/quill](https://github.com/slab/quill) | 47383 | 3663 | TypeScript | 2025-07-25 | Quill is a modern WYSIWYG editor built for compatibility and extensibility |
+| [sofianedjerbi/batimg](https://github.com/sofianedjerbi/batimg) | 55 | 0 | Rust | 2025-12-19 | Fast image/video printing in your terminal |
+| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 22079 | 5821 | Jupyter Notebook | 2026-11-25 | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution. |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 21865 | 7831 | Rust | 2026-11-26 | PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust |
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | 46516 | 4464 | Python | 2026-11-26 | Streamlit — The agent-native framework for data apps and dashboards. |
+| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20877 | 2289 | Python | 2026-11-23 | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] |
+| [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) | 15668 | 2295 | Python | 2026-11-26 | Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching" |
 | [Synaptic-MCP/Synaptic](https://github.com/Synaptic-MCP/Synaptic) | 30 | 5 | TypeScript | 2025-05-26 | Decentralized AI Memory Connection Protocol - Making AI Truly Yours. A revolutionary protocol that gives you complete control over your AI memories and interactions across all platforms. |
-| [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) | 2995 | 171 | Python | 2026-11-24 | Music player from another galaxy :milky_way: |
+| [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) | 2998 | 172 | Python | 2026-11-26 | Music player from another galaxy :milky_way: |
 | [Theblackcat98/ASCII-Everything](https://github.com/Theblackcat98/ASCII-Everything) | 2 | 0 | JavaScript | 2026-10-20 | A collection of python and javascripts tools and programs I made to play with the terminal. |
-| [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) | 2541 | 174 | Swift | 2026-08-19 | The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more. |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 78435 | 5719 | TypeScript | 2026-11-25 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) | 2544 | 173 | Swift | 2026-08-19 | The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more. |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 78917 | 5751 | TypeScript | 2026-11-26 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 | [Token-Gremlin/natural-disasters](https://github.com/Token-Gremlin/natural-disasters) | 309 | 41 | JavaScript | 2026-09-01 | Fully procedural cinematic ocean and extreme weather simulation in the browser. Multi-cascade FFT waves, volumetric clouds, hurricanes and tsunamis - every pixel generated on the GPU at runtime, zero external assets. Three.js / WebGL2 / GLSL3. |
-| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 10712 | 359 | C++ | 2026-11-25 | A focused launcher for your desktop - native, fast, extensible |
-| [Viir/bots](https://github.com/Viir/bots) | 222 | 137 | Elm | 2026-09-27 | AI playing video games |
-| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 26780 | 3047 | Shell | 2026-11-02 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
+| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 10723 | 359 | C++ | 2026-11-25 | A focused launcher for your desktop - native, fast, extensible |
+| [Viir/bots](https://github.com/Viir/bots) | 223 | 137 | Elm | 2026-09-27 | AI playing video games |
+| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 26791 | 3050 | Shell | 2026-11-02 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
 | [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) | 174 | 23 | Kotlin | 2026-11-24 | Android note app with real file. Can be sync with git providers such as Github |
-| [winthemers/wiki](https://github.com/winthemers/wiki) | 201 | 2 | HTML | 2022-08-22 | 📚 Guides you need to start your windows ricing journey. |
-| [wled/WLED](https://github.com/wled/WLED) | 19124 | 4498 | C++ | 2026-11-25 | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! |
-| [wshobson/agents](https://github.com/wshobson/agents) | 42890 | 4542 | Python | 2026-11-24 | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. |
+| [winthemers/wiki](https://github.com/winthemers/wiki) | 202 | 2 | HTML | 2022-08-22 | 📚 Guides you need to start your windows ricing journey. |
+| [wled/WLED](https://github.com/wled/WLED) | 19132 | 4502 | C++ | 2026-11-26 | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! |
+| [wshobson/agents](https://github.com/wshobson/agents) | 42926 | 4548 | Python | 2026-11-24 | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals. |
 | [x0rzavi/x0rzavi](https://github.com/x0rzavi/x0rzavi) | 12 | 7 | Python | 2026-11-04 | Automatically generated & updated GitHub profile |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144860 | 34631 |  | 2026-10-12 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
-| [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | 35831 | 3408 | Python | 2024-05-18 | Official Code for DragGAN (SIGGRAPH 2023) |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144890 | 34625 |  | 2026-10-12 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | 35832 | 3410 | Python | 2024-05-18 | Official Code for DragGAN (SIGGRAPH 2023) |
 | [yumedev40/Yume-Visual-Novel-Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) | 96 | 4 | GDScript | 2020-02-13 | Yume is an addon for the Godot game engine that provides an integrated editor for creating visual novel games. |
-| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 15363 | 1570 | Python | 2026-11-16 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
-| [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) | 2285 | 98 | TypeScript | 2026-11-24 | VS Code in the terminal |
-| [zeronsh/zeron](https://github.com/zeronsh/zeron) | 3759 | 387 | Rust | 2026-11-25 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. |
-| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 6158 | 358 |  | 2026-08-19 |  |
+| [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 15370 | 1571 | Python | 2026-11-16 | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection |
+| [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) | 2288 | 97 | TypeScript | 2026-11-24 | VS Code in the terminal |
+| [zeronsh/zeron](https://github.com/zeronsh/zeron) | 3766 | 390 | Rust | 2026-11-26 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. |
+| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 6164 | 358 |  | 2026-08-19 |  |
 
 </details>
 
@@ -800,16 +800,16 @@ Click a category to jump to it, then expand its section to see the repos.
 | [aat440hz/RFIDCopy-M5Cardputer](https://github.com/aat440hz/RFIDCopy-M5Cardputer) | 39 | 3 | C++ | 2024-03-12 |  |
 | [altaurog/pdfforms](https://github.com/altaurog/pdfforms) | 63 | 23 | Python | 2022-02-04 | Populate fillable pdf forms from csv data file |
 | [AmNotAGoose/PPTX-Presentation-Generator](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) | 152 | 31 | Python | 2025-01-31 |  |
-| [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) | 1275 | 123 | TypeScript | 2026-08-25 | My personal pi config. |
+| [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) | 1277 | 123 | TypeScript | 2026-08-25 | My personal pi config. |
 | [amosblomqvist/pi-dictate](https://github.com/amosblomqvist/pi-dictate) | 76 | 20 | TypeScript | 2026-08-31 | Dictation extension for pi. |
-| [antoinelame/GazeTracking](https://github.com/antoinelame/GazeTracking) | 2652 | 619 | Python | 2026-04-27 | 👀 Eye Tracking library easily implementable to your projects |
+| [antoinelame/GazeTracking](https://github.com/antoinelame/GazeTracking) | 2651 | 619 | Python | 2026-04-27 | 👀 Eye Tracking library easily implementable to your projects |
 | [arfan-on-clouds/hyprclouds](https://github.com/arfan-on-clouds/hyprclouds) | 392 | 13 | CSS | 2025-02-02 |  |
-| [arsium/EagleMonitorRAT](https://github.com/arsium/EagleMonitorRAT) 🗄️ | 520 | 157 | C# | 2026-02-25 | Remote Access Tool Written In C# |
-| [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) | 1221 | 91 | C# | 2026-11-20 | Provides advanced unified lighting across many different brands RGB peripherals |
-| [austinhuang0131/austinhuang0131](https://github.com/austinhuang0131/austinhuang0131) | 25 | 8 |  | 2026-11-25 |  |
+| [arsium/EagleMonitorRAT](https://github.com/arsium/EagleMonitorRAT) 🗄️ | 519 | 157 | C# | 2026-02-25 | Remote Access Tool Written In C# |
+| [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) | 1222 | 92 | C# | 2026-11-20 | Provides advanced unified lighting across many different brands RGB peripherals |
+| [austinhuang0131/austinhuang0131](https://github.com/austinhuang0131/austinhuang0131) | 25 | 8 |  | 2026-11-26 |  |
 | [baskerville/bspwm](https://github.com/baskerville/bspwm) | 8339 | 440 | C | 2026-06-19 | A tiling window manager based on binary space partitioning |
 | [bewee/tuya-adapter](https://github.com/bewee/tuya-adapter) | 8 | 9 | JavaScript | 2023-07-18 |  |
-| [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 7167 | 827 | Python | 2026-03-06 | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot! |
+| [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 7168 | 827 | Python | 2026-03-06 | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot! |
 | [bhavman2/fba-calculator](https://github.com/bhavman2/fba-calculator) | 15 | 4 | JavaScript | 2019-03-26 | Amazon FBA Seller Fees Calculator |
 | [bhrigu123/classifier](https://github.com/bhrigu123/classifier) | 1096 | 128 | Python | 2022-03-07 | Organize files in your directory instantly, by classifying them into different folders |
 | [bigerbigernerd/PelosiIndex](https://github.com/bigerbigernerd/PelosiIndex) | 4 | 1 | JavaScript | 2026-10-05 |  |
@@ -817,91 +817,91 @@ Click a category to jump to it, then expand its section to see the repos.
 | [blizzhackers/d4data](https://github.com/blizzhackers/d4data) 🗄️ | 100 | 40 |  | 2024-08-20 | Development halted; Use the linked repo instead. |
 | [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) | 2627 | 412 | C# | 2025-01-05 | Simple Beat Saber Mod Installer |
 | [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) | 1632 | 83 | JavaScript | 2024-08-10 | Zotero extension to retrieve and validate DOIs and shortDOIs |
-| [C1rdec/Poe-Lurker](https://github.com/C1rdec/Poe-Lurker) | 608 | 51 | C# | 2026-11-25 | Ease your trading experience in Path of Exile. |
+| [C1rdec/Poe-Lurker](https://github.com/C1rdec/Poe-Lurker) | 608 | 51 | C# | 2026-11-26 | Ease your trading experience in Path of Exile. |
 | [Charca/astro-blog-template](https://github.com/Charca/astro-blog-template) | 535 | 144 | Astro | 2025-03-15 | Personal Blog Template Powered by Astro |
 | [Chethan616/Meerkat](https://github.com/Chethan616/Meerkat) | 6 | 2 | Dart | 2026-07-08 | Cross-platform file sharing app with a modern UI and smart features — built on top of the LocalSend codebase. |
-| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | 66691 | 3918 | PowerShell | 2026-11-23 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | 66742 | 3921 | PowerShell | 2026-11-23 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
 | [clxxiii/dots](https://github.com/clxxiii/dots) | 21 | 0 | Shell | 2026-07-07 |  |
-| [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) | 1941 | 505 | C++ | 2026-11-17 | QT based cross platform canbus tool |
-| [cordiverse/paper](https://github.com/cordiverse/paper) | 3031 | 139 |  | 2026-08-28 | A Programming Paradigm for Spatiotemporal Composability |
-| [cursor/community-plugins](https://github.com/cursor/community-plugins) | 4025 | 671 | TypeScript | 2026-11-24 | Plugins from the Cursor community |
+| [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) | 1948 | 506 | C++ | 2026-11-17 | QT based cross platform canbus tool |
+| [cordiverse/paper](https://github.com/cordiverse/paper) | 3033 | 139 |  | 2026-08-28 | A Programming Paradigm for Spatiotemporal Composability |
+| [cursor/community-plugins](https://github.com/cursor/community-plugins) | 4026 | 672 | TypeScript | 2026-11-25 | Plugins from the Cursor community |
 | [desertbit/fillpdf](https://github.com/desertbit/fillpdf) | 84 | 29 | Go | 2023-07-31 | FillPDF - Fill PDF forms |
 | [domialex/Sidekick](https://github.com/domialex/Sidekick) 🗄️ | 368 | 48 | C# | 2024-10-07 | A Path of Exile helper |
 | [droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot) | 674 | 250 | C | 2024-10-29 | Fake sshd that logs ip addresses, usernames, and passwords. |
-| [dynobo/normcap](https://github.com/dynobo/normcap) | 2779 | 127 | Python | 2026-10-31 | OCR powered screen-capture tool to capture information instead of images |
+| [dynobo/normcap](https://github.com/dynobo/normcap) | 2782 | 127 | Python | 2026-10-31 | OCR powered screen-capture tool to capture information instead of images |
 | [eagle-app/eagle-plugin-examples](https://github.com/eagle-app/eagle-plugin-examples) | 41 | 4 | JavaScript | 2024-10-17 |  |
-| [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) | 1189 | 117 | Python | 2026-11-18 | Simple python script to download Bandcamp albums |
+| [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) | 1189 | 117 | Python | 2026-11-26 | Simple python script to download Bandcamp albums |
 | [Fivium/FOXopen](https://github.com/Fivium/FOXopen) | 61 | 30 | Java | 2016-07-15 | FOXopen is an open source (GPL v3) Java based web framework enabling rapid development of secure workflow-based web systems |
 | [fontello/ttf2woff](https://github.com/fontello/ttf2woff) | 356 | 27 | JavaScript | 2022-11-23 | Font convertor, TTF to WOFF, for node.js |
 | [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) | 311 | 32 | Batchfile | 2025-11-15 | KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick. |
-| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 10905 | 1053 | TypeScript | 2026-11-14 | Free Motion Capture for Everyone 💀✨ |
+| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 10913 | 1056 | TypeScript | 2026-11-14 | Free Motion Capture for Everyone 💀✨ |
 | [getpelican/pelican-plugins](https://github.com/getpelican/pelican-plugins) | 1399 | 815 | Python | 2025-07-04 | Collection of plugins for the Pelican static site generator |
-| [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) | 9838 | 2311 | GDScript | 2026-11-25 | Demonstration and Template Projects |
-| [google/guava](https://github.com/google/guava) | 51930 | 11255 | Java | 2026-11-25 | Google core libraries for Java |
+| [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) | 9842 | 2313 | GDScript | 2026-11-25 | Demonstration and Template Projects |
+| [google/guava](https://github.com/google/guava) | 51931 | 11257 | Java | 2026-11-26 | Google core libraries for Java |
 | [GreyNoise-Intelligence/GNQL](https://github.com/GreyNoise-Intelligence/GNQL) | 83 | 8 |  | 2019-05-07 | GreyNoise Query Language |
-| [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) | 2772 | 137 | Shell | 2026-10-09 |  |
+| [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) | 2770 | 137 | Shell | 2026-10-09 |  |
 | [Honey-Bagel/Milanote-Clone](https://github.com/Honey-Bagel/Milanote-Clone) | 6 | 1 | TypeScript | 2026-03-02 | W.I.P. Clone of website milanote |
-| [hoothin/UserScripts](https://github.com/hoothin/UserScripts) | 4384 | 606 | JavaScript | 2026-11-13 | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集 |
+| [hoothin/UserScripts](https://github.com/hoothin/UserScripts) | 4386 | 606 | JavaScript | 2026-11-13 | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集 |
 | [hypothesis/pdf.js-hypothes.is](https://github.com/hypothesis/pdf.js-hypothes.is) | 411 | 84 | JavaScript | 2025-01-30 | PDF.js + Hypothesis viewer / annotator |
 | [iamdabe/Homepage-Dashboard](https://github.com/iamdabe/Homepage-Dashboard) | 22 | 1 | CSS | 2025-04-18 | My personal config for gethomepage.dev |
-| [inkle/ink](https://github.com/inkle/ink) | 5036 | 550 | C# | 2026-11-16 | inkle's open source scripting language for writing interactive narrative. |
+| [inkle/ink](https://github.com/inkle/ink) | 5066 | 553 | C# | 2026-11-16 | inkle's open source scripting language for writing interactive narrative. |
 | [jasonlong/geo_pattern](https://github.com/jasonlong/geo_pattern) | 1273 | 88 | Ruby | 2026-10-21 | Create beautiful generative geometric background images from a string. |
 | [jonaburg/picom](https://github.com/jonaburg/picom) (fork) | 973 | 101 | C | 2024-08-29 | A lightweight compositor for X11 (previously a compton fork) |
 | [justdanpo/VivaldiHooks](https://github.com/justdanpo/VivaldiHooks) | 265 | 19 | JavaScript | 2021-08-30 | VivaldiHooks is a set of hooks/scripts for Vivaldi browser modding. |
 | [kartikkabadi/soul.md](https://github.com/kartikkabadi/soul.md) | 17 | 1 |  | 2026-09-09 |  |
-| [kepano/flexoki](https://github.com/kepano/flexoki) | 3866 | 145 | CSS | 2026-03-07 | An inky color scheme for prose and code. |
+| [kepano/flexoki](https://github.com/kepano/flexoki) | 3868 | 146 | CSS | 2026-03-07 | An inky color scheme for prose and code. |
 | [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) | 4060 | 420 | Python | 2026-11-18 | Converts text to speech in realtime |
-| [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) (fork) | 1203 | 166 | TypeScript | 2026-11-25 | Path of Exile 2 trading app for price checking |
+| [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) (fork) | 1204 | 167 | TypeScript | 2026-11-26 | Path of Exile 2 trading app for price checking |
 | [Lauriethefish/ModsBeforeFriday](https://github.com/Lauriethefish/ModsBeforeFriday) | 205 | 34 | Rust | 2026-11-09 | Beat Saber Mods Before Friday |
 | [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento) | 358 | 20 | JavaScript | 2022-06-08 | Zotero extension that combats link rot by archiving webpages and journal articles. |
-| [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) | 3967 | 449 | PHP | 2026-10-26 | LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks. |
+| [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) | 3968 | 449 | PHP | 2026-10-26 | LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks. |
 | [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) | 34160 | 3008 | Python | 2024-02-25 | Let us control diffusion models! |
-| [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | 53970 | 8614 | Python | 2025-12-01 | Focus on prompting and generating |
+| [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | 53979 | 8618 | Python | 2025-12-01 | Focus on prompting and generating |
 | [LonMcGregor/VivaldiMods](https://github.com/LonMcGregor/VivaldiMods) | 89 | 15 | JavaScript | 2025-04-16 | Stuff for Vivaldi Browser, Bringing together various gists into a repo |
 | [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) 🗄️ | 347 | 7 |  | 2025-12-31 |  |
 | [malhashemi/opencode-skills](https://github.com/malhashemi/opencode-skills) 🗄️ | 492 | 30 | TypeScript | 2025-12-23 |  |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 200951 | 18970 | Batchfile | 2026-11-11 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 201070 | 18983 | Batchfile | 2026-11-11 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. |
 | [microsoft/Mage](https://github.com/microsoft/Mage) | 1799 | 183 | Python | 2026-11-02 |  |
 | [microsoft/pyright](https://github.com/microsoft/pyright) | 15763 | 1857 | Python | 2026-11-24 | Static Type Checker for Python |
 | [MISP/misp-warninglists](https://github.com/MISP/misp-warninglists) | 665 | 200 | Python | 2026-11-23 | Warning lists to inform users of MISP about potential false-positives or other information in indicators |
 | [ModelTC/LightX2V-Qwen-Image-Lightning](https://github.com/ModelTC/LightX2V-Qwen-Image-Lightning) | 1368 | 50 | Python | 2026-08-31 | Qwen-Image-Lightning: Speed up Qwen-Image model with distillation |
 | [MoSbeaa/Excel_to_PDF_Form_Filler_Py](https://github.com/MoSbeaa/Excel_to_PDF_Form_Filler_Py) | 2 | 0 | Python | 2024-01-03 | Create personalized PDF forms from Excel data effortlessly. This Python tool automates the process, generating individual PDF files for each row in your spreadsheet. |
-| [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | 55798 | 6564 |  | 2026-11-24 | Updated list of public BitTorrent trackers |
-| [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | 6400 | 646 | C++ | 2026-11-24 | Fast and local neural text-to-speech engine |
-| [opf/openproject](https://github.com/opf/openproject) | 17739 | 3841 | Ruby | 2026-11-25 | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub |
+| [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | 55815 | 6563 |  | 2026-11-25 | Updated list of public BitTorrent trackers |
+| [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) | 6410 | 646 | C++ | 2026-11-24 | Fast and local neural text-to-speech engine |
+| [opf/openproject](https://github.com/opf/openproject) | 17769 | 3846 | Ruby | 2026-11-26 | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub |
 | [PierrunoYT/Kokoro-TTS-Local](https://github.com/PierrunoYT/Kokoro-TTS-Local) | 376 | 64 | Python | 2026-10-07 | A local implementation of the Kokoro Text-to-Speech model, featuring dynamic module loading, automatic dependency management, and a web interface. |
-| [Pintree-io/pintree](https://github.com/Pintree-io/pintree) | 2592 | 1694 | TypeScript | 2025-01-06 | Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes. |
+| [Pintree-io/pintree](https://github.com/Pintree-io/pintree) | 2594 | 1692 | TypeScript | 2025-01-06 | Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes. |
 | [Procurement-PoE/Procurement](https://github.com/Procurement-PoE/Procurement) | 329 | 127 | C# | 2022-12-22 | Path Of Exile Character & Stash Management Tool |
 | [progfay/shields-with-icon](https://github.com/progfay/shields-with-icon) | 462 | 244 | Go | 2026-11-25 | Enjoy https://shields.io |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 501428 | 56393 | Python | 2026-11-22 | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 501664 | 56443 | Python | 2026-11-22 | A collective list of free APIs |
 | [rcalme/svg-to-stl](https://github.com/rcalme/svg-to-stl) | 114 | 26 | CSS | 2026-04-18 | Turn 2-Dimensional SVG Paths into 3-Dimensional STL Meshes |
-| [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | 21511 | 635 |  | 2026-11-20 | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. |
-| [renjfk/opencode-voice](https://github.com/renjfk/opencode-voice) | 104 | 34 | JavaScript | 2026-10-29 | Speech-to-text and text-to-speech plugin for OpenCode |
-| [seerge/g-helper](https://github.com/seerge/g-helper) | 16201 | 703 | C# | 2026-11-25 | Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more. |
-| [singul-oss/Singularitys-Collection](https://github.com/singul-oss/Singularitys-Collection) | 39 | 6 |  | 2026-08-13 |  |
+| [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | 21529 | 635 |  | 2026-11-20 | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. |
+| [renjfk/opencode-voice](https://github.com/renjfk/opencode-voice) | 105 | 34 | JavaScript | 2026-10-29 | Speech-to-text and text-to-speech plugin for OpenCode |
+| [seerge/g-helper](https://github.com/seerge/g-helper) | 16211 | 704 | C# | 2026-11-25 | Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more. |
+| [singul-oss/Singularitys-Collection](https://github.com/singul-oss/Singularitys-Collection) | 40 | 6 |  | 2026-08-13 |  |
 | [sizzlemctwizzle/UserScripts](https://github.com/sizzlemctwizzle/UserScripts) | 8 | 9 | JavaScript | 2024-03-29 | A place to keep my user scripts. |
 | [strix/canvas-hack](https://github.com/strix/canvas-hack) | 34 | 14 | JavaScript | 2018-03-17 | Discovering different vulnerabilities in Canvas |
 | [taC-h/eagle_cool](https://github.com/taC-h/eagle_cool) | 1 | 0 | Python | 2021-12-03 |  |
 | [Tadelsucht/BulkPDF](https://github.com/Tadelsucht/BulkPDF) | 139 | 43 | C# | 2024-10-09 | BulkPDF is a free and easy to use open source software, which allows to automatically fill an existing PDF form with differen values. Only a spreadsheet (Microsoft Excel 2007/2010/2013, LibreOffice or OpenOffice Calc) with the desired values is required. |
 | [TFyre/bambu-farm](https://github.com/TFyre/bambu-farm) | 372 | 45 | Java | 2026-11-22 | Bambulab Web interface for multiple printers |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 226464 | 51349 | Python | 2026-11-13 | All Algorithms implemented in Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 226489 | 51350 | Python | 2026-11-13 | All Algorithms implemented in Python |
 | [Theblackcat98/image-to-stl](https://github.com/Theblackcat98/image-to-stl) 🗄️ | 1 | 1 | Python | 2024-10-25 | Convert any image to stl in seconds within the commandline using arguments. |
 | [Theblackcat98/Online-Tools](https://github.com/Theblackcat98/Online-Tools) | 1 | 0 | HTML | 2026-11-15 | Small collection of browser-based utilities hosted on GitHub Pages. |
 | [Theblackcat98/PAGS](https://github.com/Theblackcat98/PAGS) | 1 | 0 | Python | 2026-11-02 | Portable Agent Guide System — written rules and records plus a checker that keeps AI coding agents aligned to a project's conventions. |
-| [Theblackcat98/TheBlackCat](https://github.com/Theblackcat98/TheBlackCat) | 1 | 0 | HTML | 2026-11-25 | Personal, Git-native knowledge library — a Markdown archive with a Hugo static site as the view. |
+| [Theblackcat98/TheBlackCat](https://github.com/Theblackcat98/TheBlackCat) | 1 | 0 | HTML | 2026-11-26 | Personal, Git-native knowledge library — a Markdown archive with a Hugo static site as the view. |
 | [Theblackcat98/Website-Analyzer](https://github.com/Theblackcat98/Website-Analyzer) 🗄️ | 1 | 0 | Python | 2025-05-21 | Merged into Awesome-AI-Python-Scripts on 2026-10-20 — the code now lives in the Website-Analyzer/ folder there. This standalone repo is archived. |
 | [Theblackcat98/WordPress-Scrape](https://github.com/Theblackcat98/WordPress-Scrape) 🗄️ | 1 | 0 |  | 2025-06-24 |  |
-| [threat9/routersploit](https://github.com/threat9/routersploit) | 13342 | 2404 | Python | 2026-05-05 | Exploitation Framework for Embedded Devices |
+| [threat9/routersploit](https://github.com/threat9/routersploit) | 13343 | 2403 | Python | 2026-05-05 | Exploitation Framework for Embedded Devices |
 | [toasttastesgood/hackademy](https://github.com/toasttastesgood/hackademy) | 1 | 0 | TypeScript | 2025-04-20 |  |
-| [tuya-cloudcutter/tuya-cloudcutter](https://github.com/tuya-cloudcutter/tuya-cloudcutter) | 1991 | 109 | Python | 2026-11-01 | A tool that disconnects Tuya IoT devices from the cloud, allowing them to run completely locally. |
+| [tuya-cloudcutter/tuya-cloudcutter](https://github.com/tuya-cloudcutter/tuya-cloudcutter) | 1992 | 110 | Python | 2026-11-01 | A tool that disconnects Tuya IoT devices from the cloud, allowing them to run completely locally. |
 | [twhlynch/Web-ADB-Menu](https://github.com/twhlynch/Web-ADB-Menu) | 16 | 1 | JavaScript | 2024-05-29 | A web based ADB command menu |
 | [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) | 748 | 55 | Vue | 2024-09-02 | 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool |
 | [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) 🗄️ | 1248 | 19 | TypeScript | 2024-01-25 | Preview Zotero attachments in the library view. |
-| [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) | 22362 | 2836 | Python | 2026-01-31 |  |
-| [zacharee/LockscreenWidgets](https://github.com/zacharee/LockscreenWidgets) | 592 | 41 | Kotlin | 2026-11-24 |  |
-| [zacharee/Tweaker](https://github.com/zacharee/Tweaker) | 1780 | 289 | Kotlin | 2026-11-04 |  |
+| [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) | 22363 | 2836 | Python | 2026-01-31 |  |
+| [zacharee/LockscreenWidgets](https://github.com/zacharee/LockscreenWidgets) | 592 | 42 | Kotlin | 2026-11-26 |  |
+| [zacharee/Tweaker](https://github.com/zacharee/Tweaker) | 1782 | 289 | Kotlin | 2026-11-04 |  |
 | [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) 🗄️ | 572 | 51 | Kotlin | 2024-09-27 |  |
-| [zombieFox/nightTab](https://github.com/zombieFox/nightTab) | 2073 | 288 | JavaScript | 2024-10-19 | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. |
+| [zombieFox/nightTab](https://github.com/zombieFox/nightTab) | 2072 | 288 | JavaScript | 2024-10-19 | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. |
 
 </details>
 
@@ -913,144 +913,144 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) | 3305 | 364 | Go | 2026-11-23 | AI Chatbots in terminal for free |
+| [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) | 3305 | 364 | Go | 2026-11-26 | AI in your terminal for free |
 | [aat440hz/SSHClient-M5Cardputer](https://github.com/aat440hz/SSHClient-M5Cardputer) | 64 | 3 | C++ | 2023-12-30 |  |
 | [Abaan404/dotfiles](https://github.com/Abaan404/dotfiles) | 149 | 7 | QML | 2026-08-16 |  |
-| [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) | 1927 | 70 | C# | 2026-10-31 | Advanced Windows Appearance Editor |
+| [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) | 1928 | 70 | C# | 2026-10-31 | Advanced Windows Appearance Editor |
 | [actuallyakshat/epoch](https://github.com/actuallyakshat/epoch) | 38 | 0 | TypeScript | 2026-01-04 | a modern tui application that helps you stay on top of your tasks without ever leaving your terminal |
 | [adaszko/complgen](https://github.com/adaszko/complgen) | 336 | 11 | Rust | 2026-08-20 | Language-independent, declarative bash/fish/zsh/pwsh completions without writing shell scripts! |
-| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 🗄️ | 20657 | 1568 | Shell | 2026-10-12 | 🖥 📊 🕹 🛠 A curated list of command line apps |
+| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 🗄️ | 20660 | 1567 | Shell | 2026-10-12 | 🖥 📊 🕹 🛠 A curated list of command line apps |
 | [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) | 240 | 33 | HTML | 2025-09-27 | A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs. |
 | [aivanelabs/ai-rpa](https://github.com/aivanelabs/ai-rpa) | 14 | 2 | Python | 2026-11-24 | AI mobile automation starter repo for AIVane. Android REPL beta, Python client, skills, examples, and protocol docs for AI agents. |
-| [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | 40746 | 1003 | Rust | 2026-11-25 | A smarter cd command. Supports all major shells. |
-| [alacritty/alacritty](https://github.com/alacritty/alacritty) | 66298 | 3711 | Rust | 2026-11-18 | A cross-platform, OpenGL terminal emulator. |
-| [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) | 38020 | 2572 |  | 2025-08-28 | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. |
+| [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | 40777 | 1010 | Rust | 2026-11-25 | A smarter cd command. Supports all major shells. |
+| [alacritty/alacritty](https://github.com/alacritty/alacritty) | 66317 | 3713 | Rust | 2026-11-18 | A cross-platform, OpenGL terminal emulator. |
+| [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) | 38031 | 2574 |  | 2025-08-28 | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. |
 | [amitkmaraj/gemini-cli-custom-slash-commands](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) | 166 | 15 |  | 2025-07-31 | Some great custom slash commands to supercharge your workflow |
-| [anomalyco/opentui](https://github.com/anomalyco/opentui) | 13922 | 828 | TypeScript | 2026-11-25 | OpenTUI is a library to build terminal user interfaces (TUI) |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 157066 | 25116 | TypeScript | 2026-11-25 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anomalyco/opentui](https://github.com/anomalyco/opentui) | 13931 | 830 | TypeScript | 2026-11-26 | OpenTUI is a library to build terminal user interfaces (TUI) |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 157208 | 25137 | TypeScript | 2026-11-26 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 | [arch-fan/neovim-raspberry](https://github.com/arch-fan/neovim-raspberry) | 14 | 5 | Shell | 2024-08-01 | Steps for building/installing neovim newer versions on Raspberry Pi (64-bit). Can also be used on any ARM device which accepts DEB. |
-| [aria2/aria2](https://github.com/aria2/aria2) | 43609 | 3960 | C++ | 2026-06-25 | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. |
+| [aria2/aria2](https://github.com/aria2/aria2) | 43625 | 3961 | C++ | 2026-06-25 | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. |
 | [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) 🗄️ | 1561 | 129 | Python | 2026-01-29 | A hackable shell for Hyprland, powered by Fabric. |
 | [Aylur/dotfiles](https://github.com/Aylur/dotfiles) | 3100 | 137 | Lua | 2026-10-17 | My personal config files |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 15073 | 1448 | TypeScript | 2026-11-25 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
-| [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 428 | 58 | Go | 2026-11-25 | HEY CLI and Agent Skills |
-| [Byron/dua-cli](https://github.com/Byron/dua-cli) | 6491 | 183 | Rust | 2026-11-24 | View disk space usage and delete unwanted data, fast. |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 39882 | 4623 | TypeScript | 2026-11-25 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
-| [charmbracelet/gum](https://github.com/charmbracelet/gum) | 24676 | 712 | Go | 2026-11-20 | A tool for glamorous shell scripts 🎀 |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 15238 | 1457 | TypeScript | 2026-11-26 | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 429 | 58 | Go | 2026-11-25 | HEY CLI and Agent Skills |
+| [Byron/dua-cli](https://github.com/Byron/dua-cli) | 6497 | 185 | Rust | 2026-11-24 | View disk space usage and delete unwanted data, fast. |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 39963 | 4642 | TypeScript | 2026-11-26 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [charmbracelet/gum](https://github.com/charmbracelet/gum) | 24698 | 716 | Go | 2026-11-20 | A tool for glamorous shell scripts 🎀 |
 | [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) | 888 | 132 | JavaScript | 2026-11-14 | Yet another matrix client for desktop |
 | [clduab11/gemini-flow](https://github.com/clduab11/gemini-flow) 🗄️ | 384 | 66 | TypeScript | 2026-01-29 | rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team. |
-| [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) | 415 | 59 | Kotlin | 2026-11-25 | A Fork of Rikkahub with an overhauled UI and feature additions |
+| [Cocolalilal/LastChat](https://github.com/Cocolalilal/LastChat) | 415 | 59 | Kotlin | 2026-11-26 | A Fork of Rikkahub with an overhauled UI and feature additions |
 | [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) | 568 | 25 | Lua | 2025-03-22 | A theme for AwesomeWM |
 | [darrikonn/td-cli](https://github.com/darrikonn/td-cli) | 215 | 10 | Python | 2026-04-14 | A todo command line todo manager ✔️ |
-| [ddoemonn/interior](https://github.com/ddoemonn/interior) | 1273 | 60 | TypeScript | 2026-10-21 | micro-interactions for react, built for the half-second after a click |
-| [DingoOz/llm-visuals](https://github.com/DingoOz/llm-visuals) | 216 | 29 | Rust | 2026-11-25 | Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp) |
+| [ddoemonn/interior](https://github.com/ddoemonn/interior) | 1276 | 61 | TypeScript | 2026-11-26 | micro-interactions for react, built for the half-second after a click |
+| [DingoOz/llm-visuals](https://github.com/DingoOz/llm-visuals) | 219 | 29 | Rust | 2026-11-25 | Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp) |
 | [djcopley/ShellOracle](https://github.com/djcopley/ShellOracle) | 353 | 26 | Python | 2026-09-13 | A terminal utility for intelligent shell command generation |
-| [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | 12771 | 474 | Go | 2026-11-21 | A rich terminal UI for GitHub that doesn't break your flow. |
-| [doomemacs/core](https://github.com/doomemacs/core) | 22847 | 3138 | Emacs Lisp | 2026-11-23 | An Emacs framework for the stubborn martian hacker |
-| [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) | 2652 | 139 | Kotlin | 2026-11-25 | A material you designed app for your ADB needs |
-| [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) | 10484 | 859 | JavaScript | 2026-11-05 | An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. |
-| [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) | 16725 | 1446 | QML | 2026-11-15 | Usability-first dotfiles |
-| [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9989 | 649 | PowerShell | 2026-11-24 | :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10 |
-| [faressoft/terminalizer](https://github.com/faressoft/terminalizer) | 16169 | 520 | JavaScript | 2024-08-29 | 🦄 Record your terminal and generate animated gif images or share a web player |
-| [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 641 | 77 | JavaScript | 2026-11-15 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI. |
+| [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) | 12774 | 474 | Go | 2026-11-21 | A rich terminal UI for GitHub that doesn't break your flow. |
+| [doomemacs/core](https://github.com/doomemacs/core) | 22851 | 3138 | Emacs Lisp | 2026-11-23 | An Emacs framework for the stubborn martian hacker |
+| [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) | 2659 | 141 | Kotlin | 2026-11-26 | A material you designed app for your ADB needs |
+| [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) | 10486 | 859 | JavaScript | 2026-11-05 | An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. |
+| [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) | 16739 | 1446 | QML | 2026-11-15 | Usability-first dotfiles |
+| [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9993 | 648 | PowerShell | 2026-11-26 | :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10 |
+| [faressoft/terminalizer](https://github.com/faressoft/terminalizer) | 16171 | 521 | JavaScript | 2024-08-29 | 🦄 Record your terminal and generate animated gif images or share a web player |
+| [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 642 | 77 | JavaScript | 2026-11-15 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI. |
 | [fernandofatech/tool-m5cardputer-sshclient](https://github.com/fernandofatech/tool-m5cardputer-sshclient) | 70 | 13 | C++ | 2026-09-29 | M5Cardputer SSH client experiment for embedded, IoT and developer tooling portfolio work. |
 | [forcewake/hermes-conductor](https://github.com/forcewake/hermes-conductor) | 84 | 7 |  | 2026-08-25 | One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them. |
 | [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) | 140 | 4 | CSS | 2021-11-26 | My chaotic dotfiles, it ain't much, but its honest work |
-| [fufexan/dotfiles](https://github.com/fufexan/dotfiles) | 1158 | 53 | Nix | 2026-11-18 | NixOS system config & Home-Manager user config |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 32520 | 3468 | Python | 2026-09-15 | Automate the process of making money online. |
+| [fufexan/dotfiles](https://github.com/fufexan/dotfiles) | 1159 | 53 | Nix | 2026-11-18 | NixOS system config & Home-Manager user config |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 32574 | 3472 | Python | 2026-09-15 | Automate the process of making money online. |
 | [furkankly/zoetrope](https://github.com/furkankly/zoetrope) | 1209 | 87 | Rust | 2026-11-03 | Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser. |
-| [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) | 3805 | 303 | Python | 2026-09-01 | A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features. |
+| [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) | 3808 | 303 | Python | 2026-09-01 | A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features. |
 | [git-bahn/git-graph](https://github.com/git-bahn/git-graph) | 1009 | 60 | Rust | 2026-11-24 | Command line tool to show clear git graphs arranged for your branching model |
-| [glotlabs/gdrive](https://github.com/glotlabs/gdrive) | 2121 | 149 | Rust | 2024-08-03 | Google Drive CLI Client |
-| [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) | 3107 | 294 |  | 2026-11-25 | Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal. |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 109106 | 15007 | TypeScript | 2026-11-25 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | 25478 | 3585 | Shell | 2026-10-21 | Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍 |
-| [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) | 363 | 18 | Rust | 2026-11-22 | A TUI for controlling and monitoring Framework Computers hardware built in Rust |
+| [glotlabs/gdrive](https://github.com/glotlabs/gdrive) | 2122 | 149 | Rust | 2024-08-03 | Google Drive CLI Client |
+| [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli) | 3153 | 291 |  | 2026-11-26 | Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal. |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 109192 | 15008 | TypeScript | 2026-11-26 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | 25478 | 3584 | Shell | 2026-10-21 | Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍 |
+| [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) | 364 | 18 | Rust | 2026-11-22 | A TUI for controlling and monitoring Framework Computers hardware built in Rust |
 | [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) | 600 | 45 | Rust | 2026-11-25 | A modern GTK4-based window switcher and application launcher for Hyprland |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98922 | 14466 | Python | 2026-11-08 | real time face swap and one-click video deepfake with only a single image |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98956 | 14473 | Python | 2026-11-08 | real time face swap and one-click video deepfake with only a single image |
 | [harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library) | 408 | 107 |  | 2025-10-10 | A curated library of high-quality, professionally crafted prompts for common development tasks. Save time and improve your AI interactions with battle-tested prompt templates. You can install it as an Gemini CLI Extension. |
 | [harmoneer/taman](https://github.com/harmoneer/taman) | 39 | 3 | Rust | 2025-11-30 | 🌱 Taman is a terminal-based Pomodoro productivity app where your focus sessions literally grow plants! Built in Rust with Ratatui, it combines the Pomodoro technique with gamification — complete focus sessions to evolve your plant from a 🌰 seed to a 🪴 fully grown plant. |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 52853 | 4263 | Rust | 2026-11-19 | the runtime your coding agents live on |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 53045 | 4286 | Rust | 2026-11-19 | the runtime your coding agents live on |
 | [hosenur/portal](https://github.com/hosenur/portal) | 815 | 69 | TypeScript | 2026-05-12 | Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces. |
 | [hyper-dot/Arch-Hyprland](https://github.com/hyper-dot/Arch-Hyprland) | 304 | 20 | Shell | 2023-10-17 | Arch linux hyprland setup |
 | [InioX/dotfiles](https://github.com/InioX/dotfiles) | 106 | 3 |  | 2026-11-20 | My personal dotfiles for NixOS, Arch, Windows, and Android. |
-| [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 23789 | 2810 | Go | 2026-11-25 | The most customisable and low-latency cross platform/shell prompt renderer |
-| [jduncan-rva/skill-porter](https://github.com/jduncan-rva/skill-porter) | 192 | 16 | JavaScript | 2025-12-02 | Universal tool to convert Claude Code skills to Gemini CLI extensions and vice versa |
-| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162848 | 14850 |  | 2024-06-25 | Master the command line, in one page |
+| [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 23797 | 2811 | Go | 2026-11-26 | The most customisable and low-latency cross platform/shell prompt renderer |
+| [jduncan-rva/skill-porter](https://github.com/jduncan-rva/skill-porter) | 193 | 16 | JavaScript | 2025-12-02 | Universal tool to convert Claude Code skills to Gemini CLI extensions and vice versa |
+| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162844 | 14850 |  | 2024-06-25 | Master the command line, in one page |
 | [joelzanden/mine](https://github.com/joelzanden/mine) | 3 | 0 | Rust | 2024-09-03 | CLI for color-coding project windows, enhancing workspace organization |
 | [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) | 938 | 64 | Python | 2026-11-19 | TUI consciousness monitor for Hermes |
 | [junyu-w/corgi](https://github.com/junyu-w/corgi) | 393 | 12 | Go | 2018-12-14 | Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet |
 | [kamekairos/KK-OneCommanderScripts](https://github.com/kamekairos/KK-OneCommanderScripts) | 31 | 2 | PowerShell | 2026-10-12 | A collection of scripts for the alternative file manager OneCommander. Includes PowerShell Module for advanced scripts. |
 | [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) | 3747 | 164 | Rust | 2026-10-26 | ranger-like terminal file manager written in Rust |
-| [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) | 5312 | 1698 | Java | 2024-07-17 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) | 5312 | 1699 | Java | 2024-07-17 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
 | [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) | 1132 | 47 | CSS | 2026-08-22 | MacOS Tahoe inspired theme for GNOME |
 | [kdcokenny/opencode-worktree](https://github.com/kdcokenny/opencode-worktree) 🗄️ | 719 | 40 | TypeScript | 2026-09-16 | Zero-friction git worktrees for OpenCode. Auto-spawns terminals, syncs files, cleans up on exit. |
-| [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) | 2160 | 118 | Rust | 2026-11-22 | `taskwarrior-tui`: A terminal user interface for taskwarrior |
+| [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) | 2161 | 118 | Rust | 2026-11-22 | `taskwarrior-tui`: A terminal user interface for taskwarrior |
 | [kiblee/tod0](https://github.com/kiblee/tod0) | 142 | 24 | Python | 2026-07-10 | A Terminal Client for Microsoft To-Do |
 | [kpritam/cliq](https://github.com/kpritam/cliq) | 29 | 5 | MDX | 2025-11-11 | A functional, Effect-TS-based AI coding assistant CLI with multi-provider support. |
 | [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) | 1024 | 68 | Python | 2026-02-02 | Terminal User Interface (TUI) apps |
-| [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) | 1005 | 39 | CSS | 2026-08-18 | My Hyprland dotfiles |
+| [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) | 1006 | 39 | CSS | 2026-08-18 | My Hyprland dotfiles |
 | [logicalman3812/hyprdots](https://github.com/logicalman3812/hyprdots) | 35 | 0 | Lua | 2024-10-08 | my personal dotfiles for hyprland |
 | [luislve17/catree](https://github.com/luislve17/catree) | 6 | 0 | Shell | 2026-10-05 | CLI tool to recursively cat files |
-| [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) | 416 | 34 |  | 2024-04-29 | MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level. |
+| [MajorGeek/MajorGeeks-Windows-Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) | 416 | 35 |  | 2024-04-29 | MajorGeeks Windows Tweaks contains well over 200  registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level. |
 | [martin-braun/CocChad](https://github.com/martin-braun/CocChad) 🗄️ | 18 | 6 | Lua | 2024-07-16 | My NvChad customs for coc.nvim, nvim-dap, VSCode, FireNvim etc. |
-| [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) | 785 | 45 | CSS | 2026-10-17 | 💄 Yet another Aesthetic Hyprland Config |
+| [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) | 784 | 45 | CSS | 2026-10-17 | 💄 Yet another Aesthetic Hyprland Config |
 | [Menghuan1918/gemini-cli-gopls](https://github.com/Menghuan1918/gemini-cli-gopls) | 13 | 3 | TypeScript | 2025-10-11 | This extension integrates the official MCP of the Go language server (gopls) with Gemini CLI. |
 | [Microck/opencode-studio](https://github.com/Microck/opencode-studio) | 796 | 62 | TypeScript | 2026-11-25 | web GUI for securely managing local OpenCode configuration |
-| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 10124 | 1018 | Python | 2026-11-16 | MagenticLite is an experimental agent that works across the browser and local file system |
-| [mikefarah/yq](https://github.com/mikefarah/yq) | 16357 | 1454 | Go | 2026-11-25 | yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor |
-| [Misterio77/Foundry](https://github.com/Misterio77/Foundry) | 1352 | 57 | Nix | 2026-11-25 | Personal monorepo. NixOS+home-manager configs, website, and other projects. |
-| [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) | 2516 | 233 | TypeScript | 2026-02-25 | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ |
+| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 10126 | 1019 | Python | 2026-11-16 | MagenticLite is an experimental agent that works across the browser and local file system |
+| [mikefarah/yq](https://github.com/mikefarah/yq) | 16367 | 1468 | Go | 2026-11-26 | yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor |
+| [Misterio77/Foundry](https://github.com/Misterio77/Foundry) | 1354 | 57 | Nix | 2026-11-25 | Personal monorepo. NixOS+home-manager configs, website, and other projects. |
+| [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) | 2517 | 233 | TypeScript | 2026-02-25 | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ |
 | [msmps/opentui-skill](https://github.com/msmps/opentui-skill) | 231 | 9 | Shell | 2026-08-27 | OpenTUI skill for use with OpenCode |
 | [muePatrick/zsh-ai-commands](https://github.com/muePatrick/zsh-ai-commands) | 41 | 7 | Shell | 2024-06-19 | Zsh plugin to convert natural language prompts to terminal commands with GPT-4 |
-| [mutonby/openshorts](https://github.com/mutonby/openshorts) | 9891 | 2098 | Python | 2026-11-25 | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 212128 | 61662 | TypeScript | 2026-11-25 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
+| [mutonby/openshorts](https://github.com/mutonby/openshorts) | 9946 | 2115 | Python | 2026-11-26 | Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 212284 | 61676 | TypeScript | 2026-11-26 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 | [Neurarian/matshell](https://github.com/Neurarian/matshell) | 84 | 5 | TypeScript | 2026-08-18 | Material Design themed GTK4 desktop & laptop shell / bar for Hyprland and River. Built with Astal / AGS. |
-| [neuromorph/openbar](https://github.com/neuromorph/openbar) | 626 | 36 | JavaScript | 2025-10-05 | A GNOME Shell extension for theming Gnome Top Bar / Top Panel, Menus, Dash/Dock, Gnome Shell and Gtk/Flatpak Apps. |
-| [newo-ether/Agora](https://github.com/newo-ether/Agora) | 667 | 121 | Kotlin | 2026-11-25 | Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control. |
-| [novnc/noVNC](https://github.com/novnc/noVNC) | 14248 | 2710 | JavaScript | 2026-10-23 | VNC client web application |
-| [nvbn/thefuck](https://github.com/nvbn/thefuck) | 97964 | 3964 | Python | 2024-07-19 | Magnificent app which corrects your previous console command. |
+| [neuromorph/openbar](https://github.com/neuromorph/openbar) | 626 | 37 | JavaScript | 2025-10-05 | A GNOME Shell extension for theming Gnome Top Bar / Top Panel, Menus, Dash/Dock, Gnome Shell and Gtk/Flatpak Apps. |
+| [newo-ether/Agora](https://github.com/newo-ether/Agora) | 676 | 122 | Kotlin | 2026-11-26 | Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control. |
+| [novnc/noVNC](https://github.com/novnc/noVNC) | 14253 | 2708 | JavaScript | 2026-10-23 | VNC client web application |
+| [nvbn/thefuck](https://github.com/nvbn/thefuck) | 97973 | 3963 | Python | 2024-07-19 | Magnificent app which corrects your previous console command. |
 | [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) | 1089 | 18 | CSS | 2026-09-29 | Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors |
-| [ogham/exa](https://github.com/ogham/exa) | 24453 | 649 | Rust | 2024-09-24 | A modern replacement for ‘ls’. |
-| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 190883 | 27126 | Shell | 2026-11-25 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
-| [opencode-ai/opencode](https://github.com/opencode-ai/opencode) 🗄️ | 13928 | 2422 | Go | 2025-09-18 | A powerful AI coding agent. Built for the terminal. |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 94335 | 12644 | TypeScript | 2026-11-25 | 🙌 OpenHands: AI-Driven Development |
+| [ogham/exa](https://github.com/ogham/exa) | 24452 | 649 | Rust | 2024-09-24 | A modern replacement for ‘ls’. |
+| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 190909 | 27126 | Shell | 2026-11-26 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
+| [opencode-ai/opencode](https://github.com/opencode-ai/opencode) 🗄️ | 13934 | 2416 | Go | 2025-09-18 | A powerful AI coding agent. Built for the terminal. |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 94414 | 12656 | TypeScript | 2026-11-26 | 🙌 OpenHands: AI-Driven Development |
 | [openvisionapi/ova-client](https://github.com/openvisionapi/ova-client) 🗄️ | 48 | 3 | Python | 2023-11-22 | OpenVisionAPI Python Client |
-| [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) | 368 | 23 | TypeScript | 2026-10-08 | Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent |
+| [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) | 369 | 23 | TypeScript | 2026-10-08 | Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent |
 | [Owloops/lnko](https://github.com/Owloops/lnko) | 80 | 0 | Lua | 2026-11-13 | Simple stow-like dotfile linker |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 114699 | 10305 | Python | 2026-11-24 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) | 666 | 336 |  | 2026-11-25 | A curated list of awesome tools, extensions, and resources for Gemini CLI. |
-| [Piebald-AI/gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop) | 522 | 73 | TypeScript | 2026-11-19 | Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 115042 | 10344 | Python | 2026-11-24 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) | 670 | 340 |  | 2026-11-26 | A curated list of awesome tools, extensions, and resources for Gemini CLI. |
+| [Piebald-AI/gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop) | 521 | 73 | TypeScript | 2026-11-26 | Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. |
 | [piqnt/svgexport](https://github.com/piqnt/svgexport) | 951 | 90 | JavaScript | 2026-09-23 | SVG to PNG/JPEG command-line tool and Node.js module |
 | [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) | 8461 | 845 | Shell | 2025-03-23 | // Aesthetic, dynamic and minimal dots for Arch hyprland |
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 6643 | 770 |  | 2026-06-07 | A collection of MCP clients. |
-| [purocean/yn](https://github.com/purocean/yn) | 6782 | 919 | TypeScript | 2026-11-15 | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient. |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30939 | 3582 | TypeScript | 2026-11-25 | An open-source AI coding agent that lives in your terminal. |
-| [ranger/ranger](https://github.com/ranger/ranger) | 17467 | 941 | Python | 2026-09-09 | A VIM-inspired filemanager for the console |
-| [raphamorim/rio](https://github.com/raphamorim/rio) | 7768 | 395 | Rust | 2026-11-25 | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. |
-| [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) | 2099 | 377 |  | 2026-11-25 | A curated list of TUI apps and libraries built with Ratatui |
-| [ratatui/ratatui](https://github.com/ratatui/ratatui) | 23436 | 836 | Rust | 2026-11-25 | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
+| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 6644 | 772 |  | 2026-06-07 | A collection of MCP clients. |
+| [purocean/yn](https://github.com/purocean/yn) | 6783 | 919 | TypeScript | 2026-11-15 | A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient. |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30962 | 3585 | TypeScript | 2026-11-26 | An open-source AI coding agent that lives in your terminal. |
+| [ranger/ranger](https://github.com/ranger/ranger) | 17467 | 940 | Python | 2026-11-26 | A VIM-inspired filemanager for the console |
+| [raphamorim/rio](https://github.com/raphamorim/rio) | 7772 | 397 | Rust | 2026-11-26 | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. |
+| [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) | 2100 | 378 |  | 2026-11-25 | A curated list of TUI apps and libraries built with Ratatui |
+| [ratatui/ratatui](https://github.com/ratatui/ratatui) | 23448 | 836 | Rust | 2026-11-25 | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
 | [ratatui/ratatui-spinner](https://github.com/ratatui/ratatui-spinner) (fork) | 163 | 9 | Rust | 2026-10-10 | Customizable, stateless spinner widgets for Ratatui applications |
 | [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) | 129 | 16 | Lua | 2024-08-04 |  |
 | [rose-pine/windows-terminal](https://github.com/rose-pine/windows-terminal) | 121 | 9 |  | 2026-06-22 | Soho vibes for Windows Terminal |
 | [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) 🗄️ | 466 | 34 | Nix | 2024-01-15 | My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes |
-| [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) | 21643 | 1369 | TypeScript | 2026-11-23 | A collection of common interactive command line user interfaces. |
+| [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) | 21644 | 1369 | TypeScript | 2026-11-26 | A collection of common interactive command line user interfaces. |
 | [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese) | 78 | 1 | Rust | 2026-04-28 | Bubbletea-inspired components for Ratatui |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 117540 | 13415 | Python | 2026-11-25 | Hunt down social media accounts by username across social networks |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 118068 | 13469 | Python | 2026-11-26 | Hunt down social media accounts by username across social networks |
 | [shrwnsan/clix-dev-flow](https://github.com/shrwnsan/clix-dev-flow) | 10 | 0 |  | 2025-10-14 | A simple Gemini CLI extension that brings AI development workflow patterns to your terminal. It helps you plan, design, and implement features through systematic commands with AI assistance. |
-| [sofianedjerbi/batimg](https://github.com/sofianedjerbi/batimg) | 54 | 0 | Rust | 2025-12-19 | Fast image/video printing in your terminal |
+| [sofianedjerbi/batimg](https://github.com/sofianedjerbi/batimg) | 55 | 0 | Rust | 2025-12-19 | Fast image/video printing in your terminal |
 | [SohelIslamImran/ghosttime](https://github.com/SohelIslamImran/ghosttime) | 91 | 6 | TypeScript | 2026-04-25 | Ghostty animation for any terminal with customizable colors |
 | [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita) | 1125 | 51 | Meson | 2026-11-17 | An expanded Adwaita-styled companion icon theme with extra icons for popular apps and MIME types to complement Gnome Shell's original icons. |
-| [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) | 14581 | 4403 | Shell | 2026-11-19 | The configuration framework for Zsh |
-| [spicetify/cli](https://github.com/spicetify/cli) | 25627 | 1019 | JavaScript | 2026-11-20 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
+| [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) | 14582 | 4402 | Shell | 2026-11-19 | The configuration framework for Zsh |
+| [spicetify/cli](https://github.com/spicetify/cli) | 25640 | 1019 | JavaScript | 2026-11-20 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
 | [stabldev/torrra](https://github.com/stabldev/torrra) | 1245 | 76 | Python | 2026-11-23 | A Python tool that lets you search and download torrents without leaving your CLI. |
 | [Stan-breaks/flow_state](https://github.com/Stan-breaks/flow_state) | 66 | 7 | Rust | 2026-08-01 | A terminal-based habit tracker |
-| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 43654 | 1078 | Rust | 2026-11-22 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
-| [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) | 29259 | 1559 | TypeScript | 2025-12-13 | The best way to start a full-stack, typesafe Next.js app |
+| [sxyazi/yazi](https://github.com/sxyazi/yazi) | 43679 | 1079 | Rust | 2026-11-22 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
+| [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) | 29263 | 1560 | TypeScript | 2025-12-13 | The best way to start a full-stack, typesafe Next.js app |
 | [tbabej/taskwiki](https://github.com/tbabej/taskwiki) | 915 | 103 | Python | 2025-06-14 | Proper project management with Taskwarrior in vim. |
-| [termux/termux-app](https://github.com/termux/termux-app) | 65699 | 8446 | Java | 2026-11-05 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [termux/termux-app](https://github.com/termux/termux-app) | 65770 | 8465 | Java | 2026-11-05 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
 | [Textualize/frogmouth](https://github.com/Textualize/frogmouth) | 3326 | 84 | Python | 2024-08-01 | A Markdown browser for your terminal |
-| [tfeldmann/organize](https://github.com/tfeldmann/organize) | 3216 | 201 | Python | 2026-11-23 | The file management automation tool. |
+| [tfeldmann/organize](https://github.com/tfeldmann/organize) | 3221 | 201 | Python | 2026-11-23 | The file management automation tool. |
 | [Theblackcat98/ASCII-Everything](https://github.com/Theblackcat98/ASCII-Everything) | 2 | 0 | JavaScript | 2026-10-20 | A collection of python and javascripts tools and programs I made to play with the terminal. |
 | [Theblackcat98/atlassian-rovo-source-code-z80-dump](https://github.com/Theblackcat98/atlassian-rovo-source-code-z80-dump) 🗄️ (fork) | 2 | 0 | Python | 2025-07-01 | Complete reverse engineering of Atlassian ACLI Rovo Dev binary - extracted source code, system prompts, and technical analysis |
 | [Theblackcat98/mermaidCLI](https://github.com/Theblackcat98/mermaidCLI) 🗄️ | 1 | 0 | JavaScript | 2025-07-01 | Merged into ASCII-Everything on 2026-10-20 — the code now lives in the mermaidcli/ folder there. This standalone repo is archived. |
@@ -1058,29 +1058,29 @@ Click a category to jump to it, then expand its section to see the repos.
 | [Theblackcat98/Text-Adventure-TUI](https://github.com/Theblackcat98/Text-Adventure-TUI) | 2 | 1 | Python | 2026-10-17 | LLM-powered terminal text-adventure engine with branching narratives and persistent saves. |
 | [Theblackcat98/tui-kanban](https://github.com/Theblackcat98/tui-kanban) | 1 | 0 | Rust | 2026-10-30 | A beautiful terminal Kanban board built with Rust and Ratatui |
 | [Theblackcat98/veritas](https://github.com/Theblackcat98/veritas) | 1 | 0 | Rust | 2026-11-10 | Terminal chat app in Rust |
-| [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) | 8170 | 1746 | Shell | 2026-09-03 | A set of vim, zsh, git, and tmux configuration files. |
+| [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) | 8171 | 1746 | Shell | 2026-09-03 | A set of vim, zsh, git, and tmux configuration files. |
 | [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) | 1733 | 94 | Python | 2025-03-22 | This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line. |
 | [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) | 2016 | 61 | Go | 2026-11-24 | Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE. Plain .http files you can diff and version, with scripted tests, workflows, mocks, recorder, and a CLI runner. |
 | [unsupportedpastels/mercury](https://github.com/unsupportedpastels/mercury) | 62 | 16 | Kotlin | 2026-11-21 | Mercury — a Hermes companion. Free, open-source mobile clients for Hermes Agent (Android + iOS). Unofficial; official endpoints only. |
-| [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) | 1865 | 279 | Swift | 2026-11-25 | Native iPhone app for your Hermes agent |
-| [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 40326 | 1071 | TypeScript | 2026-11-24 | 🌈 React for interactive command-line apps |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37549 | 4224 |  | 2026-11-15 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
+| [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) | 1897 | 279 | Swift | 2026-11-25 | Native iPhone app for your Hermes agent |
+| [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 40337 | 1071 | TypeScript | 2026-11-24 | 🌈 React for interactive command-line apps |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 37571 | 4235 |  | 2026-11-15 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
 | [vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark) | 188 | 18 | Vim Script | 2023-06-12 | A dark GitHub theme for Vim and NeoVim |
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 22741 | 1199 | Go | 2026-11-24 | An open-source, AI-integrated, cross-platform terminal for seamless workflows |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 22750 | 1200 | Go | 2026-11-24 | An open-source, AI-integrated, cross-platform terminal for seamless workflows |
 | [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | 10950 | 376 |  | 2026-10-11 | A curated list of dotfiles resources. |
-| [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) | 419 | 28 | JavaScript | 2026-07-05 | Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI. |
-| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 27855 | 5265 | Rust | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
-| [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) | 901 | 128 | JavaScript | 2026-06-28 | A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate. |
-| [yagnikpt/dotfiles](https://github.com/yagnikpt/dotfiles) | 29 | 0 | Shell | 2026-11-23 | my config files for linux and tools. |
+| [wesammustafa/opencode-primer](https://github.com/wesammustafa/opencode-primer) | 420 | 28 | JavaScript | 2026-07-05 | Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI. |
+| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 27863 | 5267 | Rust | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
+| [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) | 902 | 128 | JavaScript | 2026-06-28 | A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate. |
+| [yagnikpt/dotfiles](https://github.com/yagnikpt/dotfiles) | 29 | 0 | Shell | 2026-11-26 | my config files for linux and tools. |
 | [YassWorks/Ally](https://github.com/YassWorks/Ally) | 240 | 18 | Python | 2026-11-18 | A private, provider-agnostic AI agent for your terminal. |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 24125 | 836 | Go | 2026-11-25 | Pretty fancy and modern terminal file manager |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 210705 | 18653 | Python | 2026-11-24 | A feature-rich command-line audio/video downloader |
-| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141656 | 10677 | Python | 2026-11-06 | Command-line program to download videos from YouTube.com and other video sites |
-| [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) | 1780 | 99 | Shell | 2026-08-31 | Feature-rich syntax highlighting for ZSH |
-| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 4947 | 256 | Rust | 2026-11-25 | A real browser inside your terminal |
-| [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) | 2285 | 98 | TypeScript | 2026-11-24 | VS Code in the terminal |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 24136 | 837 | Go | 2026-11-25 | Pretty fancy and modern terminal file manager |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 210965 | 18685 | Python | 2026-11-24 | A feature-rich command-line audio/video downloader |
+| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141665 | 10676 | Python | 2026-11-06 | Command-line program to download videos from YouTube.com and other video sites |
+| [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) | 1781 | 99 | Shell | 2026-08-31 | Feature-rich syntax highlighting for ZSH |
+| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 4983 | 258 | Rust | 2026-11-25 | A real browser inside your terminal |
+| [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) | 2288 | 97 | TypeScript | 2026-11-24 | VS Code in the terminal |
 | [zeqianli/ratatui-stacked-bar](https://github.com/zeqianli/ratatui-stacked-bar) | 9 | 1 | Rust | 2026-04-07 |  |
-| [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) | 4354 | 83 | TypeScript | 2026-11-21 | A beautiful config generator for Ghostty terminal. |
+| [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) | 4355 | 83 | TypeScript | 2026-11-21 | A beautiful config generator for Ghostty terminal. |
 | [zhaleff/hyprdots](https://github.com/zhaleff/hyprdots) | 23 | 2 | Shell | 2026-10-25 | Minimal configuration, weasome setup 🍁🍁 |
 
 </details>
@@ -1093,36 +1093,36 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [AmiiboDB/Amiibo](https://github.com/AmiiboDB/Amiibo) | 2510 | 326 | Python | 2025-03-21 | Amiibo .bin and .nfc database |
+| [AmiiboDB/Amiibo](https://github.com/AmiiboDB/Amiibo) | 2515 | 328 | Python | 2025-03-21 | Amiibo .bin and .nfc database |
 | [anilsharmay/full-stack-local-deep-research-agent](https://github.com/anilsharmay/full-stack-local-deep-research-agent) | 34 | 4 | Python | 2025-11-08 | Deploying full-stack on-prem deep research agent that can be run entirely on a local machine for $0! |
-| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 6543 | 522 | Swift | 2026-10-26 | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 6557 | 523 | Swift | 2026-10-26 | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |
 | [atineiatte/deep-research-at-home](https://github.com/atineiatte/deep-research-at-home) | 227 | 26 |  | 2025-05-07 |  |
 | [daradib/openwebui-plugins](https://github.com/daradib/openwebui-plugins) | 20 | 4 | Python | 2025-10-13 | Native search and retrieval tools for Open WebUI |
-| [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) | 7745 | 919 | Python | 2026-06-02 | SAM 3D Objects |
-| [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 16101 | 691 | C# | 2026-11-15 | :mag: Quick file search & app launcher for Windows with community-made plugins |
-| [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) | 842 | 85 | Python | 2026-11-11 | Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more |
+| [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) | 7763 | 921 | Python | 2026-06-02 | SAM 3D Objects |
+| [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 16103 | 691 | C# | 2026-11-26 | :mag: Quick file search & app launcher for Windows with community-made plugins |
+| [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) | 842 | 84 | Python | 2026-11-11 | Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workflows, and more |
 | [helloworldxdwastaken/WebCrawler](https://github.com/helloworldxdwastaken/WebCrawler) | 8 | 1 | Python | 2025-07-23 | A simple website crawler to extract data and export as .md file suitable to feed (RAG) and AI |
-| [instantX-research/InstantID](https://github.com/instantX-research/InstantID) | 11993 | 889 | Python | 2024-07-18 | InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥 |
+| [instantX-research/InstantID](https://github.com/instantX-research/InstantID) | 11995 | 889 | Python | 2024-07-18 | InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥 |
 | [JEOresearch/EyeTracker](https://github.com/JEOresearch/EyeTracker) | 1164 | 180 | Python | 2026-11-10 | A lightweight and robust Python eye tracker |
 | [jimaldon/openwebui-omnibox](https://github.com/jimaldon/openwebui-omnibox) | 1 | 0 | TypeScript | 2026-10-29 | Firefox and Chrome addon to use the address bar to launch chats & searches on a locally hosted OpenWebUI |
 | [lingjiuu/hermes-dynamic-workflows](https://github.com/lingjiuu/hermes-dynamic-workflows) | 121 | 11 | Python | 2026-07-31 | Dynamic Workflows for hermes |
-| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 60004 | 2797 | Rust | 2026-11-25 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 60019 | 2802 | Rust | 2026-11-26 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) 🗄️ | 3516 | 311 | Python | 2023-11-21 | A LLM based research assistant that allows you to have a conversation with a research paper |
 | [NanoNets/ocr-python](https://github.com/NanoNets/ocr-python) | 129 | 17 | Jupyter Notebook | 2022-12-02 | OCR library to extract text & tables from PDF files and images. Convert any image or PDF to CSV / TXT / JSON / Searchable PDF. |
 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | 2236 | 143 | Rust | 2026-11-12 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files. |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65610 | 5133 | TypeScript | 2026-11-25 | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 266093 | 60350 | Python | 2026-11-25 | The agent that grows with you |
-| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | 35403 | 2465 | Python | 2026-11-25 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched |
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35708 | 2847 | Rust | 2026-11-25 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
-| [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | 448 | 38 | Python | 2026-11-25 | Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option. |
-| [Saramagrean/CWCheat-Database-Plus-](https://github.com/Saramagrean/CWCheat-Database-Plus-) | 852 | 111 |  | 2026-11-24 | Cheat Database for PPSSPP/PSP |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65620 | 5135 | TypeScript | 2026-11-26 | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 266369 | 60436 | Python | 2026-11-26 | The agent that grows with you |
+| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | 35411 | 2466 | Python | 2026-11-25 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35729 | 2850 | Rust | 2026-11-26 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | 449 | 38 | Python | 2026-11-25 | Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option. |
+| [Saramagrean/CWCheat-Database-Plus-](https://github.com/Saramagrean/CWCheat-Database-Plus-) | 853 | 111 |  | 2026-11-26 | Cheat Database for PPSSPP/PSP |
 | [shyamsaktawat/OpenAlpha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve) | 1059 | 159 | Python | 2025-05-31 | OpenAlpha_Evolve is an open-source Python framework inspired by the groundbreaking research on autonomous coding agents like DeepMind's AlphaEvolve. |
-| [spacejam/sled](https://github.com/spacejam/sled) | 9139 | 431 | Rust | 2026-04-04 | the champagne of beta embedded databases |
+| [spacejam/sled](https://github.com/spacejam/sled) | 9144 | 431 | Rust | 2026-04-04 | the champagne of beta embedded databases |
 | [stabldev/torrra](https://github.com/stabldev/torrra) | 1245 | 76 | Python | 2026-11-23 | A Python tool that lets you search and download torrents without leaving your CLI. |
 | [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) | 2296 | 201 | Python | 2026-05-11 | STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities. |
 | [Theblackcat98/opencode-workflow](https://github.com/Theblackcat98/opencode-workflow) | 1 | 1 | TypeScript | 2026-11-10 | A thin engineering-operating layer on top of opencode: delegate feature-level objectives to an agent team (lead orchestrator + planner/coder/reviewer/researcher subagents) that inspects, plans, implements, tests, reviews, documents, and commits — with worktree-based parallel isolation. |
 | [waynesutton/promptstack](https://github.com/waynesutton/promptstack) 🗄️ | 78 | 18 | TypeScript | 2026-10-22 | A searchable collection of AI prompts and code gen cursor rules, for bolt.new, loveable, windsurf, trae, to enhance your workflow for developers. |
-| [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | 1229 | 150 |  | 2026-11-03 | YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes. |
+| [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | 1233 | 151 |  | 2026-11-03 | YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes. |
 
 </details>
 
@@ -1134,48 +1134,48 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [abi/secret-llama](https://github.com/abi/secret-llama) | 2674 | 170 | TypeScript | 2024-06-05 | Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. |
+| [abi/secret-llama](https://github.com/abi/secret-llama) | 2675 | 170 | TypeScript | 2024-06-05 | Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. |
 | [abrenneke/rivet-plugin-ollama](https://github.com/abrenneke/rivet-plugin-ollama) | 43 | 7 | TypeScript | 2025-06-05 | Rivet plugin for integration with Ollama, the tool for running LLMs locally easily |
 | [accelerated-text/accelerated-text](https://github.com/accelerated-text/accelerated-text) | 805 | 47 | JavaScript | 2023-03-10 | Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and structure. |
-| [alesha-pro/tools](https://github.com/alesha-pro/tools) | 704 | 82 | HTML | 2026-09-28 | Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig |
+| [alesha-pro/tools](https://github.com/alesha-pro/tools) | 737 | 88 | HTML | 2026-11-26 | Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig |
 | [amithkoujalgi/ollama-pdf-bot](https://github.com/amithkoujalgi/ollama-pdf-bot) | 214 | 58 | Python | 2025-02-17 | A bot that accepts PDF docs and lets you ask questions on it. |
-| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 6543 | 522 | Swift | 2026-10-26 | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 6557 | 523 | Swift | 2026-10-26 | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |
 | [architectds/collabosm](https://github.com/architectds/collabosm) | 105 | 6 | Python | 2026-10-10 | A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux. |
 | [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) | 200 | 13 | Go | 2026-07-16 | A portable terminal AI interface |
 | [brumik/obsidian-ollama-chat](https://github.com/brumik/obsidian-ollama-chat) | 182 | 9 | TypeScript | 2024-10-12 | A plugin for chatting with you obsidian notes trough local Ollama LLM instead of Chat GTP. |
 | [canapaio/update_ollama_and_host](https://github.com/canapaio/update_ollama_and_host) | 1 | 0 | Shell | 2026-04-14 | Ollama script to update ollama and set Environment="OLLAMA_HOST=0.0.0.0" in service |
-| [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) | 3896 | 438 | TypeScript | 2026-08-03 | Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. |
-| [cogwheel0/conduit](https://github.com/cogwheel0/conduit) | 2514 | 287 | Dart | 2026-11-25 | Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents. |
+| [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) | 3897 | 437 | TypeScript | 2026-08-03 | Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps. |
+| [cogwheel0/conduit](https://github.com/cogwheel0/conduit) | 2525 | 288 | Dart | 2026-11-25 | Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents. |
 | [danny094/Jarvis](https://github.com/danny094/Jarvis) | 89 | 7 | Python | 2026-06-29 | This bridge integrates Ollama into any chat interface and lets you build your own multi-agent pipeline, including a built-in memory database. |
-| [darrenburns/elia](https://github.com/darrenburns/elia) | 2484 | 156 | Python | 2024-10-10 | A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more. |
-| [DingoOz/llm-visuals](https://github.com/DingoOz/llm-visuals) | 216 | 29 | Rust | 2026-11-25 | Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp) |
-| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 17777 | 1759 | Python | 2026-11-23 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
+| [darrenburns/elia](https://github.com/darrenburns/elia) | 2483 | 156 | Python | 2024-10-10 | A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more. |
+| [DingoOz/llm-visuals](https://github.com/DingoOz/llm-visuals) | 219 | 29 | Rust | 2026-11-25 | Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp) |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 17796 | 1762 | Python | 2026-11-26 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
 | [haydenkz/llama-chat](https://github.com/haydenkz/llama-chat) | 8 | 0 | Kotlin | 2026-11-24 | Native Android client for llama.cpp |
 | [hkdb/otui](https://github.com/hkdb/otui) | 36 | 2 | Go | 2026-10-21 | An opinionated, "speed" and "usability" focused agentic TUI with a built-in MCP registry/plugin system. |
 | [iammrduncan/inference-benchmarks](https://github.com/iammrduncan/inference-benchmarks) | 39 | 5 | TypeScript | 2026-10-18 | This is a LLM Gateway that mimics typesafe ai structured output. Like an imposter Jev. |
 | [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) | 451 | 38 | Vue | 2026-09-09 | A no-install needed GUI for Ollama and other local LLM providers. |
-| [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) | 1825 | 221 | Dart | 2026-10-03 | A modern and easy-to-use client for Ollama |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37847 | 4322 | TypeScript | 2026-11-25 | 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud. |
+| [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) | 1825 | 219 | Dart | 2026-10-03 | A modern and easy-to-use client for Ollama |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37894 | 4333 | TypeScript | 2026-11-26 | 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud. |
 | [Laszlobeer/AI-podcast](https://github.com/Laszlobeer/AI-podcast) | 17 | 1 | Python | 2026-02-17 | this is an easy way to make ai podcast useing ai loccaly like ollama and the tts of piper |
-| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 8480 | 614 | Rust | 2026-11-25 | Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU. |
-| [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) | 2789 | 308 | TypeScript | 2026-10-29 | Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely. |
-| [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) | 2587 | 450 | TypeScript | 2026-11-25 | An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. |
+| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 8922 | 648 | Rust | 2026-11-26 | Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU. |
+| [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) | 2790 | 307 | TypeScript | 2026-10-29 | Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely. |
+| [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) | 2588 | 453 | TypeScript | 2026-11-26 | An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone. |
 | [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) (fork) | 301 | 11 | JavaScript | 2025-04-03 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77337 | 8256 | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
-| [ollama/ollama](https://github.com/ollama/ollama) | 188122 | 19208 | Go | 2026-11-25 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 159555 | 23154 | Svelte | 2026-11-25 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77347 | 8257 | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [ollama/ollama](https://github.com/ollama/ollama) | 188233 | 19218 | Go | 2026-11-26 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 159639 | 23162 | Svelte | 2026-11-26 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) | 4792 | 585 | Python | 2026-11-03 | Lord of Large Language and Multi modal Systems Web User Interface |
-| [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 40 | 3 | Python | 2026-11-25 | 🤵 AIfred-Intelligence — self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS, voice cloning), camera surveillance, RAG with long-term memory, web research, plugin tool calling. Via Web UI, Telegram, Discord, email or Echo Dot voice terminal. Backends: llama.cpp/llama-swap, Ollama, vLLM, cloud APIs. |
-| [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) | 24505 | 2804 | Python | 2026-05-25 | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. |
-| [reorproject/reor](https://github.com/reorproject/reor) 🗄️ | 8524 | 524 | JavaScript | 2025-05-13 | Private & local AI personal knowledge management app for high entropy people. |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188189 | 45825 | Python | 2026-11-25 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 40 | 3 | Python | 2026-11-26 | 🤵 AIfred-Intelligence — self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS, voice cloning), camera surveillance, RAG with long-term memory, web research, plugin tool calling. Via Web UI, Telegram, Discord, email or Echo Dot voice terminal. Backends: llama.cpp/llama-swap, Ollama, vLLM, cloud APIs. |
+| [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) | 24525 | 2808 | Python | 2026-05-25 | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. |
+| [reorproject/reor](https://github.com/reorproject/reor) 🗄️ | 8525 | 524 | JavaScript | 2025-05-13 | Private & local AI personal knowledge management app for high entropy people. |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188204 | 45834 | Python | 2026-11-26 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
 | [tarun7r/deep-research-agent](https://github.com/tarun7r/deep-research-agent) | 192 | 34 | Python | 2026-04-04 | Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibility scoring and web search |
 | [Theblackcat98/veritas](https://github.com/Theblackcat98/veritas) | 1 | 0 | Rust | 2026-11-10 | Terminal chat app in Rust |
-| [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | 4982 | 355 | Python | 2026-09-23 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
+| [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | 4983 | 355 | Python | 2026-09-23 | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
 | [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) | 699 | 158 | Python | 2025-12-23 | Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.) |
 | [tuanlda78202/gpt-oss-amd](https://github.com/tuanlda78202/gpt-oss-amd) | 176 | 15 | C++ | 2025-10-25 | implement GPT-OSS 20B & 120B C++ inference from scratch on AMD GPUs |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 80245 | 7476 | Python | 2026-11-25 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. |
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97566 | 25294 | Python | 2026-11-25 | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 80305 | 7482 | Python | 2026-11-26 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 97645 | 25338 | Python | 2026-11-26 | A high-throughput and memory-efficient inference and serving engine for LLMs |
 
 </details>
 
@@ -1187,125 +1187,125 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) | 6261 | 423 | Shell | 2026-08-18 | A huge collection of polybar themes with different styles, colors and variants. |
-| [adi1090x/rofi](https://github.com/adi1090x/rofi) | 8848 | 401 | Shell | 2026-05-31 | A huge collection of Rofi based custom Applets, Launchers & Powermenus. |
-| [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 19986 | 3901 | Python | 2026-11-25 | Agent Zero AI framework |
+| [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) | 6261 | 422 | Shell | 2026-08-18 | A huge collection of polybar themes with different styles, colors and variants. |
+| [adi1090x/rofi](https://github.com/adi1090x/rofi) | 8851 | 400 | Shell | 2026-05-31 | A huge collection of Rofi based custom Applets, Launchers & Powermenus. |
+| [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 20001 | 3905 | Python | 2026-11-26 | Agent Zero AI framework |
 | [agronick/Flattery](https://github.com/agronick/Flattery) | 103 | 9 | Kotlin | 2025-02-02 | WearOS launcher designed to look like the Apple Watch launcher |
 | [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) | 122 | 26 | Rust | 2026-10-28 |  |
-| [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | 4738 | 248 | C++ | 2026-10-30 | Wallpaper Engine backgrounds for Linux! |
-| [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) (fork) | 1413 | 169 | C# | 2026-06-04 | GUI for apktool, signapk, zipalign and baksmali utilities. |
-| [android/nowinandroid](https://github.com/android/nowinandroid) | 22133 | 4733 | Kotlin | 2026-11-25 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
-| [anomalyco/opentui](https://github.com/anomalyco/opentui) | 13922 | 828 | TypeScript | 2026-11-25 | OpenTUI is a library to build terminal user interfaces (TUI) |
-| [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100378 | 54612 | TypeScript | 2026-11-25 | An enterprise-class UI design language and React UI library |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 21234 | 3533 | Python | 2026-11-06 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
-| [apitable/apitable](https://github.com/apitable/apitable) | 15674 | 1422 | TypeScript | 2026-09-06 | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
-| [aseprite/aseprite](https://github.com/aseprite/aseprite) | 41155 | 9566 | C++ | 2026-11-20 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165380 | 31034 | Python | 2026-03-02 | Stable Diffusion web UI |
+| [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | 4742 | 247 | C++ | 2026-10-30 | Wallpaper Engine backgrounds for Linux! |
+| [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) (fork) | 1414 | 169 | C# | 2026-06-04 | GUI for apktool, signapk, zipalign and baksmali utilities. |
+| [android/nowinandroid](https://github.com/android/nowinandroid) | 22138 | 4730 | Kotlin | 2026-11-26 | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [anomalyco/opentui](https://github.com/anomalyco/opentui) | 13931 | 830 | TypeScript | 2026-11-26 | OpenTUI is a library to build terminal user interfaces (TUI) |
+| [ant-design/ant-design](https://github.com/ant-design/ant-design) | 100393 | 54609 | TypeScript | 2026-11-26 | An enterprise-class UI design language and React UI library |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 21308 | 3542 | Python | 2026-11-06 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| [apitable/apitable](https://github.com/apitable/apitable) | 15679 | 1422 | TypeScript | 2026-09-06 | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
+| [aseprite/aseprite](https://github.com/aseprite/aseprite) | 41182 | 9572 | C++ | 2026-11-20 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165390 | 31026 | Python | 2026-03-02 | Stable Diffusion web UI |
 | [azianmike/fluid-chat](https://github.com/azianmike/fluid-chat) | 7 | 1 | TypeScript | 2026-10-03 | A free, open source chat alternative to Slack. |
 | [Babelruins/BlackCAT](https://github.com/Babelruins/BlackCAT) | 5 | 0 | Python | 2021-07-13 | Computer-assisted translation tool made in Python & Qt |
 | [backslash-app/backslash](https://github.com/backslash-app/backslash) | 275 | 17 | Rust | 2026-11-03 | A fast, extensible launcher for Linux with 300+ extensions. |
 | [bbidulock/icewm](https://github.com/bbidulock/icewm) | 711 | 109 | C++ | 2026-11-08 | A window manager designed for speed, usability, and consistency |
-| [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | 22729 | 995 | C# | 2026-09-07 | Remove large amounts of unwanted applications quickly. |
-| [bertof/nix-rice](https://github.com/bertof/nix-rice) | 113 | 5 | Nix | 2026-01-19 | A library to functionally define your configuration and theme (rice) with Nix |
-| [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 67464 | 12281 |  | 2026-10-18 | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more |
+| [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | 22750 | 995 | C# | 2026-09-07 | Remove large amounts of unwanted applications quickly. |
+| [bertof/nix-rice](https://github.com/bertof/nix-rice) | 114 | 5 | Nix | 2026-01-19 | A library to functionally define your configuration and theme (rice) with Nix |
+| [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 67474 | 12283 |  | 2026-11-26 | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more |
 | [btw-so/btw](https://github.com/btw-so/btw) | 1259 | 101 | JavaScript | 2026-08-15 | Open source Medium alternative- set up your personal blog in minutes. |
-| [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) | 15880 | 2600 | Jupyter Notebook | 2025-12-16 | stable diffusion webui colab |
-| [cascadefox/cascade](https://github.com/cascadefox/cascade) | 1606 | 141 | CSS | 2026-05-23 | A responsive One-Line CSS Theme for Firefox |
+| [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) | 15878 | 2600 | Jupyter Notebook | 2025-12-16 | stable diffusion webui colab |
+| [cascadefox/cascade](https://github.com/cascadefox/cascade) | 1607 | 141 | CSS | 2026-05-23 | A responsive One-Line CSS Theme for Firefox |
 | [casualsnek/cassowary](https://github.com/casualsnek/cassowary) | 3591 | 104 | Python | 2024-03-28 | Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 72939 | 4854 | HTML | 2026-11-25 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 73783 | 4926 | HTML | 2026-11-26 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 | [chaoticzeros/Icons8-downloader](https://github.com/chaoticzeros/Icons8-downloader) | 25 | 4 | Python | 2020-07-18 | Script to download PNG and ICO from Icons8 website |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148603 | 17712 | Python | 2026-11-25 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. |
-| [cozymantis/clothes-swap-salvton-comfyui-workflow](https://github.com/cozymantis/clothes-swap-salvton-comfyui-workflow) | 122 | 12 |  | 2024-04-04 | A ComfyUI workflow to dress your virtual influencer with real clothes. Made with 💚 by the CozyMantis squad. |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148760 | 17731 | Python | 2026-11-26 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. |
+| [cozymantis/clothes-swap-salvton-comfyui-workflow](https://github.com/cozymantis/clothes-swap-salvton-comfyui-workflow) | 121 | 12 |  | 2024-04-04 | A ComfyUI workflow to dress your virtual influencer with real clothes. Made with 💚 by the CozyMantis squad. |
 | [cozymantis/pose-generator-comfyui-node](https://github.com/cozymantis/pose-generator-comfyui-node) | 100 | 3 | Python | 2025-04-07 | Generate OpenPose face/body reference poses in ComfyUI with ease. Made with 💚 by the CozyMantis squad. |
 | [crackerica/Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software) | 94 | 9 | Python | 2018-05-14 |  |
 | [cryinkfly/Solid-Edge-for-Linux](https://github.com/cryinkfly/Solid-Edge-for-Linux) 🗄️ | 49 | 2 |  | 2026-02-20 | This is a project, where I give you a way to use Solid Edge on Linux! |
 | [d3ward/floatly](https://github.com/d3ward/floatly) | 111 | 12 | HTML | 2026-11-04 | An extension that adds a floating button for browser quick actions |
-| [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) | 1759 | 74 | CSS | 2026-11-25 | Firefox CSS Theme - Dark theme / More compact / Modular / Blur |
+| [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) | 1761 | 74 | CSS | 2026-11-25 | Firefox CSS Theme - Dark theme / More compact / Modular / Blur |
 | [ddPn08/automatic1111-colab](https://github.com/ddPn08/automatic1111-colab) | 369 | 78 | Jupyter Notebook | 2024-11-07 | Using StableDiffusion webui on Colab |
-| [egoist/waku](https://github.com/egoist/waku) | 1621 | 193 | Rust | 2026-10-02 | ⚡ A native app for all your coding agents. |
-| [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) | 2321 | 349 | TypeScript | 2026-11-25 | The best place to build with your AI sub |
-| [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | 3644 | 260 | Kotlin | 2026-11-10 | An application to write OS images to USB drives, on Android, no root required. |
-| [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) | 1405 | 47 | Python | 2026-11-01 | The next-generation framework for building desktop widgets using Python |
+| [egoist/waku](https://github.com/egoist/waku) | 1622 | 195 | Rust | 2026-10-02 | ⚡ A native app for all your coding agents. |
+| [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) | 2327 | 357 | TypeScript | 2026-11-26 | The best place to build with your AI sub |
+| [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | 3651 | 260 | Kotlin | 2026-11-10 | An application to write OS images to USB drives, on Android, no root required. |
+| [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) | 1406 | 47 | Python | 2026-11-01 | The next-generation framework for building desktop widgets using Python |
 | [ferreol-fr/ZUI14PCModeSwitch](https://github.com/ferreol-fr/ZUI14PCModeSwitch) | 8 | 3 | Java | 2023-01-22 | Application for Switching ZUI 14 to Desktop Mode on device screen (as the feature was hiden by Lenovo since ZUI14) |
-| [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) | 32814 | 1735 | TypeScript | 2026-11-12 | A JavaScript library to position floating elements and create interactions for them. |
-| [Fmstrat/winapps](https://github.com/Fmstrat/winapps) | 10261 | 450 | Shell | 2024-08-18 | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. |
-| [gabber-dev/gabber](https://github.com/gabber-dev/gabber) | 1109 | 105 | Python | 2025-12-20 | Build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs. |
-| [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 42033 | 2445 | JavaScript | 2024-07-28 | The best design tools and plugins for everything 👉 |
+| [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) | 32821 | 1737 | TypeScript | 2026-11-12 | A JavaScript library to position floating elements and create interactions for them. |
+| [Fmstrat/winapps](https://github.com/Fmstrat/winapps) | 10262 | 452 | Shell | 2024-08-18 | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. |
+| [gabber-dev/gabber](https://github.com/gabber-dev/gabber) | 1110 | 105 | Python | 2025-12-20 | Build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs. |
+| [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 42044 | 2449 | JavaScript | 2024-07-28 | The best design tools and plugins for everything 👉 |
 | [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) | 1105 | 50 | CSS | 2026-11-24 | Opera GX Skin for Firefox |
-| [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | 17984 | 2835 | Jupyter Notebook | 2026-11-25 | Examples and guides for using the Gemini API |
-| [google/material-design-icons](https://github.com/google/material-design-icons) | 54369 | 9755 |  | 2026-10-23 | Material Design icons by Google (Material Symbols) |
+| [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | 17998 | 2834 | Jupyter Notebook | 2026-11-26 | Examples and guides for using the Gemini API |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | 54371 | 9756 |  | 2026-10-23 | Material Design icons by Google (Material Symbols) |
 | [grommet/design-kit](https://github.com/grommet/design-kit) | 292 | 13 |  | 2019-05-26 | Grommet Design Kit |
-| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | 1608 | 83 | Shell | 2026-07-15 | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit |
-| [InioX/matugen](https://github.com/InioX/matugen) | 2132 | 66 | Rust | 2026-11-19 | A cross-platform material you and base16 color generation tool |
-| [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) | 9439 | 359 | Visual Basic .NET | 2026-10-24 | Reduce the space taken up by games and programs on disk by using native Windows APIs |
+| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | 1610 | 83 | Shell | 2026-07-15 | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit |
+| [InioX/matugen](https://github.com/InioX/matugen) | 2134 | 66 | Rust | 2026-11-19 | A cross-platform material you and base16 color generation tool |
+| [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) | 9460 | 360 | Visual Basic .NET | 2026-10-24 | Reduce the space taken up by games and programs on disk by using native Windows APIs |
 | [JaKooLit/Hyprland-v4](https://github.com/JaKooLit/Hyprland-v4) 🗄️ | 108 | 14 | CSS | 2024-06-02 | A re-structured Script and some features - This is a multiple waybar layout with Dark Light function based from my Hyprland-v3 |
-| [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 4288 | 188 | Markdown | 2026-11-18 | An agent skill that helps make your interface feel better. |
-| [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51799 | 10304 | Ruby | 2026-10-13 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
+| [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 4313 | 189 | Markdown | 2026-11-18 | An agent skill that helps make your interface feel better. |
+| [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51802 | 10301 | Ruby | 2026-10-13 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | [JesusChapman/changelua](https://github.com/JesusChapman/changelua) | 7 | 1 | Lua | 2021-10-08 | A simple program to change lua versions in termux |
-| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162848 | 14850 |  | 2024-06-25 | Master the command line, in one page |
+| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162844 | 14850 |  | 2024-06-25 | Master the command line, in one page |
 | [karakasis/Path-of-Leveling](https://github.com/karakasis/Path-of-Leveling) | 74 | 9 | Java | 2022-09-16 | A tool written in Java, with an interactive UI, for Path of Exile. Plan your leveling, track your XP and navigate through the acts. |
-| [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54682 | 6157 | Rust | 2024-08-29 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) |
+| [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54685 | 6158 | Rust | 2024-08-29 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) |
 | [leyrshroud/ZuiTranslator](https://github.com/leyrshroud/ZuiTranslator) | 15 | 1 |  | 2026-06-26 | Magisk module for ZUI 15/16 firmware localization, providing an enhanced user experience in Chinese firmware. |
 | [linebender/druid](https://github.com/linebender/druid) | 9696 | 563 | Rust | 2026-04-23 | A data-first Rust-native UI design toolkit. |
 | [luislve17/catree](https://github.com/luislve17/catree) | 6 | 0 | Shell | 2026-10-05 | CLI tool to recursively cat files |
 | [m-murasovs/amazon-bestsellers-scraper](https://github.com/m-murasovs/amazon-bestsellers-scraper) | 24 | 14 | JavaScript | 2023-02-04 | Amazon Bestsellers page scraper built using the Apify platform. Original built by me, then taken over by the team |
 | [marella/material-icons](https://github.com/marella/material-icons) | 378 | 42 | CSS | 2025-02-12 | Latest icon fonts and CSS for self-hosting material design icons. |
 | [marivaaldo/ESP32Marauder](https://github.com/marivaaldo/ESP32Marauder) (fork) | 78 | 11 | C++ | 2024-11-20 | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 |
-| [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) | 24233 | 3424 | SCSS | 2026-03-24 | Bootstrap 5 & Material Design UI KIT |
+| [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) | 24232 | 3423 | SCSS | 2026-03-24 | Bootstrap 5 & Material Design UI KIT |
 | [MehediH/i8](https://github.com/MehediH/i8) | 5 | 2 | JavaScript | 2024-02-13 | Chrome extension that downloads .svg icons from icons8 |
-| [meticha/material-3-expressive-catalog](https://github.com/meticha/material-3-expressive-catalog) | 227 | 31 | Kotlin | 2026-10-13 | Expressive Material 3 UI components catalog built with Jetpack Compose for Android developers. |
-| [MindWorkAI/AI-Studio](https://github.com/MindWorkAI/AI-Studio) | 594 | 61 | C# | 2026-11-25 | MindWork AI Studio is a free, independent cross-platform desktop app for local and cloud LLMs across providers, built to democratize AI access. |
+| [meticha/material-3-expressive-catalog](https://github.com/meticha/material-3-expressive-catalog) | 228 | 31 | Kotlin | 2026-10-13 | Expressive Material 3 UI components catalog built with Jetpack Compose for Android developers. |
+| [MindWorkAI/AI-Studio](https://github.com/MindWorkAI/AI-Studio) | 594 | 61 | C# | 2026-11-26 | MindWork AI Studio is a free, independent cross-platform desktop app for local and cloud LLMs across providers, built to democratize AI access. |
 | [MizardX/icons8-downloader](https://github.com/MizardX/icons8-downloader) | 1 | 1 |  | 2022-02-11 |  |
 | [Mortafix/i8-downloader](https://github.com/Mortafix/i8-downloader) | 3 | 0 | JavaScript | 2026-07-30 | Python module and Streamlit app to download icon from icons8.com |
 | [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) | 788 | 81 | JavaScript | 2023-06-16 | Implements QuickLook in Zotero |
 | [msmps/opentui-skill](https://github.com/msmps/opentui-skill) | 231 | 9 | Shell | 2026-08-27 | OpenTUI skill for use with OpenCode |
-| [mui/material-ui](https://github.com/mui/material-ui) | 99396 | 32455 | JavaScript | 2026-11-25 | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
-| [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9727 | 540 | Java | 2026-11-03 | A full-featured package manager and viewer for Android |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109480 | 12371 | TypeScript | 2026-11-25 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. |
+| [mui/material-ui](https://github.com/mui/material-ui) | 99401 | 32453 | JavaScript | 2026-11-26 | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
+| [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9740 | 540 | Java | 2026-11-03 | A full-featured package manager and viewer for Android |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109668 | 12378 | TypeScript | 2026-11-26 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. |
 | [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) | 1661 | 232 | C++ | 2025-07-12 | Network file transfer application for Windows, OS X, & Linux |
-| [niyumard/Doom-Emacs-Cheat-Sheet](https://github.com/niyumard/Doom-Emacs-Cheat-Sheet) | 745 | 72 |  | 2026-11-17 | This is a cheat sheet for doom emacs, mostly from the guides I see online. |
+| [niyumard/Doom-Emacs-Cheat-Sheet](https://github.com/niyumard/Doom-Emacs-Cheat-Sheet) | 746 | 72 |  | 2026-11-17 | This is a cheat sheet for doom emacs, mostly from the guides I see online. |
 | [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) 🗄️ | 976 | 62 | Dart | 2026-05-04 | XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps! |
 | [olegos2/termux-box](https://github.com/olegos2/termux-box) 🗄️ | 646 | 46 | Shell | 2024-01-16 |  |
-| [omacom/omarchy](https://github.com/omacom/omarchy) | 47601 | 6287 | Shell | 2026-11-25 | Beautiful, Modern & Opinionated Linux |
+| [omacom/omarchy](https://github.com/omacom/omarchy) | 47648 | 6310 | Shell | 2026-11-26 | Beautiful, Modern & Opinionated Linux |
 | [owndev/Open-WebUI-Functions](https://github.com/owndev/Open-WebUI-Functions) | 394 | 52 | Python | 2026-10-11 | Open-WebUI-Functions is a collection of custom pipelines, filters, and integrations designed to enhance Open WebUI. These functions enable seamless interactions with Azure AI, N8N, Google Gemini and other AI models, providing dynamic request handling, preprocessing, and automation. |
 | [oyesaifi/icons8free](https://github.com/oyesaifi/icons8free) | 1 | 0 | CSS | 2022-11-16 | Icons8 Premium icon downloader free! |
-| [palantir/blueprint](https://github.com/palantir/blueprint) | 22236 | 2376 | TypeScript | 2026-11-25 | A React-based UI toolkit for the web |
-| [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | 8227 | 512 | Shell | 2026-11-22 | Pixel perfect icon theme for Linux |
-| [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5548 | 2481 | Lua | 2026-11-25 | Offline build planner for Path of Exile. |
+| [palantir/blueprint](https://github.com/palantir/blueprint) | 22238 | 2377 | TypeScript | 2026-11-26 | A React-based UI toolkit for the web |
+| [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | 8228 | 512 | Shell | 2026-11-22 | Pixel perfect icon theme for Linux |
+| [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5552 | 2481 | Lua | 2026-11-26 | Offline build planner for Path of Exile. |
 | [PathOfBuildingCommunity/PathOfBuilding-PoE2-v2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2-v2) 🗄️ | 53 | 22 | Lua | 2025-10-17 | Temporary clone of PoB 2 so we can work on it until the main branch is fixed |
-| [penpot/penpot](https://github.com/penpot/penpot) | 62739 | 4464 | Clojure | 2026-11-25 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
-| [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | 7180 | 741 | TypeScript | 2026-11-25 | Visual builder for React. Build apps, websites, and content. Integrate with your codebase. |
+| [penpot/penpot](https://github.com/penpot/penpot) | 62789 | 4471 | Clojure | 2026-11-26 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) | 7180 | 741 | TypeScript | 2026-11-26 | Visual builder for React. Build apps, websites, and content. Integrate with your codebase. |
 | [pmndrs/leva](https://github.com/pmndrs/leva) | 6281 | 237 | TypeScript | 2025-11-09 | 🌋 React-first components GUI |
-| [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) | 10704 | 738 | TypeScript | 2026-09-04 | Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. |
+| [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) | 10705 | 737 | TypeScript | 2026-09-04 | Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. |
 | [PozzettiAndrea/ComfyUI-SAM3DBody](https://github.com/PozzettiAndrea/ComfyUI-SAM3DBody) | 346 | 38 | Python | 2026-08-24 | ComfyUI wrapper for sam-3d-body |
 | [PranshulGG/RecordMaster](https://github.com/PranshulGG/RecordMaster) 🗄️ | 111 | 10 | Kotlin | 2026-01-11 | Material expressive Record app for android 🎤⏺️ |
 | [ProjectJaneAI/Jane-AI](https://github.com/ProjectJaneAI/Jane-AI) | 1 | 0 |  | 2025-05-27 | A personal journey to build a voice-interactive AI companion named Jane—using Python, Linux, and Raspberry Pi. Designed to evolve, learn, and live alongside the user. |
-| [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5385 | 480 | C++ | 2026-11-25 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use. |
-| [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) | 25914 | 1387 | C# | 2026-11-16 | Bring macOS “Quick Look” feature to Windows |
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 17285 | 1774 | Python | 2026-03-04 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
-| [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | 984 | 81 | Rust | 2026-11-25 | Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization. |
-| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 6706 | 321 |  | 2026-11-06 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. |
-| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 5204 | 767 | Python | 2026-02-16 | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 129080 | 11440 | TypeScript | 2026-11-25 | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
+| [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5387 | 480 | C++ | 2026-11-26 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use. |
+| [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) | 25925 | 1387 | C# | 2026-11-26 | Bring macOS “Quick Look” feature to Windows |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 17292 | 1774 | Python | 2026-03-04 | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
+| [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) | 984 | 81 | Rust | 2026-11-26 | Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization. |
+| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 6724 | 322 |  | 2026-11-06 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. |
+| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 5206 | 768 | Python | 2026-02-16 | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 129169 | 11446 | TypeScript | 2026-11-26 | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
 | [ShoroukAziz/notion_widgets](https://github.com/ShoroukAziz/notion_widgets) | 645 | 2954 | HTML | 2024-12-24 | A set of HTML widgets that could be embedded into  Notion.so  https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/ |
-| [slab/quill](https://github.com/slab/quill) | 47382 | 3663 | TypeScript | 2025-07-25 | Quill is a modern WYSIWYG editor built for compatibility and extensibility |
+| [slab/quill](https://github.com/slab/quill) | 47383 | 3663 | TypeScript | 2025-07-25 | Quill is a modern WYSIWYG editor built for compatibility and extensibility |
 | [SohelIslamImran/ghosttime](https://github.com/SohelIslamImran/ghosttime) | 91 | 6 | TypeScript | 2026-04-25 | Ghostty animation for any terminal with customizable colors |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 42345 | 6509 | Rust | 2026-11-25 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 8487 | 3556 | Rust | 2026-11-25 | CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust |
-| [streamlit/streamlit](https://github.com/streamlit/streamlit) | 46507 | 4463 | Python | 2026-11-25 | Streamlit — The agent-native framework for data apps and dashboards. |
-| [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) | 7645 | 788 | TypeScript | 2026-06-29 | AI Product Design Agent - Open Source |
-| [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) | 2611 | 118 | TypeScript | 2026-11-21 | A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. |
-| [tabler/tabler-icons](https://github.com/tabler/tabler-icons) | 22819 | 1295 | JavaScript | 2026-11-25 | A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects. |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 42429 | 6522 | Rust | 2026-11-26 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 8521 | 3571 | Rust | 2026-11-26 | CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust |
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | 46516 | 4464 | Python | 2026-11-26 | Streamlit — The agent-native framework for data apps and dashboards. |
+| [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) | 7648 | 788 | TypeScript | 2026-06-29 | AI Product Design Agent - Open Source |
+| [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) | 2621 | 118 | TypeScript | 2026-11-21 | A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. |
+| [tabler/tabler-icons](https://github.com/tabler/tabler-icons) | 22841 | 1300 | JavaScript | 2026-11-25 | A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects. |
 | [Theblackcat98/Text-Adventure-TUI](https://github.com/Theblackcat98/Text-Adventure-TUI) | 2 | 1 | Python | 2026-10-17 | LLM-powered terminal text-adventure engine with branching narratives and persistent saves. |
-| [tixl3d/tixl](https://github.com/tixl3d/tixl) | 5201 | 287 | C# | 2026-11-25 | TiXL is an open source software to create realtime motion graphics. |
+| [tixl3d/tixl](https://github.com/tixl3d/tixl) | 5206 | 289 | C# | 2026-11-26 | TiXL is an open source software to create realtime motion graphics. |
 | [tomyeo88/youtube-analyzer-openwebui](https://github.com/tomyeo88/youtube-analyzer-openwebui) | 1 | 0 | Python | 2025-05-29 |  |
-| [vanjs-org/van](https://github.com/vanjs-org/van) | 4465 | 109 | JavaScript | 2026-11-01 | 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour. |
-| [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) | 1771 | 115 | SCSS | 2026-09-28 | MacOS Tahoe theme for gtk desktops |
+| [vanjs-org/van](https://github.com/vanjs-org/van) | 4466 | 109 | JavaScript | 2026-11-01 | 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour. |
+| [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) | 1774 | 116 | SCSS | 2026-09-28 | MacOS Tahoe theme for gtk desktops |
 | [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) | 7836 | 939 | JavaScript | 2023-07-13 | ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows. |
 | [w00000dy/WLED-GUI](https://github.com/w00000dy/WLED-GUI) | 282 | 15 | JavaScript | 2026-10-01 | Cross-platform desktop app for WLED |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 29200 | 2477 | JavaScript | 2026-10-18 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 29368 | 2491 | JavaScript | 2026-10-18 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |
 | [Xthebuilder/JRVS](https://github.com/Xthebuilder/JRVS) | 241 | 27 | Python | 2026-08-18 | JRVS Local AI Assitant RAG knowledge base Powered by whatever local AI you choose. |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 24125 | 836 | Go | 2026-11-25 | Pretty fancy and modern terminal file manager |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 24136 | 837 | Go | 2026-11-25 | Pretty fancy and modern terminal file manager |
 
 </details>
 
@@ -1318,120 +1318,120 @@ Click a category to jump to it, then expand its section to see the repos.
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
 | [Abaan404/dotfiles](https://github.com/Abaan404/dotfiles) | 149 | 7 | QML | 2026-08-16 |  |
-| [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) | 1927 | 70 | C# | 2026-10-31 | Advanced Windows Appearance Editor |
+| [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) | 1928 | 70 | C# | 2026-10-31 | Advanced Windows Appearance Editor |
 | [abhidahal/onsetGlaze.flow](https://github.com/abhidahal/onsetGlaze.flow) | 95 | 4 |  | 2026-07-27 | onesetGlaze.flow Theme for Flowlauncher |
-| [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) | 17852 | 10301 | SCSS | 2026-11-18 | Github Pages template based upon HTML and Markdown for personal, portfolio-based websites. |
-| [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) | 6261 | 423 | Shell | 2026-08-18 | A huge collection of polybar themes with different styles, colors and variants. |
-| [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 14051 | 3428 | HTML | 2026-10-25 | A fast, clean, responsive Hugo theme. |
-| [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | 4738 | 248 | C++ | 2026-10-30 | Wallpaper Engine backgrounds for Linux! |
+| [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) | 17852 | 10297 | SCSS | 2026-11-18 | Github Pages template based upon HTML and Markdown for personal, portfolio-based websites. |
+| [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) | 6261 | 422 | Shell | 2026-08-18 | A huge collection of polybar themes with different styles, colors and variants. |
+| [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 14056 | 3428 | HTML | 2026-10-25 | A fast, clean, responsive Hugo theme. |
+| [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) | 4742 | 247 | C++ | 2026-10-30 | Wallpaper Engine backgrounds for Linux! |
 | [Andrewcpu/EnableTaskbar](https://github.com/Andrewcpu/EnableTaskbar) | 9 | 3 | Java | 2023-03-06 | Lsposed module to enable the Android 13 taskbar on mobile devices without modifying launcher grid size. |
-| [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) | 2133 | 987 | Markdown | 2024-09-28 | 🤝 Awesome List of GIFs & avatars to use in GitHub. |
-| [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | 3462 | 234 | CSS | 2024-12-01 | Personal theme for Obsidian |
-| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 11100 | 1153 | JavaScript | 2026-11-13 | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
+| [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) | 2134 | 987 | Markdown | 2024-09-28 | 🤝 Awesome List of GIFs & avatars to use in GitHub. |
+| [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | 3463 | 234 | CSS | 2024-12-01 | Personal theme for Obsidian |
+| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 11119 | 1158 | JavaScript | 2026-11-13 | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai |
 | [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) 🗄️ | 1561 | 129 | Python | 2026-01-29 | A hackable shell for Hyprland, powered by Fabric. |
 | [Aylur/dotfiles](https://github.com/Aylur/dotfiles) | 3100 | 137 | Lua | 2026-10-17 | My personal config files |
-| [bertof/nix-rice](https://github.com/bertof/nix-rice) | 113 | 5 | Nix | 2026-01-19 | A library to functionally define your configuration and theme (rice) with Nix |
-| [cascadefox/cascade](https://github.com/cascadefox/cascade) | 1606 | 141 | CSS | 2026-05-23 | A responsive One-Line CSS Theme for Firefox |
-| [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 19979 | 362 | TypeScript | 2026-07-25 | 😸 Soothing pastel theme for the high-spirited! |
+| [bertof/nix-rice](https://github.com/bertof/nix-rice) | 114 | 5 | Nix | 2026-01-19 | A library to functionally define your configuration and theme (rice) with Nix |
+| [cascadefox/cascade](https://github.com/cascadefox/cascade) | 1607 | 141 | CSS | 2026-05-23 | A responsive One-Line CSS Theme for Firefox |
+| [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | 19981 | 362 | TypeScript | 2026-07-25 | 😸 Soothing pastel theme for the high-spirited! |
 | [catppuccin/github](https://github.com/catppuccin/github) 🗄️ | 276 | 19 | CSS | 2023-07-22 | 🐈‍⬛ Soothing pastel theme for GitHub |
-| [catppuccin/home-assistant](https://github.com/catppuccin/home-assistant) | 518 | 24 |  | 2026-11-24 | 🏠 Soothing pastel theme for Home Assistant |
-| [catppuccin/mdBook](https://github.com/catppuccin/mdBook) | 231 | 14 | Handlebars | 2026-11-23 | 🎊 Soothing pastel theme for mdBook |
+| [catppuccin/home-assistant](https://github.com/catppuccin/home-assistant) | 518 | 23 |  | 2026-11-24 | 🏠 Soothing pastel theme for Home Assistant |
+| [catppuccin/mdBook](https://github.com/catppuccin/mdBook) | 232 | 14 | Handlebars | 2026-11-23 | 🎊 Soothing pastel theme for mdBook |
 | [catppuccin/reddit](https://github.com/catppuccin/reddit) 🗄️ | 32 | 1 | CSS | 2023-07-22 | ⬆️ Soothing pastel theme for Reddit |
 | [catppuccin/sharex](https://github.com/catppuccin/sharex) | 40 | 2 | Nix | 2026-04-05 | 📸 Soothing pastel theme & image effects for ShareX |
 | [catppuccin/spicetify](https://github.com/catppuccin/spicetify) | 606 | 32 | CSS | 2025-10-22 | 🎧 Soothing pastel theme for Spotify |
-| [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) | 536 | 17 | SCSS | 2026-11-21 | 💨 Soothing pastel theme for Tailwind CSS |
-| [catppuccin/telegram](https://github.com/catppuccin/telegram) | 309 | 19 | Just | 2025-06-07 | 💬 Soothing pastel theme for Telegram |
+| [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) | 537 | 17 | SCSS | 2026-11-26 | 💨 Soothing pastel theme for Tailwind CSS |
+| [catppuccin/telegram](https://github.com/catppuccin/telegram) | 308 | 19 | Just | 2025-06-07 | 💬 Soothing pastel theme for Telegram |
 | [catppuccin/theme.park](https://github.com/catppuccin/theme.park) | 18 | 0 | CSS | 2026-06-18 | 🎢 Soothing pastel theme for theme.park |
-| [catppuccin/windows-files](https://github.com/catppuccin/windows-files) | 203 | 7 | PowerShell | 2026-06-20 | 🍪 Soothing pastel theme for Windows Files |
+| [catppuccin/windows-files](https://github.com/catppuccin/windows-files) | 204 | 7 | PowerShell | 2026-06-20 | 🍪 Soothing pastel theme for Windows Files |
 | [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) | 809 | 56 | JavaScript | 2026-10-25 | Stay comfy while listening to music |
-| [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) | 1616 | 37 | JavaScript | 2026-11-23 | The ultimate theme manager for Firefox-based browsers. |
+| [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) | 1618 | 37 | JavaScript | 2026-11-23 | The ultimate theme manager for Firefox-based browsers. |
 | [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) | 568 | 25 | Lua | 2025-03-22 | A theme for AwesomeWM |
-| [d3/d3](https://github.com/d3/d3) | 114016 | 22642 | Shell | 2026-11-23 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
-| [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) | 5835 | 17290 | HTML | 2026-10-15 | ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com |
-| [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) | 1759 | 74 | CSS | 2026-11-25 | Firefox CSS Theme - Dark theme / More compact / Modular / Blur |
+| [d3/d3](https://github.com/d3/d3) | 114019 | 22643 | Shell | 2026-11-23 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
+| [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) | 5834 | 17288 | HTML | 2026-10-15 | ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com |
+| [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) | 1761 | 74 | CSS | 2026-11-25 | Firefox CSS Theme - Dark theme / More compact / Modular / Blur |
 | [derekbar90/opencode-conductor](https://github.com/derekbar90/opencode-conductor) | 134 | 10 | TypeScript | 2026-03-02 |  |
-| [elkowar/eww](https://github.com/elkowar/eww) | 12781 | 543 | Rust | 2026-07-17 | ElKowars wacky widgets |
-| [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) | 16725 | 1446 | QML | 2026-11-15 | Usability-first dotfiles |
-| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 18677 | 698 | Rust | 2026-11-25 | The Fully Customizable Desktop Environment for Windows 10/11. |
-| [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) | 1405 | 47 | Python | 2026-11-01 | The next-generation framework for building desktop widgets using Python |
-| [Fmstrat/winapps](https://github.com/Fmstrat/winapps) | 10261 | 450 | Shell | 2024-08-18 | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. |
-| [frostybiscuit/transparent-zen](https://github.com/frostybiscuit/transparent-zen) | 213 | 39 | CSS | 2026-10-26 | A browser extension specifically for Zen Browser to make websites transparent and match the browsers aesthetics |
-| [fufexan/dotfiles](https://github.com/fufexan/dotfiles) | 1158 | 53 | Nix | 2026-11-18 | NixOS system config & Home-Manager user config |
+| [elkowar/eww](https://github.com/elkowar/eww) | 12785 | 542 | Rust | 2026-07-17 | ElKowars wacky widgets |
+| [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) | 16739 | 1446 | QML | 2026-11-15 | Usability-first dotfiles |
+| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 18696 | 698 | Rust | 2026-11-26 | The Fully Customizable Desktop Environment for Windows 10/11. |
+| [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) | 1406 | 47 | Python | 2026-11-01 | The next-generation framework for building desktop widgets using Python |
+| [Fmstrat/winapps](https://github.com/Fmstrat/winapps) | 10262 | 452 | Shell | 2024-08-18 | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. |
+| [frostybiscuit/transparent-zen](https://github.com/frostybiscuit/transparent-zen) | 212 | 39 | CSS | 2026-10-26 | A browser extension specifically for Zen Browser to make websites transparent and match the browsers aesthetics |
+| [fufexan/dotfiles](https://github.com/fufexan/dotfiles) | 1159 | 53 | Nix | 2026-11-18 | NixOS system config & Home-Manager user config |
 | [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) | 1105 | 50 | CSS | 2026-11-24 | Opera GX Skin for Firefox |
 | [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) | 600 | 45 | Rust | 2026-11-25 | A modern GTK4-based window switcher and application launcher for Hyprland |
-| [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) | 18696 | 2091 | JavaScript | 2026-10-06 | Minimal templating on steroids. |
-| [HugoBlox/kit](https://github.com/HugoBlox/kit) | 9803 | 2946 | HTML | 2026-08-04 | 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇 |
+| [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) | 18695 | 2089 | JavaScript | 2026-10-06 | Minimal templating on steroids. |
+| [HugoBlox/kit](https://github.com/HugoBlox/kit) | 9803 | 2945 | HTML | 2026-08-04 | 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇 |
 | [hyper-dot/Arch-Hyprland](https://github.com/hyper-dot/Arch-Hyprland) | 304 | 20 | Shell | 2023-10-17 | Arch linux hyprland setup |
-| [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) | 5414 | 189 |  | 2026-10-30 | Awesome list for Hyprland [maintainer=@yavko] |
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 40781 | 2206 | C++ | 2026-11-25 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) | 1483 | 214 | C++ | 2026-11-16 | Official plugins for Hyprland |
+| [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) | 5420 | 191 |  | 2026-10-30 | Awesome list for Hyprland [maintainer=@yavko] |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 40801 | 2208 | C++ | 2026-11-26 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) | 1485 | 214 | C++ | 2026-11-16 | Official plugins for Hyprland |
 | [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) | 1154 | 65 | C++ | 2026-11-16 | A wlroots-compatible Wayland color picker that does not suck. |
-| [imfing/hextra](https://github.com/imfing/hextra) | 2429 | 443 | HTML | 2026-11-21 | 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites |
+| [imfing/hextra](https://github.com/imfing/hextra) | 2432 | 443 | HTML | 2026-11-21 | 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites |
 | [InioX/dotfiles](https://github.com/InioX/dotfiles) | 106 | 3 |  | 2026-11-20 | My personal dotfiles for NixOS, Arch, Windows, and Android. |
 | [InioX/matugen-themes](https://github.com/InioX/matugen-themes) | 537 | 79 | CSS | 2026-11-01 |  |
 | [JaKooLit/Hyprland-v4](https://github.com/JaKooLit/Hyprland-v4) 🗄️ | 108 | 14 | CSS | 2024-06-02 | A re-structured Script and some features - This is a multiple waybar layout with Dark Light function based from my Hyprland-v3 |
-| [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | 485 | 58 | Rust | 2026-11-19 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player. |
+| [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | 486 | 58 | Rust | 2026-11-19 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player. |
 | [jasonlong/cayman-theme](https://github.com/jasonlong/cayman-theme) | 1535 | 310 | CSS | 2023-10-04 | A responsive theme for GitHub Pages |
 | [jeffshee/hidamari](https://github.com/jeffshee/hidamari) | 2154 | 86 | Python | 2026-07-09 | Video wallpaper for Linux. Written in Python. 🐍 |
 | [jimaldon/openwebui-omnibox](https://github.com/jimaldon/openwebui-omnibox) | 1 | 0 | TypeScript | 2026-10-29 | Firefox and Chrome addon to use the address bar to launch chats & searches on a locally hosted OpenWebUI |
 | [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) | 894 | 28 | TypeScript | 2026-10-27 | Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation. |
-| [JRufer/VoxCtrl](https://github.com/JRufer/VoxCtrl) | 31 | 6 | Rust | 2026-11-24 | Use key or voice commands to direct your voice to any app or service you require, local or remote. |
+| [JRufer/VoxCtrl](https://github.com/JRufer/VoxCtrl) | 31 | 6 | Rust | 2026-11-26 | Use key or voice commands to direct your voice to any app or service you require, local or remote. |
 | [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) | 1132 | 47 | CSS | 2026-08-22 | MacOS Tahoe inspired theme for GNOME |
-| [khanhas/Polybar](https://github.com/khanhas/Polybar) | 522 | 28 | C++ | 2023-01-03 | A bar |
+| [khanhas/Polybar](https://github.com/khanhas/Polybar) | 523 | 28 | C++ | 2023-01-03 | A bar |
 | [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) | 1328 | 90 | C++ | 2026-10-30 | Workspace overview plugin for Hyprland |
-| [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | 15414 | 382 | Rust | 2026-11-15 | A tiling window manager for Windows 🍉 |
-| [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) | 1005 | 39 | CSS | 2026-08-18 | My Hyprland dotfiles |
+| [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | 15421 | 382 | Rust | 2026-11-15 | A tiling window manager for Windows 🍉 |
+| [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles) | 1006 | 39 | CSS | 2026-08-18 | My Hyprland dotfiles |
 | [logicalman3812/hyprdots](https://github.com/logicalman3812/hyprdots) | 35 | 0 | Lua | 2024-10-08 | my personal dotfiles for hyprland |
 | [lukeorth/poison](https://github.com/lukeorth/poison) | 322 | 140 | JavaScript | 2024-09-05 | Professional Hugo theme for dev bloggers.  Based on Mdo's classic Hyde theme. |
-| [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) | 3274 | 155 | Kotlin | 2026-11-17 | Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style. |
+| [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) | 3277 | 155 | Kotlin | 2026-11-17 | Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style. |
 | [marhkb/pods](https://github.com/marhkb/pods) | 1119 | 41 | Rust | 2026-10-22 | Manage your containers |
 | [martin-braun/CocChad](https://github.com/martin-braun/CocChad) 🗄️ | 18 | 6 | Lua | 2024-07-16 | My NvChad customs for coc.nvim, nvim-dap, VSCode, FireNvim etc. |
-| [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) | 785 | 45 | CSS | 2026-10-17 | 💄 Yet another Aesthetic Hyprland Config |
-| [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) | 24233 | 3424 | SCSS | 2026-03-24 | Bootstrap 5 & Material Design UI KIT |
-| [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) | 5284 | 162 | C# | 2026-07-17 | Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11. |
-| [Misterio77/Foundry](https://github.com/Misterio77/Foundry) | 1352 | 57 | Nix | 2026-11-25 | Personal monorepo. NixOS+home-manager configs, website, and other projects. |
-| [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 13606 | 27041 | HTML | 2026-10-09 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
+| [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) | 784 | 45 | CSS | 2026-10-17 | 💄 Yet another Aesthetic Hyprland Config |
+| [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) | 24232 | 3423 | SCSS | 2026-03-24 | Bootstrap 5 & Material Design UI KIT |
+| [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) | 5285 | 163 | C# | 2026-07-17 | Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11. |
+| [Misterio77/Foundry](https://github.com/Misterio77/Foundry) | 1354 | 57 | Nix | 2026-11-25 | Personal monorepo. NixOS+home-manager configs, website, and other projects. |
+| [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 13605 | 27045 | HTML | 2026-10-09 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
 | [mui-toolkit/mui-toolkit](https://github.com/mui-toolkit/mui-toolkit) | 18 | 0 | JavaScript | 2023-01-09 | A custom theme editor for Material UI |
 | [NakedTrashPanda/OneCommander-Catppuccin-Theme](https://github.com/NakedTrashPanda/OneCommander-Catppuccin-Theme) | 23 | 0 |  | 2026-10-27 | Catppuccin theme for the file manager "OneCommander" |
-| [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 3156 | 215 | C++ | 2025-06-30 | 🎨 A secure boot compatible in-memory UxTheme patcher |
-| [NarYuki/Dextop](https://github.com/NarYuki/Dextop) | 1247 | 81 | Kotlin | 2026-11-23 | Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device. |
+| [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 3157 | 215 | C++ | 2025-06-30 | 🎨 A secure boot compatible in-memory UxTheme patcher |
+| [NarYuki/Dextop](https://github.com/NarYuki/Dextop) | 1249 | 81 | Kotlin | 2026-11-23 | Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device. |
 | [nathanhoulamy/wallrice](https://github.com/nathanhoulamy/wallrice) | 195 | 6 | TypeScript | 2026-06-27 | WallRice is a modern web app to transform your images with beautiful color palettes. Upload, select colors, and create stunning colorized wallpapers in seconds. |
 | [Neurarian/matshell](https://github.com/Neurarian/matshell) | 84 | 5 | TypeScript | 2026-08-18 | Material Design themed GTK4 desktop & laptop shell / bar for Hyprland and River. Built with Astal / AGS. |
-| [neuromorph/openbar](https://github.com/neuromorph/openbar) | 626 | 36 | JavaScript | 2025-10-05 | A GNOME Shell extension for theming Gnome Top Bar / Top Panel, Menus, Dash/Dock, Gnome Shell and Gtk/Flatpak Apps. |
+| [neuromorph/openbar](https://github.com/neuromorph/openbar) | 626 | 37 | JavaScript | 2025-10-05 | A GNOME Shell extension for theming Gnome Top Bar / Top Panel, Menus, Dash/Dock, Gnome Shell and Gtk/Flatpak Apps. |
 | [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) | 1089 | 18 | CSS | 2026-09-29 | Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors |
 | [one-aalam/astro-ink](https://github.com/one-aalam/astro-ink) | 597 | 89 | Astro | 2025-11-03 | Crisp, minimal, personal blog theme for Astro |
 | [orderedlist/minimal](https://github.com/orderedlist/minimal) | 2476 | 871 | CSS | 2023-10-10 | A Theme for GitHub Pages |
 | [Owloops/lnko](https://github.com/Owloops/lnko) | 80 | 0 | Lua | 2026-11-13 | Simple stow-like dotfile linker |
-| [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | 8227 | 512 | Shell | 2026-11-22 | Pixel perfect icon theme for Linux |
+| [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | 8228 | 512 | Shell | 2026-11-22 | Pixel perfect icon theme for Linux |
 | [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) | 8461 | 845 | Shell | 2025-03-23 | // Aesthetic, dynamic and minimal dots for Arch hyprland |
 | [RobotoSkunk/ff-better-findbar](https://github.com/RobotoSkunk/ff-better-findbar) | 76 | 16 | CSS | 2026-11-25 | A mod for Firefox-based browsers |
 | [rose-pine/windows-terminal](https://github.com/rose-pine/windows-terminal) | 121 | 9 |  | 2026-06-22 | Soho vibes for Windows Terminal |
 | [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) 🗄️ | 466 | 34 | Nix | 2024-01-15 | My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes |
-| [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) 🗄️ | 1791 | 261 | AutoHotkey | 2023-10-19 | An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers. |
-| [sejjy/mechabar](https://github.com/sejjy/mechabar) | 888 | 77 | CSS | 2026-11-15 | A mecha-themed Waybar configuration |
-| [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) | 3132 | 83 | C# | 2026-11-20 | Phone Link / KDE Connect alternative |
-| [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) | 14581 | 4403 | Shell | 2026-11-19 | The configuration framework for Zsh |
+| [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) 🗄️ | 1793 | 261 | AutoHotkey | 2023-10-19 | An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers. |
+| [sejjy/mechabar](https://github.com/sejjy/mechabar) | 888 | 77 | CSS | 2026-11-26 | A mecha-themed Waybar configuration |
+| [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) | 3135 | 83 | C# | 2026-11-20 | Phone Link / KDE Connect alternative |
+| [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) | 14582 | 4402 | Shell | 2026-11-19 | The configuration framework for Zsh |
 | [Ssoupp/Gnome-Topbar-Rose-Pine-dots](https://github.com/Ssoupp/Gnome-Topbar-Rose-Pine-dots) | 24 | 2 | CSS | 2025-09-22 |  |
 | [stepanzubkov/where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme) | 462 | 32 | QML | 2025-07-01 | :eyes: The most minimalistic and highly customizable SDDM theme. |
-| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 5686 | 1576 | Rust | 2026-11-25 | The Craft App Launcher |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 5702 | 1583 | Rust | 2026-11-26 | The Craft App Launcher |
 | [Theblackcat98/termux-ui](https://github.com/Theblackcat98/termux-ui) | 1 | 0 | Go | 2026-11-19 | Single-binary TUI for Termux: settings, extra keys, themes, fonts, shell setup, and a front-end to core-termux |
 | [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) | 3115 | 828 | CSS | 2026-11-17 | A collection of themes/skins for 50 selfhosted apps! |
 | [theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) | 120 | 23 | JavaScript | 2022-04-21 | A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files. |
-| [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) | 8170 | 1746 | Shell | 2026-09-03 | A set of vim, zsh, git, and tmux configuration files. |
+| [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) | 8171 | 1746 | Shell | 2026-09-03 | A set of vim, zsh, git, and tmux configuration files. |
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2800 | 247 | C# | 2024-07-04 | Lightweight utility for organizing the taskbar through groups |
-| [tobi/disktree](https://github.com/tobi/disktree) | 4289 | 280 | Rust | 2026-10-23 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
-| [Vendicated/Vencord](https://github.com/Vendicated/Vencord) | 14584 | 2791 | TypeScript | 2026-11-25 | The cutest Discord modification |
-| [vicinaehq/extensions](https://github.com/vicinaehq/extensions) | 163 | 201 | TypeScript | 2026-11-20 | Vicinae extensions published to the vicinae store |
-| [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) | 1771 | 115 | SCSS | 2026-09-28 | MacOS Tahoe theme for gtk desktops |
+| [tobi/disktree](https://github.com/tobi/disktree) | 4333 | 284 | Rust | 2026-11-26 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| [Vendicated/Vencord](https://github.com/Vendicated/Vencord) | 14590 | 2792 | TypeScript | 2026-11-26 | The cutest Discord modification |
+| [vicinaehq/extensions](https://github.com/vicinaehq/extensions) | 164 | 201 | TypeScript | 2026-11-20 | Vicinae extensions published to the vicinae store |
+| [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) | 1774 | 116 | SCSS | 2026-09-28 | MacOS Tahoe theme for gtk desktops |
 | [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) | 11301 | 923 |  | 2026-09-25 | Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features |
 | [vizenc/material-darker-jdownloader](https://github.com/vizenc/material-darker-jdownloader) | 345 | 9 |  | 2026-02-06 | JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance. |
 | [vv9k/vim-github-dark](https://github.com/vv9k/vim-github-dark) | 188 | 18 | Vim Script | 2023-06-12 | A dark GitHub theme for Vim and NeoVim |
 | [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | 10950 | 376 |  | 2026-10-11 | A curated list of dotfiles resources. |
-| [winthemers/wiki](https://github.com/winthemers/wiki) | 201 | 2 | HTML | 2022-08-22 | 📚 Guides you need to start your windows ricing journey. |
+| [winthemers/wiki](https://github.com/winthemers/wiki) | 202 | 2 | HTML | 2022-08-22 | 📚 Guides you need to start your windows ricing journey. |
 | [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) | 1270 | 26 | Python | 2024-11-05 | Fluent theme for qBitTorrent |
 | [xou816/spot](https://github.com/xou816/spot) | 2363 | 130 | Rust | 2025-10-13 | UNMAINTAINED! Please check out active forks |
-| [yagnikpt/dotfiles](https://github.com/yagnikpt/dotfiles) | 29 | 0 | Shell | 2026-11-23 | my config files for linux and tools. |
-| [you-apps/WallYou](https://github.com/you-apps/WallYou) | 1503 | 65 | Kotlin | 2026-10-29 | Privacy focused wallpaper app built with MD3 |
+| [yagnikpt/dotfiles](https://github.com/yagnikpt/dotfiles) | 29 | 0 | Shell | 2026-11-26 | my config files for linux and tools. |
+| [you-apps/WallYou](https://github.com/you-apps/WallYou) | 1505 | 66 | Kotlin | 2026-10-29 | Privacy focused wallpaper app built with MD3 |
 | [youpie/Iconic](https://github.com/youpie/Iconic) | 62 | 11 | Rust | 2026-08-09 | An application made for GNOME written in Rust to easilly add images on top of folders |
 | [zhaleff/hyprdots](https://github.com/zhaleff/hyprdots) | 23 | 2 | Shell | 2026-10-25 | Minimal configuration, weasome setup 🍁🍁 |
 
@@ -1445,35 +1445,35 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [alexwohlbruck/cat-facts](https://github.com/alexwohlbruck/cat-facts) | 570 | 101 | JavaScript | 2026-02-01 | Daily cat facts! 🐱 |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 72639 | 11700 | Python | 2026-11-24 | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily. |
+| [alexwohlbruck/cat-facts](https://github.com/alexwohlbruck/cat-facts) | 571 | 100 | JavaScript | 2026-02-01 | Daily cat facts! 🐱 |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 72705 | 11707 | Python | 2026-11-26 | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily. |
 | [Astropilot/ValheimTooler](https://github.com/Astropilot/ValheimTooler) 🗄️ | 83 | 21 | C# | 2026-11-03 | A fancy cheats tool for the Valheim game |
-| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 22244 | 786 | PowerShell | 2026-11-24 | An open and lightweight modification to Windows, designed to optimise performance, privacy and usability. |
+| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 22269 | 787 | PowerShell | 2026-11-26 | An open and lightweight modification to Windows, designed to optimise performance, privacy and usability. |
 | [chatbotde/buddydesktop](https://github.com/chatbotde/buddydesktop) | 1 | 0 | JavaScript | 2025-11-01 |  |
 | [cpcloud/minesweep-rs](https://github.com/cpcloud/minesweep-rs) 🗄️ | 234 | 11 | Rust | 2025-06-08 | Sweep some mines for fun, and probably not for profit. |
-| [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19919 | 5907 | Java | 2026-11-25 | Open source agentic operating system |
-| [f1xpl/openauto](https://github.com/f1xpl/openauto) | 2952 | 546 | C++ | 2024-12-12 | AndroidAuto headunit emulator |
-| [hackerkid/bots](https://github.com/hackerkid/bots) | 1583 | 189 |  | 2024-02-23 | :zap: Tools for building bots |
-| [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 27375 | 4273 | Java | 2026-11-23 | A tool for reverse engineering Android apk files |
-| [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) | 9439 | 359 | Visual Basic .NET | 2026-10-24 | Reduce the space taken up by games and programs on disk by using native Windows APIs |
+| [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19925 | 5909 | Java | 2026-11-26 | Open source agentic operating system |
+| [f1xpl/openauto](https://github.com/f1xpl/openauto) | 2952 | 547 | C++ | 2024-12-12 | AndroidAuto headunit emulator |
+| [hackerkid/bots](https://github.com/hackerkid/bots) | 1583 | 188 |  | 2024-02-23 | :zap: Tools for building bots |
+| [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 27385 | 4275 | Java | 2026-11-23 | A tool for reverse engineering Android apk files |
+| [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) | 9460 | 360 | Visual Basic .NET | 2026-10-24 | Reduce the space taken up by games and programs on disk by using native Windows APIs |
 | [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) | 2 | 1 | Go | 2025-12-08 | Diablo 4 event bot |
 | [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) | 894 | 28 | TypeScript | 2026-10-27 | Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation. |
 | [kzrtn/unnamed-3k-v2](https://github.com/kzrtn/unnamed-3k-v2) | 72 | 6 | Python | 2022-11-05 | A simple 3 key QMK hotswap keypad for osu! |
-| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 39550 | 4768 | Python | 2026-05-01 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. |
+| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 39554 | 4767 | Python | 2026-05-01 | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. |
 | [lukegarbutt/RunescapeBots](https://github.com/lukegarbutt/RunescapeBots) | 91 | 23 | Python | 2021-03-14 | A collection of Runescape bots with the goal of botting to max |
 | [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) | 297 | 38 | TypeScript | 2026-09-29 | LLMX; Easiest 3rd party Local LLM UI for the web! |
 | [MrMarble/drg-editor](https://github.com/MrMarble/drg-editor) | 43 | 38 | TypeScript | 2023-07-19 | Deep Rock galactic save editor |
 | [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) | 1676 | 105 | GDScript | 2026-11-01 | Template for top-down shooter, with solutions for tough problems. |
-| [niyumard/Doom-Emacs-Cheat-Sheet](https://github.com/niyumard/Doom-Emacs-Cheat-Sheet) | 745 | 72 |  | 2026-11-17 | This is a cheat sheet for doom emacs, mostly from the guides I see online. |
-| [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | 16645 | 3557 | C++ | 2026-11-25 | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
-| [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) | 21619 | 1987 | TypeScript | 2025-07-06 | Drag and Drop for React |
+| [niyumard/Doom-Emacs-Cheat-Sheet](https://github.com/niyumard/Doom-Emacs-Cheat-Sheet) | 746 | 72 |  | 2026-11-17 | This is a cheat sheet for doom emacs, mostly from the guides I see online. |
+| [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | 16659 | 3565 | C++ | 2026-11-26 | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
+| [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) | 21619 | 1986 | TypeScript | 2025-07-06 | Drag and Drop for React |
 | [RobotoSkunk/ff-better-findbar](https://github.com/RobotoSkunk/ff-better-findbar) | 76 | 16 | CSS | 2026-11-25 | A mod for Firefox-based browsers |
 | [RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask](https://github.com/RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask) | 288 | 15 |  | 2026-07-24 | Steps to root Bluestacks 5 with Kitsune Mask without any external tools. |
-| [Saramagrean/CWCheat-Database-Plus-](https://github.com/Saramagrean/CWCheat-Database-Plus-) | 852 | 111 |  | 2026-11-24 | Cheat Database for PPSSPP/PSP |
-| [smallcatlabs/acquisition-qt](https://github.com/smallcatlabs/acquisition-qt) (fork) | 47 | 7 | C++ | 2026-11-25 | Offline item searches and forum shop management for Path of Exile since 2014 |
+| [Saramagrean/CWCheat-Database-Plus-](https://github.com/Saramagrean/CWCheat-Database-Plus-) | 853 | 111 |  | 2026-11-26 | Cheat Database for PPSSPP/PSP |
+| [smallcatlabs/acquisition-qt](https://github.com/smallcatlabs/acquisition-qt) (fork) | 47 | 7 | C++ | 2026-11-26 | Offline item searches and forum shop management for Path of Exile since 2014 |
 | [TehCheat/PoEHelper](https://github.com/TehCheat/PoEHelper) | 157 | 84 | PowerShell | 2024-03-15 | Compiled version of Qvin0000's ExileAPI to make things easy |
 | [The-Grand-Archives/Dark-Souls-III-CT-TGA](https://github.com/The-Grand-Archives/Dark-Souls-III-CT-TGA) | 177 | 20 | C | 2025-05-19 | Dark Souls III Cheat Engine table maintained by The Grand Archives. |
-| [vsmode/pixel8](https://github.com/vsmode/pixel8) | 2123 | 64 | JavaScript | 2024-06-06 | A collection of low-res primitives for creating art and games in React |
+| [vsmode/pixel8](https://github.com/vsmode/pixel8) | 2122 | 64 | JavaScript | 2024-06-06 | A collection of low-res primitives for creating art and games in React |
 | [yumedev40/Yume-Visual-Novel-Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) | 96 | 4 | GDScript | 2020-02-13 | Yume is an addon for the Godot game engine that provides an integrated editor for creating visual novel games. |
 
 </details>
@@ -1486,19 +1486,19 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 22244 | 786 | PowerShell | 2026-11-24 | An open and lightweight modification to Windows, designed to optimise performance, privacy and usability. |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 340460 | 15944 |  | 2026-11-25 | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) | 6402 | 605 | Python | 2025-08-20 | Scanning APK file for URIs, endpoints & secrets. |
-| [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | 485 | 58 | Rust | 2026-11-19 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player. |
+| [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) | 22269 | 787 | PowerShell | 2026-11-26 | An open and lightweight modification to Windows, designed to optimise performance, privacy and usability. |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 340774 | 15954 |  | 2026-11-25 | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) | 6403 | 605 | Python | 2025-08-20 | Scanning APK file for URIs, endpoints & secrets. |
+| [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | 486 | 58 | Rust | 2026-11-19 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player. |
 | [josippapez/webos_lockout](https://github.com/josippapez/webos_lockout) | 5 | 0 | Shell | 2026-10-27 | Blocks LG webOS TV telemetry egress at boot on a rooted TV, via the Homebrew Channel init.d hook |
-| [morluto/rea](https://github.com/morluto/rea) | 478354 | 116360 | TypeScript | 2026-11-25 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 12215 | 1632 | JavaScript | 2026-11-25 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
-| [Psyhackological/AAA](https://github.com/Psyhackological/AAA) | 3197 | 88 |  | 2026-11-04 | :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy! |
+| [morluto/rea](https://github.com/morluto/rea) | 479667 | 116609 | TypeScript | 2026-11-26 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 12271 | 1641 | JavaScript | 2026-11-26 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. |
+| [Psyhackological/AAA](https://github.com/Psyhackological/AAA) | 3196 | 88 |  | 2026-11-04 | :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy! |
 | [sybil-solutions/ai-data-extraction](https://github.com/sybil-solutions/ai-data-extraction) | 1361 | 118 | Python | 2026-10-07 | extract all your personal data history from cursor, codex, claude-code, windsurf, and trae |
-| [throwaway96/slopbro](https://github.com/throwaway96/slopbro) | 854 | 55 | Python | 2026-11-09 | PoC for jsserver vulnerability in webOS 3.5+(?) |
+| [throwaway96/slopbro](https://github.com/throwaway96/slopbro) | 858 | 56 | Python | 2026-11-09 | PoC for jsserver vulnerability in webOS 3.5+(?) |
 | [wrefgtzweve/combo-gen](https://github.com/wrefgtzweve/combo-gen) | 4 | 1 | Go | 2024-02-16 | A tool to generate realistic looking email:pass combinations |
 | [you-apps/ClockYou](https://github.com/you-apps/ClockYou) | 711 | 45 | Kotlin | 2026-11-25 | Privacy focused clock app built with MD3 |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 45256 | 6770 | PowerShell | 2026-11-14 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 45299 | 6778 | PowerShell | 2026-11-14 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
 </details>
 
@@ -1511,46 +1511,46 @@ Click a category to jump to it, then expand its section to see the repos.
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
 | [actuallyakshat/epoch](https://github.com/actuallyakshat/epoch) | 38 | 0 | TypeScript | 2026-01-04 | a modern tui application that helps you stay on top of your tasks without ever leaving your terminal |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62322 | 3655 | Python | 2026-11-25 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 28814 | 3073 | Rust | 2026-11-15 | Get 10X more out of Claude Code, Codex or any coding agent |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62597 | 3674 | Python | 2026-11-25 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 28832 | 3073 | Rust | 2026-11-15 | Get 10X more out of Claude Code, Codex or any coding agent |
 | [bluzi/awesome-google-tasks](https://github.com/bluzi/awesome-google-tasks) | 114 | 22 | JavaScript | 2023-03-04 | :rocket: Google Tasks for humans: Alternative Web UI for Google Tasks made with React |
 | [btw-so/btw](https://github.com/btw-so/btw) | 1259 | 101 | JavaScript | 2026-08-15 | Open source Medium alternative- set up your personal blog in minutes. |
 | [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter) | 246 | 183 | Dart | 2026-10-09 | This is the repo of mobile app of taskwarrior |
-| [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) | 6192 | 384 | Python | 2026-11-13 | A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application. |
-| [chindaronit/Flux](https://github.com/chindaronit/Flux) | 361 | 20 | Kotlin | 2026-10-25 | Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it evolves. |
+| [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) | 6197 | 384 | Python | 2026-11-13 | A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application. |
+| [chindaronit/Flux](https://github.com/chindaronit/Flux) | 362 | 20 | Kotlin | 2026-10-25 | Flux is an open-source Android app built around flexible workspaces and customizable spaces—enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it evolves. |
 | [darrikonn/td-cli](https://github.com/darrikonn/td-cli) | 215 | 10 | Python | 2026-04-14 | A todo command line todo manager ✔️ |
 | [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) | 912 | 45 | TypeScript | 2026-11-25 | Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free! |
-| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28547 | 2638 | JavaScript | 2026-04-28 | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. |
-| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 18677 | 698 | Rust | 2026-11-25 | The Fully Customizable Desktop Environment for Windows 10/11. |
-| [FancyWM/fancywm](https://github.com/FancyWM/fancywm) | 1257 | 54 | C# | 2026-09-21 | FancyWM - Dynamic Tiling Window Manager for Windows |
-| [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | 1586 | 159 | TypeScript | 2026-11-25 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers. |
-| [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | 2155 | 423 | JavaScript | 2026-10-07 | Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules. |
-| [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | 1350 | 127 | TypeScript | 2024-06-13 | Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books. |
+| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28555 | 2640 | JavaScript | 2026-04-28 | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. |
+| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 18696 | 698 | Rust | 2026-11-26 | The Fully Customizable Desktop Environment for Windows 10/11. |
+| [FancyWM/fancywm](https://github.com/FancyWM/fancywm) | 1258 | 54 | C# | 2026-09-21 | FancyWM - Dynamic Tiling Window Manager for Windows |
+| [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | 1588 | 159 | TypeScript | 2026-11-26 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers. |
+| [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | 2157 | 424 | JavaScript | 2026-10-07 | Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules. |
+| [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | 1351 | 127 | TypeScript | 2024-06-13 | Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books. |
 | [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) 🗄️ | 156 | 62 | Go | 2023-07-12 | simple GitHub action to parse Markdown Links into a .json file for Hugo |
-| [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51799 | 10304 | Ruby | 2026-10-13 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
-| [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) | 5879 | 510 | JavaScript | 2026-11-16 | A simple, distributed task scheduler and runner with a web based UI. |
-| [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) | 5217 | 475 | TypeScript | 2023-07-23 | An open source project management tool with Kanban boards |
+| [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51802 | 10301 | Ruby | 2026-10-13 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
+| [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) | 5883 | 510 | JavaScript | 2026-11-16 | A simple, distributed task scheduler and runner with a web based UI. |
+| [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) | 5216 | 475 | TypeScript | 2023-07-23 | An open source project management tool with Kanban boards |
 | [kiblee/tod0](https://github.com/kiblee/tod0) | 142 | 24 | Python | 2026-07-10 | A Terminal Client for Microsoft To-Do |
 | [knennigtri/merge-markdown](https://github.com/knennigtri/merge-markdown) | 101 | 12 | JavaScript | 2026-01-26 | A tool to take in a list of markdown files and merge them with optional HTML/PDF output |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 42208 | 4841 | TypeScript | 2026-11-18 | An Open Source implementation of Notebook LM with more flexibility and features |
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 29266 | 5508 |  | 2026-08-12 | Notes of the book System Desgin Interview - An Insider's Guide |
-| [Make-md/makemd](https://github.com/Make-md/makemd) | 2052 | 92 | TypeScript | 2026-07-09 |  |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 198452 | 15064 | Python | 2026-11-07 | Python tool for converting files and office documents to Markdown. |
-| [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | 16429 | 1263 | TypeScript | 2026-11-23 | Omnivore is a complete, open source read-it-later solution for people who like reading. |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 42249 | 4845 | TypeScript | 2026-11-18 | An Open Source implementation of Notebook LM with more flexibility and features |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 29342 | 5529 |  | 2026-08-12 | Notes of the book System Desgin Interview - An Insider's Guide |
+| [Make-md/makemd](https://github.com/Make-md/makemd) | 2051 | 92 | TypeScript | 2026-07-09 |  |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 198605 | 15084 | Python | 2026-11-07 | Python tool for converting files and office documents to Markdown. |
+| [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) | 16432 | 1262 | TypeScript | 2026-11-23 | Omnivore is a complete, open source read-it-later solution for people who like reading. |
 | [one-aalam/astro-ink](https://github.com/one-aalam/astro-ink) | 597 | 89 | Astro | 2025-11-03 | Crisp, minimal, personal blog theme for Astro |
 | [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) | 129 | 16 | Lua | 2024-08-04 |  |
-| [saber-notes/saber](https://github.com/saber-notes/saber) | 5080 | 436 | Dart | 2026-11-24 | The cross-platform open-source app built for handwriting |
-| [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 7796 | 1698 |  | 2025-11-05 | A simple task management system for managing AI dev agents |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 18575 | 5158 | Rust | 2026-11-25 | WordCraft: an open-source, clean-room word processor in pure Rust |
+| [saber-notes/saber](https://github.com/saber-notes/saber) | 5085 | 437 | Dart | 2026-11-26 | The cross-platform open-source app built for handwriting |
+| [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 7799 | 1698 |  | 2025-11-05 | A simple task management system for managing AI dev agents |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 18620 | 5167 | Rust | 2026-11-26 | WordCraft: an open-source, clean-room word processor in pure Rust |
 | [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) | 259 | 35 | JavaScript | 2022-11-15 | A knowledge management garden for https://obsidian.md, in which to grow your ideas |
 | [tbabej/taskwiki](https://github.com/tbabej/taskwiki) | 915 | 103 | Python | 2025-06-14 | Proper project management with Taskwarrior in vim. |
 | [Textualize/frogmouth](https://github.com/Textualize/frogmouth) | 3326 | 84 | Python | 2024-08-01 | A Markdown browser for your terminal |
 | [Theblackcat98/tui-kanban](https://github.com/Theblackcat98/tui-kanban) | 1 | 0 | Rust | 2026-10-30 | A beautiful terminal Kanban board built with Rust and Ratatui |
 | [theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) | 120 | 23 | JavaScript | 2022-04-21 | A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files. |
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2800 | 247 | C# | 2024-07-04 | Lightweight utility for organizing the taskbar through groups |
-| [usamaiqb/mark-reader](https://github.com/usamaiqb/mark-reader) | 56 | 5 | Kotlin | 2026-11-25 | Offline markdown and code reader with syntax highlighting |
-| [usememos/memos](https://github.com/usememos/memos) | 64692 | 4988 | Go | 2026-11-25 | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. |
-| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 10712 | 359 | C++ | 2026-11-25 | A focused launcher for your desktop - native, fast, extensible |
+| [usamaiqb/mark-reader](https://github.com/usamaiqb/mark-reader) | 58 | 5 | Kotlin | 2026-11-25 | Offline markdown and code reader with syntax highlighting |
+| [usememos/memos](https://github.com/usememos/memos) | 64712 | 4998 | Go | 2026-11-26 | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. |
+| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 10723 | 359 | C++ | 2026-11-25 | A focused launcher for your desktop - native, fast, extensible |
 
 </details>
 
@@ -1562,54 +1562,54 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) | 553 | 65 | TypeScript | 2026-08-16 | A Model-Context Protocol Server for YouTube |
+| [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) | 554 | 64 | TypeScript | 2026-08-16 | A Model-Context Protocol Server for YouTube |
 | [arch-fan/neovim-raspberry](https://github.com/arch-fan/neovim-raspberry) | 14 | 5 | Shell | 2024-08-01 | Steps for building/installing neovim newer versions on Raspberry Pi (64-bit). Can also be used on any ARM device which accepts DEB. |
 | [architectds/collabosm](https://github.com/architectds/collabosm) | 105 | 6 | Python | 2026-10-10 | A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Windows, macOS, Linux. |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 340460 | 15944 |  | 2026-11-25 | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 340774 | 15954 |  | 2026-11-25 | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) | 6205 | 252 | Go | 2026-11-12 | ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot) |
-| [beclab/Olares](https://github.com/beclab/Olares) | 5383 | 341 | Go | 2026-11-25 | Open-Source Personal Cloud OS for Always-On Agents |
-| [beromir/Servas](https://github.com/beromir/Servas) | 842 | 39 | Svelte | 2026-11-20 | A self-hosted bookmark management tool. |
+| [beclab/Olares](https://github.com/beclab/Olares) | 5384 | 341 | Go | 2026-11-26 | Open-Source Personal Cloud OS for Always-On Agents |
+| [beromir/Servas](https://github.com/beromir/Servas) | 843 | 39 | Svelte | 2026-11-20 | A self-hosted bookmark management tool. |
 | [BrainDriveAI/BrainDrive-Core](https://github.com/BrainDriveAI/BrainDrive-Core) 🗄️ | 36 | 9 | Python | 2026-03-08 | ⚠️ Archived — BrainDrive is building a new system on personalaiarchitecture.org |
-| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 30190 | 2955 | Shell | 2026-11-25 | Proxmox VE Helper-Scripts (Community Edition) |
-| [docker/compose](https://github.com/docker/compose) | 39096 | 6050 | Go | 2026-11-25 | Define and run multi-container applications with Docker |
+| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 30192 | 2954 | Shell | 2026-11-26 | Proxmox VE Helper-Scripts (Community Edition) |
+| [docker/compose](https://github.com/docker/compose) | 39127 | 6053 | Go | 2026-11-26 | Define and run multi-container applications with Docker |
 | [dondai1234/master-fetch](https://github.com/dondai1234/master-fetch) | 911 | 79 | Python | 2026-07-24 | MCP server for web fetching with Cloudflare bypass, Trafilatura extraction, and smart routing. Free, self-hosted, no API keys. |
-| [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) | 2652 | 139 | Kotlin | 2026-11-25 | A material you designed app for your ADB needs |
+| [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) | 2659 | 141 | Kotlin | 2026-11-26 | A material you designed app for your ADB needs |
 | [dstark5/Openlib](https://github.com/dstark5/Openlib) | 2527 | 138 | Dart | 2026-01-18 | An Open source app to download and read books from shadow library (Anna’s Archive) |
 | [eflynch/magnolial](https://github.com/eflynch/magnolial) | 36 | 6 | SCSS | 2023-01-06 | Workflowy Inspired Self-Hosted Nested List Webapp |
-| [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) | 2140 | 224 | JavaScript | 2026-11-25 | Ever® Traduora™ - Open Translation Management Platform - https://traduora.co |
-| [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | 5269 | 412 | TypeScript | 2026-11-21 | Exa MCP for web search and web crawling! |
-| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12855 | 1553 | Python | 2026-11-25 | A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym) |
+| [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) | 2140 | 224 | JavaScript | 2026-11-26 | Ever® Traduora™ - Open Translation Management Platform - https://traduora.co |
+| [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | 5272 | 412 | TypeScript | 2026-11-21 | Exa MCP for web search and web crawling! |
+| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | 12859 | 1554 | Python | 2026-11-25 | A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym) |
 | [flesler/mcp-tasks](https://github.com/flesler/mcp-tasks) | 47 | 8 | TypeScript | 2026-08-06 | A comprehensive and efficient MCP server for task management with multi-format support (Markdown, JSON, YAML) |
-| [gethomepage/homepage](https://github.com/gethomepage/homepage) | 33826 | 2183 | JavaScript | 2026-11-25 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. |
-| [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | 1586 | 159 | TypeScript | 2026-11-25 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers. |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 59254 | 7428 | Go | 2026-11-25 | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
+| [gethomepage/homepage](https://github.com/gethomepage/homepage) | 33839 | 2184 | JavaScript | 2026-11-26 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. |
+| [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) | 1588 | 159 | TypeScript | 2026-11-26 | TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers. |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 59277 | 7433 | Go | 2026-11-26 | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
 | [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) | 768 | 77 | Python | 2026-01-27 | Context Portal (ConPort): A memory bank MCP server building a project-specific knowledge graph to supercharge AI assistants. Enables powerful Retrieval Augmented Generation (RAG) for context-aware development in your IDE. |
-| [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) | 5879 | 510 | JavaScript | 2026-11-16 | A simple, distributed task scheduler and runner with a web based UI. |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 30845 | 1678 | TypeScript | 2026-11-25 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
-| [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) | 5312 | 1698 | Java | 2024-07-17 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) | 5883 | 510 | JavaScript | 2026-11-16 | A simple, distributed task scheduler and runner with a web based UI. |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 30870 | 1680 | TypeScript | 2026-11-25 | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search |
+| [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) | 5312 | 1699 | Java | 2024-07-17 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
 | [Kovah/LinkAce](https://github.com/Kovah/LinkAce) | 3355 | 212 | PHP | 2026-11-23 | LinkAce is a self-hosted archive to collect links of your favorite websites. |
 | [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) 🗄️ | 2596 | 262 | Go | 2026-08-21 | A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted. |
 | [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) 🗄️ | 859 | 130 | Python | 2025-02-02 | An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend. |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 92249 | 11991 | TypeScript | 2026-11-25 | Model Context Protocol Reference Servers |
-| [moodlebox/moodlebox](https://github.com/moodlebox/moodlebox) | 147 | 31 | Jinja | 2026-11-01 | A Moodle server and Wi-Fi router on Raspberry Pi Zero 2w, 3, 4 and 5 |
-| [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) | 1976 | 360 | JavaScript | 2026-11-25 | Interactive interface for browsing global, full-resolution satellite imagery |
-| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10900 | 1135 | PHP | 2026-11-25 | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
-| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 95961 | 2044 | Python | 2026-11-24 | Self-hosted AI workspace. |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 92281 | 11994 | TypeScript | 2026-11-25 | Model Context Protocol Reference Servers |
+| [moodlebox/moodlebox](https://github.com/moodlebox/moodlebox) | 148 | 31 | Jinja | 2026-11-01 | A Moodle server and Wi-Fi router on Raspberry Pi Zero 2w, 3, 4 and 5 |
+| [nasa-gibs/worldview](https://github.com/nasa-gibs/worldview) | 1977 | 360 | JavaScript | 2026-11-25 | Interactive interface for browsing global, full-resolution satellite imagery |
+| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10906 | 1134 | PHP | 2026-11-26 | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
+| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 95997 | 2047 | Python | 2026-11-26 | Self-hosted AI workspace. |
 | [open-webui/mcpo](https://github.com/open-webui/mcpo) | 4431 | 516 | Python | 2026-11-25 | A simple, secure MCP-to-OpenAPI proxy server |
 | [perslev/CanvasSync](https://github.com/perslev/CanvasSync) | 96 | 41 | Python | 2025-05-04 | Synchronise modules, assignments and files located on a Canvas by Instructure web server to your local computer. |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 98504 | 20926 |  | 2026-11-25 | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 98535 | 21004 |  | 2026-11-26 | A collection of MCP servers. |
 | [refreshdotdev/web-eval-agent](https://github.com/refreshdotdev/web-eval-agent) 🗄️ | 1230 | 109 | Python | 2026-02-11 | An MCP server that autonomously evaluates web applications. |
-| [Roy3838/Observer](https://github.com/Roy3838/Observer) | 1819 | 160 | TypeScript | 2026-11-25 | The micro-agent orchestrator that monitors anything for you. Running completely locally. Open Source. |
+| [Roy3838/Observer](https://github.com/Roy3838/Observer) | 1819 | 160 | TypeScript | 2026-11-26 | The micro-agent orchestrator that monitors anything for you. Running on local models. Open Source. |
 | [rumaan/astro-vercel-og](https://github.com/rumaan/astro-vercel-og) | 16 | 3 | TypeScript | 2023-03-12 | Demo for generating dynamic OG Image using satori served from Astro Server Endpoint using Vercel Serverless Functions |
-| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 47388 | 3138 | TypeScript | 2026-11-25 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 |
-| [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) | 658 | 138 | Python | 2026-11-23 | Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. |
-| [TechHutTV/homelab](https://github.com/TechHutTV/homelab) | 3231 | 294 |  | 2026-11-17 | Homelab stacks, templates, and more fun resources! |
+| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 47431 | 3139 | TypeScript | 2026-11-26 | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 |
+| [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX) | 661 | 138 | Python | 2026-11-23 | Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. |
+| [TechHutTV/homelab](https://github.com/TechHutTV/homelab) | 3233 | 294 |  | 2026-11-17 | Homelab stacks, templates, and more fun resources! |
 | [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) | 3115 | 828 | CSS | 2026-11-17 | A collection of themes/skins for 50 selfhosted apps! |
-| [traefik/traefik](https://github.com/traefik/traefik) | 65699 | 6323 | Go | 2026-11-25 | The Cloud Native Application Proxy |
+| [traefik/traefik](https://github.com/traefik/traefik) | 65732 | 6323 | Go | 2026-11-26 | The Cloud Native Application Proxy |
 | [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) | 351 | 32 | TypeScript | 2025-11-20 | Vibe coding should have human in the loop! interactive-mcp: Local, cross-platform MCP server for interact with your AI Agent |
-| [upstash/context7](https://github.com/upstash/context7) | 65461 | 3271 | TypeScript | 2026-11-25 | Context7 Platform -- Up-to-date docs for AI agents |
-| [usememos/memos](https://github.com/usememos/memos) | 64692 | 4988 | Go | 2026-11-25 | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. |
-| [yourselfhosted/slash](https://github.com/yourselfhosted/slash) | 3193 | 147 | TypeScript | 2026-08-24 | An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. |
+| [upstash/context7](https://github.com/upstash/context7) | 65520 | 3274 | TypeScript | 2026-11-26 | Context7 Platform -- Up-to-date docs for AI agents |
+| [usememos/memos](https://github.com/usememos/memos) | 64712 | 4998 | Go | 2026-11-26 | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. |
+| [yourselfhosted/slash](https://github.com/yourselfhosted/slash) | 3194 | 147 | TypeScript | 2026-08-24 | An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. |
 
 </details>
 
@@ -1621,35 +1621,35 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [code-charity/youtube](https://github.com/code-charity/youtube) | 4698 | 1040 | JavaScript | 2026-11-16 | YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback\|discovery\|extra player buttons\|quality\|codec\|full tab\|full screen\|no distraction\|shorts} |
+| [code-charity/youtube](https://github.com/code-charity/youtube) | 4700 | 1041 | JavaScript | 2026-11-16 | YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback\|discovery\|extra player buttons\|quality\|codec\|full tab\|full screen\|no distraction\|shorts} |
 | [Comfy-Themes/Spicetify](https://github.com/Comfy-Themes/Spicetify) | 809 | 56 | JavaScript | 2026-10-25 | Stay comfy while listening to music |
-| [fmhy/edit](https://github.com/fmhy/edit) | 12980 | 3380 | JavaScript | 2026-11-25 | Make changes to FMHY |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 32520 | 3468 | Python | 2026-09-15 | Automate the process of making money online. |
-| [gokadzev/Musify](https://github.com/gokadzev/Musify) | 4484 | 437 | Dart | 2026-11-23 | Unlock the full potential of music: Stream effortlessly with one app! |
-| [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) | 2896 | 797 | Jupyter Notebook | 2026-11-23 |  |
+| [fmhy/edit](https://github.com/fmhy/edit) | 12990 | 3383 | JavaScript | 2026-11-26 | Make changes to FMHY |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 32574 | 3472 | Python | 2026-09-15 | Automate the process of making money online. |
+| [gokadzev/Musify](https://github.com/gokadzev/Musify) | 4485 | 437 | Dart | 2026-11-23 | Unlock the full potential of music: Stream effortlessly with one app! |
+| [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) | 2897 | 797 | Jupyter Notebook | 2026-11-23 |  |
 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 73 | 3 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
 | [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) | 1522 | 465 | TypeScript | 2025-06-21 | Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API. |
 | [hyepartners-gmail/vibevideo-mcp](https://github.com/hyepartners-gmail/vibevideo-mcp) | 217 | 23 | TypeScript | 2025-06-05 | Agent MCP for ffmpeg |
-| [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) 🗄️ | 26922 | 2288 | HTML | 2023-06-18 | A curated list of awesome warez and piracy links |
-| [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) | 1200 | 53 | TypeScript | 2026-08-04 | Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore |
+| [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) 🗄️ | 26920 | 2290 | HTML | 2023-06-18 | A curated list of awesome warez and piracy links |
+| [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) | 1201 | 53 | TypeScript | 2026-08-04 | Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore |
 | [jeffshee/hidamari](https://github.com/jeffshee/hidamari) | 2154 | 86 | Python | 2026-07-09 | Video wallpaper for Linux. Written in Python. 🐍 |
-| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 31024 | 1594 | Kotlin | 2026-11-25 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
+| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 31054 | 1597 | Kotlin | 2026-11-25 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
 | [KonradIT/goprowifihack](https://github.com/KonradIT/goprowifihack) 🗄️ | 2175 | 334 |  | 2023-05-03 | Unofficial GoPro WiFi API Documentation - HTTP GET requests for commands, status, livestreaming and media query. |
 | [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) 🗄️ | 2596 | 262 | Go | 2026-08-21 | A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted. |
-| [qsniyg/maxurl](https://github.com/qsniyg/maxurl) | 1665 | 101 | JavaScript | 2026-11-25 | Finds larger/original versions of images and videos |
-| [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | 11336 | 820 | Kotlin | 2024-10-06 | Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud. |
-| [spicetify/cli](https://github.com/spicetify/cli) | 25627 | 1019 | JavaScript | 2026-11-20 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
-| [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | 26966 | 2333 | Python | 2026-11-22 | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 19037 | 7636 | Rust | 2026-11-25 | FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust |
-| [team-spotube/spotube](https://github.com/team-spotube/spotube) | 50946 | 2425 | Kotlin | 2026-11-21 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [qsniyg/maxurl](https://github.com/qsniyg/maxurl) | 1666 | 101 | JavaScript | 2026-11-25 | Finds larger/original versions of images and videos |
+| [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | 11337 | 819 | Kotlin | 2024-10-06 | Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud. |
+| [spicetify/cli](https://github.com/spicetify/cli) | 25640 | 1019 | JavaScript | 2026-11-20 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
+| [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | 26980 | 2338 | Python | 2026-11-22 | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 19076 | 7651 | Rust | 2026-11-26 | FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust |
+| [team-spotube/spotube](https://github.com/team-spotube/spotube) | 50965 | 2427 | Kotlin | 2026-11-26 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [tomyeo88/youtube-analyzer-openwebui](https://github.com/tomyeo88/youtube-analyzer-openwebui) | 1 | 0 | Python | 2025-05-29 |  |
 | [Unrud/video-downloader](https://github.com/Unrud/video-downloader) | 1242 | 145 | Python | 2026-11-24 | Download videos from websites like YouTube and many others (based on yt-dlp) |
 | [ysharma3501/FastNeuTTS](https://github.com/ysharma3501/FastNeuTTS) | 119 | 10 | Python | 2025-11-24 | A highly optimized engine for neutts-air model to generate minutes of audio in seconds. Over 200x realtime on modern hardware! |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 210705 | 18653 | Python | 2026-11-24 | A feature-rich command-line audio/video downloader |
-| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141656 | 10677 | Python | 2026-11-06 | Command-line program to download videos from YouTube.com and other video sites |
-| [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | 6779 | 650 | TypeScript | 2026-11-06 | A Desktop App for YouTube Music |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 210965 | 18685 | Python | 2026-11-24 | A feature-rich command-line audio/video downloader |
+| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141665 | 10676 | Python | 2026-11-06 | Command-line program to download videos from YouTube.com and other video sites |
+| [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | 6780 | 650 | TypeScript | 2026-11-26 | A Desktop App for YouTube Music |
 | [zai-org/GLM-V](https://github.com/zai-org/GLM-V) | 2409 | 196 | Python | 2026-11-06 | GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning |
-| [zcraber/Freebies-Hub](https://github.com/zcraber/Freebies-Hub) | 268 | 32 |  | 2026-11-03 | Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc. |
+| [zcraber/Freebies-Hub](https://github.com/zcraber/Freebies-Hub) | 268 | 33 |  | 2026-11-03 | Curated list of some super-useful but not-so-popular websites which offer FREE downloadables like images, vectors, videos, music, templates etc. |
 
 </details>
 
@@ -1662,20 +1662,20 @@ Click a category to jump to it, then expand its section to see the repos.
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
 | [aat440hz/SSHClient-M5Cardputer](https://github.com/aat440hz/SSHClient-M5Cardputer) | 64 | 3 | C++ | 2023-12-30 |  |
-| [FancyWM/fancywm](https://github.com/FancyWM/fancywm) | 1257 | 54 | C# | 2026-09-21 | FancyWM - Dynamic Tiling Window Manager for Windows |
+| [FancyWM/fancywm](https://github.com/FancyWM/fancywm) | 1258 | 54 | C# | 2026-09-21 | FancyWM - Dynamic Tiling Window Manager for Windows |
 | [fernandofatech/tool-m5cardputer-sshclient](https://github.com/fernandofatech/tool-m5cardputer-sshclient) | 70 | 13 | C++ | 2026-09-29 | M5Cardputer SSH client experiment for embedded, IoT and developer tooling portfolio work. |
-| [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 16101 | 691 | C# | 2026-11-15 | :mag: Quick file search & app launcher for Windows with community-made plugins |
-| [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3373 | 412 | Java | 2026-11-22 | A lightweight keyboard for Android |
+| [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 16103 | 691 | C# | 2026-11-26 | :mag: Quick file search & app launcher for Windows with community-made plugins |
+| [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3376 | 412 | Java | 2026-11-26 | A lightweight keyboard for Android |
 | [kzrtn/unnamed-3k-v2](https://github.com/kzrtn/unnamed-3k-v2) | 72 | 6 | Python | 2022-11-05 | A simple 3 key QMK hotswap keypad for osu! |
-| [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) | 24247 | 4579 | JavaScript | 2026-11-18 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. |
+| [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) | 24250 | 4578 | JavaScript | 2026-11-26 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. |
 | [marivaaldo/ESP32Marauder](https://github.com/marivaaldo/ESP32Marauder) (fork) | 78 | 11 | C++ | 2024-11-20 | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 |
-| [moodlebox/moodlebox](https://github.com/moodlebox/moodlebox) | 147 | 31 | Jinja | 2026-11-01 | A Moodle server and Wi-Fi router on Raspberry Pi Zero 2w, 3, 4 and 5 |
-| [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) | 1334 | 209 | C | 2026-07-15 | M5 Stick C firmware for high-tech pranks and digital self defense |
+| [moodlebox/moodlebox](https://github.com/moodlebox/moodlebox) | 148 | 31 | Jinja | 2026-11-01 | A Moodle server and Wi-Fi router on Raspberry Pi Zero 2w, 3, 4 and 5 |
+| [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) | 1335 | 208 | C | 2026-07-15 | M5 Stick C firmware for high-tech pranks and digital self defense |
 | [pr3y/bruce_old](https://github.com/pr3y/bruce_old) 🗄️ (fork) | 173 | 20 | C | 2024-06-01 | M5 Cardputer firmware for offensive pranks |
 | [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) | 433 | 66 | Python | 2024-04-14 | A 12 key macropad running KMK |
-| [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) 🗄️ | 1791 | 261 | AutoHotkey | 2023-10-19 | An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers. |
-| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 17174 | 1159 | Shell | 2026-11-11 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
-| [wled/WLED](https://github.com/wled/WLED) | 19124 | 4498 | C++ | 2026-11-25 | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! |
+| [sdias/win-10-virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) 🗄️ | 1793 | 261 | AutoHotkey | 2023-10-19 | An application that enhances the Windows 10 multiple desktops feature by adding additional keyboard shortcuts and support for multiple wallpapers. |
+| [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 17178 | 1159 | Shell | 2026-11-11 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
+| [wled/WLED](https://github.com/wled/WLED) | 19132 | 4502 | C++ | 2026-11-26 | Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi! |
 
 </details>
 
@@ -1687,25 +1687,25 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 120411 | 12525 | JavaScript | 2026-11-24 | Production-grade engineering skills for AI coding agents. |
-| [android/skills](https://github.com/android/skills) | 10758 | 709 | Kotlin | 2026-11-23 |  |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62322 | 3655 | Python | 2026-11-25 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 72939 | 4854 | HTML | 2026-11-25 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| [chrisbanes/skills](https://github.com/chrisbanes/skills) | 1166 | 60 | Python | 2026-11-25 | Skills for Kotlin, Jetpack Compose, and Android development |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 120599 | 12544 | JavaScript | 2026-11-24 | Production-grade engineering skills for AI coding agents. |
+| [android/skills](https://github.com/android/skills) | 10769 | 705 | Kotlin | 2026-11-23 |  |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 62597 | 3674 | Python | 2026-11-25 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 73783 | 4926 | HTML | 2026-11-26 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [chrisbanes/skills](https://github.com/chrisbanes/skills) | 1166 | 60 | Python | 2026-11-26 | Skills for Kotlin, Jetpack Compose, and Android development |
 | [Forward-Future/loopy](https://github.com/Forward-Future/loopy) | 3255 | 286 | JavaScript | 2026-09-11 | A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. |
-| [google/adk-recipes](https://github.com/google/adk-recipes) | 10680 | 2969 | Python | 2026-11-25 | A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK) |
-| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | 1608 | 83 | Shell | 2026-07-15 | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit |
-| [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 4288 | 188 | Markdown | 2026-11-18 | An agent skill that helps make your interface feel better. |
-| [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | 436 | 110 | TypeScript | 2026-10-12 | Public Claude Code skills and mods |
-| [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | 1146 | 45 | Shell | 2026-10-30 | A collection of AI agent skills useful for projects using Kotlin language |
-| [morluto/rea](https://github.com/morluto/rea) | 478354 | 116360 | TypeScript | 2026-11-25 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 92 | 6 | Shell | 2026-08-04 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix). |
-| [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4318 | 296 | HTML | 2026-11-24 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
-| [prevalentWare/opencode-goal-plugin](https://github.com/prevalentWare/opencode-goal-plugin) | 534 | 42 | TypeScript | 2026-11-23 | OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus. |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 29200 | 2477 | JavaScript | 2026-10-18 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |
-| [witt3rd/oh-my-hermes](https://github.com/witt3rd/oh-my-hermes) | 400 | 37 | Python | 2026-09-27 | Oh My Hermes (OMH) — Multi-agent orchestration skills for Hermes Agent. Inspired by oh-my-claudecode, rebuilt natively for Hermes primitives. |
-| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 4947 | 256 | Rust | 2026-11-25 | A real browser inside your terminal |
-| [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | 1229 | 150 |  | 2026-11-03 | YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes. |
+| [google/adk-recipes](https://github.com/google/adk-recipes) | 10687 | 2973 | Python | 2026-11-25 | A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK) |
+| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | 1610 | 83 | Shell | 2026-07-15 | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit |
+| [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 4313 | 189 | Markdown | 2026-11-18 | An agent skill that helps make your interface feel better. |
+| [JohnnyVizz/claude-kit](https://github.com/JohnnyVizz/claude-kit) | 437 | 109 | TypeScript | 2026-10-12 | Public Claude Code skills and mods |
+| [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | 1147 | 45 | Shell | 2026-10-30 | A collection of AI agent skills useful for projects using Kotlin language |
+| [morluto/rea](https://github.com/morluto/rea) | 479667 | 116609 | TypeScript | 2026-11-26 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 93 | 6 | Shell | 2026-08-04 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix). |
+| [plannotator/effective-html](https://github.com/plannotator/effective-html) | 4327 | 296 | HTML | 2026-11-24 | Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+| [prevalentWare/opencode-goal-plugin](https://github.com/prevalentWare/opencode-goal-plugin) | 533 | 42 | TypeScript | 2026-11-26 | OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus. |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 29368 | 2491 | JavaScript | 2026-10-18 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |
+| [witt3rd/oh-my-hermes](https://github.com/witt3rd/oh-my-hermes) | 401 | 37 | Python | 2026-09-27 | Oh My Hermes (OMH) — Multi-agent orchestration skills for Hermes Agent. Inspired by oh-my-claudecode, rebuilt natively for Hermes primitives. |
+| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 4983 | 258 | Rust | 2026-11-25 | A real browser inside your terminal |
+| [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | 1233 | 151 |  | 2026-11-03 | YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes. |
 
 </details>
 
@@ -1717,136 +1717,136 @@ Click a category to jump to it, then expand its section to see the repos.
 
 | Repo | ★ | Forks | Language | Last push | Description |
 | ---- | -: | ----: | -------- | --------- | ----------- |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 22044 | 2588 | Rust | 2026-11-25 | High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 22075 | 2589 | Rust | 2026-11-26 | High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows |
 | [3xian/PinkCollab](https://github.com/3xian/PinkCollab) | 17 | 2 | Rust | 2026-11-24 | Android app for Oh My Pi (OMP). Sync PC sessions or launch new ones from mobile phone. Easily switch sessions with a quick swipe. |
 | [42-evey/hermes-plugins](https://github.com/42-evey/hermes-plugins) | 560 | 61 | Python | 2026-10-24 | Custom plugins for hermes-agent — goal management, inter-agent bridge, model selection, cost control |
-| [AAswordman/Operit](https://github.com/AAswordman/Operit) | 9848 | 876 | Kotlin | 2026-11-18 | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent |
-| [abdiraimov-otabek/dashboard-design-skill](https://github.com/abdiraimov-otabek/dashboard-design-skill) | 1190 | 79 |  | 2026-11-25 | A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards. |
+| [AAswordman/Operit](https://github.com/AAswordman/Operit) | 9871 | 879 | Kotlin | 2026-11-18 | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent |
+| [abdiraimov-otabek/dashboard-design-skill](https://github.com/abdiraimov-otabek/dashboard-design-skill) | 1204 | 80 |  | 2026-11-25 | A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards. |
 | [aderumier/rustcommander](https://github.com/aderumier/rustcommander) | 3 | 0 | Rust | 2026-08-12 |  |
-| [adventists-ai/sophon-realtime](https://github.com/adventists-ai/sophon-realtime) | 545 | 49 | Python | 2026-11-24 | Open full-duplex voice models that hear your tone and speak with one. One GPU with vLLM-Omni, or fully offline on a Mac with MLX. Zero-shot voice cloning, OpenAI Realtime / GPT-Live compatible, free hosted API trial. Apache-2.0. |
+| [adventists-ai/sophon-realtime](https://github.com/adventists-ai/sophon-realtime) | 549 | 50 | Python | 2026-11-26 | Open full-duplex voice models that hear your tone and speak with one. One GPU with vLLM-Omni, or fully offline on a Mac with MLX. Zero-shot voice cloning, OpenAI Realtime / GPT-Live compatible, free hosted API trial. Apache-2.0. |
 | [agiwhitelist/auteur](https://github.com/agiwhitelist/auteur) | 936 | 20 | JavaScript | 2026-08-06 | The Claude Code skill that directs a website like a film. Commit-sheet, generated assets, build, and an executable anti-slop linter that gates every ship. |
 | [agiwhitelist/HUXForm](https://github.com/agiwhitelist/HUXForm) | 2 | 0 | Python | 2026-05-20 | HUXForm is a generative human-experience runtime for AI agents |
-| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 4473 | 687 | Python | 2026-10-19 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper. |
-| [aicodeking/pandacode](https://github.com/aicodeking/pandacode) | 1424 | 232 | TypeScript | 2026-11-25 | PandaCode: a calm desktop workspace for coding agents |
-| [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) | 1749 | 88 | Kotlin | 2026-11-23 | Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. |
+| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 4480 | 688 | Python | 2026-10-19 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper. |
+| [aicodeking/pandacode](https://github.com/aicodeking/pandacode) | 1452 | 234 | Rust | 2026-11-26 | PandaCode: a calm desktop workspace for coding agents |
+| [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) | 1764 | 89 | Kotlin | 2026-11-23 | Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required. |
 | [aliaihub/awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases) | 307 | 25 | Python | 2026-10-25 | Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources. |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 56334 | 4656 | Go | 2026-11-25 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| [am-will/limux](https://github.com/am-will/limux) | 568 | 85 | Rust | 2026-11-24 | GPU-accelerated terminal multiplexer for Linux |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 56627 | 4684 | Go | 2026-11-26 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [am-will/limux](https://github.com/am-will/limux) | 568 | 85 | Rust | 2026-11-26 | GPU-accelerated terminal multiplexer for Linux |
 | [amigoscode/infographics-skill](https://github.com/amigoscode/infographics-skill) | 13 | 1 | TypeScript | 2026-06-24 |  |
-| [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays) | 576 | 56 | HTML | 2026-10-31 | Small browser games as isometric pixel dioramas. No build step, no dependencies. |
-| [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | 12435 | 1572 | TypeScript | 2026-11-21 | Agent harness for learning difficult things. |
+| [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays) | 592 | 60 | HTML | 2026-10-31 | Small browser games as isometric pixel dioramas. No build step, no dependencies. |
+| [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | 12679 | 1596 | TypeScript | 2026-11-26 | Agent harness for learning difficult things. |
 | [ampdot-io/ai-detection-eval](https://github.com/ampdot-io/ai-detection-eval) | 47 | 7 | JavaScript | 2026-11-17 |  |
 | [Anil-matcha/awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) | 8 | 3 | Python | 2026-10-13 | Evidence-backed use cases, patterns, prompts, and starter code for TypeSafe Jev — a System One model for fast, typed, confidence-aware decisions in software. |
 | [Anil-matcha/Uncensored-AI-API](https://github.com/Anil-matcha/Uncensored-AI-API) | 1490 | 325 |  | 2026-11-25 | Uncensored AI API guide for Muapi's abliterated LLMs: 21 endpoints, examples, model notes, pricing and integrations. |
-| [annayal-consumerxai/prod-FARM-IOS-Core](https://github.com/annayal-consumerxai/prod-FARM-IOS-Core) | 1897 | 330 | TypeScript | 2026-11-21 | A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0. Built at Agniverse, by An Nayal. |
-| [anomalyco/hex](https://github.com/anomalyco/hex) | 8673 | 598 | Rust | 2026-11-25 | Local voice dictation for mac, windows and linux |
-| [apoapostolov/hermes-agent-awesome-plugins](https://github.com/apoapostolov/hermes-agent-awesome-plugins) | 58 | 5 | JavaScript | 2026-11-25 | An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, session appearance, pinning, scrolling, opaque composition, memory review, and RSS Reader. Reproducible SHA-pinned plugins for Hermes desktop and CLI workflows. |
-| [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) | 7493 | 813 | Python | 2026-10-31 | Tools for merging pretrained large language models. |
+| [annayal-consumerxai/prod-FARM-IOS-Core](https://github.com/annayal-consumerxai/prod-FARM-IOS-Core) | 1900 | 330 | TypeScript | 2026-11-21 | A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0. Built at Agniverse, by An Nayal. |
+| [anomalyco/hex](https://github.com/anomalyco/hex) | 8801 | 606 | Rust | 2026-11-26 | Local voice dictation for mac, windows and linux |
+| [apoapostolov/hermes-agent-awesome-plugins](https://github.com/apoapostolov/hermes-agent-awesome-plugins) | 59 | 5 | JavaScript | 2026-11-25 | An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, session appearance, pinning, scrolling, opaque composition, memory review, and RSS Reader. Reproducible SHA-pinned plugins for Hermes desktop and CLI workflows. |
+| [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) | 7494 | 813 | Python | 2026-10-31 | Tools for merging pretrained large language models. |
 | [Ardenye/pending-queue-monitor](https://github.com/Ardenye/pending-queue-monitor) | 1 | 0 | Python | 2026-10-19 | Pending Monitor page and a command-palette command for viewing pending memory and skill write approvals |
-| [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | 1871 | 7 |  | 2026-10-29 | Say cheese! Star this repo and your profile picture gets printed out on a receipt printer. |
-| [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) | 2102 | 244 | TypeScript | 2026-11-25 | Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V |
+| [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | 1875 | 7 |  | 2026-10-29 | Say cheese! Star this repo and your profile picture gets printed out on a receipt printer. |
+| [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) | 2124 | 244 | TypeScript | 2026-11-26 | Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V |
 | [AtomScott/TeamTrack](https://github.com/AtomScott/TeamTrack) | 81 | 5 | Jupyter Notebook | 2024-04-22 | TeamTrack: An Algorithm and Benchmark Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 25642 | 9758 | JavaScript | 2026-11-25 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 25702 | 9865 | JavaScript | 2026-11-26 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [bablobanov/hermes-agent-telegram-dashboard](https://github.com/bablobanov/hermes-agent-telegram-dashboard) | 8 | 1 | Python | 2026-11-25 | Read-only status dashboard for Hermes Agent as one pinned Telegram message: freshness, account limits, config drift, last backup. Plugin inside the gateway, no bot token, no Mini App |
-| [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) | 3799 | 346 |  | 2026-06-28 | List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools |
+| [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) | 3805 | 349 |  | 2026-06-28 | List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools |
 | [Blackfrost-AI/Shadow_CLI](https://github.com/Blackfrost-AI/Shadow_CLI) | 8 | 2 | TypeScript | 2026-11-19 |  |
-| [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) | 11205 | 1005 | Python | 2026-11-25 | The recursive internet scanner for hackers. 🧡 |
+| [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) | 11220 | 1008 | Python | 2026-11-25 | The recursive internet scanner for hackers. 🧡 |
 | [briancaffey/hermes-otel](https://github.com/briancaffey/hermes-otel) | 88 | 39 | Python | 2026-11-25 | OTel Plugin for Hermes Agent |
-| [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | 6522 | 145 | TypeScript | 2026-11-23 | Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes. |
-| [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | 34615 | 8036 | C++ | 2024-08-03 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation |
-| [CopilotKit/openfuse](https://github.com/CopilotKit/openfuse) | 6587 | 975 | TypeScript | 2026-11-25 | A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. |
-| [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) | 4297 | 445 | TypeScript | 2026-11-23 | Open-Source Generative UI Framework |
-| [Dajeovv/opencode-android](https://github.com/Dajeovv/opencode-android) | 57 | 9 | Java | 2026-11-24 | OpenCode Android — unofficial client for opencode. The real coding agent runs natively on your phone: no Termux, no PC, no root. One arm64 APK for Android 8+, with file editing, shell commands, and wireless ADB app control. |
-| [decolua/9router](https://github.com/decolua/9router) | 32840 | 6431 | JavaScript | 2026-11-23 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
+| [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | 6521 | 146 | TypeScript | 2026-11-23 | Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes. |
+| [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | 34619 | 8036 | C++ | 2024-08-03 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation |
+| [CopilotKit/openfuse](https://github.com/CopilotKit/openfuse) | 6595 | 978 | TypeScript | 2026-11-25 | A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. |
+| [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) | 4305 | 446 | TypeScript | 2026-11-23 | Open-Source Generative UI Framework |
+| [Dajeovv/opencode-android](https://github.com/Dajeovv/opencode-android) | 56 | 9 | Java | 2026-11-24 | OpenCode Android — unofficial client for opencode. The real coding agent runs natively on your phone: no Termux, no PC, no root. One arm64 APK for Android 8+, with file editing, shell commands, and wireless ADB app control. |
+| [decolua/9router](https://github.com/decolua/9router) | 32884 | 6444 | JavaScript | 2026-11-23 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
 | [dellanio/hermes-kanban-empowered](https://github.com/dellanio/hermes-kanban-empowered) | 10 | 0 | Python | 2026-11-09 | Hermes Agent plugin: autonomous Kanban flow — human waits with owner and deadline, guard watch, infra-failure recovery, two-way Telegram, live panel, veto hooks |
-| [dimitr-io/antigravity-desktop-context](https://github.com/dimitr-io/antigravity-desktop-context) | 43 | 12 | Python | 2026-10-21 | Live /context side panel for the Antigravity 2.0 desktop app. |
+| [dimitr-io/antigravity-desktop-context](https://github.com/dimitr-io/antigravity-desktop-context) | 44 | 13 | Python | 2026-10-21 | Live /context side panel for the Antigravity 2.0 desktop app. |
 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | 723 | 45 | Rust | 2026-11-10 | Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp. |
-| [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) | 23970 | 2721 | Jupyter Notebook | 2026-03-03 | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
-| [Generated-Computers/Locals](https://github.com/Generated-Computers/Locals) | 824 | 59 | Python | 2026-11-25 | Run many AI agents at once on your Mac, up to 3x faster. |
-| [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | 6177 | 861 | Go | 2026-11-25 | The task manager you actually own. |
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 29117 | 2354 | TypeScript | 2026-11-18 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
-| [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | 3147 | 417 | Python | 2026-11-25 | A CLI for interacting with Google Colab runtimes |
+| [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) | 23977 | 2722 | Jupyter Notebook | 2026-03-03 | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
+| [Generated-Computers/Locals](https://github.com/Generated-Computers/Locals) | 826 | 60 | Python | 2026-11-26 | Run many AI agents at once on your Mac, up to 3x faster. |
+| [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | 6186 | 865 | Go | 2026-11-26 | The task manager you actually own. |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 29158 | 2355 | TypeScript | 2026-11-18 | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
+| [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) | 3336 | 420 | Python | 2026-11-25 | A CLI for interacting with Google Colab runtimes |
 | [GraceThings/bubble-notice-android](https://github.com/GraceThings/bubble-notice-android) | 118 | 8 | Kotlin | 2026-10-12 | A lightweight bubble notice tool for android phones, no "Root/Shizuku" required. |
-| [greensock/GSAP](https://github.com/greensock/GSAP) | 31259 | 2467 | JavaScript | 2026-11-04 | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web |
-| [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) | 3491 | 738 | Rust | 2026-11-25 | herdr desktop app |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 90108 | 8393 | TypeScript | 2026-11-25 | Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen. |
-| [itpartypattaya/hermes-dreaming](https://github.com/itpartypattaya/hermes-dreaming) | 35 | 4 | Python | 2026-11-24 | Nightly deterministic memory consolidation ("dreaming") skill for Hermes Agent |
-| [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | 1249 | 177 | TypeScript | 2026-11-10 | A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle. |
-| [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 4456 | 1900 | JavaScript | 2026-11-06 |  |
-| [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer) | 1781 | 137 | TypeScript | 2026-11-18 | Local-first desktop markdown editor |
-| [jqssun/android-titanium-extension](https://github.com/jqssun/android-titanium-extension) | 184 | 5 | JavaScript | 2026-08-21 | Open-source extension for Chromium browsers to support Android download managers, installing from Opera and Edge Addons, and other advanced privacy enhancements |
-| [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) | 5758 | 603 | Python | 2026-11-25 | 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting. |
-| [killown/flux](https://github.com/killown/flux) | 56 | 3 | Rust | 2026-11-23 | A keyboard-first GTK4/Libadwaita file manager in Rust. Multi-threaded directory loading (Rayon), async I/O (Tokio), FTS5 filename index, and in-archive thumbnail cache, built for sub-100ms cold launch. |
-| [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) | 20798 | 3476 | TypeScript | 2026-11-25 | Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours. |
+| [greensock/GSAP](https://github.com/greensock/GSAP) | 31312 | 2475 | JavaScript | 2026-11-04 | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web |
+| [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) | 3546 | 752 | Rust | 2026-11-26 | herdr desktop app |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 90798 | 8474 | TypeScript | 2026-11-26 | Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen. |
+| [itpartypattaya/hermes-dreaming](https://github.com/itpartypattaya/hermes-dreaming) | 36 | 4 | Python | 2026-11-26 | Nightly deterministic memory consolidation ("dreaming") skill for Hermes Agent |
+| [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | 1321 | 187 | TypeScript | 2026-11-10 | A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle. |
+| [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 4512 | 1915 | JavaScript | 2026-11-06 |  |
+| [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer) | 1781 | 136 | TypeScript | 2026-11-18 | Local-first desktop markdown editor |
+| [jqssun/android-titanium-extension](https://github.com/jqssun/android-titanium-extension) | 184 | 6 | JavaScript | 2026-08-21 | Open-source extension for Chromium browsers to support Android download managers, installing from Opera and Edge Addons, and other advanced privacy enhancements |
+| [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) | 5766 | 603 | Python | 2026-11-25 | 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting. |
+| [killown/flux](https://github.com/killown/flux) | 56 | 4 | Rust | 2026-11-23 | A keyboard-first GTK4/Libadwaita file manager in Rust. Multi-threaded directory loading (Rayon), async I/O (Tokio), FTS5 filename index, and in-archive thumbnail cache, built for sub-100ms cold launch. |
+| [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) | 20806 | 3477 | TypeScript | 2026-11-26 | Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours. |
 | [kosta4a/tactile-design](https://github.com/kosta4a/tactile-design) | 103 | 2 |  | 2026-11-01 | Tactile, layered, quiet product UI: a design-engineering skill for agents. Decisions, tokens, buttons, surfaces, motion and mobile, for any typeface and colours. |
-| [krasun/isometricworld](https://github.com/krasun/isometricworld) | 45 | 18 | TypeScript | 2026-11-25 | Isometric maps of real cities, built from open data |
+| [krasun/isometricworld](https://github.com/krasun/isometricworld) | 45 | 19 | TypeScript | 2026-11-25 | Isometric maps of real cities, built from open data |
 | [LasCC/HackTools](https://github.com/LasCC/HackTools) | 7134 | 786 | TypeScript | 2025-01-05 | The all-in-one browser extension for offensive security professionals 🛠 |
-| [leandrodaf/3d-new-era-ai](https://github.com/leandrodaf/3d-new-era-ai) | 261 | 36 | Rust | 2026-11-22 | Open-source home design and floor plan editor in Rust (a Sweet Home 3D alternative) with a built-in MCP server: your AI agent draws walls, furnishes rooms, checks lighting and ergonomics, and renders photos — live, on your own machine. |
-| [lgse/strata](https://github.com/lgse/strata) | 1713 | 133 | Rust | 2026-11-25 | The best file manager on Linux |
-| [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) | 3684 | 278 |  | 2026-11-23 | Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI |
-| [makeplane/plane](https://github.com/makeplane/plane) | 63168 | 6531 | TypeScript | 2026-11-25 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [leandrodaf/3d-new-era-ai](https://github.com/leandrodaf/3d-new-era-ai) | 265 | 36 | Rust | 2026-11-26 | Open-source home design and floor plan editor in Rust (a Sweet Home 3D alternative) with a built-in MCP server: your AI agent draws walls, furnishes rooms, checks lighting and ergonomics, and renders photos — live, on your own machine. |
+| [lgse/strata](https://github.com/lgse/strata) | 1722 | 133 | Rust | 2026-11-26 | The best file manager on Linux |
+| [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) | 3741 | 284 |  | 2026-11-23 | Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI |
+| [makeplane/plane](https://github.com/makeplane/plane) | 63224 | 6541 | TypeScript | 2026-11-26 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 | [maxtuzz/tern-agents](https://github.com/maxtuzz/tern-agents) | 3 | 0 | Luau | 2026-10-08 | Tern plugin: run Claude, Codex, Gemini, OpenCode or any agent CLI as a Tern agent block, with run presets |
-| [meta/astryx](https://github.com/meta/astryx) | 33097 | 2593 | TypeScript | 2026-11-25 | An open source design system that's fully customizable and agent ready |
-| [MiaAI-Lab/Claude-Fable-5.2-HTML-Files](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files) | 143 | 30 | HTML | 2026-11-09 | Claude Fable 5.2 HTML Files — 76 visual studies with screenshots and original prompts |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 27829 | 3967 | TypeScript | 2026-11-25 | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [meta/astryx](https://github.com/meta/astryx) | 33325 | 2601 | TypeScript | 2026-11-26 | An open source design system that's fully customizable and agent ready |
+| [MiaAI-Lab/Claude-Fable-5.2-HTML-Files](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files) | 143 | 31 | HTML | 2026-11-09 | Claude Fable 5.2 HTML Files — 76 visual studies with screenshots and original prompts |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 28141 | 4012 | TypeScript | 2026-11-26 | Open-source Grok Bot alternative with a virtual machine that bots can use |
 | [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) | 1411 | 94 | C | 2026-11-21 | A utility for browsing and installing GNOME Shell Extensions. |
-| [mrprogrammer2938/Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) | 662 | 89 | Python | 2024-05-02 | Install the tools and start  Attacking , black-tool v5.5.5 ! ⬛ |
+| [mrprogrammer2938/Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) | 664 | 89 | Python | 2024-05-02 | Install the tools and start  Attacking , black-tool v5.5.5 ! ⬛ |
 | [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) | 1172 | 192 | TypeScript | 2026-08-13 | On-device AI agent Chrome extension powered by Transformers.js and Gemma 4 |
 | [nik012003/ripdrag](https://github.com/nik012003/ripdrag) | 744 | 24 | Rust | 2026-09-16 | Drag and Drop utilty written in Rust and GTK4 |
-| [nikships/muse-cli](https://github.com/nikships/muse-cli) | 127 | 42 | Python | 2026-11-21 | CLI for your personal muse.ai AI agent: chat, side chats, feed, goals, ideas, and sessions from the terminal. No browser needed. |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 61053 | 3346 | CSS | 2026-11-11 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 53761 | 3829 | Shell | 2026-11-25 | Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas. |
-| [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) | 4193 | 317 | Rust | 2026-11-25 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. |
-| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 856 | 68 | TypeScript | 2026-11-24 | The open-source Dynamic Island for React, installed with shadcn. |
-| [OpenSenseNova/SenseNova-Loop](https://github.com/OpenSenseNova/SenseNova-Loop) | 320 | 28 | Python | 2026-11-18 |  |
+| [nikships/muse-cli](https://github.com/nikships/muse-cli) | 128 | 44 | Python | 2026-11-21 | CLI for your personal muse.ai AI agent: chat, side chats, feed, goals, ideas, and sessions from the terminal. No browser needed. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 61602 | 3377 | CSS | 2026-11-11 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 53971 | 3839 | Shell | 2026-11-26 | Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas. |
+| [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) | 4195 | 319 | Rust | 2026-11-26 | OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. |
+| [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 865 | 69 | TypeScript | 2026-11-24 | The open-source Dynamic Island for React, installed with shadcn. |
+| [OpenSenseNova/SenseNova-Loop](https://github.com/OpenSenseNova/SenseNova-Loop) | 331 | 29 | Python | 2026-11-18 |  |
 | [OrRon/EpicInfographics](https://github.com/OrRon/EpicInfographics) | 502 | 44 | JavaScript | 2026-08-27 | A simple skill that will make your Agent create beautiful Infographics |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 117023 | 19446 | TypeScript | 2026-11-25 | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 117366 | 19518 | TypeScript | 2026-11-26 | The open-source app everyone uses to manage agents at work |
 | [patrickluvsoj/hermes-token-lens](https://github.com/patrickluvsoj/hermes-token-lens) | 8 | 4 | Python | 2026-10-24 | Token consumption analytics + reduction suggestions for Hermes Agent — calibrated attribution and evidence-backed copy-paste fixes. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 116846 | 6992 | Rust | 2026-11-25 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
-| [pengxiaoan/autocad-dwg-redraw-skill](https://github.com/pengxiaoan/autocad-dwg-redraw-skill) | 498 | 84 | Python | 2026-07-11 |  |
-| [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) | 5809 | 612 | Python | 2026-11-24 | let your agent control your phone |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 79319 | 13984 | TypeScript | 2026-11-25 | The best way to control Claude Code, Codex and more from any computer or phone |
-| [rhythmcache/Dioxamine](https://github.com/rhythmcache/Dioxamine) | 302 | 30 | Kotlin | 2026-11-18 | Dioxamine lets you use ADB, Fastboot, and scrcpy directly on Android. |
-| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 6047 | 489 | Python | 2026-11-25 | ⚚ The ultrawork agent with AI coworkers wired into you |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 117488 | 7036 | Rust | 2026-11-26 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [pengxiaoan/autocad-dwg-redraw-skill](https://github.com/pengxiaoan/autocad-dwg-redraw-skill) | 502 | 85 | Python | 2026-07-11 |  |
+| [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) | 5912 | 626 | Python | 2026-11-24 | let your agent control your phone |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 80844 | 14263 | TypeScript | 2026-11-26 | The best way to control Claude Code, Codex and more from any computer or phone |
+| [rhythmcache/Dioxamine](https://github.com/rhythmcache/Dioxamine) | 304 | 30 | Kotlin | 2026-11-18 | Dioxamine lets you use ADB, Fastboot, and scrcpy directly on Android. |
+| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 6063 | 490 | Python | 2026-11-26 | ⚚ The ultrawork agent with AI coworkers wired into you |
 | [robbyczgw-cla/hermes-ui-cards](https://github.com/robbyczgw-cla/hermes-ui-cards) | 7 | 0 | JavaScript | 2026-11-25 | Interactive answer cards for Hermes Agent: Hermes asks with a card, you tap, your answer is the next message. Desktop + Webapp, text fallback elsewhere. |
-| [rock3r/pioneer](https://github.com/rock3r/pioneer) | 5 | 0 | TypeScript | 2026-11-24 | Safely delegate reviews and isolated skill evals from coding agents to Pi |
-| [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 236 | 59 | TypeScript | 2026-11-23 | 🔓 Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writing Styles, 9 Text Purposes, 13 Tone Presets, multi-pass ninja mode. No login. Built for students & writers. |
-| [runkids/skillshare](https://github.com/runkids/skillshare) | 3346 | 381 | Go | 2026-11-25 | 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing. |
+| [rock3r/pioneer](https://github.com/rock3r/pioneer) | 5 | 0 | TypeScript | 2026-11-26 | Safely delegate reviews and isolated skill evals from coding agents to Pi |
+| [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 238 | 60 | TypeScript | 2026-11-26 | 🔓 Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writing Styles, 9 Text Purposes, 13 Tone Presets, multi-pass ninja mode. No login. Built for students & writers. |
+| [runkids/skillshare](https://github.com/runkids/skillshare) | 3369 | 383 | Go | 2026-11-26 | 📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing. |
 | [Sahil-SS9/hermes-agent-radio-plugin](https://github.com/Sahil-SS9/hermes-agent-radio-plugin) | 12 | 1 | Python | 2026-11-12 | Hermes Agent Radio: a 24/7 station about Hermes Agent, inside Hermes Desktop, with 8 agent tools |
-| [schematrix/HAS_Prepper_Disk](https://github.com/schematrix/HAS_Prepper_Disk) | 857 | 99 | HTML | 2026-11-07 | Raspberry Pi 5 üzerinde çevrimdışı bilgi arşivi: Wikipedia, haritalar ve hayatta kalma kaynakları kendi Wi-Fi ağı üzerinden sunulur, internet gerekmez. Internet-in-a-Box tabanlıdır.Offline knowledge archive on Raspberry Pi 5: Wikipedia, maps and survival resources served over its own Wi-Fi hotspot, no internet required. Built on Internet-in-a-Box. |
-| [sgaofen/humanizer-local-model](https://github.com/sgaofen/humanizer-local-model) | 1092 | 178 | Python | 2026-10-19 | Rewrites AI drafts so they read like a person wrote them — runs locally, keeps the facts |
-| [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) | 2386 | 220 | Rust | 2026-11-25 | Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon. |
-| [showheyohtaki/motion-prompt](https://github.com/showheyohtaki/motion-prompt) | 2495 | 234 | JavaScript | 2026-11-25 |  |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 50322 | 7303 | Python | 2026-11-25 | 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins. |
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 23537 | 2261 | Python | 2026-11-25 | Automate browser based workflows with AI |
+| [schematrix/HAS_Prepper_Disk](https://github.com/schematrix/HAS_Prepper_Disk) | 861 | 99 | Shell | 2026-11-26 | Raspberry Pi 5 üzerinde çevrimdışı bilgi arşivi: Wikipedia, haritalar ve hayatta kalma kaynakları kendi Wi-Fi ağı üzerinden sunulur, internet gerekmez. Internet-in-a-Box tabanlıdır.Offline knowledge archive on Raspberry Pi 5: Wikipedia, maps and survival resources served over its own Wi-Fi hotspot, no internet required. Built on Internet-in-a-Box. |
+| [sgaofen/humanizer-local-model](https://github.com/sgaofen/humanizer-local-model) | 1129 | 184 | Python | 2026-10-19 | Rewrites AI drafts so they read like a person wrote them — runs locally, keeps the facts |
+| [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) | 2385 | 220 | Rust | 2026-11-26 | Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon. |
+| [showheyohtaki/motion-prompt](https://github.com/showheyohtaki/motion-prompt) | 2529 | 238 | JavaScript | 2026-11-25 |  |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 50394 | 7313 | Python | 2026-11-26 | 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins. |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 23552 | 2262 | Python | 2026-11-26 | Automate browser based workflows with AI |
 | [slickdaddyy/gamehub-oss](https://github.com/slickdaddyy/gamehub-oss) 🗄️ | 1099 | 49 | Smali | 2026-01-07 | privacy oriented gamehub |
 | [SoFriendly/orca](https://github.com/SoFriendly/orca) | 76 | 4 | TypeScript | 2026-11-23 | Orca is a workspace for vibe coding built upon the principals of tracking what the agent changes and only keeping what you want |
-| [stablyai/orca](https://github.com/stablyai/orca) | 137857 | 8828 | TypeScript | 2026-11-25 | Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. |
+| [stablyai/orca](https://github.com/stablyai/orca) | 140269 | 8970 | TypeScript | 2026-11-26 | Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. |
 | [Statecraft-Labs/isometric-cities](https://github.com/Statecraft-Labs/isometric-cities) | 92 | 12 | Python | 2026-11-18 | Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films. |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 43447 | 8599 | Rust | 2026-11-25 | Craft Anything: understand how any software works, and craft your own. |
-| [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) | 2861 | 128 | TypeScript | 2026-11-17 |  |
-| [sybil-solutions/local-ai-registry](https://github.com/sybil-solutions/local-ai-registry) | 498 | 157 | HTML | 2026-11-25 | Local AI registry: one validated recipe per machine, with the evidence attached |
-| [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | 802 | 65 | Python | 2026-11-21 | Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 18242 | 2596 | Rust | 2026-11-25 | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |
-| [tenfoldmarc/video-edit-skill](https://github.com/tenfoldmarc/video-edit-skill) | 178 | 37 | Python | 2026-10-15 | Claude Code skill: turn raw talking-head clips into a finished, premium Instagram reel |
-| [Theblackcat98/anatomy-threejs](https://github.com/Theblackcat98/anatomy-threejs) | 1 | 0 | JavaScript | 2026-11-15 | Interactive 3D technical figures in Three.js with cel-shaded four-tone ramps, silhouette outlines, kinematic readouts, and the agent skill that builds them. |
-| [Theblackcat98/github-stars](https://github.com/Theblackcat98/github-stars) | 1 | 0 | HTML | 2026-11-24 | My GitHub stars, kept up to date by a daily workflow |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 44092 | 8714 | Rust | 2026-11-26 | Craft Anything: understand how any software works, and craft your own. |
+| [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) | 2862 | 128 | TypeScript | 2026-11-17 |  |
+| [sybil-solutions/local-ai-registry](https://github.com/sybil-solutions/local-ai-registry) | 503 | 161 | HTML | 2026-11-26 | Local AI registry: one validated recipe per machine, with the evidence attached |
+| [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | 906 | 78 | Python | 2026-11-21 | Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 18524 | 2630 | Rust | 2026-11-26 | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |
+| [tenfoldmarc/video-edit-skill](https://github.com/tenfoldmarc/video-edit-skill) | 181 | 37 | Python | 2026-10-15 | Claude Code skill: turn raw talking-head clips into a finished, premium Instagram reel |
+| [Theblackcat98/anatomy-threejs](https://github.com/Theblackcat98/anatomy-threejs) | 1 | 0 | JavaScript | 2026-11-25 | Interactive 3D technical figures in Three.js with cel-shaded four-tone ramps, silhouette outlines, kinematic readouts, and the agent skill that builds them. |
+| [Theblackcat98/github-stars](https://github.com/Theblackcat98/github-stars) | 1 | 0 | HTML | 2026-11-25 | My GitHub stars, kept up to date by a daily workflow |
 | [Theblackcat98/pomodoro](https://github.com/Theblackcat98/pomodoro) | 1 | 0 | Go | 2026-11-17 | TUI Pomodoro timer built to exercise a terminal UI toolkit's full feature set. |
-| [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern) | 317 | 55 | Python | 2026-11-25 | A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal |
-| [thtbee/nectarlink](https://github.com/thtbee/nectarlink) | 6800 | 555 | Rust | 2026-11-25 | Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account. |
+| [theblazehen/awesome-tern](https://github.com/theblazehen/awesome-tern) | 318 | 54 | Python | 2026-11-26 | A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal |
+| [thtbee/nectarlink](https://github.com/thtbee/nectarlink) | 6977 | 563 | Rust | 2026-11-26 | Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account. |
 | [ToFpon/Nautilus-Extensions](https://github.com/ToFpon/Nautilus-Extensions) | 44 | 4 | Python | 2026-11-01 | Nautilus Extensions |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 20701 | 3718 |  | 2026-11-16 | LIST OF ALL MY JAILBREAKS |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 20969 | 3780 |  | 2026-11-25 | LIST OF ALL MY JAILBREAKS |
 | [togg53192-cmd/recon](https://github.com/togg53192-cmd/recon) | 53 | 11 | Python | 2026-03-28 | OSINT aggregator using publicly available tools and external tools ( optional ) like blackbird, sherlock to give the best result |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 99890 | 6831 | JavaScript | 2026-11-25 | Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more. |
-| [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) | 1320 | 275 | JavaScript | 2026-11-14 | The most popular clipboard manager for GNOME, with over 2M downloads |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 100532 | 6882 | JavaScript | 2026-11-26 | Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more. |
+| [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) | 1321 | 275 | JavaScript | 2026-11-14 | The most popular clipboard manager for GNOME, with over 2M downloads |
 | [unclecode/claude-compress](https://github.com/unclecode/claude-compress) | 6 | 1 | Python | 2025-12-27 | Claude Code /compress command - compress chat sessions |
-| [webstonehq/tuxedo](https://github.com/webstonehq/tuxedo) | 1915 | 104 | Rust | 2026-11-09 | A fast, keyboard-driven terminal UI for todo.txt. |
+| [webstonehq/tuxedo](https://github.com/webstonehq/tuxedo) | 1914 | 104 | Rust | 2026-11-09 | A fast, keyboard-driven terminal UI for todo.txt. |
 | [williamchange/material-maker-mobile](https://github.com/williamchange/material-maker-mobile) | 37 | 3 | GDScript | 2026-11-08 | unofficial android material maker builds with touch support |
-| [windoliver/deepbuild](https://github.com/windoliver/deepbuild) | 3 | 0 | TypeScript | 2026-11-25 | Where your agents show, not tell. Describe it, and your agents show you films, figures, 3D scenes and a live map of their work, checked before you see it. Agent-native and local-first. |
+| [windoliver/deepbuild](https://github.com/windoliver/deepbuild) | 3 | 0 | TypeScript | 2026-11-26 | Where your agents show, not tell. Describe it, and your agents show you films, figures, 3D scenes and a live map of their work, checked before you see it. Agent-native and local-first. |
 | [your-moon/tern](https://github.com/your-moon/tern) | 73 | 7 | Rust | 2026-11-24 | A fast, low-memory SSH terminal built with Rust and GPUI |
 | [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) | 1014 | 64 | JavaScript | 2026-08-05 | VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop. |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 82193 | 9258 | Python | 2026-10-31 | ALL IN ONE Hacking Tool For Hackers |
-| [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 10640 | 657 | TypeScript | 2026-11-25 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 82219 | 9264 | Python | 2026-10-31 | ALL IN ONE Hacking Tool For Hackers |
+| [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 10656 | 657 | TypeScript | 2026-11-26 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop |
 
 </details>
 <!-- STARS:END -->
